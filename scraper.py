@@ -33,6 +33,8 @@ def create_folder(folder):
         print("Creating " + folder + " folder.")
         os.makedirs(folder)
 
+create_folder("site")
+create_folder("site/index.php")
 url = "https://wiki.basgrospoing.fr/index.php/"
 cache_path = "cache.json"
 cache_file = open(cache_path, "r")
@@ -44,8 +46,8 @@ for page in cache_content:
     src = page["src"].split("/")
 
     if len(src) > 1:
-        create_folder("site/" + src[0])
+        create_folder("site/index.php/" + src[0])
 
-    subprocess.run("monolith " + url + page['src'] + " -o site/" + page['src'] + ".html", shell=True)
+    subprocess.run("monolith " + url + page['src'] + " -o site/index.php/" + page['src'] + ".html", shell=True)
 
 
