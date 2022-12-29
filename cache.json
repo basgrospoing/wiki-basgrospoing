@@ -1,4 +1,2974 @@
 [
-    "https://wiki.basgrospoing.fr/index.php/Accueil",
-    "https://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_II_X"
+    {
+        "text": "'Riot Of The Blood' Iori Yagami (98um)",
+        "src": "%27Riot_Of_The_Blood%27_Iori_Yagami_(98um)"
+    },
+    {
+        "text": "'Riot Of The Blood' Leona Heidern (98um)",
+        "src": "%27Riot_Of_The_Blood%27_Leona_Heidern_(98um)"
+    },
+    {
+        "text": "ABK/Adler",
+        "src": "ABK/Adler"
+    },
+    {
+        "text": "ABK/Akatsuki",
+        "src": "ABK/Akatsuki"
+    },
+    {
+        "text": "ABK/Anonym",
+        "src": "ABK/Anonym"
+    },
+    {
+        "text": "ABK/Blitztank",
+        "src": "ABK/Blitztank"
+    },
+    {
+        "text": "ABK/Elektrosoldat",
+        "src": "ABK/Elektrosoldat"
+    },
+    {
+        "text": "ABK/FAQ",
+        "src": "ABK/FAQ"
+    },
+    {
+        "text": "ABK/Fritz",
+        "src": "ABK/Fritz"
+    },
+    {
+        "text": "ABK/Kanae",
+        "src": "ABK/Kanae"
+    },
+    {
+        "text": "ABK/Marylin Sue",
+        "src": "ABK/Marylin_Sue"
+    },
+    {
+        "text": "ABK/Murakumo",
+        "src": "ABK/Murakumo"
+    },
+    {
+        "text": "ABK/Mycale",
+        "src": "ABK/Mycale"
+    },
+    {
+        "text": "ABK/Sai",
+        "src": "ABK/Sai"
+    },
+    {
+        "text": "ABK/Wei",
+        "src": "ABK/Wei"
+    },
+    {
+        "text": "Abel (SFxT)",
+        "src": "Abel_(SFxT)"
+    },
+    {
+        "text": "Abel (SSFIV)",
+        "src": "Abel_(SSFIV)"
+    },
+    {
+        "text": "Accueil",
+        "src": "Accueil"
+    },
+    {
+        "text": "Adon (SSFIV)",
+        "src": "Adon_(SSFIV)"
+    },
+    {
+        "text": "Akatsuki Blitzkampf",
+        "src": "Akatsuki_Blitzkampf"
+    },
+    {
+        "text": "Akuma (3S)",
+        "src": "Akuma_(3S)"
+    },
+    {
+        "text": "Akuma (SFxT)",
+        "src": "Akuma_(SFxT)"
+    },
+    {
+        "text": "Akuma (SSFIV)",
+        "src": "Akuma_(SSFIV)"
+    },
+    {
+        "text": "Akuma (ST)",
+        "src": "Akuma_(ST)"
+    },
+    {
+        "text": "Akuma (UMVC3)",
+        "src": "Akuma_(UMVC3)"
+    },
+    {
+        "text": "Alex (3S)",
+        "src": "Alex_(3S)"
+    },
+    {
+        "text": "Alex (TvC:UAS)",
+        "src": "Alex_(TvC:UAS)"
+    },
+    {
+        "text": "Amaterasu (UMVC3)",
+        "src": "Amaterasu_(UMVC3)"
+    },
+    {
+        "text": "Andy",
+        "src": "Andy"
+    },
+    {
+        "text": "Andy Bogard (2k2um)",
+        "src": "Andy_Bogard_(2k2um)"
+    },
+    {
+        "text": "Andy Bogard (98um)",
+        "src": "Andy_Bogard_(98um)"
+    },
+    {
+        "text": "Andy Bogard (Fatal Fury Special)",
+        "src": "Andy_Bogard_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Andy Bogard (KoF '95) (98um)",
+        "src": "Andy_Bogard_(KoF_%2795)_(98um)"
+    },
+    {
+        "text": "Andy Bogard (KoF '98)",
+        "src": "Andy_Bogard_(KoF_%2798)"
+    },
+    {
+        "text": "Andy Bogard (Real Bout 2 Era) (KoF '98)",
+        "src": "Andy_Bogard_(Real_Bout_2_Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Andy Bogard (kof13)",
+        "src": "Andy_Bogard_(kof13)"
+    },
+    {
+        "text": "Angel (2k2um)",
+        "src": "Angel_(2k2um)"
+    },
+    {
+        "text": "Arakune (BBCS)",
+        "src": "Arakune_(BBCS)"
+    },
+    {
+        "text": "Arcana Heart 3",
+        "src": "Arcana_Heart_3"
+    },
+    {
+        "text": "Arthur (UMVC3)",
+        "src": "Arthur_(UMVC3)"
+    },
+    {
+        "text": "Ash (kof13)",
+        "src": "Ash_(kof13)"
+    },
+    {
+        "text": "Asuka (SFxT)",
+        "src": "Asuka_(SFxT)"
+    },
+    {
+        "text": "Athena (2k2um)",
+        "src": "Athena_(2k2um)"
+    },
+    {
+        "text": "Athena Asamiya (2k2um)",
+        "src": "Athena_Asamiya_(2k2um)"
+    },
+    {
+        "text": "Athena Asamiya (98um)",
+        "src": "Athena_Asamiya_(98um)"
+    },
+    {
+        "text": "Athena Asamiya (KoF '98)",
+        "src": "Athena_Asamiya_(KoF_%2798)"
+    },
+    {
+        "text": "Athena Asamiya (kof13)",
+        "src": "Athena_Asamiya_(kof13)"
+    },
+    {
+        "text": "Attaque",
+        "src": "Attaque"
+    },
+    {
+        "text": "Aveline",
+        "src": "Aveline"
+    },
+    {
+        "text": "Axel Hawk (Fatal Fury Special)",
+        "src": "Axel_Hawk_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "B. Jenet (Garou)",
+        "src": "B._Jenet_(Garou)"
+    },
+    {
+        "text": "Balrog (SFxT)",
+        "src": "Balrog_(SFxT)"
+    },
+    {
+        "text": "Balrog (SSFIV)",
+        "src": "Balrog_(SSFIV)"
+    },
+    {
+        "text": "Balrog (ST)",
+        "src": "Balrog_(ST)"
+    },
+    {
+        "text": "Bang Shishigami (BBCS)",
+        "src": "Bang_Shishigami_(BBCS)"
+    },
+    {
+        "text": "Bao (2k2um)",
+        "src": "Bao_(2k2um)"
+    },
+    {
+        "text": "Batsu Ichimonji (TvC:UAS)",
+        "src": "Batsu_Ichimonji_(TvC:UAS)"
+    },
+    {
+        "text": "Beach",
+        "src": "Beach"
+    },
+    {
+        "text": "Beeho Yoo",
+        "src": "Beeho_Yoo"
+    },
+    {
+        "text": "Benimaru",
+        "src": "Benimaru"
+    },
+    {
+        "text": "Benimaru Nikaido (2k2um)",
+        "src": "Benimaru_Nikaido_(2k2um)"
+    },
+    {
+        "text": "Benimaru Nikaido (98um)",
+        "src": "Benimaru_Nikaido_(98um)"
+    },
+    {
+        "text": "Benimaru Nikaido (KoF '98)",
+        "src": "Benimaru_Nikaido_(KoF_%2798)"
+    },
+    {
+        "text": "Benimaru Nikaido (kof13)",
+        "src": "Benimaru_Nikaido_(kof13)"
+    },
+    {
+        "text": "Big Bear (Fatal Fury Special)",
+        "src": "Big_Bear_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Billy Kane (2k2um)",
+        "src": "Billy_Kane_(2k2um)"
+    },
+    {
+        "text": "Billy Kane (98um)",
+        "src": "Billy_Kane_(98um)"
+    },
+    {
+        "text": "Billy Kane (Fatal Fury Special)",
+        "src": "Billy_Kane_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Billy Kane (KoF '98)",
+        "src": "Billy_Kane_(KoF_%2798)"
+    },
+    {
+        "text": "Billy Kane (Real Bout 2-Era) (KoF '98)",
+        "src": "Billy_Kane_(Real_Bout_2-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Billy Kane (Real Bout Fatal Fury version) (98um)",
+        "src": "Billy_Kane_(Real_Bout_Fatal_Fury_version)_(98um)"
+    },
+    {
+        "text": "Birdie (Street Fighter Alpha 3)",
+        "src": "Birdie_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Blanka (SSFIV)",
+        "src": "Blanka_(SSFIV)"
+    },
+    {
+        "text": "Blanka (ST)",
+        "src": "Blanka_(ST)"
+    },
+    {
+        "text": "BlazBlue : Continuum Shift",
+        "src": "BlazBlue_:_Continuum_Shift"
+    },
+    {
+        "text": "Blue Mary (2k2um)",
+        "src": "Blue_Mary_(2k2um)"
+    },
+    {
+        "text": "Blue Mary (98um)",
+        "src": "Blue_Mary_(98um)"
+    },
+    {
+        "text": "Blue Mary (KoF '98)",
+        "src": "Blue_Mary_(KoF_%2798)"
+    },
+    {
+        "text": "Blue Mary (RBFF version) (98um)",
+        "src": "Blue_Mary_(RBFF_version)_(98um)"
+    },
+    {
+        "text": "Bob (SFxT)",
+        "src": "Bob_(SFxT)"
+    },
+    {
+        "text": "Brian Battler (98um)",
+        "src": "Brian_Battler_(98um)"
+    },
+    {
+        "text": "Brian Battler (KoF '98)",
+        "src": "Brian_Battler_(KoF_%2798)"
+    },
+    {
+        "text": "C. Viper (SSFIV)",
+        "src": "C._Viper_(SSFIV)"
+    },
+    {
+        "text": "C. Viper (UMVC3)",
+        "src": "C._Viper_(UMVC3)"
+    },
+    {
+        "text": "Cammy (SFxT)",
+        "src": "Cammy_(SFxT)"
+    },
+    {
+        "text": "Cammy (SSFIV)",
+        "src": "Cammy_(SSFIV)"
+    },
+    {
+        "text": "Cammy (ST)",
+        "src": "Cammy_(ST)"
+    },
+    {
+        "text": "Capcom vs SNK 2",
+        "src": "Capcom_vs_SNK_2"
+    },
+    {
+        "text": "Carl Clover (BBCS)",
+        "src": "Carl_Clover_(BBCS)"
+    },
+    {
+        "text": "Casshan (TvC:UAS)",
+        "src": "Casshan_(TvC:UAS)"
+    },
+    {
+        "text": "Chang (2k2um)",
+        "src": "Chang_(2k2um)"
+    },
+    {
+        "text": "Chang Koehan (2k2um)",
+        "src": "Chang_Koehan_(2k2um)"
+    },
+    {
+        "text": "Chang Koehan (98um)",
+        "src": "Chang_Koehan_(98um)"
+    },
+    {
+        "text": "Chang Koehan (KoF '98)",
+        "src": "Chang_Koehan_(KoF_%2798)"
+    },
+    {
+        "text": "Cheng Sinzan (Fatal Fury Special)",
+        "src": "Cheng_Sinzan_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Chin(kof13)",
+        "src": "Chin(kof13)"
+    },
+    {
+        "text": "Chin (2k2um)",
+        "src": "Chin_(2k2um)"
+    },
+    {
+        "text": "Chin Gentsai (2k2um)",
+        "src": "Chin_Gentsai_(2k2um)"
+    },
+    {
+        "text": "Chin Gentsai (98um)",
+        "src": "Chin_Gentsai_(98um)"
+    },
+    {
+        "text": "Chin Gentsai (KoF '98)",
+        "src": "Chin_Gentsai_(KoF_%2798)"
+    },
+    {
+        "text": "Chizuru Kagura (98um)",
+        "src": "Chizuru_Kagura_(98um)"
+    },
+    {
+        "text": "Chizuru Kagura (KoF '98)",
+        "src": "Chizuru_Kagura_(KoF_%2798)"
+    },
+    {
+        "text": "Choi (2k2um)",
+        "src": "Choi_(2k2um)"
+    },
+    {
+        "text": "Choi Bounge (2k2um)",
+        "src": "Choi_Bounge_(2k2um)"
+    },
+    {
+        "text": "Choi Bounge (98um)",
+        "src": "Choi_Bounge_(98um)"
+    },
+    {
+        "text": "Choi Bounge (KoF '98)",
+        "src": "Choi_Bounge_(KoF_%2798)"
+    },
+    {
+        "text": "Chris (2k2um)",
+        "src": "Chris_(2k2um)"
+    },
+    {
+        "text": "Chris (98um)",
+        "src": "Chris_(98um)"
+    },
+    {
+        "text": "Chris (KoF '98)",
+        "src": "Chris_(KoF_%2798)"
+    },
+    {
+        "text": "Chris (UMVC3)",
+        "src": "Chris_(UMVC3)"
+    },
+    {
+        "text": "Chun-Li (3S)",
+        "src": "Chun-Li_(3S)"
+    },
+    {
+        "text": "Chun-Li (SSFIV)",
+        "src": "Chun-Li_(SSFIV)"
+    },
+    {
+        "text": "Chun-Li (TvC:UAS)",
+        "src": "Chun-Li_(TvC:UAS)"
+    },
+    {
+        "text": "ChunLi (ST)",
+        "src": "ChunLi_(ST)"
+    },
+    {
+        "text": "ChunLi (Street Fighter Alpha 3)",
+        "src": "ChunLi_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Chun Li (SFxT)",
+        "src": "Chun_Li_(SFxT)"
+    },
+    {
+        "text": "Chun Li (UMVC3)",
+        "src": "Chun_Li_(UMVC3)"
+    },
+    {
+        "text": "Clark (2k2um)",
+        "src": "Clark_(2k2um)"
+    },
+    {
+        "text": "Clark Steel (2k2um)",
+        "src": "Clark_Steel_(2k2um)"
+    },
+    {
+        "text": "Clark Steel (kof13)",
+        "src": "Clark_Steel_(kof13)"
+    },
+    {
+        "text": "Clark Steele (KoF '98)",
+        "src": "Clark_Steele_(KoF_%2798)"
+    },
+    {
+        "text": "Clark Still (98um)",
+        "src": "Clark_Still_(98um)"
+    },
+    {
+        "text": "Clay",
+        "src": "Clay"
+    },
+    {
+        "text": "Clone Zero (2k2um)",
+        "src": "Clone_Zero_(2k2um)"
+    },
+    {
+        "text": "Clown (KR)",
+        "src": "Clown_(KR)"
+    },
+    {
+        "text": "Cody (SSFIV)",
+        "src": "Cody_(SSFIV)"
+    },
+    {
+        "text": "Cody (Street Fighter Alpha 3)",
+        "src": "Cody_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Comment contribuer ?",
+        "src": "Comment_contribuer_%3F"
+    },
+    {
+        "text": "Comprendre le jeu de combat 3D",
+        "src": "Comprendre_le_jeu_de_combat_3D"
+    },
+    {
+        "text": "Concrete",
+        "src": "Concrete"
+    },
+    {
+        "text": "Dan (SSFIV)",
+        "src": "Dan_(SSFIV)"
+    },
+    {
+        "text": "Dan (Street Fighter Alpha 3)",
+        "src": "Dan_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Dante (UMVC3)",
+        "src": "Dante_(UMVC3)"
+    },
+    {
+        "text": "DeeJay (2X)",
+        "src": "DeeJay_(2X)"
+    },
+    {
+        "text": "Deejay (SSFIV)",
+        "src": "Deejay_(SSFIV)"
+    },
+    {
+        "text": "Dhalsim (2X)",
+        "src": "Dhalsim_(2X)"
+    },
+    {
+        "text": "Dhalsim (SFxT)",
+        "src": "Dhalsim_(SFxT)"
+    },
+    {
+        "text": "Dhalsim (SSFIV)",
+        "src": "Dhalsim_(SSFIV)"
+    },
+    {
+        "text": "Diezel Sun (concepteur de jeu)",
+        "src": "Diezel_Sun_(concepteur_de_jeu)"
+    },
+    {
+        "text": "Doronjo (TvC:UAS)",
+        "src": "Doronjo_(TvC:UAS)"
+    },
+    {
+        "text": "Duck King (Fatal Fury Special)",
+        "src": "Duck_King_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Dudley (3S)",
+        "src": "Dudley_(3S)"
+    },
+    {
+        "text": "Dudley (SSFIV)",
+        "src": "Dudley_(SSFIV)"
+    },
+    {
+        "text": "Duo Lon (kof13)",
+        "src": "Duo_Lon_(kof13)"
+    },
+    {
+        "text": "Défense",
+        "src": "D%C3%A9fense"
+    },
+    {
+        "text": "E. Honda (2X)",
+        "src": "E._Honda_(2X)"
+    },
+    {
+        "text": "E. Honda (SSFIV)",
+        "src": "E._Honda_(SSFIV)"
+    },
+    {
+        "text": "EX Geese (2k2um)",
+        "src": "EX_Geese_(2k2um)"
+    },
+    {
+        "text": "EX Kensou (2k2um)",
+        "src": "EX_Kensou_(2k2um)"
+    },
+    {
+        "text": "EX Robert (2k2um)",
+        "src": "EX_Robert_(2k2um)"
+    },
+    {
+        "text": "EX Takuma (2k2um)",
+        "src": "EX_Takuma_(2k2um)"
+    },
+    {
+        "text": "Eiji Kisaragi (98um)",
+        "src": "Eiji_Kisaragi_(98um)"
+    },
+    {
+        "text": "El Fuerte (SSFIV)",
+        "src": "El_Fuerte_(SSFIV)"
+    },
+    {
+        "text": "Elena (3S)",
+        "src": "Elena_(3S)"
+    },
+    {
+        "text": "Elisabeth (kof13)",
+        "src": "Elisabeth_(kof13)"
+    },
+    {
+        "text": "Evil Ryu (SSFIV)",
+        "src": "Evil_Ryu_(SSFIV)"
+    },
+    {
+        "text": "ExtremeDayTradingReview3218",
+        "src": "ExtremeDayTradingReview3218"
+    },
+    {
+        "text": "Fatal Fury Special",
+        "src": "Fatal_Fury_Special"
+    },
+    {
+        "text": "Fei Long (2X)",
+        "src": "Fei_Long_(2X)"
+    },
+    {
+        "text": "Fei Long (SSFIV)",
+        "src": "Fei_Long_(SSFIV)"
+    },
+    {
+        "text": "Felicia (UMVC3)",
+        "src": "Felicia_(UMVC3)"
+    },
+    {
+        "text": "Firebrand (UMVC3)",
+        "src": "Firebrand_(UMVC3)"
+    },
+    {
+        "text": "Foxy (2k2um)",
+        "src": "Foxy_(2k2um)"
+    },
+    {
+        "text": "Frank West (TvC:UAS)",
+        "src": "Frank_West_(TvC:UAS)"
+    },
+    {
+        "text": "Frank West (UMVC3)",
+        "src": "Frank_West_(UMVC3)"
+    },
+    {
+        "text": "Freeman (Garou)",
+        "src": "Freeman_(Garou)"
+    },
+    {
+        "text": "Garou : Mark of the Wolves",
+        "src": "Garou_:_Mark_of_the_Wolves"
+    },
+    {
+        "text": "Gary Scott",
+        "src": "Gary_Scott"
+    },
+    {
+        "text": "Gato (Garou)",
+        "src": "Gato_(Garou)"
+    },
+    {
+        "text": "Geese (2k2um)",
+        "src": "Geese_(2k2um)"
+    },
+    {
+        "text": "Geese Howard (98um)",
+        "src": "Geese_Howard_(98um)"
+    },
+    {
+        "text": "Geese Howard (Fatal Fury Special)",
+        "src": "Geese_Howard_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Geese Howard (RBFF version) (98um)",
+        "src": "Geese_Howard_(RBFF_version)_(98um)"
+    },
+    {
+        "text": "Gen (SSFIV)",
+        "src": "Gen_(SSFIV)"
+    },
+    {
+        "text": "Gill (3S)",
+        "src": "Gill_(3S)"
+    },
+    {
+        "text": "Glossaire",
+        "src": "Glossaire"
+    },
+    {
+        "text": "Glossaire UMVC3",
+        "src": "Glossaire_UMVC3"
+    },
+    {
+        "text": "Goenitz (2k2um)",
+        "src": "Goenitz_(2k2um)"
+    },
+    {
+        "text": "Goenitz (98um)",
+        "src": "Goenitz_(98um)"
+    },
+    {
+        "text": "Gold Lightan (TvC:UAS)",
+        "src": "Gold_Lightan_(TvC:UAS)"
+    },
+    {
+        "text": "Goro Daimon (2k2um)",
+        "src": "Goro_Daimon_(2k2um)"
+    },
+    {
+        "text": "Goro Daimon (98um)",
+        "src": "Goro_Daimon_(98um)"
+    },
+    {
+        "text": "Goro Daimon (KoF '98)",
+        "src": "Goro_Daimon_(KoF_%2798)"
+    },
+    {
+        "text": "Goro Daimon (kof13)",
+        "src": "Goro_Daimon_(kof13)"
+    },
+    {
+        "text": "Gouken (SSFIV)",
+        "src": "Gouken_(SSFIV)"
+    },
+    {
+        "text": "Gouki (Street Fighter Alpha 3)",
+        "src": "Gouki_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Grant (Garou)",
+        "src": "Grant_(Garou)"
+    },
+    {
+        "text": "Guile (2X)",
+        "src": "Guile_(2X)"
+    },
+    {
+        "text": "Guile (SFxT)",
+        "src": "Guile_(SFxT)"
+    },
+    {
+        "text": "Guile (SSFIV)",
+        "src": "Guile_(SSFIV)"
+    },
+    {
+        "text": "Guilty Gear XX Accent Core",
+        "src": "Guilty_Gear_XX_Accent_Core"
+    },
+    {
+        "text": "Guy (SSFIV)",
+        "src": "Guy_(SSFIV)"
+    },
+    {
+        "text": "Guy (Street Fighter Alpha 3)",
+        "src": "Guy_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Haggar (UMVC3)",
+        "src": "Haggar_(UMVC3)"
+    },
+    {
+        "text": "Hakan (SSFIV)",
+        "src": "Hakan_(SSFIV)"
+    },
+    {
+        "text": "Hakumen (BBCS)",
+        "src": "Hakumen_(BBCS)"
+    },
+    {
+        "text": "Hakushon Daimao (TVC : CGOH)",
+        "src": "Hakushon_Daimao_(TVC_:_CGOH)"
+    },
+    {
+        "text": "Hakushon Daimao (TvC:CGOH)",
+        "src": "Hakushon_Daimao_(TvC:CGOH)"
+    },
+    {
+        "text": "HarkeyNewberry811",
+        "src": "HarkeyNewberry811"
+    },
+    {
+        "text": "Hazama (BBCS)",
+        "src": "Hazama_(BBCS)"
+    },
+    {
+        "text": "Heavy D! (98um)",
+        "src": "Heavy_D!_(98um)"
+    },
+    {
+        "text": "Heavy D! (KoF '98)",
+        "src": "Heavy_D!_(KoF_%2798)"
+    },
+    {
+        "text": "Heidern (2k2um)",
+        "src": "Heidern_(2k2um)"
+    },
+    {
+        "text": "Heidern (98um)",
+        "src": "Heidern_(98um)"
+    },
+    {
+        "text": "Heidern (KoF '98)",
+        "src": "Heidern_(KoF_%2798)"
+    },
+    {
+        "text": "Heihachi (SFxT)",
+        "src": "Heihachi_(SFxT)"
+    },
+    {
+        "text": "Hinako Shijou (2k2um)",
+        "src": "Hinako_Shijou_(2k2um)"
+    },
+    {
+        "text": "Hiromi Mita",
+        "src": "Hiromi_Mita"
+    },
+    {
+        "text": "Hokutomaru (Garou)",
+        "src": "Hokutomaru_(Garou)"
+    },
+    {
+        "text": "Hotaru Futaba (Garou)",
+        "src": "Hotaru_Futaba_(Garou)"
+    },
+    {
+        "text": "Hsien Ko (UMVC3)",
+        "src": "Hsien_Ko_(UMVC3)"
+    },
+    {
+        "text": "Hugo (3S)",
+        "src": "Hugo_(3S)"
+    },
+    {
+        "text": "Hugo (SFxT)",
+        "src": "Hugo_(SFxT)"
+    },
+    {
+        "text": "Hwa Jai (kof13)",
+        "src": "Hwa_Jai_(kof13)"
+    },
+    {
+        "text": "Hwoarang (SFxT)",
+        "src": "Hwoarang_(SFxT)"
+    },
+    {
+        "text": "Hyper Street Fighter 2",
+        "src": "Hyper_Street_Fighter_2"
+    },
+    {
+        "text": "Ibuki (3S)",
+        "src": "Ibuki_(3S)"
+    },
+    {
+        "text": "Ibuki (SFxT)",
+        "src": "Ibuki_(SFxT)"
+    },
+    {
+        "text": "Ibuki (SSFIV)",
+        "src": "Ibuki_(SSFIV)"
+    },
+    {
+        "text": "Igniz (2k2um)",
+        "src": "Igniz_(2k2um)"
+    },
+    {
+        "text": "Iori Yagami (2k2um)",
+        "src": "Iori_Yagami_(2k2um)"
+    },
+    {
+        "text": "Iori Yagami (98um)",
+        "src": "Iori_Yagami_(98um)"
+    },
+    {
+        "text": "Iori Yagami (KoF '98)",
+        "src": "Iori_Yagami_(KoF_%2798)"
+    },
+    {
+        "text": "Iori Yagami (kof13)",
+        "src": "Iori_Yagami_(kof13)"
+    },
+    {
+        "text": "Ippatsuman (TvC:UAS)",
+        "src": "Ippatsuman_(TvC:UAS)"
+    },
+    {
+        "text": "Iron Tager (BBCS)",
+        "src": "Iron_Tager_(BBCS)"
+    },
+    {
+        "text": "Jean Pierre (KR)",
+        "src": "Jean_Pierre_(KR)"
+    },
+    {
+        "text": "Jhun Hoon (2k2um)",
+        "src": "Jhun_Hoon_(2k2um)"
+    },
+    {
+        "text": "Jill (UMVC3)",
+        "src": "Jill_(UMVC3)"
+    },
+    {
+        "text": "Jin (SFxT)",
+        "src": "Jin_(SFxT)"
+    },
+    {
+        "text": "Jin Kisaragi (BBCS)",
+        "src": "Jin_Kisaragi_(BBCS)"
+    },
+    {
+        "text": "Joe",
+        "src": "Joe"
+    },
+    {
+        "text": "Joe Higashi (2k2um)",
+        "src": "Joe_Higashi_(2k2um)"
+    },
+    {
+        "text": "Joe Higashi (98um)",
+        "src": "Joe_Higashi_(98um)"
+    },
+    {
+        "text": "Joe Higashi (Fatal Fury Special)",
+        "src": "Joe_Higashi_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Joe Higashi (KoF '94) (98um)",
+        "src": "Joe_Higashi_(KoF_%2794)_(98um)"
+    },
+    {
+        "text": "Joe Higashi (KoF '94-Era) (KoF '98)",
+        "src": "Joe_Higashi_(KoF_%2794-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Joe Higashi (KoF '98)",
+        "src": "Joe_Higashi_(KoF_%2798)"
+    },
+    {
+        "text": "Joe Higashi (kof13)",
+        "src": "Joe_Higashi_(kof13)"
+    },
+    {
+        "text": "Joe the Condor (TvC:UAS)",
+        "src": "Joe_the_Condor_(TvC:UAS)"
+    },
+    {
+        "text": "Jordi Costa",
+        "src": "Jordi_Costa"
+    },
+    {
+        "text": "Jubei Yamada (Fatal Fury Special)",
+        "src": "Jubei_Yamada_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Julia (SFxT)",
+        "src": "Julia_(SFxT)"
+    },
+    {
+        "text": "Jun the Swan (TvC:UAS)",
+        "src": "Jun_the_Swan_(TvC:UAS)"
+    },
+    {
+        "text": "Juri (SFxT)",
+        "src": "Juri_(SFxT)"
+    },
+    {
+        "text": "Juri (SSFIV)",
+        "src": "Juri_(SSFIV)"
+    },
+    {
+        "text": "K' (2k2um)",
+        "src": "K%27_(2k2um)"
+    },
+    {
+        "text": "K' (kof13)",
+        "src": "K%27_(kof13)"
+    },
+    {
+        "text": "Kaijin No Soki (TvC:UAS)",
+        "src": "Kaijin_No_Soki_(TvC:UAS)"
+    },
+    {
+        "text": "Kain R. Heinlein (Garou)",
+        "src": "Kain_R._Heinlein_(Garou)"
+    },
+    {
+        "text": "Kano Ryoko (KR)",
+        "src": "Kano_Ryoko_(KR)"
+    },
+    {
+        "text": "Karas (TvC:UAS)",
+        "src": "Karas_(TvC:UAS)"
+    },
+    {
+        "text": "Karnov's Revenge",
+        "src": "Karnov%27s_Revenge"
+    },
+    {
+        "text": "Kasumi Todoh (2k2um)",
+        "src": "Kasumi_Todoh_(2k2um)"
+    },
+    {
+        "text": "Kasumi Todoh (98um)",
+        "src": "Kasumi_Todoh_(98um)"
+    },
+    {
+        "text": "Kazuya (SFxT)",
+        "src": "Kazuya_(SFxT)"
+    },
+    {
+        "text": "Ken (2X)",
+        "src": "Ken_(2X)"
+    },
+    {
+        "text": "Ken (3S)",
+        "src": "Ken_(3S)"
+    },
+    {
+        "text": "Ken (SFxT)",
+        "src": "Ken_(SFxT)"
+    },
+    {
+        "text": "Ken (SSFIV)",
+        "src": "Ken_(SSFIV)"
+    },
+    {
+        "text": "Ken (Street Fighter Alpha 3)",
+        "src": "Ken_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Ken the Eagle (TvC:UAS)",
+        "src": "Ken_the_Eagle_(TvC:UAS)"
+    },
+    {
+        "text": "Kensou (2k2um)",
+        "src": "Kensou_(2k2um)"
+    },
+    {
+        "text": "Kevin Rian (Garou)",
+        "src": "Kevin_Rian_(Garou)"
+    },
+    {
+        "text": "Killer Instinct",
+        "src": "Killer_Instinct"
+    },
+    {
+        "text": "Kim (2k2um)",
+        "src": "Kim_(2k2um)"
+    },
+    {
+        "text": "Kim Dong Hwan (Garou)",
+        "src": "Kim_Dong_Hwan_(Garou)"
+    },
+    {
+        "text": "Kim Jae Hoon (Garou)",
+        "src": "Kim_Jae_Hoon_(Garou)"
+    },
+    {
+        "text": "Kim Kaphawn (2k2um)",
+        "src": "Kim_Kaphawn_(2k2um)"
+    },
+    {
+        "text": "Kim Kaphawn (kof13)",
+        "src": "Kim_Kaphawn_(kof13)"
+    },
+    {
+        "text": "Kim Kaphwan (98um)",
+        "src": "Kim_Kaphwan_(98um)"
+    },
+    {
+        "text": "Kim Kaphwan (Fatal Fury Special)",
+        "src": "Kim_Kaphwan_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Kim Kaphwan (KoF '98)",
+        "src": "Kim_Kaphwan_(KoF_%2798)"
+    },
+    {
+        "text": "King (2k2um)",
+        "src": "King_(2k2um)"
+    },
+    {
+        "text": "King (98um)",
+        "src": "King_(98um)"
+    },
+    {
+        "text": "King (Art Of Fighting 2 version) (98um)",
+        "src": "King_(Art_Of_Fighting_2_version)_(98um)"
+    },
+    {
+        "text": "King (KoF '98)",
+        "src": "King_(KoF_%2798)"
+    },
+    {
+        "text": "King (SFxT)",
+        "src": "King_(SFxT)"
+    },
+    {
+        "text": "King (kof13)",
+        "src": "King_(kof13)"
+    },
+    {
+        "text": "Klaus Wessel",
+        "src": "Klaus_Wessel"
+    },
+    {
+        "text": "Kryzalid (2k2um)",
+        "src": "Kryzalid_(2k2um)"
+    },
+    {
+        "text": "Kula (2k2um)",
+        "src": "Kula_(2k2um)"
+    },
+    {
+        "text": "Kula (kof13)",
+        "src": "Kula_(kof13)"
+    },
+    {
+        "text": "Kuma (SFxT)",
+        "src": "Kuma_(SFxT)"
+    },
+    {
+        "text": "Kusanagi (2k2um)",
+        "src": "Kusanagi_(2k2um)"
+    },
+    {
+        "text": "Kyo",
+        "src": "Kyo"
+    },
+    {
+        "text": "Kyo-1 (2k2um)",
+        "src": "Kyo-1_(2k2um)"
+    },
+    {
+        "text": "Kyo-2 (2k2um)",
+        "src": "Kyo-2_(2k2um)"
+    },
+    {
+        "text": "Kyo Kusanagi (2k2um)",
+        "src": "Kyo_Kusanagi_(2k2um)"
+    },
+    {
+        "text": "Kyo Kusanagi (98um)",
+        "src": "Kyo_Kusanagi_(98um)"
+    },
+    {
+        "text": "Kyo Kusanagi (KoF '95) (98um)",
+        "src": "Kyo_Kusanagi_(KoF_%2795)_(98um)"
+    },
+    {
+        "text": "Kyo Kusanagi (KoF '95-Era) (KoF '98)",
+        "src": "Kyo_Kusanagi_(KoF_%2795-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Kyo Kusanagi (KoF '98)",
+        "src": "Kyo_Kusanagi_(KoF_%2798)"
+    },
+    {
+        "text": "Kyo Kusanagi (kof13)",
+        "src": "Kyo_Kusanagi_(kof13)"
+    },
+    {
+        "text": "Laurence Blood (Fatal Fury Special)",
+        "src": "Laurence_Blood_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Law (SFxT)",
+        "src": "Law_(SFxT)"
+    },
+    {
+        "text": "Lawn",
+        "src": "Lawn"
+    },
+    {
+        "text": "Le pire de la baston",
+        "src": "Le_pire_de_la_baston"
+    },
+    {
+        "text": "Leona (2k2um)",
+        "src": "Leona_(2k2um)"
+    },
+    {
+        "text": "Leona Heidern (2k2um)",
+        "src": "Leona_Heidern_(2k2um)"
+    },
+    {
+        "text": "Leona Heidern (98um)",
+        "src": "Leona_Heidern_(98um)"
+    },
+    {
+        "text": "Leona Heidern (KoF '98)",
+        "src": "Leona_Heidern_(KoF_%2798)"
+    },
+    {
+        "text": "Leona Heidern (kof13)",
+        "src": "Leona_Heidern_(kof13)"
+    },
+    {
+        "text": "Li Xiangfei (2k2um)",
+        "src": "Li_Xiangfei_(2k2um)"
+    },
+    {
+        "text": "Lili (SFxT)",
+        "src": "Lili_(SFxT)"
+    },
+    {
+        "text": "Lin (2k2um)",
+        "src": "Lin_(2k2um)"
+    },
+    {
+        "text": "Liste des Jeux",
+        "src": "Liste_des_Jeux"
+    },
+    {
+        "text": "Litchi Faye Ling (BBCS)",
+        "src": "Litchi_Faye_Ling_(BBCS)"
+    },
+    {
+        "text": "Loris Biaggi",
+        "src": "Loris_Biaggi"
+    },
+    {
+        "text": "Lucky Glauber (98um)",
+        "src": "Lucky_Glauber_(98um)"
+    },
+    {
+        "text": "Lucky Glauber (KoF '98)",
+        "src": "Lucky_Glauber_(KoF_%2798)"
+    },
+    {
+        "text": "M.Bison (SFxT)",
+        "src": "M.Bison_(SFxT)"
+    },
+    {
+        "text": "M. Bison (2X)",
+        "src": "M._Bison_(2X)"
+    },
+    {
+        "text": "M. Bison (SSFIV)",
+        "src": "M._Bison_(SSFIV)"
+    },
+    {
+        "text": "M. Bison (Street Fighter Alpha 3)",
+        "src": "M._Bison_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Mai (2k2um)",
+        "src": "Mai_(2k2um)"
+    },
+    {
+        "text": "Mai Shiranui (2k2um)",
+        "src": "Mai_Shiranui_(2k2um)"
+    },
+    {
+        "text": "Mai Shiranui (98um)",
+        "src": "Mai_Shiranui_(98um)"
+    },
+    {
+        "text": "Mai Shiranui (Fatal Fury Special)",
+        "src": "Mai_Shiranui_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Mai Shiranui (KoF '98)",
+        "src": "Mai_Shiranui_(KoF_%2798)"
+    },
+    {
+        "text": "Mai Shiranui (Real Bout 2-Era) (KoF '98)",
+        "src": "Mai_Shiranui_(Real_Bout_2-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Mai Shiranui (Real Bout Fatal Fury version) (98um)",
+        "src": "Mai_Shiranui_(Real_Bout_Fatal_Fury_version)_(98um)"
+    },
+    {
+        "text": "Mai Shiranui (kof13)",
+        "src": "Mai_Shiranui_(kof13)"
+    },
+    {
+        "text": "Makoto (3S)",
+        "src": "Makoto_(3S)"
+    },
+    {
+        "text": "Makoto (SSFIV)",
+        "src": "Makoto_(SSFIV)"
+    },
+    {
+        "text": "Makoto Nanaya (BBCS)",
+        "src": "Makoto_Nanaya_(BBCS)"
+    },
+    {
+        "text": "Marco Rodriguez (Garou)",
+        "src": "Marco_Rodriguez_(Garou)"
+    },
+    {
+        "text": "Marduk (SFxT)",
+        "src": "Marduk_(SFxT)"
+    },
+    {
+        "text": "Marvel vs Capcom 2",
+        "src": "Marvel_vs_Capcom_2"
+    },
+    {
+        "text": "Marvel vs Capcom 3",
+        "src": "Marvel_vs_Capcom_3"
+    },
+    {
+        "text": "Mature (2k2um)",
+        "src": "Mature_(2k2um)"
+    },
+    {
+        "text": "Mature (98um)",
+        "src": "Mature_(98um)"
+    },
+    {
+        "text": "Mature (KoF '98)",
+        "src": "Mature_(KoF_%2798)"
+    },
+    {
+        "text": "Mature (kof13)",
+        "src": "Mature_(kof13)"
+    },
+    {
+        "text": "Maxima (2k2um)",
+        "src": "Maxima_(2k2um)"
+    },
+    {
+        "text": "Maxima (kof13)",
+        "src": "Maxima_(kof13)"
+    },
+    {
+        "text": "May Lee (2k2um)",
+        "src": "May_Lee_(2k2um)"
+    },
+    {
+        "text": "May Lee Jinju (2k2um)",
+        "src": "May_Lee_Jinju_(2k2um)"
+    },
+    {
+        "text": "Megaman Volnutt (TvC:UAS)",
+        "src": "Megaman_Volnutt_(TvC:UAS)"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno",
+        "src": "Melty_Blood/Akiha_Tohno"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno/Crescent Moon",
+        "src": "Melty_Blood/Akiha_Tohno/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno/Full Moon",
+        "src": "Melty_Blood/Akiha_Tohno/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno/Half Moon",
+        "src": "Melty_Blood/Akiha_Tohno/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno (Seifuku)",
+        "src": "Melty_Blood/Akiha_Tohno_(Seifuku)"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon",
+        "src": "Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno (Seifuku)/Full Moon",
+        "src": "Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Tohno (Seifuku)/Half Moon",
+        "src": "Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Vermillion",
+        "src": "Melty_Blood/Akiha_Vermillion"
+    },
+    {
+        "text": "Melty Blood/Akiha Vermillion/Crescent Moon",
+        "src": "Melty_Blood/Akiha_Vermillion/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Vermillion/Full Moon",
+        "src": "Melty_Blood/Akiha_Vermillion/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Akiha Vermillion/Half Moon",
+        "src": "Melty_Blood/Akiha_Vermillion/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Aoko Aozaki",
+        "src": "Melty_Blood/Aoko_Aozaki"
+    },
+    {
+        "text": "Melty Blood/Aoko Aozaki/Crescent Moon",
+        "src": "Melty_Blood/Aoko_Aozaki/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Aoko Aozaki/Full Moon",
+        "src": "Melty_Blood/Aoko_Aozaki/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Aoko Aozaki/Half Moon",
+        "src": "Melty_Blood/Aoko_Aozaki/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Archetype: Earth",
+        "src": "Melty_Blood/Archetype:_Earth"
+    },
+    {
+        "text": "Melty Blood/Archetype Earth/Crescent Moon",
+        "src": "Melty_Blood/Archetype_Earth/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Archetype Earth/Full Moon",
+        "src": "Melty_Blood/Archetype_Earth/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Archetype Earth/Half Moon",
+        "src": "Melty_Blood/Archetype_Earth/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Arcueid Brunestud",
+        "src": "Melty_Blood/Arcueid_Brunestud"
+    },
+    {
+        "text": "Melty Blood/Arcueid Brunestud/Crescent Moon",
+        "src": "Melty_Blood/Arcueid_Brunestud/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Arcueid Brunestud/Full Moon",
+        "src": "Melty_Blood/Arcueid_Brunestud/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Arcueid Brunestud/Half Moon",
+        "src": "Melty_Blood/Arcueid_Brunestud/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Changelist",
+        "src": "Melty_Blood/Changelist"
+    },
+    {
+        "text": "Melty Blood/Ciel",
+        "src": "Melty_Blood/Ciel"
+    },
+    {
+        "text": "Melty Blood/Ciel/Crescent Moon",
+        "src": "Melty_Blood/Ciel/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Ciel/Full Moon",
+        "src": "Melty_Blood/Ciel/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Ciel/Half Moon",
+        "src": "Melty_Blood/Ciel/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Circuit Meter",
+        "src": "Melty_Blood/Circuit_Meter"
+    },
+    {
+        "text": "Melty Blood/Controls",
+        "src": "Melty_Blood/Controls"
+    },
+    {
+        "text": "Melty Blood/Defense",
+        "src": "Melty_Blood/Defense"
+    },
+    {
+        "text": "Melty Blood/FAQ",
+        "src": "Melty_Blood/FAQ"
+    },
+    {
+        "text": "Melty Blood/Hisui",
+        "src": "Melty_Blood/Hisui"
+    },
+    {
+        "text": "Melty Blood/Hisui/Crescent Moon",
+        "src": "Melty_Blood/Hisui/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Hisui/Full Moon",
+        "src": "Melty_Blood/Hisui/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Hisui/Half Moon",
+        "src": "Melty_Blood/Hisui/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Hisui & Kohaku",
+        "src": "Melty_Blood/Hisui_%26_Kohaku"
+    },
+    {
+        "text": "Melty Blood/Hisui & Kohaku/Crescent Moon",
+        "src": "Melty_Blood/Hisui_%26_Kohaku/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Hisui & Kohaku/Full Moon",
+        "src": "Melty_Blood/Hisui_%26_Kohaku/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Hisui & Kohaku/Half Moon",
+        "src": "Melty_Blood/Hisui_%26_Kohaku/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku",
+        "src": "Melty_Blood/Kohaku"
+    },
+    {
+        "text": "Melty Blood/Kohaku/Crescent Moon",
+        "src": "Melty_Blood/Kohaku/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku/Full Moon",
+        "src": "Melty_Blood/Kohaku/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku/Half Moon",
+        "src": "Melty_Blood/Kohaku/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku & Mech-Hisui",
+        "src": "Melty_Blood/Kohaku_%26_Mech-Hisui"
+    },
+    {
+        "text": "Melty Blood/Kohaku and Mech-Hisui/Crescent Moon",
+        "src": "Melty_Blood/Kohaku_and_Mech-Hisui/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku and Mech-Hisui/Full Moon",
+        "src": "Melty_Blood/Kohaku_and_Mech-Hisui/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Kohaku and Mech-Hisui/Half Moon",
+        "src": "Melty_Blood/Kohaku_and_Mech-Hisui/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Kouma Kishima",
+        "src": "Melty_Blood/Kouma_Kishima"
+    },
+    {
+        "text": "Melty Blood/Kouma Kishima/Crescent Moon",
+        "src": "Melty_Blood/Kouma_Kishima/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Kouma Kishima/Full Moon",
+        "src": "Melty_Blood/Kouma_Kishima/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Kouma Kishima/Half Moon",
+        "src": "Melty_Blood/Kouma_Kishima/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Len",
+        "src": "Melty_Blood/Len"
+    },
+    {
+        "text": "Melty Blood/Len/Crescent Moon",
+        "src": "Melty_Blood/Len/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Len/Full Moon",
+        "src": "Melty_Blood/Len/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Len/Half Moon",
+        "src": "Melty_Blood/Len/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Lexique",
+        "src": "Melty_Blood/Lexique"
+    },
+    {
+        "text": "Melty Blood/Links",
+        "src": "Melty_Blood/Links"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui",
+        "src": "Melty_Blood/Mech-Hisui"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui/Crescent Moon",
+        "src": "Melty_Blood/Mech-Hisui/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui/Full Moon",
+        "src": "Melty_Blood/Mech-Hisui/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui/Half Moon",
+        "src": "Melty_Blood/Mech-Hisui/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui & Neco Arc",
+        "src": "Melty_Blood/Mech-Hisui_%26_Neco_Arc"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui & Neco Arc/Crescent Moon",
+        "src": "Melty_Blood/Mech-Hisui_%26_Neco_Arc/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui & Neco Arc/Full Moon",
+        "src": "Melty_Blood/Mech-Hisui_%26_Neco_Arc/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Mech-Hisui & Neco Arc/Half Moon",
+        "src": "Melty_Blood/Mech-Hisui_%26_Neco_Arc/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Miyako Arima",
+        "src": "Melty_Blood/Miyako_Arima"
+    },
+    {
+        "text": "Melty Blood/Miyako Arima/Crescent Moon",
+        "src": "Melty_Blood/Miyako_Arima/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Miyako Arima/Full Moon",
+        "src": "Melty_Blood/Miyako_Arima/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Miyako Arima/Half Moon",
+        "src": "Melty_Blood/Miyako_Arima/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Moons",
+        "src": "Melty_Blood/Moons"
+    },
+    {
+        "text": "Melty Blood/Neco Arc",
+        "src": "Melty_Blood/Neco_Arc"
+    },
+    {
+        "text": "Melty Blood/Neco Arc/Crescent Moon",
+        "src": "Melty_Blood/Neco_Arc/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Neco Arc/Full Moon",
+        "src": "Melty_Blood/Neco_Arc/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Neco Arc/Half Moon",
+        "src": "Melty_Blood/Neco_Arc/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Neco Arc Chaos",
+        "src": "Melty_Blood/Neco_Arc_Chaos"
+    },
+    {
+        "text": "Melty Blood/Neco Arc Chaos/Crescent Moon",
+        "src": "Melty_Blood/Neco_Arc_Chaos/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Neco Arc Chaos/Full Moon",
+        "src": "Melty_Blood/Neco_Arc_Chaos/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Neco Arc Chaos/Half Moon",
+        "src": "Melty_Blood/Neco_Arc_Chaos/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Nero Chaos",
+        "src": "Melty_Blood/Nero_Chaos"
+    },
+    {
+        "text": "Melty Blood/Nero Chaos/Crescent Moon",
+        "src": "Melty_Blood/Nero_Chaos/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Nero Chaos/Full Moon",
+        "src": "Melty_Blood/Nero_Chaos/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Nero Chaos/Half Moon",
+        "src": "Melty_Blood/Nero_Chaos/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Powerd Ciel",
+        "src": "Melty_Blood/Powerd_Ciel"
+    },
+    {
+        "text": "Melty Blood/Powerd Ciel/Crescent Moon",
+        "src": "Melty_Blood/Powerd_Ciel/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Powerd Ciel/Full Moon",
+        "src": "Melty_Blood/Powerd_Ciel/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Powerd Ciel/Half Moon",
+        "src": "Melty_Blood/Powerd_Ciel/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Red Arcueid",
+        "src": "Melty_Blood/Red_Arcueid"
+    },
+    {
+        "text": "Melty Blood/Red Arcueid/Crescent Moon",
+        "src": "Melty_Blood/Red_Arcueid/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Red Arcueid/Full Moon",
+        "src": "Melty_Blood/Red_Arcueid/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Red Arcueid/Half Moon",
+        "src": "Melty_Blood/Red_Arcueid/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Riesbyfe Stridberg",
+        "src": "Melty_Blood/Riesbyfe_Stridberg"
+    },
+    {
+        "text": "Melty Blood/Riesbyfe Stridberg/Crescent Moon",
+        "src": "Melty_Blood/Riesbyfe_Stridberg/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Riesbyfe Stridberg/Full Moon",
+        "src": "Melty_Blood/Riesbyfe_Stridberg/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Riesbyfe Stridberg/Half Moon",
+        "src": "Melty_Blood/Riesbyfe_Stridberg/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Roa",
+        "src": "Melty_Blood/Roa"
+    },
+    {
+        "text": "Melty Blood/Roa/Crescent Moon",
+        "src": "Melty_Blood/Roa/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Roa/Full Moon",
+        "src": "Melty_Blood/Roa/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Roa/Half Moon",
+        "src": "Melty_Blood/Roa/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Satsuki Yumiduka",
+        "src": "Melty_Blood/Satsuki_Yumiduka"
+    },
+    {
+        "text": "Melty Blood/Satsuki Yumiduka/Crescent Moon",
+        "src": "Melty_Blood/Satsuki_Yumiduka/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Satsuki Yumiduka/Full Moon",
+        "src": "Melty_Blood/Satsuki_Yumiduka/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Satsuki Yumiduka/Half Moon",
+        "src": "Melty_Blood/Satsuki_Yumiduka/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Nanaya",
+        "src": "Melty_Blood/Shiki_Nanaya"
+    },
+    {
+        "text": "Melty Blood/Shiki Nanaya/Crescent Moon",
+        "src": "Melty_Blood/Shiki_Nanaya/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Nanaya/Full Moon",
+        "src": "Melty_Blood/Shiki_Nanaya/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Nanaya/Half Moon",
+        "src": "Melty_Blood/Shiki_Nanaya/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Ryougi",
+        "src": "Melty_Blood/Shiki_Ryougi"
+    },
+    {
+        "text": "Melty Blood/Shiki Ryougi/Crescent Moon",
+        "src": "Melty_Blood/Shiki_Ryougi/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Ryougi/Full Moon",
+        "src": "Melty_Blood/Shiki_Ryougi/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Ryougi/Half Moon",
+        "src": "Melty_Blood/Shiki_Ryougi/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Tohno",
+        "src": "Melty_Blood/Shiki_Tohno"
+    },
+    {
+        "text": "Melty Blood/Shiki Tohno/Crescent Moon",
+        "src": "Melty_Blood/Shiki_Tohno/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Tohno/Full Moon",
+        "src": "Melty_Blood/Shiki_Tohno/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Shiki Tohno/Half Moon",
+        "src": "Melty_Blood/Shiki_Tohno/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion Eltnam Atlasia",
+        "src": "Melty_Blood/Sion_Eltnam_Atlasia"
+    },
+    {
+        "text": "Melty Blood/Sion Eltnam Atlasia/Crescent Moon",
+        "src": "Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion Eltnam Atlasia/Full Moon",
+        "src": "Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion Eltnam Atlasia/Half Moon",
+        "src": "Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion TATARI",
+        "src": "Melty_Blood/Sion_TATARI"
+    },
+    {
+        "text": "Melty Blood/Sion TATARI/Crescent Moon",
+        "src": "Melty_Blood/Sion_TATARI/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion TATARI/Full Moon",
+        "src": "Melty_Blood/Sion_TATARI/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Sion TATARI/Half Moon",
+        "src": "Melty_Blood/Sion_TATARI/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/Warachia",
+        "src": "Melty_Blood/Warachia"
+    },
+    {
+        "text": "Melty Blood/Warachia/Crescent Moon",
+        "src": "Melty_Blood/Warachia/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/Warachia/Full Moon",
+        "src": "Melty_Blood/Warachia/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/Warachia/Half Moon",
+        "src": "Melty_Blood/Warachia/Half_Moon"
+    },
+    {
+        "text": "Melty Blood/White Len",
+        "src": "Melty_Blood/White_Len"
+    },
+    {
+        "text": "Melty Blood/White Len/Crescent Moon",
+        "src": "Melty_Blood/White_Len/Crescent_Moon"
+    },
+    {
+        "text": "Melty Blood/White Len/Full Moon",
+        "src": "Melty_Blood/White_Len/Full_Moon"
+    },
+    {
+        "text": "Melty Blood/White Len/Half Moon",
+        "src": "Melty_Blood/White_Len/Half_Moon"
+    },
+    {
+        "text": "Melty Blood Actress Again Current Code",
+        "src": "Melty_Blood_Actress_Again_Current_Code"
+    },
+    {
+        "text": "Morrigan (UMVC3)",
+        "src": "Morrigan_(UMVC3)"
+    },
+    {
+        "text": "Morrigan Aensland (TvC:UAS)",
+        "src": "Morrigan_Aensland_(TvC:UAS)"
+    },
+    {
+        "text": "Mr. Big (98um)",
+        "src": "Mr._Big_(98um)"
+    },
+    {
+        "text": "Nameless (2k2um)",
+        "src": "Nameless_(2k2um)"
+    },
+    {
+        "text": "Nash (Street Fighter Alpha 3)",
+        "src": "Nash_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Necro (3S)",
+        "src": "Necro_(3S)"
+    },
+    {
+        "text": "Nemesis (UMVC3)",
+        "src": "Nemesis_(UMVC3)"
+    },
+    {
+        "text": "Nina (SFxT)",
+        "src": "Nina_(SFxT)"
+    },
+    {
+        "text": "Noel Vermillion (BBCS)",
+        "src": "Noel_Vermillion_(BBCS)"
+    },
+    {
+        "text": "Ogre (SFxT)",
+        "src": "Ogre_(SFxT)"
+    },
+    {
+        "text": "Omega Rugal (2k2um)",
+        "src": "Omega_Rugal_(2k2um)"
+    },
+    {
+        "text": "Omega Rugal (98um)",
+        "src": "Omega_Rugal_(98um)"
+    },
+    {
+        "text": "Omega Rugal (KoF '98)",
+        "src": "Omega_Rugal_(KoF_%2798)"
+    },
+    {
+        "text": "Oni (SSFIV)",
+        "src": "Oni_(SSFIV)"
+    },
+    {
+        "text": "Original Zero (2k2um)",
+        "src": "Original_Zero_(2k2um)"
+    },
+    {
+        "text": "Origine des Personnages (Capcom)",
+        "src": "Origine_des_Personnages_(Capcom)"
+    },
+    {
+        "text": "Origine des Personnages (Tatsunoko)",
+        "src": "Origine_des_Personnages_(Tatsunoko)"
+    },
+    {
+        "text": "Oro (3S)",
+        "src": "Oro_(3S)"
+    },
+    {
+        "text": "Orochi (98um)",
+        "src": "Orochi_(98um)"
+    },
+    {
+        "text": "Orochi Chris (2k2um)",
+        "src": "Orochi_Chris_(2k2um)"
+    },
+    {
+        "text": "Orochi Chris (98um)",
+        "src": "Orochi_Chris_(98um)"
+    },
+    {
+        "text": "Orochi Chris (KoF '98)",
+        "src": "Orochi_Chris_(KoF_%2798)"
+    },
+    {
+        "text": "Orochi Shermie (2k2um)",
+        "src": "Orochi_Shermie_(2k2um)"
+    },
+    {
+        "text": "Orochi Shermie (98um)",
+        "src": "Orochi_Shermie_(98um)"
+    },
+    {
+        "text": "Orochi Shermie (KoF '98)",
+        "src": "Orochi_Shermie_(KoF_%2798)"
+    },
+    {
+        "text": "Orochi Yashiro (2k2um)",
+        "src": "Orochi_Yashiro_(2k2um)"
+    },
+    {
+        "text": "Orochi Yashiro (98um)",
+        "src": "Orochi_Yashiro_(98um)"
+    },
+    {
+        "text": "Orochi Yashiro (KoF '98)",
+        "src": "Orochi_Yashiro_(KoF_%2798)"
+    },
+    {
+        "text": "P4A/Aigis",
+        "src": "P4A/Aigis"
+    },
+    {
+        "text": "P4A/Akihiko Sanada",
+        "src": "P4A/Akihiko_Sanada"
+    },
+    {
+        "text": "P4A/Chie Satonaka",
+        "src": "P4A/Chie_Satonaka"
+    },
+    {
+        "text": "P4A/Elizabeth",
+        "src": "P4A/Elizabeth"
+    },
+    {
+        "text": "P4A/Interface et contrôle",
+        "src": "P4A/Interface_et_contr%C3%B4le"
+    },
+    {
+        "text": "P4A/Kanji Tatsumi",
+        "src": "P4A/Kanji_Tatsumi"
+    },
+    {
+        "text": "P4A/Labrys",
+        "src": "P4A/Labrys"
+    },
+    {
+        "text": "P4A/Mitsuru Kirijo",
+        "src": "P4A/Mitsuru_Kirijo"
+    },
+    {
+        "text": "P4A/Mécanismes",
+        "src": "P4A/M%C3%A9canismes"
+    },
+    {
+        "text": "P4A/Mécanismes avancés",
+        "src": "P4A/M%C3%A9canismes_avanc%C3%A9s"
+    },
+    {
+        "text": "P4A/Naoto Shirogane",
+        "src": "P4A/Naoto_Shirogane"
+    },
+    {
+        "text": "P4A/Shadow Labrys",
+        "src": "P4A/Shadow_Labrys"
+    },
+    {
+        "text": "P4A/Teddie",
+        "src": "P4A/Teddie"
+    },
+    {
+        "text": "P4A/Yousuke Hanamura",
+        "src": "P4A/Yousuke_Hanamura"
+    },
+    {
+        "text": "P4A/Yu Narukami",
+        "src": "P4A/Yu_Narukami"
+    },
+    {
+        "text": "P4A/Yukiko Amagi",
+        "src": "P4A/Yukiko_Amagi"
+    },
+    {
+        "text": "PTX-40A (TvC:UAS)",
+        "src": "PTX-40A_(TvC:UAS)"
+    },
+    {
+        "text": "Paul (SFxT)",
+        "src": "Paul_(SFxT)"
+    },
+    {
+        "text": "Persona 4 Arena",
+        "src": "Persona_4_Arena"
+    },
+    {
+        "text": "Phoenix Wright (UMVC3)",
+        "src": "Phoenix_Wright_(UMVC3)"
+    },
+    {
+        "text": "Platinum the Trinity (BBCS)",
+        "src": "Platinum_the_Trinity_(BBCS)"
+    },
+    {
+        "text": "Poison (SFxT)",
+        "src": "Poison_(SFxT)"
+    },
+    {
+        "text": "Polimar (TvC:UAS)",
+        "src": "Polimar_(TvC:UAS)"
+    },
+    {
+        "text": "Q (3S)",
+        "src": "Q_(3S)"
+    },
+    {
+        "text": "R. Mika (Street Fighter Alpha 3)",
+        "src": "R._Mika_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Rachel Alucard (BBCS)",
+        "src": "Rachel_Alucard_(BBCS)"
+    },
+    {
+        "text": "Ragna the Bloodedge (BBCS)",
+        "src": "Ragna_the_Bloodedge_(BBCS)"
+    },
+    {
+        "text": "Raiden (kof13)",
+        "src": "Raiden_(kof13)"
+    },
+    {
+        "text": "Ralf (2k2um)",
+        "src": "Ralf_(2k2um)"
+    },
+    {
+        "text": "Ralf Jones (2k2um)",
+        "src": "Ralf_Jones_(2k2um)"
+    },
+    {
+        "text": "Ralf Jones (98um)",
+        "src": "Ralf_Jones_(98um)"
+    },
+    {
+        "text": "Ralf Jones (KoF '98)",
+        "src": "Ralf_Jones_(KoF_%2798)"
+    },
+    {
+        "text": "Ralf Jones (kof13)",
+        "src": "Ralf_Jones_(kof13)"
+    },
+    {
+        "text": "Ramon (2k2um)",
+        "src": "Ramon_(2k2um)"
+    },
+    {
+        "text": "Raven (SFxT)",
+        "src": "Raven_(SFxT)"
+    },
+    {
+        "text": "Relaxedandeasydrivingsessionsinaveryspecialistmeans",
+        "src": "Relaxedandeasydrivingsessionsinaveryspecialistmeans"
+    },
+    {
+        "text": "Remy (3S)",
+        "src": "Remy_(3S)"
+    },
+    {
+        "text": "Robert",
+        "src": "Robert"
+    },
+    {
+        "text": "Robert Garcia (2k2um)",
+        "src": "Robert_Garcia_(2k2um)"
+    },
+    {
+        "text": "Robert Garcia (98um)",
+        "src": "Robert_Garcia_(98um)"
+    },
+    {
+        "text": "Robert Garcia (KoF '94) (98um)",
+        "src": "Robert_Garcia_(KoF_%2794)_(98um)"
+    },
+    {
+        "text": "Robert Garcia (KoF '94-Era) (KoF '98)",
+        "src": "Robert_Garcia_(KoF_%2794-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Robert Garcia (KoF '98)",
+        "src": "Robert_Garcia_(KoF_%2798)"
+    },
+    {
+        "text": "Robert Garcia (kof13)",
+        "src": "Robert_Garcia_(kof13)"
+    },
+    {
+        "text": "Rock (Garou)",
+        "src": "Rock_(Garou)"
+    },
+    {
+        "text": "Rolento (SFxT)",
+        "src": "Rolento_(SFxT)"
+    },
+    {
+        "text": "Roll (TvC:UAS)",
+        "src": "Roll_(TvC:UAS)"
+    },
+    {
+        "text": "Rose (SSFIV)",
+        "src": "Rose_(SSFIV)"
+    },
+    {
+        "text": "Rufus (SFxT)",
+        "src": "Rufus_(SFxT)"
+    },
+    {
+        "text": "Rufus (SSFIV)",
+        "src": "Rufus_(SSFIV)"
+    },
+    {
+        "text": "Rugal Bernstein (98um)",
+        "src": "Rugal_Bernstein_(98um)"
+    },
+    {
+        "text": "Rugal Bernstein (KoF '98)",
+        "src": "Rugal_Bernstein_(KoF_%2798)"
+    },
+    {
+        "text": "Ryo",
+        "src": "Ryo"
+    },
+    {
+        "text": "Ryo Sakazaki (2k2um)",
+        "src": "Ryo_Sakazaki_(2k2um)"
+    },
+    {
+        "text": "Ryo Sakazaki (98um)",
+        "src": "Ryo_Sakazaki_(98um)"
+    },
+    {
+        "text": "Ryo Sakazaki (Fatal Fury Special)",
+        "src": "Ryo_Sakazaki_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Ryo Sakazaki (KoF '94) (98um)",
+        "src": "Ryo_Sakazaki_(KoF_%2794)_(98um)"
+    },
+    {
+        "text": "Ryo Sakazaki (KoF '94-Era) (KoF '98)",
+        "src": "Ryo_Sakazaki_(KoF_%2794-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Ryo Sakazaki (KoF '98)",
+        "src": "Ryo_Sakazaki_(KoF_%2798)"
+    },
+    {
+        "text": "Ryo Sakazaki (kof13)",
+        "src": "Ryo_Sakazaki_(kof13)"
+    },
+    {
+        "text": "Ryu (2X)",
+        "src": "Ryu_(2X)"
+    },
+    {
+        "text": "Ryu (3S)",
+        "src": "Ryu_(3S)"
+    },
+    {
+        "text": "Ryu (SFxT)",
+        "src": "Ryu_(SFxT)"
+    },
+    {
+        "text": "Ryu (SSFIV)",
+        "src": "Ryu_(SSFIV)"
+    },
+    {
+        "text": "Ryu (Street Fighter Alpha 3)",
+        "src": "Ryu_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Ryu (TvC:UAS)",
+        "src": "Ryu_(TvC:UAS)"
+    },
+    {
+        "text": "Ryu (UMVC3)",
+        "src": "Ryu_(UMVC3)"
+    },
+    {
+        "text": "Ryuji Yamazaki (2k2um)",
+        "src": "Ryuji_Yamazaki_(2k2um)"
+    },
+    {
+        "text": "Ryuji Yamazaki (98um)",
+        "src": "Ryuji_Yamazaki_(98um)"
+    },
+    {
+        "text": "Ryuji Yamazaki (KoF '98)",
+        "src": "Ryuji_Yamazaki_(KoF_%2798)"
+    },
+    {
+        "text": "Ryuji Yamazaki (RBFF version) (98um)",
+        "src": "Ryuji_Yamazaki_(RBFF_version)_(98um)"
+    },
+    {
+        "text": "Sagat (2X)",
+        "src": "Sagat_(2X)"
+    },
+    {
+        "text": "Sagat (SFxT)",
+        "src": "Sagat_(SFxT)"
+    },
+    {
+        "text": "Sagat (SSFIV)",
+        "src": "Sagat_(SSFIV)"
+    },
+    {
+        "text": "Sagat (Street Fighter Alpha 3)",
+        "src": "Sagat_(Street_Fighter_Alpha_3)"
+    },
+    {
+        "text": "Saisyu Kusanagi (98um)",
+        "src": "Saisyu_Kusanagi_(98um)"
+    },
+    {
+        "text": "Saisyu Kusanagi (KoF '98)",
+        "src": "Saisyu_Kusanagi_(KoF_%2798)"
+    },
+    {
+        "text": "Saki Omokane (TvC:UAS)",
+        "src": "Saki_Omokane_(TvC:UAS)"
+    },
+    {
+        "text": "Sakura (SSFIV)",
+        "src": "Sakura_(SSFIV)"
+    },
+    {
+        "text": "Samurai Shodown IV: Amakusa's Revenge",
+        "src": "Samurai_Shodown_IV:_Amakusa%27s_Revenge"
+    },
+    {
+        "text": "Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)",
+        "src": "Samurai_Shodown_IV_-_Basara_(%E9%A6%96%E5%88%87%E3%82%8A_%E7%A0%B4%E6%B2%99%E7%BE%85,_Kubikiri_Basara)"
+    },
+    {
+        "text": "Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do Korude)",
+        "src": "Samurai_Shodown_IV_-_Charlotte_Christine_de_Colde_(%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%88%EF%BC%9D%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C%EF%BC%9D%E3%83%89%EF%BC%9D%E3%82%B3%E3%83%AB%E3%83%87,_Sharurotto_Kurisut%C4%ABnu_do_Korude)"
+    },
+    {
+        "text": "Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)",
+        "src": "Samurai_Shodown_IV_-_Gaira_Caffeine_(%E8%8A%B1%E8%AB%B7%E9%99%A2_%E9%AA%B8%E7%BE%85,_Kaf%C5%ABin_Gaira)"
+    },
+    {
+        "text": "Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)",
+        "src": "Samurai_Shodown_IV_-_Galford_D._Weller_(%E3%82%AC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%EF%BC%9D%EF%BC%A4%EF%BC%9D%E3%82%A6%E3%82%A7%E3%83%A9%E3%83%BC,_Garuf%C5%8Ddo_D%C4%AB_Wer%C4%81)"
+    },
+    {
+        "text": "Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjūrō)",
+        "src": "Samurai_Shodown_IV_-_Genjuro_Kibagami_(%E7%89%99%E7%A5%9E_%E5%B9%BB%E5%8D%81%E9%83%8E,_Kibagami_Genj%C5%ABr%C5%8D)"
+    },
+    {
+        "text": "Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)",
+        "src": "Samurai_Shodown_IV_-_Hanzo_Hattori_(%E6%9C%8D%E9%83%A8_%E5%8D%8A%E8%94%B5,_Hattori_Hanz%C5%8D)"
+    },
+    {
+        "text": "Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)",
+        "src": "Samurai_Shodown_IV_-_Haohmaru_(%E8%A6%87%E7%8E%8B%E4%B8%B8,_Ha%C5%8Dmaru)"
+    },
+    {
+        "text": "Samurai Shodown IV - Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)",
+        "src": "Samurai_Shodown_IV_-_Jubei_Yagyu_(%E6%9F%B3%E7%94%9F_%E5%8D%81%E5%85%B5%E8%A1%9B,_Yagy%C5%AB_J%C5%ABbee)"
+    },
+    {
+        "text": "Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)",
+        "src": "Samurai_Shodown_IV_-_Kazuki_Kazama_(%E9%A2%A8%E9%96%93_%E7%81%AB%E6%9C%88,_Kazama_Kazuki)"
+    },
+    {
+        "text": "Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshirō)",
+        "src": "Samurai_Shodown_IV_-_Kyoshiro_Senryo_(%E5%8D%83%E4%B8%A1_%E7%8B%82%E6%AD%BB%E9%83%8E,_Senry%C5%8D_Ky%C5%8Dshir%C5%8D)"
+    },
+    {
+        "text": "Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)",
+        "src": "Samurai_Shodown_IV_-_Nakoruru_(%E3%83%8A%E3%82%B3%E3%83%AB%E3%83%AB,_Nakoruru)"
+    },
+    {
+        "text": "Samurai Shodown IV - Rimururu (リムルル, Rimururu)",
+        "src": "Samurai_Shodown_IV_-_Rimururu_(%E3%83%AA%E3%83%A0%E3%83%AB%E3%83%AB,_Rimururu)"
+    },
+    {
+        "text": "Samurai Shodown IV - Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō Tokisada)",
+        "src": "Samurai_Shodown_IV_-_Shiro_Tokisada_Amakusa_(%E5%A4%A9%E8%8D%89_%E5%9B%9B%E9%83%8E_%E6%99%82%E8%B2%9E,_Amakusa_Shir%C5%8D_Tokisada)"
+    },
+    {
+        "text": "Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)",
+        "src": "Samurai_Shodown_IV_-_Shizumaru_Hisame_(%E7%B7%8B%E9%9B%A8_%E9%96%91%E4%B8%B8,_Hisame_Shizumaru)"
+    },
+    {
+        "text": "Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)",
+        "src": "Samurai_Shodown_IV_-_Sogetsu_Kazama_(%E9%A2%A8%E9%96%93_%E8%92%BC%E6%9C%88,_Kazama_Sogetsu)"
+    },
+    {
+        "text": "Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)",
+        "src": "Samurai_Shodown_IV_-_Tam_Tam_(%E3%82%BF%E3%83%A0%E3%82%BF%E3%83%A0,_Tamu_Tamu)"
+    },
+    {
+        "text": "Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)",
+        "src": "Samurai_Shodown_IV_-_Ukyo_Tachibana_(%E6%A9%98_%E5%8F%B3%E4%BA%AC,_Tachibana_Uky%C5%8D)"
+    },
+    {
+        "text": "Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)",
+        "src": "Samurai_Shodown_IV_-_Zankuro_Minazuki_(%E5%A3%AC%E7%84%A1%E6%9C%88_%E6%96%AC%E7%B4%85%E9%83%8E,_Minazuki_Zankur%C5%8D)"
+    },
+    {
+        "text": "Sandoval",
+        "src": "Sandoval"
+    },
+    {
+        "text": "Sean (3S)",
+        "src": "Sean_(3S)"
+    },
+    {
+        "text": "Seth (2k2um)",
+        "src": "Seth_(2k2um)"
+    },
+    {
+        "text": "Seth (SSFIV)",
+        "src": "Seth_(SSFIV)"
+    },
+    {
+        "text": "Shen Woo (kof13)",
+        "src": "Shen_Woo_(kof13)"
+    },
+    {
+        "text": "Shermie (2k2um)",
+        "src": "Shermie_(2k2um)"
+    },
+    {
+        "text": "Shermie (98um)",
+        "src": "Shermie_(98um)"
+    },
+    {
+        "text": "Shermie (KoF '98)",
+        "src": "Shermie_(KoF_%2798)"
+    },
+    {
+        "text": "Shingo Yabuki (2k2um)",
+        "src": "Shingo_Yabuki_(2k2um)"
+    },
+    {
+        "text": "Shingo Yabuki (98um)",
+        "src": "Shingo_Yabuki_(98um)"
+    },
+    {
+        "text": "Shingo Yabuki (KoF '98)",
+        "src": "Shingo_Yabuki_(KoF_%2798)"
+    },
+    {
+        "text": "Sie Kensou (2k2um)",
+        "src": "Sie_Kensou_(2k2um)"
+    },
+    {
+        "text": "Sie Kensou (98um)",
+        "src": "Sie_Kensou_(98um)"
+    },
+    {
+        "text": "Sie Kensou (KoF '98)",
+        "src": "Sie_Kensou_(KoF_%2798)"
+    },
+    {
+        "text": "Sie Kensou (kof13)",
+        "src": "Sie_Kensou_(kof13)"
+    },
+    {
+        "text": "Soulcalibur 5",
+        "src": "Soulcalibur_5"
+    },
+    {
+        "text": "Spencer (UMVC3)",
+        "src": "Spencer_(UMVC3)"
+    },
+    {
+        "text": "Stadium",
+        "src": "Stadium"
+    },
+    {
+        "text": "Steve (SFxT)",
+        "src": "Steve_(SFxT)"
+    },
+    {
+        "text": "Street Fighter 3: 3rd Strike",
+        "src": "Street_Fighter_3:_3rd_Strike"
+    },
+    {
+        "text": "Street Fighter Alpha 3",
+        "src": "Street_Fighter_Alpha_3"
+    },
+    {
+        "text": "Street Fighter x Tekken",
+        "src": "Street_Fighter_x_Tekken"
+    },
+    {
+        "text": "Strider (UMVC3)",
+        "src": "Strider_(UMVC3)"
+    },
+    {
+        "text": "Super Street Fighter II Turbo HD Remix",
+        "src": "Super_Street_Fighter_II_Turbo_HD_Remix"
+    },
+    {
+        "text": "Super Street Fighter II X",
+        "src": "Super_Street_Fighter_II_X"
+    },
+    {
+        "text": "Super Street Fighter IV",
+        "src": "Super_Street_Fighter_IV"
+    },
+    {
+        "text": "Super tir",
+        "src": "Super_tir"
+    },
+    {
+        "text": "T. Hawk (2X)",
+        "src": "T._Hawk_(2X)"
+    },
+    {
+        "text": "T. Hawk (SSFIV)",
+        "src": "T._Hawk_(SSFIV)"
+    },
+    {
+        "text": "Takuma",
+        "src": "Takuma"
+    },
+    {
+        "text": "Takuma Sakazaki (2k2um)",
+        "src": "Takuma_Sakazaki_(2k2um)"
+    },
+    {
+        "text": "Takuma Sakazaki (98um)",
+        "src": "Takuma_Sakazaki_(98um)"
+    },
+    {
+        "text": "Takuma Sakazaki (KoF '98)",
+        "src": "Takuma_Sakazaki_(KoF_%2798)"
+    },
+    {
+        "text": "Takuma Sakazaki (kof13)",
+        "src": "Takuma_Sakazaki_(kof13)"
+    },
+    {
+        "text": "Taokaka (BBCS)",
+        "src": "Taokaka_(BBCS)"
+    },
+    {
+        "text": "Tatsunoko vs Capcom",
+        "src": "Tatsunoko_vs_Capcom"
+    },
+    {
+        "text": "Tatsunoko vs Capcom Cross Generation of Heroes",
+        "src": "Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes"
+    },
+    {
+        "text": "Tatsunoko vs Capcom Ultimate All-Stars",
+        "src": "Tatsunoko_vs_Capcom_Ultimate_All-Stars"
+    },
+    {
+        "text": "Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)",
+        "src": "Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)"
+    },
+    {
+        "text": "Tekkaman (TvC:UAS)",
+        "src": "Tekkaman_(TvC:UAS)"
+    },
+    {
+        "text": "Tekkaman Blade (TvC:UAS)",
+        "src": "Tekkaman_Blade_(TvC:UAS)"
+    },
+    {
+        "text": "Terry",
+        "src": "Terry"
+    },
+    {
+        "text": "Terry Bogard (2k2um)",
+        "src": "Terry_Bogard_(2k2um)"
+    },
+    {
+        "text": "Terry Bogard (98um)",
+        "src": "Terry_Bogard_(98um)"
+    },
+    {
+        "text": "Terry Bogard (Fatal Fury Special)",
+        "src": "Terry_Bogard_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Terry Bogard (Garou)",
+        "src": "Terry_Bogard_(Garou)"
+    },
+    {
+        "text": "Terry Bogard (KoF '98)",
+        "src": "Terry_Bogard_(KoF_%2798)"
+    },
+    {
+        "text": "Terry Bogard (Real Bout 2-Era) (KoF '98)",
+        "src": "Terry_Bogard_(Real_Bout_2-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Terry Bogard (Real Bout Fatal Fury version) (98um)",
+        "src": "Terry_Bogard_(Real_Bout_Fatal_Fury_version)_(98um)"
+    },
+    {
+        "text": "Terry Bogard (kof13)",
+        "src": "Terry_Bogard_(kof13)"
+    },
+    {
+        "text": "The King of Fighters '98: The Slugfest",
+        "src": "The_King_of_Fighters_%2798:_The_Slugfest"
+    },
+    {
+        "text": "The King of Fighters '98: Unlimited Match",
+        "src": "The_King_of_Fighters_%2798:_Unlimited_Match"
+    },
+    {
+        "text": "The King of Fighters 2k2: Unlimited Match",
+        "src": "The_King_of_Fighters_2k2:_Unlimited_Match"
+    },
+    {
+        "text": "The King of Fighters XI",
+        "src": "The_King_of_Fighters_XI"
+    },
+    {
+        "text": "The King of Fighters XIII",
+        "src": "The_King_of_Fighters_XIII"
+    },
+    {
+        "text": "The King of Fighters XI - Ash Crimson",
+        "src": "The_King_of_Fighters_XI_-_Ash_Crimson"
+    },
+    {
+        "text": "The King of Fighters XI - Athena Asamiya",
+        "src": "The_King_of_Fighters_XI_-_Athena_Asamiya"
+    },
+    {
+        "text": "The King of Fighters XI - Benimaru Nikaido",
+        "src": "The_King_of_Fighters_XI_-_Benimaru_Nikaido"
+    },
+    {
+        "text": "The King of Fighters XI - Blue Mary",
+        "src": "The_King_of_Fighters_XI_-_Blue_Mary"
+    },
+    {
+        "text": "The King of Fighters XI - Bonne Jenet",
+        "src": "The_King_of_Fighters_XI_-_Bonne_Jenet"
+    },
+    {
+        "text": "The King of Fighters XI - Clark Steel",
+        "src": "The_King_of_Fighters_XI_-_Clark_Steel"
+    },
+    {
+        "text": "The King of Fighters XI - Duck King",
+        "src": "The_King_of_Fighters_XI_-_Duck_King"
+    },
+    {
+        "text": "The King of Fighters XI - Duo Lon",
+        "src": "The_King_of_Fighters_XI_-_Duo_Lon"
+    },
+    {
+        "text": "The King of Fighters XI - Eiji Kisaragi",
+        "src": "The_King_of_Fighters_XI_-_Eiji_Kisaragi"
+    },
+    {
+        "text": "The King of Fighters XI - Elisabeth Blanctorche",
+        "src": "The_King_of_Fighters_XI_-_Elisabeth_Blanctorche"
+    },
+    {
+        "text": "The King of Fighters XI - Gato Futaba",
+        "src": "The_King_of_Fighters_XI_-_Gato_Futaba"
+    },
+    {
+        "text": "The King of Fighters XI - Griffon",
+        "src": "The_King_of_Fighters_XI_-_Griffon"
+    },
+    {
+        "text": "The King of Fighters XI - Iori Yagami",
+        "src": "The_King_of_Fighters_XI_-_Iori_Yagami"
+    },
+    {
+        "text": "The King of Fighters XI - K'",
+        "src": "The_King_of_Fighters_XI_-_K%27"
+    },
+    {
+        "text": "The King of Fighters XI - Kasumi Todoh",
+        "src": "The_King_of_Fighters_XI_-_Kasumi_Todoh"
+    },
+    {
+        "text": "The King of Fighters XI - Kim Kaphwan",
+        "src": "The_King_of_Fighters_XI_-_Kim_Kaphwan"
+    },
+    {
+        "text": "The King of Fighters XI - King",
+        "src": "The_King_of_Fighters_XI_-_King"
+    },
+    {
+        "text": "The King of Fighters XI - Kula Diamond",
+        "src": "The_King_of_Fighters_XI_-_Kula_Diamond"
+    },
+    {
+        "text": "The King of Fighters XI - Kyo Kusanagi",
+        "src": "The_King_of_Fighters_XI_-_Kyo_Kusanagi"
+    },
+    {
+        "text": "The King of Fighters XI - Magaki",
+        "src": "The_King_of_Fighters_XI_-_Magaki"
+    },
+    {
+        "text": "The King of Fighters XI - Malin",
+        "src": "The_King_of_Fighters_XI_-_Malin"
+    },
+    {
+        "text": "The King of Fighters XI - Maxima",
+        "src": "The_King_of_Fighters_XI_-_Maxima"
+    },
+    {
+        "text": "The King of Fighters XI - Momoko",
+        "src": "The_King_of_Fighters_XI_-_Momoko"
+    },
+    {
+        "text": "The King of Fighters XI - Oswald",
+        "src": "The_King_of_Fighters_XI_-_Oswald"
+    },
+    {
+        "text": "The King of Fighters XI - Ralf Jones",
+        "src": "The_King_of_Fighters_XI_-_Ralf_Jones"
+    },
+    {
+        "text": "The King of Fighters XI - Ramon",
+        "src": "The_King_of_Fighters_XI_-_Ramon"
+    },
+    {
+        "text": "The King of Fighters XI - Ryo Sakazaki",
+        "src": "The_King_of_Fighters_XI_-_Ryo_Sakazaki"
+    },
+    {
+        "text": "The King of Fighters XI - Shen Woo",
+        "src": "The_King_of_Fighters_XI_-_Shen_Woo"
+    },
+    {
+        "text": "The King of Fighters XI - Shingo Yabuki",
+        "src": "The_King_of_Fighters_XI_-_Shingo_Yabuki"
+    },
+    {
+        "text": "The King of Fighters XI - Shion",
+        "src": "The_King_of_Fighters_XI_-_Shion"
+    },
+    {
+        "text": "The King of Fighters XI - Sie Kensou",
+        "src": "The_King_of_Fighters_XI_-_Sie_Kensou"
+    },
+    {
+        "text": "The King of Fighters XI - Terry Bogard",
+        "src": "The_King_of_Fighters_XI_-_Terry_Bogard"
+    },
+    {
+        "text": "The King of Fighters XI - Vanessa",
+        "src": "The_King_of_Fighters_XI_-_Vanessa"
+    },
+    {
+        "text": "The King of Fighters XI - Whip",
+        "src": "The_King_of_Fighters_XI_-_Whip"
+    },
+    {
+        "text": "The King of Fighters XI - Yuri Sakazaki",
+        "src": "The_King_of_Fighters_XI_-_Yuri_Sakazaki"
+    },
+    {
+        "text": "Tiled",
+        "src": "Tiled"
+    },
+    {
+        "text": "Tizoc (Garou)",
+        "src": "Tizoc_(Garou)"
+    },
+    {
+        "text": "Trish (UMVC3)",
+        "src": "Trish_(UMVC3)"
+    },
+    {
+        "text": "Tron Bonne (UMVC3)",
+        "src": "Tron_Bonne_(UMVC3)"
+    },
+    {
+        "text": "Tsubaki Yayoi (BBCS)",
+        "src": "Tsubaki_Yayoi_(BBCS)"
+    },
+    {
+        "text": "Tung Fu Rue (Fatal Fury Special)",
+        "src": "Tung_Fu_Rue_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Twelve (3S)",
+        "src": "Twelve_(3S)"
+    },
+    {
+        "text": "Ultimate Marvel vs Capcom 3",
+        "src": "Ultimate_Marvel_vs_Capcom_3"
+    },
+    {
+        "text": "Urien (3S)",
+        "src": "Urien_(3S)"
+    },
+    {
+        "text": "Valkenhayn=R=Hellsing (BBCS)",
+        "src": "Valkenhayn%3DR%3DHellsing_(BBCS)"
+    },
+    {
+        "text": "Vanessa (2k2um)",
+        "src": "Vanessa_(2k2um)"
+    },
+    {
+        "text": "Vega (2X)",
+        "src": "Vega_(2X)"
+    },
+    {
+        "text": "Vega (SFxT)",
+        "src": "Vega_(SFxT)"
+    },
+    {
+        "text": "Vega (SSFIV)",
+        "src": "Vega_(SSFIV)"
+    },
+    {
+        "text": "Vergil (UMVC3)",
+        "src": "Vergil_(UMVC3)"
+    },
+    {
+        "text": "Vice (2k2um)",
+        "src": "Vice_(2k2um)"
+    },
+    {
+        "text": "Vice (98um)",
+        "src": "Vice_(98um)"
+    },
+    {
+        "text": "Vice (KoF '98)",
+        "src": "Vice_(KoF_%2798)"
+    },
+    {
+        "text": "Vice (kof13)",
+        "src": "Vice_(kof13)"
+    },
+    {
+        "text": "Viewtiful Joe (TvC:UAS)",
+        "src": "Viewtiful_Joe_(TvC:UAS)"
+    },
+    {
+        "text": "Viewtiful Joe (UMVC3)",
+        "src": "Viewtiful_Joe_(UMVC3)"
+    },
+    {
+        "text": "Wesker (UMVC3)",
+        "src": "Wesker_(UMVC3)"
+    },
+    {
+        "text": "Whip (2k2um)",
+        "src": "Whip_(2k2um)"
+    },
+    {
+        "text": "Windjammers",
+        "src": "Windjammers"
+    },
+    {
+        "text": "Wolfgang Krauser (98um)",
+        "src": "Wolfgang_Krauser_(98um)"
+    },
+    {
+        "text": "Wolfgang Krauser (Fatal Fury Special)",
+        "src": "Wolfgang_Krauser_(Fatal_Fury_Special)"
+    },
+    {
+        "text": "Xiaoyu (SFxT)",
+        "src": "Xiaoyu_(SFxT)"
+    },
+    {
+        "text": "Yamazaki (2k2um)",
+        "src": "Yamazaki_(2k2um)"
+    },
+    {
+        "text": "Yang (3S)",
+        "src": "Yang_(3S)"
+    },
+    {
+        "text": "Yang (AE) (SSFIV)",
+        "src": "Yang_(AE)_(SSFIV)"
+    },
+    {
+        "text": "Yang (SSFIV)",
+        "src": "Yang_(SSFIV)"
+    },
+    {
+        "text": "Yashiro (2k2um)",
+        "src": "Yashiro_(2k2um)"
+    },
+    {
+        "text": "Yashiro Nanakase (2k2um)",
+        "src": "Yashiro_Nanakase_(2k2um)"
+    },
+    {
+        "text": "Yashiro Nanakase (98um)",
+        "src": "Yashiro_Nanakase_(98um)"
+    },
+    {
+        "text": "Yashiro Nanakase (KoF '98)",
+        "src": "Yashiro_Nanakase_(KoF_%2798)"
+    },
+    {
+        "text": "Yatterman-1 (TvC:UAS)",
+        "src": "Yatterman-1_(TvC:UAS)"
+    },
+    {
+        "text": "Yatterman-2 (TvC:UAS)",
+        "src": "Yatterman-2_(TvC:UAS)"
+    },
+    {
+        "text": "Yoshimitsu (SFxT)",
+        "src": "Yoshimitsu_(SFxT)"
+    },
+    {
+        "text": "Yun (3S)",
+        "src": "Yun_(3S)"
+    },
+    {
+        "text": "Yun (AE) (SSFIV)",
+        "src": "Yun_(AE)_(SSFIV)"
+    },
+    {
+        "text": "Yun (SSFIV)",
+        "src": "Yun_(SSFIV)"
+    },
+    {
+        "text": "Yuri (2k2um)",
+        "src": "Yuri_(2k2um)"
+    },
+    {
+        "text": "Yuri Sakazaki (2k2um)",
+        "src": "Yuri_Sakazaki_(2k2um)"
+    },
+    {
+        "text": "Yuri Sakazaki (98um)",
+        "src": "Yuri_Sakazaki_(98um)"
+    },
+    {
+        "text": "Yuri Sakazaki (KoF '94) (98um)",
+        "src": "Yuri_Sakazaki_(KoF_%2794)_(98um)"
+    },
+    {
+        "text": "Yuri Sakazaki (KoF '94-Era) (KoF '98)",
+        "src": "Yuri_Sakazaki_(KoF_%2794-Era)_(KoF_%2798)"
+    },
+    {
+        "text": "Yuri Sakazaki (KoF '98)",
+        "src": "Yuri_Sakazaki_(KoF_%2798)"
+    },
+    {
+        "text": "Yuri Sakazaki (kof13)",
+        "src": "Yuri_Sakazaki_(kof13)"
+    },
+    {
+        "text": "Zangief (2X)",
+        "src": "Zangief_(2X)"
+    },
+    {
+        "text": "Zangief (SFxT)",
+        "src": "Zangief_(SFxT)"
+    },
+    {
+        "text": "Zangief (SSFIV)",
+        "src": "Zangief_(SSFIV)"
+    },
+    {
+        "text": "Zero (TvC:UAS)",
+        "src": "Zero_(TvC:UAS)"
+    },
+    {
+        "text": "Zero (UMVC3)",
+        "src": "Zero_(UMVC3)"
+    },
+    {
+        "text": "Λ -11- (BBCS)",
+        "src": "%CE%9B_-11-_(BBCS)"
+    },
+    {
+        "text": "Μ -12- (BBCS)",
+        "src": "%CE%9C_-12-_(BBCS)"
+    }
 ]
