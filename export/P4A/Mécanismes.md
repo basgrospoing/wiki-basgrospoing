@@ -1,0 +1,615 @@
+Cette page décrit les mécanismes de base d'un jeu de combat disponibles
+dans *[Persona 4 Arena](Persona_4_Arena "wikilink")*. Pour un aperçu des
+fonctionnalités spécifiques, consultez l'article [mécanismes
+avancés](P4A/Mécanismes_avancés "wikilink").
+
+# Déplacement
+
+## Fondamentaux
+
+*Persona 4 Arena* reprend la plupart des options de déplacement des
+autres jeux Arcsys.
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Marcher**  
+  
+![](Marche.jpg "Marche.jpg")
+
+</center>
+
+  
+/ : déplacement simple horizontal.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Courir/*dasher***  
+  
+![](Cours.jpg "Cours.jpg")
+
+</center>
+
+  
+: déplacement rapide horizontal vers l'avant  
+(maintenir la direction).
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**S'accroupir**  
+  
+![](Accroupi.jpg "Accroupi.jpg")
+
+</center>
+
+  
+// : le personnage se baisse.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Backdash**  
+  
+![](Backdash.jpg "Backdash.jpg")
+
+</center>
+
+  
+: effectue un rapide déplacement vers l'arrière à une distance limitée.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Sauter**  
+  
+<img src="Saut.jpg" title="Saut.jpg" width="210" alt="Saut.jpg" />
+<img src="Double_saut.jpg" title="Double_saut.jpg" width="210"
+alt="Double_saut.jpg" />
+
+</center>
+
+  
+// : le personnage saute. Possibilité de resauter une fois en l'air.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Super saut/*high jump***  
+  
+![](Super_saut.jpg "Super_saut.jpg")
+
+</center>
+
+  
+// (super saut/*high jump*) : un saut à une hauteur plus élevée.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+***Airdash***  
+  
+![](Airdash.jpg "Airdash.jpg")
+
+</center>
+
+  
+*En l'air* : : le personnage effectue un rapide mouvement vers l'avant
+en l'air à une distance limitée.
+
+</td>
+<td style="padding:20px">
+<center>
+
+***Airbackdash***  
+  
+![](Airbackdash.jpg "Airbackdash.jpg")
+
+</center>
+
+  
+*En l'air* : (*airbackdash*) : la même chose mais dans la direction
+opposée.
+
+</td>
+</tr>
+</table>
+
+## Avancés
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+***Quick escape***  
+  
+![](Quick_escape.jpg "Quick_escape.jpg")
+
+</center>
+
+  
++ : exécute un rapide mouvement vers l'avant partiellement invincible  
+contre les attaques mais pas les projections. Il y a un délai de
+récupération à la fin.
+
+</td>
+<td style="padding:20px">
+<center>
+
+***Air turn***  
+  
+![](Air_turn.jpg "Air_turn.jpg")
+
+</center>
+
+  
+*En l'air :* + : le personnage se retourne en l'air  
+et les attaques effectuées le seront donc dans l'autre direction.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px" colspan="2">
+<center>
+
+**Mini saut/*hop***  
+  
+![](Mini_saut.jpg "Mini_saut.jpg")
+
+</center>
+
+  
+ + : le personnage effectue un saut moins haut qu'un saut normal. Cela
+permet notamment par exemple d'éviter les attaques basses ainsi que les
+projections. Il y a cependant un délai avant de pouvoir attaquer pendant
+le hop.
+
+</td>
+</table>
+
+# Attaque
+
+## Fondamentaux
+
+Les 4 boutons , , et correspondent chacun à une catégorie d'attaques
+différente.
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Coup faible**  
+  
+![](Coup_faible.jpg "Coup_faible.jpg")
+
+</center>
+
+  
+: coup généralement faible et rapide.  
+Appuyer plusieurs fois successivement sur A sans toucher de direction  
+donne lieu automatiquement à un combo simple et universel.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Persona faible**  
+  
+![](Persona_faible.jpg "Persona_faible.jpg")
+
+</center>
+
+  
+: une attaque faible effectuée par le Persona.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Coup fort**  
+  
+![](Coup_fort.jpg "Coup_fort.jpg")
+
+</center>
+
+  
+: un coup plus puissant que le à l'utilité spécifique au personnage.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Persona fort**  
+  
+![](Persona_fort.jpg "Persona_fort.jpg")
+
+</center>
+
+  
+: une attaque plus puissante effectuée par le Persona.
+
+</td>
+</tr>
+</table>
+
+Combiner une direction avec un des boutons peut changer le coup utilisé
+(en particulier ). Il est également possible des les utiliser en l'air.
+
+<table>
+<tr>
+<td style="padding:20px" colspan="2">
+<center>
+
+**Projection**  
+  
+![](Projection.jpg "Projection.jpg")
+
+</center>
+
+  
++ *proche de l'adversaire* : effectue une projection (imbloquable). Peut
+également être exécuté en l'air.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Coup spécial/*Skill***  
+  
+![](Coup_spécial.jpg "Coup_spécial.jpg")
+
+</center>
+
+  
+La commande dépend du personnage, il s'agit généralement d'une
+combinaison  
+/ suivie d'un bouton d'attaque (excepté pour Mitsuru qui dispose
+également de charges). Appuyer sur les deux boutons personnage/Persona
+entraîne un coup *SB* qui correspond aux *EX* dans les autres jeux de
+combat. Ceux-ci bénéficient de propriétés supplémentaires au prix de 25
+SP.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Super/*SP Skill***  
+  
+![](Sp_skill.jpg "Sp_skill.jpg")
+
+</center>
+
+  
+/ *suivie d'un bouton d'attaque* : une attaque très puissante coûtant 50
+SP. Il est possible de cancel une grande variété d'attaques vers une
+super au prix d'un ajout de barre bleue.
+
+</td>
+</tr>
+</table>
+
+## Avancés
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Balayette/*sweep***  
+  
+![](Balayette.jpg "Balayette.jpg")
+
+</center>
+
+  
+ + : touche *low* et entraîne un knockdown. Universel.  
+Possibilité de combo après.
+
+<td style="padding:20px">
+<center>
+
+***All-out Attack***  
+  
+![](All_out_attack.jpg "All_out_attack.jpg")
+
+</center>
+
+  
++ : une attaque touchant *high* (*overhead*). Dispose d'auto-garde.  
+Universel. Peut être suivie par un *All-out Rush*.  
+Si un adversaire en l'air est touché, il rebondira sur le sol.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+***All-out Rush***  
+  
+![](All_out_rush.jpg "All_out_rush.jpg")
+
+</center>
+
+  
+Appuyer de manière répétée sur / après un All-out Attack : followup de
+l'All-out Attack. Fatal Counter après 15 hits.
+
+</td>
+<td style="padding:20px">
+<center>
+
+***All-out Finish***  
+  
+![](All_out_finish.jpg "All_out_finish.jpg")
+
+</center>
+
+  
+/ après un All-out Rush :
+
+- La version envoie l'adversaire en l'air pour un aircombo.
+- La version envoie l'adversaire au loin, le faisant éventuellement
+  rebondir s'il touche le mur afin de prolonger le combo.
+  </td>
+
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+***One More Cancel***  
+  
+![](1_more_cancel.jpg "1_more_cancel.jpg")
+
+</center>
+
+  
+++ *pendant que le personnage effectue une attaque* : remet le
+personnage en situation neutre au prix de 50 SP.
+
+<td style="padding:20px">
+<center>
+
+***One More Burst***  
+  
+![](1_more_burst.jpg "1_more_burst.jpg")
+
+</center>
+
+  
+++ *pendant que le personnage effectue une attaque* : vide totalement la
+jauge de Burst, projette l'adversaire en l'air et augmente la proration
+pour la suite du combo.
+
+</td>
+</tr>
+</table>
+
+# Défense
+
+## Fondamentaux
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Garde haute**  
+  
+![](Garde_haute.jpg "Garde_haute.jpg")
+
+</center>
+
+  
+*lorsque l'adversaire attaque* : permet de bloquer les attaques qui ont
+la propriété de toucher haut (*high*) ou mid.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Garde basse**  
+  
+![](Garde_basse.jpg "Garde_basse.jpg")
+
+</center>
+
+  
+*lorsque l'adversaire attaque* : permet de bloquer les attaques qui ont
+la propriété de toucher bas (*low*) ou mid.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Garde en l'air**  
+  
+![](Garde_en_l'air.jpg "Garde_en_l'air.jpg")
+
+</center>
+
+  
+*En l'air* /(/ si pas de double saut disponible) *lorsque l'adversaire
+attaque* : permet de bloquer les attaques gardables en l'air.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Déchope**  
+  
+![](Déchope.jpg "Déchope.jpg")
+
+</center>
+
+  
++ *lorsque l'adversaire tente une projection* : permet d'empêcher la
+projection.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+***Ukemi***  
+  
+![](Ukemi.jpg "Ukemi.jpg")
+
+</center>
+
+  
+*À terre* : /// : le personnage flash et se relève rapidement.
+
+</td>
+<td style="padding:20px">
+<center>
+
+***Air ukemi***  
+  
+![](Air_ukemi.jpg "Air_ukemi.jpg")
+
+</center>
+
+  
+*Après que la barre d*'air ukemi*se soit vidée* : ///(+/) : le
+personnage flash et récupère le contrôle de ses mouvements. Toutes les
+options de mouvement aérien sont de nouveau utilisables.
+
+</td>
+</tr>
+</table>
+
+## Avancés
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+***Instant block***  
+  
+![](Instant_block.jpg "Instant_block.jpg")
+
+</center>
+
+  
+*Garder au moment exact où l'adversaire attaque* : produit un flash
+blanc et diminue le temps passé à récupérer de la garde.
+
+</td>
+<td style="padding:20px">
+<center>
+
+**Contre-attaque**  
+  
+![](Contre_attaque.jpg "Contre_attaque.jpg")
+
+</center>
+
+  
+ + *lorsque le personnage est en train de bloquer* : produit un flash
+blanc puis effectue une attaque capable d'absorber un coup.
+
+</td>
+</tr>
+<tr>
+<td style="padding:20px">
+<center>
+
+**Action furieuse/*le pif***  
+  
+![](Pif.jpg "Pif.jpg")
+
+</center>
+
+  
++ : une attaque invulnérable à usage généralement défensif permettant de
+se sortir de la pression subie lorsqu'elle est utilisée correctement. Il
+est également possible de s'en servir en combo dans le cas de certains
+personnages. Il est aussi parfois possible de s'en servir en l'air.
+Utiliser l'action furieuse a un coût en barre bleue.
+
+</td>
+<td style="padding:20px">
+<center>
+
+***Burst***  
+  
+![](Burst.jpg "Burst.jpg")
+
+</center>
+
+  
+++ *lorsque le personnage est en train de se faire toucher* (nécessite
+un jauge de Burst complète) : le personnage devient momentanément
+invincible puis produit une explosion qui rejette l'adversaire s'il est
+à portée du Burst.
+
+</td>
+</tr>
+</table>
+
+# Autres
+
+<table>
+<tr>
+<td style="padding:20px">
+<center>
+
+***Max burst***  
+  
+![](Max_burst.jpg "Max_burst.jpg")
+
+</center>
+
+  
+++ *lorsque le personnage n'est ni en train d'attaquer, de bloquer ou de
+se faire toucher et que la barre de Burst n'est pas désactivée* :
+produit un Burst qui s'il touche envoie l'adversaire en l'air et remplit
+intégralement la barre de SP et la barre de Burst à 25%
+
+</td>
+<td style="padding:20px">
+<center>
+
+***Awakening***  
+  
+![](Awakening.jpg "Awakening.jpg")
+
+</center>
+
+  
+Le personnage entre en awakening lorsqu'il retourne en statut neutre en
+ayant moins de 35% de ses points de vie effectifs (points de vie sans
+barre bleue). Il bénéficie alors de coups supplémentaires, sa barre de
+SP est augmentée à 150 et il gagne 50 SP. Enfin, les dégâts subis sont
+réduits à 62,5%.
+
+</td>
+</tr>
+</table>

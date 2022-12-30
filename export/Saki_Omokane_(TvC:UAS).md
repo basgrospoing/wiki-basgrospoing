@@ -1,0 +1,44 @@
+<img src="Saki-omokane.jpg" title="Saki-omokane.jpg" width="250"
+alt="Saki-omokane.jpg" />  
+
+# Introduction
+
+# Moves List
+
+## Normal Moves
+
+**Gun Swing**  
+→ + H
+
+## Special Moves
+
+**Experimental Position Cannon**  
+↓ ↘ → + A
+
+**Hand Grenade** (Air)  
+← ↓ ↙ + A
+
+**Load Special Ammo**  
+↓ ↓ + A
+
+**Load Special Ammo**  
+↓ ↙ ← + A
+
+## Hyper Combos
+
+**Position Storm** (Lv1)  
+↓ ↘ → + A A
+
+**Load Super Armor-Piercing Shell** (Lv1)  
+→ ↘ ↓ ↙ ← + A A
+
+**The World's Greatest Attack** (Lv3)  
+→ ↓ ↘ + A A
+
+## Assist
+
+Gun Swing
+
+## Hyper Combination
+
+Position Storm
