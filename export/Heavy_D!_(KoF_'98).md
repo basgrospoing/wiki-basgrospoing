@@ -1,8 +1,8 @@
 ---
-title: Heavy D! (KoF '98)
-slug: Heavy_D!_(KoF_'98)
+title: "Heavy D! (KoF '98)"
+slug:  "Heavy_D!_(KoF_'98)"
 id: 185
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Heavy D! (KoF '98)

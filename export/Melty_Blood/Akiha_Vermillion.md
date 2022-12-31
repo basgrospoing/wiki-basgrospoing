@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Akiha Vermillion
-slug: Melty_Blood/Akiha_Vermillion
+title: "Melty Blood/Akiha Vermillion"
+slug:  "Melty_Blood/Akiha_Vermillion"
 id: 1731
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Akiha Vermillion

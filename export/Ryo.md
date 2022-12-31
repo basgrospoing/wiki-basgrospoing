@@ -1,8 +1,8 @@
 ---
-title: Ryo
-slug: Ryo
+title: "Ryo"
+slug:  "Ryo"
 id: 27
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ryo

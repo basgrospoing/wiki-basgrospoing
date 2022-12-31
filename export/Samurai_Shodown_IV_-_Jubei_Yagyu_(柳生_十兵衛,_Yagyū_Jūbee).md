@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)
-slug: Samurai_Shodown_IV_-_Jubei_Yagyu_(柳生_十兵衛,_Yagyū_Jūbee)
+title: "Samurai Shodown IV - Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)"
+slug:  "Samurai_Shodown_IV_-_Jubei_Yagyu_(柳生_十兵衛,_Yagyū_Jūbee)"
 id: 652
-author: Olivic
-redirect: Ss4-Jubei
+author: "Olivic"
+redirect: "Ss4-Jubei"
 old_id: 669
 ---
 

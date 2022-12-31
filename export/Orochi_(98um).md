@@ -1,8 +1,8 @@
 ---
-title: Orochi (98um)
-slug: Orochi_(98um)
+title: "Orochi (98um)"
+slug:  "Orochi_(98um)"
 id: 267
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Orochi (98um)

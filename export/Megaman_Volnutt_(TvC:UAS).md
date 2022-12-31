@@ -1,8 +1,8 @@
 ---
-title: Megaman Volnutt (TvC:UAS)
-slug: Megaman_Volnutt_(TvC:UAS)
+title: "Megaman Volnutt (TvC:UAS)"
+slug:  "Megaman_Volnutt_(TvC:UAS)"
 id: 565
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Megaman Volnutt (TvC:UAS)

@@ -1,8 +1,8 @@
 ---
-title: Zangief (2X)
-slug: Zangief_(2X)
+title: "Zangief (2X)"
+slug:  "Zangief_(2X)"
 id: 464
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Zangief (2X)

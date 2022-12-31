@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Warachia/Crescent Moon
-slug: Melty_Blood/Warachia/Crescent_Moon
+title: "Melty Blood/Warachia/Crescent Moon"
+slug:  "Melty_Blood/Warachia/Crescent_Moon"
 id: 1893
-author: 82.234.188.250
+author: "82.234.188.250"
 ---
 
 # Melty Blood/Warachia/Crescent Moon

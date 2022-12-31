@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Neco Arc Chaos/Half Moon
-slug: Melty_Blood/Neco_Arc_Chaos/Half_Moon
+title: "Melty Blood/Neco Arc Chaos/Half Moon"
+slug:  "Melty_Blood/Neco_Arc_Chaos/Half_Moon"
 id: 1822
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Neco Arc Chaos/Half Moon

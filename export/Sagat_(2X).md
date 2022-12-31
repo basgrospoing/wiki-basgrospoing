@@ -1,8 +1,8 @@
 ---
-title: Sagat (2X)
-slug: Sagat_(2X)
+title: "Sagat (2X)"
+slug:  "Sagat_(2X)"
 id: 461
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Sagat (2X)

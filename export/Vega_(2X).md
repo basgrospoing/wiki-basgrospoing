@@ -1,8 +1,8 @@
 ---
-title: Vega (2X)
-slug: Vega_(2X)
+title: "Vega (2X)"
+slug:  "Vega_(2X)"
 id: 463
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Vega (2X)

@@ -1,8 +1,8 @@
 ---
-title: Jun the Swan (TvC:UAS)
-slug: Jun_the_Swan_(TvC:UAS)
+title: "Jun the Swan (TvC:UAS)"
+slug:  "Jun_the_Swan_(TvC:UAS)"
 id: 514
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Jun the Swan (TvC:UAS)

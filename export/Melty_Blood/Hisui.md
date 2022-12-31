@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Hisui
-slug: Melty_Blood/Hisui
+title: "Melty Blood/Hisui"
+slug:  "Melty_Blood/Hisui"
 id: 1763
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Hisui

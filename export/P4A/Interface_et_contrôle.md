@@ -1,8 +1,8 @@
 ---
-title: P4A/Interface et contrôle
-slug: P4A/Interface_et_contrôle
+title: "P4A/Interface et contrôle"
+slug:  "P4A/Interface_et_contrôle"
 id: 2570
-author: Kabai
+author: "Kabai"
 ---
 
 # P4A/Interface et contrôle

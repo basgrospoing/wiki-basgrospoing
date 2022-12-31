@@ -1,8 +1,8 @@
 ---
-title: Jean Pierre (KR)
-slug: Jean_Pierre_(KR)
+title: "Jean Pierre (KR)"
+slug:  "Jean_Pierre_(KR)"
 id: 385
-author: Zarghatt
+author: "Zarghatt"
 ---
 
 # Jean Pierre (KR)

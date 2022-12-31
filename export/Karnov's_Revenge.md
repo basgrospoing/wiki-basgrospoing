@@ -1,8 +1,8 @@
 ---
-title: Karnov's Revenge
-slug: Karnov's_Revenge
+title: "Karnov's Revenge"
+slug:  "Karnov's_Revenge"
 id: 383
-author: Admin
+author: "Admin"
 ---
 
 # Karnov's Revenge

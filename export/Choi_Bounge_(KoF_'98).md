@@ -1,8 +1,8 @@
 ---
-title: Choi Bounge (KoF '98)
-slug: Choi_Bounge_(KoF_'98)
+title: "Choi Bounge (KoF '98)"
+slug:  "Choi_Bounge_(KoF_'98)"
 id: 172
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Choi Bounge (KoF '98)

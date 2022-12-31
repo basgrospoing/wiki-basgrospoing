@@ -1,8 +1,8 @@
 ---
-title: Yun (3S)
-slug: Yun_(3S)
+title: "Yun (3S)"
+slug:  "Yun_(3S)"
 id: 287
-author: ALX
+author: "ALX"
 ---
 
 # Yun (3S)

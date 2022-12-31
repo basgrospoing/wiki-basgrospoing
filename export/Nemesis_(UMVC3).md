@@ -1,8 +1,8 @@
 ---
-title: Nemesis (UMVC3)
-slug: Nemesis_(UMVC3)
+title: "Nemesis (UMVC3)"
+slug:  "Nemesis_(UMVC3)"
 id: 2995
-author: ALX
+author: "ALX"
 ---
 
 # Nemesis (UMVC3)

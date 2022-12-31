@@ -1,8 +1,8 @@
 ---
-title: P4A/Mécanismes avancés
-slug: P4A/Mécanismes_avancés
+title: "P4A/Mécanismes avancés"
+slug:  "P4A/Mécanismes_avancés"
 id: 2680
-author: Kabai
+author: "Kabai"
 ---
 
 # P4A/Mécanismes avancés

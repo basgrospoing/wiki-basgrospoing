@@ -1,8 +1,8 @@
 ---
-title: Terry
-slug: Terry
+title: "Terry"
+slug:  "Terry"
 id: 24
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Terry

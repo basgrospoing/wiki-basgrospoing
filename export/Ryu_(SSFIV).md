@@ -1,8 +1,8 @@
 ---
-title: Ryu (SSFIV)
-slug: Ryu_(SSFIV)
+title: "Ryu (SSFIV)"
+slug:  "Ryu_(SSFIV)"
 id: 353
-author: Atomskyu690
+author: "Atomskyu690"
 ---
 
 # Ryu (SSFIV)

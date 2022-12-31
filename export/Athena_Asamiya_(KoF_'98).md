@@ -1,8 +1,8 @@
 ---
-title: Athena Asamiya (KoF '98)
-slug: Athena_Asamiya_(KoF_'98)
+title: "Athena Asamiya (KoF '98)"
+slug:  "Athena_Asamiya_(KoF_'98)"
 id: 164
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Athena Asamiya (KoF '98)

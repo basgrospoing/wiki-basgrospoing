@@ -1,9 +1,9 @@
 ---
-title: Kusanagi (2k2um)
-slug: Kusanagi_(2k2um)
+title: "Kusanagi (2k2um)"
+slug:  "Kusanagi_(2k2um)"
 id: 63
-author: Corbeau Bleu
-redirect: Kusanagi
+author: "Corbeau Bleu"
+redirect: "Kusanagi"
 old_id: 114
 ---
 

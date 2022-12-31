@@ -1,8 +1,8 @@
 ---
-title: Hiromi Mita
-slug: Hiromi_Mita
+title: "Hiromi Mita"
+slug:  "Hiromi_Mita"
 id: 467
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Hiromi Mita

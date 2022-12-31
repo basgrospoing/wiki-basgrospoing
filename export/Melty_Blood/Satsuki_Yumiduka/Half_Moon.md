@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Satsuki Yumiduka/Half Moon
-slug: Melty_Blood/Satsuki_Yumiduka/Half_Moon
+title: "Melty Blood/Satsuki Yumiduka/Half Moon"
+slug:  "Melty_Blood/Satsuki_Yumiduka/Half_Moon"
 id: 1857
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Satsuki Yumiduka/Half Moon

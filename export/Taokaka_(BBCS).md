@@ -1,8 +1,8 @@
 ---
-title: Taokaka (BBCS)
-slug: Taokaka_(BBCS)
+title: "Taokaka (BBCS)"
+slug:  "Taokaka_(BBCS)"
 id: 295
-author: Achoral
+author: "Achoral"
 ---
 
 # Taokaka (BBCS)

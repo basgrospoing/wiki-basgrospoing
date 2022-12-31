@@ -1,8 +1,8 @@
 ---
-title: Ralf Jones (KoF '98)
-slug: Ralf_Jones_(KoF_'98)
+title: "Ralf Jones (KoF '98)"
+slug:  "Ralf_Jones_(KoF_'98)"
 id: 162
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ralf Jones (KoF '98)

@@ -1,8 +1,8 @@
 ---
-title: Heihachi (SFxT)
-slug: Heihachi_(SFxT)
+title: "Heihachi (SFxT)"
+slug:  "Heihachi_(SFxT)"
 id: 2183
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Heihachi (SFxT)

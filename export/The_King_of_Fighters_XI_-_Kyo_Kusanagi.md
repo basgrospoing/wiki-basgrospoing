@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Kyo Kusanagi
-slug: The_King_of_Fighters_XI_-_Kyo_Kusanagi
+title: "The King of Fighters XI - Kyo Kusanagi"
+slug:  "The_King_of_Fighters_XI_-_Kyo_Kusanagi"
 id: 961
-author: Olivic
-redirect: Kofxi-kyo-kusanagi
+author: "Olivic"
+redirect: "Kofxi-kyo-kusanagi"
 old_id: 962
 ---
 

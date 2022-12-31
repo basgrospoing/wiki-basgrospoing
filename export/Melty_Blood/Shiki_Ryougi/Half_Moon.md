@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Ryougi/Half Moon
-slug: Melty_Blood/Shiki_Ryougi/Half_Moon
+title: "Melty Blood/Shiki Ryougi/Half Moon"
+slug:  "Melty_Blood/Shiki_Ryougi/Half_Moon"
 id: 1868
-author: Skenn
+author: "Skenn"
 ---
 
 # Melty Blood/Shiki Ryougi/Half Moon

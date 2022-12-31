@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Neco Arc/Full Moon
-slug: Melty_Blood/Neco_Arc/Full_Moon
+title: "Melty Blood/Neco Arc/Full Moon"
+slug:  "Melty_Blood/Neco_Arc/Full_Moon"
 id: 1818
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Neco Arc/Full Moon

@@ -1,8 +1,8 @@
 ---
-title: Alex (TvC:UAS)
-slug: Alex_(TvC:UAS)
+title: "Alex (TvC:UAS)"
+slug:  "Alex_(TvC:UAS)"
 id: 528
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Alex (TvC:UAS)

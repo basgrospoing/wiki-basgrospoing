@@ -1,8 +1,8 @@
 ---
-title: Akuma (ST)
-slug: Akuma_(ST)
+title: "Akuma (ST)"
+slug:  "Akuma_(ST)"
 id: 450
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Akuma (ST)

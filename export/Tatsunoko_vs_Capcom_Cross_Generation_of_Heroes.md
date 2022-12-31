@@ -1,8 +1,8 @@
 ---
-title: Tatsunoko vs Capcom Cross Generation of Heroes
-slug: Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes
+title: "Tatsunoko vs Capcom Cross Generation of Heroes"
+slug:  "Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes"
 id: 567
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Tatsunoko vs Capcom Cross Generation of Heroes

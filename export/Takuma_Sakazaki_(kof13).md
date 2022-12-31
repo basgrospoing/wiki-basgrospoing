@@ -1,8 +1,8 @@
 ---
-title: Takuma Sakazaki (kof13)
-slug: Takuma_Sakazaki_(kof13)
+title: "Takuma Sakazaki (kof13)"
+slug:  "Takuma_Sakazaki_(kof13)"
 id: 1076
-author: Kula'
+author: "Kula'"
 ---
 
 # Takuma Sakazaki (kof13)

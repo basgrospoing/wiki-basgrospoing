@@ -1,8 +1,8 @@
 ---
-title: Vergil (UMVC3)
-slug: Vergil_(UMVC3)
+title: "Vergil (UMVC3)"
+slug:  "Vergil_(UMVC3)"
 id: 3009
-author: ALX
+author: "ALX"
 ---
 
 # Vergil (UMVC3)

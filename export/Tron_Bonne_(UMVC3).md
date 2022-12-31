@@ -1,8 +1,8 @@
 ---
-title: Tron Bonne (UMVC3)
-slug: Tron_Bonne_(UMVC3)
+title: "Tron Bonne (UMVC3)"
+slug:  "Tron_Bonne_(UMVC3)"
 id: 3008
-author: ALX
+author: "ALX"
 ---
 
 # Tron Bonne (UMVC3)

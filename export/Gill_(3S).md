@@ -1,8 +1,8 @@
 ---
-title: Gill (3S)
-slug: Gill_(3S)
+title: "Gill (3S)"
+slug:  "Gill_(3S)"
 id: 273
-author: ALX
+author: "ALX"
 ---
 
 # Gill (3S)

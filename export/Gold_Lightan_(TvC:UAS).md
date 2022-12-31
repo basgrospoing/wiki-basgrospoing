@@ -1,8 +1,8 @@
 ---
-title: Gold Lightan (TvC:UAS)
-slug: Gold_Lightan_(TvC:UAS)
+title: "Gold Lightan (TvC:UAS)"
+slug:  "Gold_Lightan_(TvC:UAS)"
 id: 520
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Gold Lightan (TvC:UAS)

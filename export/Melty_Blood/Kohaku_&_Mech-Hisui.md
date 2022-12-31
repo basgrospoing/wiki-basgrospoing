@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kohaku & Mech-Hisui
-slug: Melty_Blood/Kohaku_&_Mech-Hisui
+title: "Melty Blood/Kohaku & Mech-Hisui"
+slug:  "Melty_Blood/Kohaku_&_Mech-Hisui"
 id: 1780
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Kohaku & Mech-Hisui

@@ -1,8 +1,8 @@
 ---
-title: Viewtiful Joe (UMVC3)
-slug: Viewtiful_Joe_(UMVC3)
+title: "Viewtiful Joe (UMVC3)"
+slug:  "Viewtiful_Joe_(UMVC3)"
 id: 3013
-author: ALX
+author: "ALX"
 ---
 
 # Viewtiful Joe (UMVC3)

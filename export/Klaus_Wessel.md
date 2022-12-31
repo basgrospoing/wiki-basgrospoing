@@ -1,8 +1,8 @@
 ---
-title: Klaus Wessel
-slug: Klaus_Wessel
+title: "Klaus Wessel"
+slug:  "Klaus_Wessel"
 id: 477
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Klaus Wessel

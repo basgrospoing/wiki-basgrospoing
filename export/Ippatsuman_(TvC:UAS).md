@@ -1,8 +1,8 @@
 ---
-title: Ippatsuman (TvC:UAS)
-slug: Ippatsuman_(TvC:UAS)
+title: "Ippatsuman (TvC:UAS)"
+slug:  "Ippatsuman_(TvC:UAS)"
 id: 521
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Ippatsuman (TvC:UAS)

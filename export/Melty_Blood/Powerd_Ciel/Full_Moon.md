@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Powerd Ciel/Full Moon
-slug: Melty_Blood/Powerd_Ciel/Full_Moon
+title: "Melty Blood/Powerd Ciel/Full Moon"
+slug:  "Melty_Blood/Powerd_Ciel/Full_Moon"
 id: 1833
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Powerd Ciel/Full Moon

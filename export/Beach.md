@@ -1,8 +1,8 @@
 ---
-title: Beach
-slug: Beach
+title: "Beach"
+slug:  "Beach"
 id: 494
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Beach

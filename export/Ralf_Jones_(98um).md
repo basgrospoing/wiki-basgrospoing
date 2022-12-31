@@ -1,8 +1,8 @@
 ---
-title: Ralf Jones (98um)
-slug: Ralf_Jones_(98um)
+title: "Ralf Jones (98um)"
+slug:  "Ralf_Jones_(98um)"
 id: 214
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ralf Jones (98um)

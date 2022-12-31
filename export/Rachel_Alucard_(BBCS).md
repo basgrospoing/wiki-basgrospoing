@@ -1,8 +1,8 @@
 ---
-title: Rachel Alucard (BBCS)
-slug: Rachel_Alucard_(BBCS)
+title: "Rachel Alucard (BBCS)"
+slug:  "Rachel_Alucard_(BBCS)"
 id: 297
-author: Achoral
+author: "Achoral"
 ---
 
 # Rachel Alucard (BBCS)

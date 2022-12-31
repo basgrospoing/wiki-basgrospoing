@@ -1,8 +1,8 @@
 ---
-title: Ryu (Street Fighter Alpha 3)
-slug: Ryu_(Street_Fighter_Alpha_3)
+title: "Ryu (Street Fighter Alpha 3)"
+slug:  "Ryu_(Street_Fighter_Alpha_3)"
 id: 1230
-author: Tonio
+author: "Tonio"
 ---
 
 # Ryu (Street Fighter Alpha 3)

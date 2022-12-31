@@ -1,8 +1,8 @@
 ---
-title: Orochi Yashiro (98um)
-slug: Orochi_Yashiro_(98um)
+title: "Orochi Yashiro (98um)"
+slug:  "Orochi_Yashiro_(98um)"
 id: 243
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Orochi Yashiro (98um)

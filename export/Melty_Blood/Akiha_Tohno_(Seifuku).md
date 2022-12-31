@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Akiha Tohno (Seifuku)
-slug: Melty_Blood/Akiha_Tohno_(Seifuku)
+title: "Melty Blood/Akiha Tohno (Seifuku)"
+slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)"
 id: 1725
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Akiha Tohno (Seifuku)

@@ -1,8 +1,8 @@
 ---
-title: K' (kof13)
-slug: K'_(kof13)
+title: "K' (kof13)"
+slug:  "K'_(kof13)"
 id: 1087
-author: Maj
+author: "Maj"
 ---
 
 # K' (kof13)

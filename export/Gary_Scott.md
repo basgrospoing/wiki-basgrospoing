@@ -1,8 +1,8 @@
 ---
-title: Gary Scott
-slug: Gary_Scott
+title: "Gary Scott"
+slug:  "Gary_Scott"
 id: 475
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Gary Scott

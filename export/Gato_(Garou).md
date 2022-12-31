@@ -1,8 +1,8 @@
 ---
-title: Gato (Garou)
-slug: Gato_(Garou)
+title: "Gato (Garou)"
+slug:  "Gato_(Garou)"
 id: 14
-author: 83.199.55.44
+author: "83.199.55.44"
 ---
 
 # Gato (Garou)

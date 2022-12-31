@@ -1,8 +1,8 @@
 ---
-title: ABK/Murakumo
-slug: ABK/Murakumo
+title: "ABK/Murakumo"
+slug:  "ABK/Murakumo"
 id: 2509
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Murakumo

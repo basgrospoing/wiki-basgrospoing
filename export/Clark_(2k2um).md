@@ -1,9 +1,9 @@
 ---
-title: Clark (2k2um)
-slug: Clark_(2k2um)
+title: "Clark (2k2um)"
+slug:  "Clark_(2k2um)"
 id: 32
-author: Admin
-redirect: Clark
+author: "Admin"
+redirect: "Clark"
 old_id: 88
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (98um)
-slug: Terry_Bogard_(98um)
+title: "Terry Bogard (98um)"
+slug:  "Terry_Bogard_(98um)"
 id: 207
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Terry Bogard (98um)

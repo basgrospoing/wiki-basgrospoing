@@ -1,8 +1,8 @@
 ---
-title: Ralf Jones (kof13)
-slug: Ralf_Jones_(kof13)
+title: "Ralf Jones (kof13)"
+slug:  "Ralf_Jones_(kof13)"
 id: 1101
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Ralf Jones (kof13)

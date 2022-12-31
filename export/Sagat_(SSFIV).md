@@ -1,8 +1,8 @@
 ---
-title: Sagat (SSFIV)
-slug: Sagat_(SSFIV)
+title: "Sagat (SSFIV)"
+slug:  "Sagat_(SSFIV)"
 id: 1622
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Sagat (SSFIV)

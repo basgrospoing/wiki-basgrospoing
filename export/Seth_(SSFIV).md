@@ -1,8 +1,8 @@
 ---
-title: Seth (SSFIV)
-slug: Seth_(SSFIV)
+title: "Seth (SSFIV)"
+slug:  "Seth_(SSFIV)"
 id: 369
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Seth (SSFIV)

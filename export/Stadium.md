@@ -1,8 +1,8 @@
 ---
-title: Stadium
-slug: Stadium
+title: "Stadium"
+slug:  "Stadium"
 id: 489
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Stadium

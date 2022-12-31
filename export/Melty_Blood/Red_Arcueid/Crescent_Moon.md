@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Red Arcueid/Crescent Moon
-slug: Melty_Blood/Red_Arcueid/Crescent_Moon
+title: "Melty Blood/Red Arcueid/Crescent Moon"
+slug:  "Melty_Blood/Red_Arcueid/Crescent_Moon"
 id: 1838
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Red Arcueid/Crescent Moon

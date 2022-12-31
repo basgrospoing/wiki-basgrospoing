@@ -1,8 +1,8 @@
 ---
-title: Glossaire
-slug: Glossaire
+title: "Glossaire"
+slug:  "Glossaire"
 id: 374
-author: Atomskyu690
+author: "Atomskyu690"
 ---
 
 # Glossaire

@@ -1,8 +1,8 @@
 ---
-title: Dhalsim (SSFIV)
-slug: Dhalsim_(SSFIV)
+title: "Dhalsim (SSFIV)"
+slug:  "Dhalsim_(SSFIV)"
 id: 381
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Dhalsim (SSFIV)

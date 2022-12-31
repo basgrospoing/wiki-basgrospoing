@@ -1,8 +1,8 @@
 ---
-title: Tizoc (Garou)
-slug: Tizoc_(Garou)
+title: "Tizoc (Garou)"
+slug:  "Tizoc_(Garou)"
 id: 12
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Tizoc (Garou)

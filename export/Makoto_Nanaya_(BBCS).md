@@ -1,8 +1,8 @@
 ---
-title: Makoto Nanaya (BBCS)
-slug: Makoto_Nanaya_(BBCS)
+title: "Makoto Nanaya (BBCS)"
+slug:  "Makoto_Nanaya_(BBCS)"
 id: 290
-author: 84.103.225.237
+author: "84.103.225.237"
 ---
 
 # Makoto Nanaya (BBCS)

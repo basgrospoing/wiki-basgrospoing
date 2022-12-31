@@ -1,8 +1,8 @@
 ---
-title: Kim Kaphwan (Fatal Fury Special)
-slug: Kim_Kaphwan_(Fatal_Fury_Special)
+title: "Kim Kaphwan (Fatal Fury Special)"
+slug:  "Kim_Kaphwan_(Fatal_Fury_Special)"
 id: 733
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Kim Kaphwan (Fatal Fury Special)

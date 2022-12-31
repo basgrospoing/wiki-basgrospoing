@@ -1,8 +1,8 @@
 ---
-title: Hugo (SFxT)
-slug: Hugo_(SFxT)
+title: "Hugo (SFxT)"
+slug:  "Hugo_(SFxT)"
 id: 2169
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Hugo (SFxT)

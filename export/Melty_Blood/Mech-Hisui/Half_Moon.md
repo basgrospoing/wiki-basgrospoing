@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Mech-Hisui/Half Moon
-slug: Melty_Blood/Mech-Hisui/Half_Moon
+title: "Melty Blood/Mech-Hisui/Half Moon"
+slug:  "Melty_Blood/Mech-Hisui/Half_Moon"
 id: 1802
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Mech-Hisui/Half Moon

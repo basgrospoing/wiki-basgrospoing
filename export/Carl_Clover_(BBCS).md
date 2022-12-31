@@ -1,8 +1,8 @@
 ---
-title: Carl Clover (BBCS)
-slug: Carl_Clover_(BBCS)
+title: "Carl Clover (BBCS)"
+slug:  "Carl_Clover_(BBCS)"
 id: 304
-author: Achoral
+author: "Achoral"
 ---
 
 # Carl Clover (BBCS)

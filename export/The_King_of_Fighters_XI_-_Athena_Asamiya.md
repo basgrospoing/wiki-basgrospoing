@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Athena Asamiya
-slug: The_King_of_Fighters_XI_-_Athena_Asamiya
+title: "The King of Fighters XI - Athena Asamiya"
+slug:  "The_King_of_Fighters_XI_-_Athena_Asamiya"
 id: 917
-author: Olivic
-redirect: Kofxi-athena-asamiya
+author: "Olivic"
+redirect: "Kofxi-athena-asamiya"
 old_id: 918
 ---
 

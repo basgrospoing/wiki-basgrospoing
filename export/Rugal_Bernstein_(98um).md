@@ -1,8 +1,8 @@
 ---
-title: Rugal Bernstein (98um)
-slug: Rugal_Bernstein_(98um)
+title: "Rugal Bernstein (98um)"
+slug:  "Rugal_Bernstein_(98um)"
 id: 248
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Rugal Bernstein (98um)

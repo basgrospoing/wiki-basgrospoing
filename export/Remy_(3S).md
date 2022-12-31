@@ -1,8 +1,8 @@
 ---
-title: Remy (3S)
-slug: Remy_(3S)
+title: "Remy (3S)"
+slug:  "Remy_(3S)"
 id: 281
-author: ALX
+author: "ALX"
 ---
 
 # Remy (3S)

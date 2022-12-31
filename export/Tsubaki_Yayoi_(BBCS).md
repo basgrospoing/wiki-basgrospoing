@@ -1,8 +1,8 @@
 ---
-title: Tsubaki Yayoi (BBCS)
-slug: Tsubaki_Yayoi_(BBCS)
+title: "Tsubaki Yayoi (BBCS)"
+slug:  "Tsubaki_Yayoi_(BBCS)"
 id: 294
-author: Yolsgens
+author: "Yolsgens"
 ---
 
 # Tsubaki Yayoi (BBCS)

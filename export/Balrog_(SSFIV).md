@@ -1,8 +1,8 @@
 ---
-title: Balrog (SSFIV)
-slug: Balrog_(SSFIV)
+title: "Balrog (SSFIV)"
+slug:  "Balrog_(SSFIV)"
 id: 341
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Balrog (SSFIV)

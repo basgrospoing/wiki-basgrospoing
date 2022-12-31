@@ -1,8 +1,8 @@
 ---
-title: Dhalsim (SFxT)
-slug: Dhalsim_(SFxT)
+title: "Dhalsim (SFxT)"
+slug:  "Dhalsim_(SFxT)"
 id: 2167
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Dhalsim (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Warachia/Full Moon
-slug: Melty_Blood/Warachia/Full_Moon
+title: "Melty Blood/Warachia/Full Moon"
+slug:  "Melty_Blood/Warachia/Full_Moon"
 id: 1891
-author: 78.241.53.170
+author: "78.241.53.170"
 ---
 
 # Melty Blood/Warachia/Full Moon

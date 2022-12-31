@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)
-slug: Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)
+title: "Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)"
+slug:  "Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)"
 id: 649
-author: Olivic
-redirect: Ss4-Shizumaru
+author: "Olivic"
+redirect: "Ss4-Shizumaru"
 old_id: 666
 ---
 

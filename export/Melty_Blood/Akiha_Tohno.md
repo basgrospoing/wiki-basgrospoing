@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Akiha Tohno
-slug: Melty_Blood/Akiha_Tohno
+title: "Melty Blood/Akiha Tohno"
+slug:  "Melty_Blood/Akiha_Tohno"
 id: 1719
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Akiha Tohno

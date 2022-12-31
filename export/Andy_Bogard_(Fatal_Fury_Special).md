@@ -1,8 +1,8 @@
 ---
-title: Andy Bogard (Fatal Fury Special)
-slug: Andy_Bogard_(Fatal_Fury_Special)
+title: "Andy Bogard (Fatal Fury Special)"
+slug:  "Andy_Bogard_(Fatal_Fury_Special)"
 id: 723
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Andy Bogard (Fatal Fury Special)

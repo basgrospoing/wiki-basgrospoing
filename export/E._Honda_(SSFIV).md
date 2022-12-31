@@ -1,8 +1,8 @@
 ---
-title: E. Honda (SSFIV)
-slug: E._Honda_(SSFIV)
+title: "E. Honda (SSFIV)"
+slug:  "E._Honda_(SSFIV)"
 id: 2142
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # E. Honda (SSFIV)

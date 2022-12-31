@@ -1,8 +1,8 @@
 ---
-title: Dudley (SSFIV)
-slug: Dudley_(SSFIV)
+title: "Dudley (SSFIV)"
+slug:  "Dudley_(SSFIV)"
 id: 370
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Dudley (SSFIV)

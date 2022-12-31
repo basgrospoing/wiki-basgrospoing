@@ -1,8 +1,8 @@
 ---
-title: Vega (SFxT)
-slug: Vega_(SFxT)
+title: "Vega (SFxT)"
+slug:  "Vega_(SFxT)"
 id: 2179
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Vega (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Abel (SSFIV)
-slug: Abel_(SSFIV)
+title: "Abel (SSFIV)"
+slug:  "Abel_(SSFIV)"
 id: 367
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Abel (SSFIV)

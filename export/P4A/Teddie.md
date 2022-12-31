@@ -1,9 +1,9 @@
 ---
-title: P4A/Teddie
-slug: P4A/Teddie
+title: "P4A/Teddie"
+slug:  "P4A/Teddie"
 id: 2641
-author: Kabai
-redirect: Teddie
+author: "Kabai"
+redirect: "Teddie"
 old_id: 2657
 ---
 

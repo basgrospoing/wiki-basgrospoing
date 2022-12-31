@@ -1,8 +1,8 @@
 ---
-title: Noel Vermillion (BBCS)
-slug: Noel_Vermillion_(BBCS)
+title: "Noel Vermillion (BBCS)"
+slug:  "Noel_Vermillion_(BBCS)"
 id: 298
-author: 78.237.64.48
+author: "78.237.64.48"
 ---
 
 # Noel Vermillion (BBCS)

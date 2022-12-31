@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Roa/Half Moon
-slug: Melty_Blood/Roa/Half_Moon
+title: "Melty Blood/Roa/Half Moon"
+slug:  "Melty_Blood/Roa/Half_Moon"
 id: 1851
-author: Zind
+author: "Zind"
 ---
 
 # Melty Blood/Roa/Half Moon

@@ -1,8 +1,8 @@
 ---
-title: Aveline
-slug: Aveline
+title: "Aveline"
+slug:  "Aveline"
 id: 2513
-author: Aveline
+author: "Aveline"
 ---
 
 # Aveline

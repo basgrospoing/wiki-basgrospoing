@@ -1,9 +1,9 @@
 ---
-title: P4A/Shadow Labrys
-slug: P4A/Shadow_Labrys
+title: "P4A/Shadow Labrys"
+slug:  "P4A/Shadow_Labrys"
 id: 2646
-author: Kabai
-redirect: Shadow_Labrys
+author: "Kabai"
+redirect: "Shadow_Labrys"
 old_id: 2659
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Clark Steele (KoF '98)
-slug: Clark_Steele_(KoF_'98)
+title: "Clark Steele (KoF '98)"
+slug:  "Clark_Steele_(KoF_'98)"
 id: 163
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Clark Steele (KoF '98)

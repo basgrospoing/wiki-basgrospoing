@@ -1,8 +1,8 @@
 ---
-title: Hugo (3S)
-slug: Hugo_(3S)
+title: "Hugo (3S)"
+slug:  "Hugo_(3S)"
 id: 274
-author: ALX
+author: "ALX"
 ---
 
 # Hugo (3S)

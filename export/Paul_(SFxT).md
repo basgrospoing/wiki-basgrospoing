@@ -1,8 +1,8 @@
 ---
-title: Paul (SFxT)
-slug: Paul_(SFxT)
+title: "Paul (SFxT)"
+slug:  "Paul_(SFxT)"
 id: 2195
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Paul (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion TATARI/Half Moon
-slug: Melty_Blood/Sion_TATARI/Half_Moon
+title: "Melty Blood/Sion TATARI/Half Moon"
+slug:  "Melty_Blood/Sion_TATARI/Half_Moon"
 id: 1886
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Sion TATARI/Half Moon

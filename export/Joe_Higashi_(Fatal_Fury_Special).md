@@ -1,8 +1,8 @@
 ---
-title: Joe Higashi (Fatal Fury Special)
-slug: Joe_Higashi_(Fatal_Fury_Special)
+title: "Joe Higashi (Fatal Fury Special)"
+slug:  "Joe_Higashi_(Fatal_Fury_Special)"
 id: 721
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Joe Higashi (Fatal Fury Special)

@@ -1,9 +1,9 @@
 ---
-title: P4A/Chie Satonaka
-slug: P4A/Chie_Satonaka
+title: "P4A/Chie Satonaka"
+slug:  "P4A/Chie_Satonaka"
 id: 2634
-author: Kabai
-redirect: Chie_Satonaka
+author: "Kabai"
+redirect: "Chie_Satonaka"
 old_id: 2650
 ---
 

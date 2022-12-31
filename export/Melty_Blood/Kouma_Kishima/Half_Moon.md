@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kouma Kishima/Half Moon
-slug: Melty_Blood/Kouma_Kishima/Half_Moon
+title: "Melty Blood/Kouma Kishima/Half Moon"
+slug:  "Melty_Blood/Kouma_Kishima/Half_Moon"
 id: 1789
-author: 88.167.173.143
+author: "88.167.173.143"
 ---
 
 # Melty Blood/Kouma Kishima/Half Moon

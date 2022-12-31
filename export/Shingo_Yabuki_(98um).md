@@ -1,8 +1,8 @@
 ---
-title: Shingo Yabuki (98um)
-slug: Shingo_Yabuki_(98um)
+title: "Shingo Yabuki (98um)"
+slug:  "Shingo_Yabuki_(98um)"
 id: 249
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Shingo Yabuki (98um)

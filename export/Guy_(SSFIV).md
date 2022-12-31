@@ -1,8 +1,8 @@
 ---
-title: Guy (SSFIV)
-slug: Guy_(SSFIV)
+title: "Guy (SSFIV)"
+slug:  "Guy_(SSFIV)"
 id: 2154
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Guy (SSFIV)

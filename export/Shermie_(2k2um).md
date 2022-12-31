@@ -1,9 +1,9 @@
 ---
-title: Shermie (2k2um)
-slug: Shermie_(2k2um)
+title: "Shermie (2k2um)"
+slug:  "Shermie_(2k2um)"
 id: 49
-author: 200.169.245.58
-redirect: Shermie
+author: "200.169.245.58"
+redirect: "Shermie"
 old_id: 100
 ---
 

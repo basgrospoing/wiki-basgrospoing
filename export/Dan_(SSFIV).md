@@ -1,8 +1,8 @@
 ---
-title: Dan (SSFIV)
-slug: Dan_(SSFIV)
+title: "Dan (SSFIV)"
+slug:  "Dan_(SSFIV)"
 id: 2146
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Dan (SSFIV)

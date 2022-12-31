@@ -1,8 +1,8 @@
 ---
-title: Rose (SSFIV)
-slug: Rose_(SSFIV)
+title: "Rose (SSFIV)"
+slug:  "Rose_(SSFIV)"
 id: 2140
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Rose (SSFIV)

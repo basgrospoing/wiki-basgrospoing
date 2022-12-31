@@ -1,8 +1,8 @@
 ---
-title: Ryo Sakazaki (kof13)
-slug: Ryo_Sakazaki_(kof13)
+title: "Ryo Sakazaki (kof13)"
+slug:  "Ryo_Sakazaki_(kof13)"
 id: 1075
-author: Lolo
+author: "Lolo"
 ---
 
 # Ryo Sakazaki (kof13)

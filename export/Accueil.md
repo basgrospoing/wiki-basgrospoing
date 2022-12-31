@@ -1,8 +1,8 @@
 ---
-title: Accueil
-slug: Accueil
+title: "Accueil"
+slug:  "Accueil"
 id: 2508
-author: Admin
+author: "Admin"
 ---
 
 # Accueil

@@ -1,8 +1,8 @@
 ---
-title: ChunLi (ST)
-slug: ChunLi_(ST)
+title: "ChunLi (ST)"
+slug:  "ChunLi_(ST)"
 id: 454
-author: Moun-B
+author: "Moun-B"
 ---
 
 # ChunLi (ST)

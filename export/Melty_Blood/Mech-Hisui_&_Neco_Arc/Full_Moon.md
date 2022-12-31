@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Mech-Hisui & Neco Arc/Full Moon
-slug: Melty_Blood/Mech-Hisui_&_Neco_Arc/Full_Moon
+title: "Melty Blood/Mech-Hisui & Neco Arc/Full Moon"
+slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc/Full_Moon"
 id: 1808
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Mech-Hisui & Neco Arc/Full Moon

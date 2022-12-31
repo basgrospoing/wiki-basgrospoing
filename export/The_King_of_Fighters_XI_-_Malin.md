@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Malin
-slug: The_King_of_Fighters_XI_-_Malin
+title: "The King of Fighters XI - Malin"
+slug:  "The_King_of_Fighters_XI_-_Malin"
 id: 929
-author: Olivic
-redirect: Kofxi-malin
+author: "Olivic"
+redirect: "Kofxi-malin"
 old_id: 930
 ---
 

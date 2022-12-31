@@ -1,8 +1,8 @@
 ---
-title: Trish (UMVC3)
-slug: Trish_(UMVC3)
+title: "Trish (UMVC3)"
+slug:  "Trish_(UMVC3)"
 id: 3007
-author: ALX
+author: "ALX"
 ---
 
 # Trish (UMVC3)

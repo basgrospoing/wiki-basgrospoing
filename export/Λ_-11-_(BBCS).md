@@ -1,8 +1,8 @@
 ---
-title: Λ -11- (BBCS)
-slug: Λ_-11-_(BBCS)
+title: "Λ -11- (BBCS)"
+slug:  "Λ_-11-_(BBCS)"
 id: 292
-author: Achoral
+author: "Achoral"
 ---
 
 # Λ -11- (BBCS)

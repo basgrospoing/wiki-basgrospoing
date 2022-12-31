@@ -1,8 +1,8 @@
 ---
-title: Shingo Yabuki (2k2um)
-slug: Shingo_Yabuki_(2k2um)
+title: "Shingo Yabuki (2k2um)"
+slug:  "Shingo_Yabuki_(2k2um)"
 id: 133
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Shingo Yabuki (2k2um)

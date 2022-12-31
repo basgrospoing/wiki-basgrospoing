@@ -1,8 +1,8 @@
 ---
-title: Saisyu Kusanagi (98um)
-slug: Saisyu_Kusanagi_(98um)
+title: "Saisyu Kusanagi (98um)"
+slug:  "Saisyu_Kusanagi_(98um)"
 id: 236
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Saisyu Kusanagi (98um)

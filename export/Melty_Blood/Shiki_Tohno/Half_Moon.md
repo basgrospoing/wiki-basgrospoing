@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Tohno/Half Moon
-slug: Melty_Blood/Shiki_Tohno/Half_Moon
+title: "Melty Blood/Shiki Tohno/Half Moon"
+slug:  "Melty_Blood/Shiki_Tohno/Half_Moon"
 id: 1874
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Tohno/Half Moon

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Miyako Arima
-slug: Melty_Blood/Miyako_Arima
+title: "Melty Blood/Miyako Arima"
+slug:  "Melty_Blood/Miyako_Arima"
 id: 1809
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Miyako Arima

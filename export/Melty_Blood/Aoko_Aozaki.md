@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Aoko Aozaki
-slug: Melty_Blood/Aoko_Aozaki
+title: "Melty Blood/Aoko Aozaki"
+slug:  "Melty_Blood/Aoko_Aozaki"
 id: 1739
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Aoko Aozaki

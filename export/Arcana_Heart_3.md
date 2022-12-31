@@ -1,8 +1,8 @@
 ---
-title: Arcana Heart 3
-slug: Arcana_Heart_3
+title: "Arcana Heart 3"
+slug:  "Arcana_Heart_3"
 id: 1612
-author: Admin
+author: "Admin"
 ---
 
 # Arcana Heart 3

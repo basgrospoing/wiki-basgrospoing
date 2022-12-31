@@ -1,8 +1,8 @@
 ---
-title: M.Bison (SFxT)
-slug: M.Bison_(SFxT)
+title: "M.Bison (SFxT)"
+slug:  "M.Bison_(SFxT)"
 id: 2173
-author: Hynkel
+author: "Hynkel"
 ---
 
 # M.Bison (SFxT)

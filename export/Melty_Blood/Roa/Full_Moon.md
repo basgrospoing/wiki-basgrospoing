@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Roa/Full Moon
-slug: Melty_Blood/Roa/Full_Moon
+title: "Melty Blood/Roa/Full Moon"
+slug:  "Melty_Blood/Roa/Full_Moon"
 id: 1850
-author: Zind
+author: "Zind"
 ---
 
 # Melty Blood/Roa/Full Moon

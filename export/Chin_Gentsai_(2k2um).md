@@ -1,8 +1,8 @@
 ---
-title: Chin Gentsai (2k2um)
-slug: Chin_Gentsai_(2k2um)
+title: "Chin Gentsai (2k2um)"
+slug:  "Chin_Gentsai_(2k2um)"
 id: 135
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Chin Gentsai (2k2um)

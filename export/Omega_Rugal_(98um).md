@@ -1,8 +1,8 @@
 ---
-title: Omega Rugal (98um)
-slug: Omega_Rugal_(98um)
+title: "Omega Rugal (98um)"
+slug:  "Omega_Rugal_(98um)"
 id: 265
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Omega Rugal (98um)

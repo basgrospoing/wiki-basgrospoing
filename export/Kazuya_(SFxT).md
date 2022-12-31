@@ -1,8 +1,8 @@
 ---
-title: Kazuya (SFxT)
-slug: Kazuya_(SFxT)
+title: "Kazuya (SFxT)"
+slug:  "Kazuya_(SFxT)"
 id: 2187
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Kazuya (SFxT)

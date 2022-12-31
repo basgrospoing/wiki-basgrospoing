@@ -1,8 +1,8 @@
 ---
-title: Rolento (SFxT)
-slug: Rolento_(SFxT)
+title: "Rolento (SFxT)"
+slug:  "Rolento_(SFxT)"
 id: 2175
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Rolento (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Hokutomaru (Garou)
-slug: Hokutomaru_(Garou)
+title: "Hokutomaru (Garou)"
+slug:  "Hokutomaru_(Garou)"
 id: 9
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Hokutomaru (Garou)

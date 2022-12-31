@@ -1,8 +1,8 @@
 ---
-title: Robert Garcia (KoF '98)
-slug: Robert_Garcia_(KoF_'98)
+title: "Robert Garcia (KoF '98)"
+slug:  "Robert_Garcia_(KoF_'98)"
 id: 159
-author: 85.171.23.44
+author: "85.171.23.44"
 ---
 
 # Robert Garcia (KoF '98)

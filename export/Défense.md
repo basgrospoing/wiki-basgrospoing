@@ -1,8 +1,8 @@
 ---
-title: Défense
-slug: Défense
+title: "Défense"
+slug:  "Défense"
 id: 500
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Défense

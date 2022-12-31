@@ -1,8 +1,8 @@
 ---
-title: Chun-Li (3S)
-slug: Chun-Li_(3S)
+title: "Chun-Li (3S)"
+slug:  "Chun-Li_(3S)"
 id: 270
-author: ALX
+author: "ALX"
 ---
 
 # Chun-Li (3S)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Mech-Hisui
-slug: Melty_Blood/Mech-Hisui
+title: "Melty Blood/Mech-Hisui"
+slug:  "Melty_Blood/Mech-Hisui"
 id: 1798
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Mech-Hisui

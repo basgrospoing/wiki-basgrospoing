@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Ciel
-slug: Melty_Blood/Ciel
+title: "Melty Blood/Ciel"
+slug:  "Melty_Blood/Ciel"
 id: 1757
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Ciel

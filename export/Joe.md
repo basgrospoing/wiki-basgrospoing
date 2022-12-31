@@ -1,8 +1,8 @@
 ---
-title: Joe
-slug: Joe
+title: "Joe"
+slug:  "Joe"
 id: 26
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Joe

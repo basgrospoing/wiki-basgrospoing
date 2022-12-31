@@ -1,8 +1,8 @@
 ---
-title: Benimaru Nikaido (kof13)
-slug: Benimaru_Nikaido_(kof13)
+title: "Benimaru Nikaido (kof13)"
+slug:  "Benimaru_Nikaido_(kof13)"
 id: 1111
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Benimaru Nikaido (kof13)

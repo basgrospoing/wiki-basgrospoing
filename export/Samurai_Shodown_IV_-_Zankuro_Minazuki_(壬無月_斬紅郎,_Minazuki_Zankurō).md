@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)
-slug: Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)
+title: "Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)"
+slug:  "Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)"
 id: 715
-author: Olivic
-redirect: Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)
+author: "Olivic"
+redirect: "Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)"
 old_id: 820
 ---
 

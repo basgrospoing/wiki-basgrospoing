@@ -1,8 +1,8 @@
 ---
-title: Akuma (3S)
-slug: Akuma_(3S)
+title: "Akuma (3S)"
+slug:  "Akuma_(3S)"
 id: 268
-author: ALX
+author: "ALX"
 ---
 
 # Akuma (3S)

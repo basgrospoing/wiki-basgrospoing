@@ -1,8 +1,8 @@
 ---
-title: Abel (SFxT)
-slug: Abel_(SFxT)
+title: "Abel (SFxT)"
+slug:  "Abel_(SFxT)"
 id: 2162
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Abel (SFxT)

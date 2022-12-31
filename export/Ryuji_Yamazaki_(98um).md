@@ -1,8 +1,8 @@
 ---
-title: Ryuji Yamazaki (98um)
-slug: Ryuji_Yamazaki_(98um)
+title: "Ryuji Yamazaki (98um)"
+slug:  "Ryuji_Yamazaki_(98um)"
 id: 228
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ryuji Yamazaki (98um)

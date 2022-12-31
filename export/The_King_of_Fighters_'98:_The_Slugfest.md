@@ -1,8 +1,8 @@
 ---
-title: The King of Fighters '98: The Slugfest
-slug: The_King_of_Fighters_'98:_The_Slugfest
+title: "The King of Fighters '98: The Slugfest"
+slug:  "The_King_of_Fighters_'98:_The_Slugfest"
 id: 203
-author: Admin
+author: "Admin"
 ---
 
 # The King of Fighters '98: The Slugfest

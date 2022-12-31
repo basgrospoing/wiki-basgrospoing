@@ -1,8 +1,8 @@
 ---
-title: Omega Rugal (KoF '98)
-slug: Omega_Rugal_(KoF_'98)
+title: "Omega Rugal (KoF '98)"
+slug:  "Omega_Rugal_(KoF_'98)"
 id: 202
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Omega Rugal (KoF '98)

@@ -1,8 +1,8 @@
 ---
-title: Hakan (SSFIV)
-slug: Hakan_(SSFIV)
+title: "Hakan (SSFIV)"
+slug:  "Hakan_(SSFIV)"
 id: 2150
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Hakan (SSFIV)

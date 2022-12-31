@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion Eltnam Atlasia/Full Moon
-slug: Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon
+title: "Melty Blood/Sion Eltnam Atlasia/Full Moon"
+slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon"
 id: 1881
-author: Ouytsu
+author: "Ouytsu"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia/Full Moon

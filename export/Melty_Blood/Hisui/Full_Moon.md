@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Hisui/Full Moon
-slug: Melty_Blood/Hisui/Full_Moon
+title: "Melty Blood/Hisui/Full Moon"
+slug:  "Melty_Blood/Hisui/Full_Moon"
 id: 1768
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Hisui/Full Moon

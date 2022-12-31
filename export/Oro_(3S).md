@@ -1,8 +1,8 @@
 ---
-title: Oro (3S)
-slug: Oro_(3S)
+title: "Oro (3S)"
+slug:  "Oro_(3S)"
 id: 279
-author: ALX
+author: "ALX"
 ---
 
 # Oro (3S)

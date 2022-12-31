@@ -1,8 +1,8 @@
 ---
-title: Saki Omokane (TvC:UAS)
-slug: Saki_Omokane_(TvC:UAS)
+title: "Saki Omokane (TvC:UAS)"
+slug:  "Saki_Omokane_(TvC:UAS)"
 id: 553
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Saki Omokane (TvC:UAS)

@@ -1,8 +1,8 @@
 ---
-title: King (98um)
-slug: King_(98um)
+title: "King (98um)"
+slug:  "King_(98um)"
 id: 221
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # King (98um)

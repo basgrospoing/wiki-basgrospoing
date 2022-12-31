@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Defense
-slug: Melty_Blood/Defense
+title: "Melty Blood/Defense"
+slug:  "Melty_Blood/Defense"
 id: 1709
-author: Naast
+author: "Naast"
 ---
 
 # Melty Blood/Defense

@@ -1,8 +1,8 @@
 ---
-title: Makoto (SSFIV)
-slug: Makoto_(SSFIV)
+title: "Makoto (SSFIV)"
+slug:  "Makoto_(SSFIV)"
 id: 813
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Makoto (SSFIV)

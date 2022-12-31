@@ -1,8 +1,8 @@
 ---
-title: Heidern (98um)
-slug: Heidern_(98um)
+title: "Heidern (98um)"
+slug:  "Heidern_(98um)"
 id: 234
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Heidern (98um)

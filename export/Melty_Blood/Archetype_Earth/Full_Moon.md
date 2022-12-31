@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Archetype Earth/Full Moon
-slug: Melty_Blood/Archetype_Earth/Full_Moon
+title: "Melty Blood/Archetype Earth/Full Moon"
+slug:  "Melty_Blood/Archetype_Earth/Full_Moon"
 id: 1749
-author: 90.0.52.30
+author: "90.0.52.30"
 ---
 
 # Melty Blood/Archetype Earth/Full Moon

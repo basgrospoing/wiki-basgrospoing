@@ -1,9 +1,9 @@
 ---
-title: Orochi Yashiro (2k2um)
-slug: Orochi_Yashiro_(2k2um)
+title: "Orochi Yashiro (2k2um)"
+slug:  "Orochi_Yashiro_(2k2um)"
 id: 60
-author: Aerendir
-redirect: Orochi_Yashiro
+author: "Aerendir"
+redirect: "Orochi_Yashiro"
 old_id: 113
 ---
 

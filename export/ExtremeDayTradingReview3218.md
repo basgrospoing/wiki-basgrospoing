@@ -1,8 +1,8 @@
 ---
-title: ExtremeDayTradingReview3218
-slug: ExtremeDayTradingReview3218
+title: "ExtremeDayTradingReview3218"
+slug:  "ExtremeDayTradingReview3218"
 id: 2660
-author: ExtremeDayTradingReview3218
+author: "ExtremeDayTradingReview3218"
 ---
 
 # ExtremeDayTradingReview3218

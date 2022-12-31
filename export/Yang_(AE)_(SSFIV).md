@@ -1,8 +1,8 @@
 ---
-title: Yang (AE) (SSFIV)
-slug: Yang_(AE)_(SSFIV)
+title: "Yang (AE) (SSFIV)"
+slug:  "Yang_(AE)_(SSFIV)"
 id: 806
-author: Sharnt
+author: "Sharnt"
 ---
 
 # Yang (AE) (SSFIV)

@@ -1,8 +1,8 @@
 ---
-title: Haggar (UMVC3)
-slug: Haggar_(UMVC3)
+title: "Haggar (UMVC3)"
+slug:  "Haggar_(UMVC3)"
 id: 2987
-author: ALX
+author: "ALX"
 ---
 
 # Haggar (UMVC3)

@@ -1,8 +1,8 @@
 ---
-title: Kuma (SFxT)
-slug: Kuma_(SFxT)
+title: "Kuma (SFxT)"
+slug:  "Kuma_(SFxT)"
 id: 2189
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Kuma (SFxT)

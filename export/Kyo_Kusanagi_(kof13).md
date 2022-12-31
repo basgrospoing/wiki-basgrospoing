@@ -1,8 +1,8 @@
 ---
-title: Kyo Kusanagi (kof13)
-slug: Kyo_Kusanagi_(kof13)
+title: "Kyo Kusanagi (kof13)"
+slug:  "Kyo_Kusanagi_(kof13)"
 id: 1107
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Kyo Kusanagi (kof13)

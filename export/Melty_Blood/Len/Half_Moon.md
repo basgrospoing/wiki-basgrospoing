@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Len/Half Moon
-slug: Melty_Blood/Len/Half_Moon
+title: "Melty Blood/Len/Half Moon"
+slug:  "Melty_Blood/Len/Half_Moon"
 id: 1795
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Len/Half Moon

@@ -1,8 +1,8 @@
 ---
-title: Origine des Personnages (Capcom)
-slug: Origine_des_Personnages_(Capcom)
+title: "Origine des Personnages (Capcom)"
+slug:  "Origine_des_Personnages_(Capcom)"
 id: 2768
-author: Admin
+author: "Admin"
 ---
 
 # Origine des Personnages (Capcom)

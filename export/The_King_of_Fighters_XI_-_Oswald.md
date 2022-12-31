@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Oswald
-slug: The_King_of_Fighters_XI_-_Oswald
+title: "The King of Fighters XI - Oswald"
+slug:  "The_King_of_Fighters_XI_-_Oswald"
 id: 911
-author: Olivic
-redirect: Kofxi-oswald
+author: "Olivic"
+redirect: "Kofxi-oswald"
 old_id: 912
 ---
 

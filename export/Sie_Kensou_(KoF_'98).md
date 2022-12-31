@@ -1,8 +1,8 @@
 ---
-title: Sie Kensou (KoF '98)
-slug: Sie_Kensou_(KoF_'98)
+title: "Sie Kensou (KoF '98)"
+slug:  "Sie_Kensou_(KoF_'98)"
 id: 165
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Sie Kensou (KoF '98)

@@ -1,8 +1,8 @@
 ---
-title: ABK/Akatsuki
-slug: ABK/Akatsuki
+title: "ABK/Akatsuki"
+slug:  "ABK/Akatsuki"
 id: 2262
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Akatsuki

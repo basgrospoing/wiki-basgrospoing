@@ -1,9 +1,9 @@
 ---
-title: Benimaru Nikaido (2k2um)
-slug: Benimaru_Nikaido_(2k2um)
+title: "Benimaru Nikaido (2k2um)"
+slug:  "Benimaru_Nikaido_(2k2um)"
 id: 71
-author: Admin
-redirect: Benimaru_Nikaido
+author: "Admin"
+redirect: "Benimaru_Nikaido"
 old_id: 79
 ---
 

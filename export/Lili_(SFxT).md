@@ -1,8 +1,8 @@
 ---
-title: Lili (SFxT)
-slug: Lili_(SFxT)
+title: "Lili (SFxT)"
+slug:  "Lili_(SFxT)"
 id: 2191
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Lili (SFxT)

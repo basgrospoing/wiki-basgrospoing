@@ -1,8 +1,8 @@
 ---
-title: Cody (Street Fighter Alpha 3)
-slug: Cody_(Street_Fighter_Alpha_3)
+title: "Cody (Street Fighter Alpha 3)"
+slug:  "Cody_(Street_Fighter_Alpha_3)"
 id: 1244
-author: Tonio
+author: "Tonio"
 ---
 
 # Cody (Street Fighter Alpha 3)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Moons
-slug: Melty_Blood/Moons
+title: "Melty Blood/Moons"
+slug:  "Melty_Blood/Moons"
 id: 1712
-author: 109.209.196.225
+author: "109.209.196.225"
 ---
 
 # Melty Blood/Moons

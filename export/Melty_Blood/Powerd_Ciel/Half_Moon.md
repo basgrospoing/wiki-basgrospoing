@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Powerd Ciel/Half Moon
-slug: Melty_Blood/Powerd_Ciel/Half_Moon
+title: "Melty Blood/Powerd Ciel/Half Moon"
+slug:  "Melty_Blood/Powerd_Ciel/Half_Moon"
 id: 1832
-author: Zind
+author: "Zind"
 ---
 
 # Melty Blood/Powerd Ciel/Half Moon

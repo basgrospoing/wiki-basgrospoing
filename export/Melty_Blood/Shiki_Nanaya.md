@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Nanaya
-slug: Melty_Blood/Shiki_Nanaya
+title: "Melty Blood/Shiki Nanaya"
+slug:  "Melty_Blood/Shiki_Nanaya"
 id: 1756
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Nanaya

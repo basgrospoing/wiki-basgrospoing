@@ -1,8 +1,8 @@
 ---
-title: Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)
-slug: Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)
+title: "Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)"
+slug:  "Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)"
 id: 568
-author: Dan Sakazaki
+author: "Dan Sakazaki"
 ---
 
 # Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)

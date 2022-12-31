@@ -1,8 +1,8 @@
 ---
-title: ABK/Blitztank
-slug: ABK/Blitztank
+title: "ABK/Blitztank"
+slug:  "ABK/Blitztank"
 id: 2271
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Blitztank

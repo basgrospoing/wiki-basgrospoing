@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion TATARI/Full Moon
-slug: Melty_Blood/Sion_TATARI/Full_Moon
+title: "Melty Blood/Sion TATARI/Full Moon"
+slug:  "Melty_Blood/Sion_TATARI/Full_Moon"
 id: 1885
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Sion TATARI/Full Moon

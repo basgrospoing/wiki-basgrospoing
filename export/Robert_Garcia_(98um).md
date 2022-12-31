@@ -1,8 +1,8 @@
 ---
-title: Robert Garcia (98um)
-slug: Robert_Garcia_(98um)
+title: "Robert Garcia (98um)"
+slug:  "Robert_Garcia_(98um)"
 id: 211
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Robert Garcia (98um)

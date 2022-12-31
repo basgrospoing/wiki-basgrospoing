@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (Garou)
-slug: Terry_Bogard_(Garou)
+title: "Terry Bogard (Garou)"
+slug:  "Terry_Bogard_(Garou)"
 id: 16
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Terry Bogard (Garou)

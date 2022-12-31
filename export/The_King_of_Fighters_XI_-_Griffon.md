@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Griffon
-slug: The_King_of_Fighters_XI_-_Griffon
+title: "The King of Fighters XI - Griffon"
+slug:  "The_King_of_Fighters_XI_-_Griffon"
 id: 925
-author: Olivic
-redirect: Kofxi-griffon
+author: "Olivic"
+redirect: "Kofxi-griffon"
 old_id: 926
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Billy Kane (Fatal Fury Special)
-slug: Billy_Kane_(Fatal_Fury_Special)
+title: "Billy Kane (Fatal Fury Special)"
+slug:  "Billy_Kane_(Fatal_Fury_Special)"
 id: 741
-author: Atomskyu690
+author: "Atomskyu690"
 ---
 
 # Billy Kane (Fatal Fury Special)

@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV: Amakusa's Revenge
-slug: Samurai_Shodown_IV:_Amakusa's_Revenge
+title: "Samurai Shodown IV: Amakusa's Revenge"
+slug:  "Samurai_Shodown_IV:_Amakusa's_Revenge"
 id: 635
-author: Atomskyu690
-redirect: Ss4
+author: "Atomskyu690"
+redirect: "Ss4"
 old_id: 671
 ---
 

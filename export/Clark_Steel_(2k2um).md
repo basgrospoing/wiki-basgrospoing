@@ -1,8 +1,8 @@
 ---
-title: Clark Steel (2k2um)
-slug: Clark_Steel_(2k2um)
+title: "Clark Steel (2k2um)"
+slug:  "Clark_Steel_(2k2um)"
 id: 123
-author: 200.169.245.58
+author: "200.169.245.58"
 ---
 
 # Clark Steel (2k2um)

@@ -1,8 +1,8 @@
 ---
-title: The King of Fighters XIII
-slug: The_King_of_Fighters_XIII
+title: "The King of Fighters XIII"
+slug:  "The_King_of_Fighters_XIII"
 id: 1074
-author: Admin
+author: "Admin"
 ---
 
 # The King of Fighters XIII

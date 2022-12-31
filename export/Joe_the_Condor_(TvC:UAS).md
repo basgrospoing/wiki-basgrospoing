@@ -1,8 +1,8 @@
 ---
-title: Joe the Condor (TvC:UAS)
-slug: Joe_the_Condor_(TvC:UAS)
+title: "Joe the Condor (TvC:UAS)"
+slug:  "Joe_the_Condor_(TvC:UAS)"
 id: 515
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Joe the Condor (TvC:UAS)

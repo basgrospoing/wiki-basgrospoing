@@ -1,9 +1,9 @@
 ---
-title: Laurence Blood (Fatal Fury Special)
-slug: Laurence_Blood_(Fatal_Fury_Special)
+title: "Laurence Blood (Fatal Fury Special)"
+slug:  "Laurence_Blood_(Fatal_Fury_Special)"
 id: 745
-author: Dan sakazaki
-redirect: Laurence_Blood(Fatal_Fury_Special)
+author: "Dan sakazaki"
+redirect: "Laurence_Blood(Fatal_Fury_Special)"
 old_id: 746
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Lin (2k2um)
-slug: Lin_(2k2um)
+title: "Lin (2k2um)"
+slug:  "Lin_(2k2um)"
 id: 132
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Lin (2k2um)

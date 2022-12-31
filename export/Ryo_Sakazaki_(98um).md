@@ -1,8 +1,8 @@
 ---
-title: Ryo Sakazaki (98um)
-slug: Ryo_Sakazaki_(98um)
+title: "Ryo Sakazaki (98um)"
+slug:  "Ryo_Sakazaki_(98um)"
 id: 210
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ryo Sakazaki (98um)

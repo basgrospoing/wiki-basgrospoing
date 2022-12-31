@@ -1,8 +1,8 @@
 ---
-title: Chris (98um)
-slug: Chris_(98um)
+title: "Chris (98um)"
+slug:  "Chris_(98um)"
 id: 227
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Chris (98um)

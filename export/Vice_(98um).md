@@ -1,8 +1,8 @@
 ---
-title: Vice (98um)
-slug: Vice_(98um)
+title: "Vice (98um)"
+slug:  "Vice_(98um)"
 id: 233
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Vice (98um)

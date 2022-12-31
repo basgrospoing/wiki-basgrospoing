@@ -1,8 +1,8 @@
 ---
-title: Chris (UMVC3)
-slug: Chris_(UMVC3)
+title: "Chris (UMVC3)"
+slug:  "Chris_(UMVC3)"
 id: 2968
-author: ALX
+author: "ALX"
 ---
 
 # Chris (UMVC3)

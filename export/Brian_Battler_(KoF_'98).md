@@ -1,8 +1,8 @@
 ---
-title: Brian Battler (KoF '98)
-slug: Brian_Battler_(KoF_'98)
+title: "Brian Battler (KoF '98)"
+slug:  "Brian_Battler_(KoF_'98)"
 id: 187
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Brian Battler (KoF '98)

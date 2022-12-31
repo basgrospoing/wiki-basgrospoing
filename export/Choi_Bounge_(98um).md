@@ -1,8 +1,8 @@
 ---
-title: Choi Bounge (98um)
-slug: Choi_Bounge_(98um)
+title: "Choi Bounge (98um)"
+slug:  "Choi_Bounge_(98um)"
 id: 224
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Choi Bounge (98um)

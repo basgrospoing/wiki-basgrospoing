@@ -1,8 +1,8 @@
 ---
-title: Arakune (BBCS)
-slug: Arakune_(BBCS)
+title: "Arakune (BBCS)"
+slug:  "Arakune_(BBCS)"
 id: 291
-author: Achoral
+author: "Achoral"
 ---
 
 # Arakune (BBCS)

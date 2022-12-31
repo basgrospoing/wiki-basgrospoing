@@ -1,8 +1,8 @@
 ---
-title: ABK/Elektrosoldat
-slug: ABK/Elektrosoldat
+title: "ABK/Elektrosoldat"
+slug:  "ABK/Elektrosoldat"
 id: 2270
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Elektrosoldat

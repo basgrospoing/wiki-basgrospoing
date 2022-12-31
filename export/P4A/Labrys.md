@@ -1,9 +1,9 @@
 ---
-title: P4A/Labrys
-slug: P4A/Labrys
+title: "P4A/Labrys"
+slug:  "P4A/Labrys"
 id: 2645
-author: Kabai
-redirect: Labrys
+author: "Kabai"
+redirect: "Labrys"
 old_id: 2658
 ---
 

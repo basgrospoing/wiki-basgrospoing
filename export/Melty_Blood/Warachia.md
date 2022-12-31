@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Warachia
-slug: Melty_Blood/Warachia
+title: "Melty Blood/Warachia"
+slug:  "Melty_Blood/Warachia"
 id: 1888
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Warachia

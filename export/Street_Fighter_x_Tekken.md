@@ -1,8 +1,8 @@
 ---
-title: Street Fighter x Tekken
-slug: Street_Fighter_x_Tekken
+title: "Street Fighter x Tekken"
+slug:  "Street_Fighter_x_Tekken"
 id: 2161
-author: MaxDaStereo
+author: "MaxDaStereo"
 ---
 
 # Street Fighter x Tekken

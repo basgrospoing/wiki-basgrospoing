@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Ralf Jones
-slug: The_King_of_Fighters_XI_-_Ralf_Jones
+title: "The King of Fighters XI - Ralf Jones"
+slug:  "The_King_of_Fighters_XI_-_Ralf_Jones"
 id: 941
-author: Olivic
-redirect: Kofxi-ralf-jones
+author: "Olivic"
+redirect: "Kofxi-ralf-jones"
 old_id: 942
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Rock (Garou)
-slug: Rock_(Garou)
+title: "Rock (Garou)"
+slug:  "Rock_(Garou)"
 id: 5
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Rock (Garou)

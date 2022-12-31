@@ -1,8 +1,8 @@
 ---
-title: Andy Bogard (KoF '95) (98um)
-slug: Andy_Bogard_(KoF_'95)_(98um)
+title: "Andy Bogard (KoF '95) (98um)"
+slug:  "Andy_Bogard_(KoF_'95)_(98um)"
 id: 252
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Andy Bogard (KoF '95) (98um)

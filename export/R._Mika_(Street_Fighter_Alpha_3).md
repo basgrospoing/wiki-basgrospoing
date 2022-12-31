@@ -1,8 +1,8 @@
 ---
-title: R. Mika (Street Fighter Alpha 3)
-slug: R._Mika_(Street_Fighter_Alpha_3)
+title: "R. Mika (Street Fighter Alpha 3)"
+slug:  "R._Mika_(Street_Fighter_Alpha_3)"
 id: 1251
-author: Tonio
+author: "Tonio"
 ---
 
 # R. Mika (Street Fighter Alpha 3)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Ryougi
-slug: Melty_Blood/Shiki_Ryougi
+title: "Melty Blood/Shiki Ryougi"
+slug:  "Melty_Blood/Shiki_Ryougi"
 id: 1864
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Ryougi

@@ -1,8 +1,8 @@
 ---
-title: Ken the Eagle (TvC:UAS)
-slug: Ken_the_Eagle_(TvC:UAS)
+title: "Ken the Eagle (TvC:UAS)"
+slug:  "Ken_the_Eagle_(TvC:UAS)"
 id: 512
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Ken the Eagle (TvC:UAS)

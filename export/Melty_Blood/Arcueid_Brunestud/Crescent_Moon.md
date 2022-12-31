@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Arcueid Brunestud/Crescent Moon
-slug: Melty_Blood/Arcueid_Brunestud/Crescent_Moon
+title: "Melty Blood/Arcueid Brunestud/Crescent Moon"
+slug:  "Melty_Blood/Arcueid_Brunestud/Crescent_Moon"
 id: 1753
-author: Rouxin
+author: "Rouxin"
 ---
 
 # Melty Blood/Arcueid Brunestud/Crescent Moon

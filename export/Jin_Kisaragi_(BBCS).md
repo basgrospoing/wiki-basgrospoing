@@ -1,8 +1,8 @@
 ---
-title: Jin Kisaragi (BBCS)
-slug: Jin_Kisaragi_(BBCS)
+title: "Jin Kisaragi (BBCS)"
+slug:  "Jin_Kisaragi_(BBCS)"
 id: 300
-author: 83.194.122.230
+author: "83.194.122.230"
 ---
 
 # Jin Kisaragi (BBCS)

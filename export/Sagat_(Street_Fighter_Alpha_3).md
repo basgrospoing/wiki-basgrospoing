@@ -1,8 +1,8 @@
 ---
-title: Sagat (Street Fighter Alpha 3)
-slug: Sagat_(Street_Fighter_Alpha_3)
+title: "Sagat (Street Fighter Alpha 3)"
+slug:  "Sagat_(Street_Fighter_Alpha_3)"
 id: 1248
-author: Tonio
+author: "Tonio"
 ---
 
 # Sagat (Street Fighter Alpha 3)

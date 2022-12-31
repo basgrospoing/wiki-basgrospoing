@@ -1,9 +1,9 @@
 ---
-title: P4A/Yu Narukami
-slug: P4A/Yu_Narukami
+title: "P4A/Yu Narukami"
+slug:  "P4A/Yu_Narukami"
 id: 2643
-author: Kabai
-redirect: Yu_Narukami
+author: "Kabai"
+redirect: "Yu_Narukami"
 old_id: 2652
 ---
 

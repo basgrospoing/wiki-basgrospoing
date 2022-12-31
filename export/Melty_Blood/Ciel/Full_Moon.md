@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Ciel/Full Moon
-slug: Melty_Blood/Ciel/Full_Moon
+title: "Melty Blood/Ciel/Full Moon"
+slug:  "Melty_Blood/Ciel/Full_Moon"
 id: 1762
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Ciel/Full Moon

@@ -1,8 +1,8 @@
 ---
-title: Chin(kof13)
-slug: Chin(kof13)
+title: "Chin(kof13)"
+slug:  "Chin(kof13)"
 id: 1150
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Chin(kof13)

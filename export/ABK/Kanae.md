@@ -1,8 +1,8 @@
 ---
-title: ABK/Kanae
-slug: ABK/Kanae
+title: "ABK/Kanae"
+slug:  "ABK/Kanae"
 id: 2265
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Kanae

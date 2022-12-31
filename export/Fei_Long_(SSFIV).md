@@ -1,8 +1,8 @@
 ---
-title: Fei Long (SSFIV)
-slug: Fei_Long_(SSFIV)
+title: "Fei Long (SSFIV)"
+slug:  "Fei_Long_(SSFIV)"
 id: 2143
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Fei Long (SSFIV)

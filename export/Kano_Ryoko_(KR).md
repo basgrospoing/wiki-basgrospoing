@@ -1,8 +1,8 @@
 ---
-title: Kano Ryoko (KR)
-slug: Kano_Ryoko_(KR)
+title: "Kano Ryoko (KR)"
+slug:  "Kano_Ryoko_(KR)"
 id: 386
-author: Zarghatt
+author: "Zarghatt"
 ---
 
 # Kano Ryoko (KR)

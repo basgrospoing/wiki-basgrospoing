@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Bonne Jenet
-slug: The_King_of_Fighters_XI_-_Bonne_Jenet
+title: "The King of Fighters XI - Bonne Jenet"
+slug:  "The_King_of_Fighters_XI_-_Bonne_Jenet"
 id: 899
-author: Olivic
-redirect: Kofxi-bonne-jenet
+author: "Olivic"
+redirect: "Kofxi-bonne-jenet"
 old_id: 900
 ---
 

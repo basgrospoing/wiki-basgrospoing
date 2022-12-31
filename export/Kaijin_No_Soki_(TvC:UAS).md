@@ -1,8 +1,8 @@
 ---
-title: Kaijin No Soki (TvC:UAS)
-slug: Kaijin_No_Soki_(TvC:UAS)
+title: "Kaijin No Soki (TvC:UAS)"
+slug:  "Kaijin_No_Soki_(TvC:UAS)"
 id: 562
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Kaijin No Soki (TvC:UAS)

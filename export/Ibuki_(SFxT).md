@@ -1,8 +1,8 @@
 ---
-title: Ibuki (SFxT)
-slug: Ibuki_(SFxT)
+title: "Ibuki (SFxT)"
+slug:  "Ibuki_(SFxT)"
 id: 2170
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Ibuki (SFxT)

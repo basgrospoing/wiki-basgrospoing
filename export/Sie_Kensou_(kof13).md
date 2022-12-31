@@ -1,8 +1,8 @@
 ---
-title: Sie Kensou (kof13)
-slug: Sie_Kensou_(kof13)
+title: "Sie Kensou (kof13)"
+slug:  "Sie_Kensou_(kof13)"
 id: 1147
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Sie Kensou (kof13)

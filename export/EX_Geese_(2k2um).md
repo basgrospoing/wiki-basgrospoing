@@ -1,8 +1,8 @@
 ---
-title: EX Geese (2k2um)
-slug: EX_Geese_(2k2um)
+title: "EX Geese (2k2um)"
+slug:  "EX_Geese_(2k2um)"
 id: 146
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # EX Geese (2k2um)

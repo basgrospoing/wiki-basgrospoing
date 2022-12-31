@@ -1,8 +1,8 @@
 ---
-title: Ibuki (3S)
-slug: Ibuki_(3S)
+title: "Ibuki (3S)"
+slug:  "Ibuki_(3S)"
 id: 275
-author: ALX
+author: "ALX"
 ---
 
 # Ibuki (3S)

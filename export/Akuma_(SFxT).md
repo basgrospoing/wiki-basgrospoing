@@ -1,8 +1,8 @@
 ---
-title: Akuma (SFxT)
-slug: Akuma_(SFxT)
+title: "Akuma (SFxT)"
+slug:  "Akuma_(SFxT)"
 id: 2163
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Akuma (SFxT)

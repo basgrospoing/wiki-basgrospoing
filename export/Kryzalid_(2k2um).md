@@ -1,8 +1,8 @@
 ---
-title: Kryzalid (2k2um)
-slug: Kryzalid_(2k2um)
+title: "Kryzalid (2k2um)"
+slug:  "Kryzalid_(2k2um)"
 id: 147
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Kryzalid (2k2um)

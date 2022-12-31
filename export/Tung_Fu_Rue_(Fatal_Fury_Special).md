@@ -1,8 +1,8 @@
 ---
-title: Tung Fu Rue (Fatal Fury Special)
-slug: Tung_Fu_Rue_(Fatal_Fury_Special)
+title: "Tung Fu Rue (Fatal Fury Special)"
+slug:  "Tung_Fu_Rue_(Fatal_Fury_Special)"
 id: 739
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Tung Fu Rue (Fatal Fury Special)

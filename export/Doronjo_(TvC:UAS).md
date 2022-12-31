@@ -1,8 +1,8 @@
 ---
-title: Doronjo (TvC:UAS)
-slug: Doronjo_(TvC:UAS)
+title: "Doronjo (TvC:UAS)"
+slug:  "Doronjo_(TvC:UAS)"
 id: 527
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Doronjo (TvC:UAS)

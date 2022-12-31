@@ -1,8 +1,8 @@
 ---
-title: El Fuerte (SSFIV)
-slug: El_Fuerte_(SSFIV)
+title: "El Fuerte (SSFIV)"
+slug:  "El_Fuerte_(SSFIV)"
 id: 376
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # El Fuerte (SSFIV)

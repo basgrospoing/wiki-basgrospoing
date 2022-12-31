@@ -1,8 +1,8 @@
 ---
-title: Mature (KoF '98)
-slug: Mature_(KoF_'98)
+title: "Mature (KoF '98)"
+slug:  "Mature_(KoF_'98)"
 id: 180
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Mature (KoF '98)

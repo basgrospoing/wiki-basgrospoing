@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Circuit Meter
-slug: Melty_Blood/Circuit_Meter
+title: "Melty Blood/Circuit Meter"
+slug:  "Melty_Blood/Circuit_Meter"
 id: 1711
-author: Naast
+author: "Naast"
 ---
 
 # Melty Blood/Circuit Meter

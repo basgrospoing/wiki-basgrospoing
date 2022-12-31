@@ -1,8 +1,8 @@
 ---
-title: Morrigan Aensland (TvC:UAS)
-slug: Morrigan_Aensland_(TvC:UAS)
+title: "Morrigan Aensland (TvC:UAS)"
+slug:  "Morrigan_Aensland_(TvC:UAS)"
 id: 552
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Morrigan Aensland (TvC:UAS)

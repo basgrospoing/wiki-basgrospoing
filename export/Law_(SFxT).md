@@ -1,8 +1,8 @@
 ---
-title: Law (SFxT)
-slug: Law_(SFxT)
+title: "Law (SFxT)"
+slug:  "Law_(SFxT)"
 id: 2190
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Law (SFxT)

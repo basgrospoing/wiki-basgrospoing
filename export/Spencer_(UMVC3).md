@@ -1,8 +1,8 @@
 ---
-title: Spencer (UMVC3)
-slug: Spencer_(UMVC3)
+title: "Spencer (UMVC3)"
+slug:  "Spencer_(UMVC3)"
 id: 3001
-author: ALX
+author: "ALX"
 ---
 
 # Spencer (UMVC3)

@@ -1,8 +1,8 @@
 ---
-title: Elisabeth (kof13)
-slug: Elisabeth_(kof13)
+title: "Elisabeth (kof13)"
+slug:  "Elisabeth_(kof13)"
 id: 1094
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Elisabeth (kof13)

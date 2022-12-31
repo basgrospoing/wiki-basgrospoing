@@ -1,8 +1,8 @@
 ---
-title: Shen Woo (kof13)
-slug: Shen_Woo_(kof13)
+title: "Shen Woo (kof13)"
+slug:  "Shen_Woo_(kof13)"
 id: 1096
-author: Lolo
+author: "Lolo"
 ---
 
 # Shen Woo (kof13)

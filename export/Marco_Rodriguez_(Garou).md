@@ -1,9 +1,9 @@
 ---
-title: Marco Rodriguez (Garou)
-slug: Marco_Rodriguez_(Garou)
+title: "Marco Rodriguez (Garou)"
+slug:  "Marco_Rodriguez_(Garou)"
 id: 8
-author: Timmytheturtle
-redirect: Khushnood_Butt_(Garou)
+author: "Timmytheturtle"
+redirect: "Khushnood_Butt_(Garou)"
 old_id: 1070
 ---
 

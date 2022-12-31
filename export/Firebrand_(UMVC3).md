@@ -1,8 +1,8 @@
 ---
-title: Firebrand (UMVC3)
-slug: Firebrand_(UMVC3)
+title: "Firebrand (UMVC3)"
+slug:  "Firebrand_(UMVC3)"
 id: 2985
-author: ALX
+author: "ALX"
 ---
 
 # Firebrand (UMVC3)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Nanaya/Half Moon
-slug: Melty_Blood/Shiki_Nanaya/Half_Moon
+title: "Melty Blood/Shiki Nanaya/Half Moon"
+slug:  "Melty_Blood/Shiki_Nanaya/Half_Moon"
 id: 1862
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Nanaya/Half Moon

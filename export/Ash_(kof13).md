@@ -1,9 +1,9 @@
 ---
-title: Ash (kof13)
-slug: Ash_(kof13)
+title: "Ash (kof13)"
+slug:  "Ash_(kof13)"
 id: 1115
-author: 206.122.158.4
-redirect: Ash_(KOF_XIII)
+author: "206.122.158.4"
+redirect: "Ash_(KOF_XIII)"
 old_id: 1570
 ---
 

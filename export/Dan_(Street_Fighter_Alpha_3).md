@@ -1,8 +1,8 @@
 ---
-title: Dan (Street Fighter Alpha 3)
-slug: Dan_(Street_Fighter_Alpha_3)
+title: "Dan (Street Fighter Alpha 3)"
+slug:  "Dan_(Street_Fighter_Alpha_3)"
 id: 1249
-author: Tonio
+author: "Tonio"
 ---
 
 # Dan (Street Fighter Alpha 3)

@@ -1,8 +1,8 @@
 ---
-title: Chun-Li (TvC:UAS)
-slug: Chun-Li_(TvC:UAS)
+title: "Chun-Li (TvC:UAS)"
+slug:  "Chun-Li_(TvC:UAS)"
 id: 564
-author: Admin
+author: "Admin"
 ---
 
 # Chun-Li (TvC:UAS)

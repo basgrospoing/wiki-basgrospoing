@@ -1,8 +1,8 @@
 ---
-title: Killer Instinct
-slug: Killer_Instinct
+title: "Killer Instinct"
+slug:  "Killer_Instinct"
 id: 572
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Killer Instinct

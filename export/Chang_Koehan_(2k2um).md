@@ -1,8 +1,8 @@
 ---
-title: Chang Koehan (2k2um)
-slug: Chang_Koehan_(2k2um)
+title: "Chang Koehan (2k2um)"
+slug:  "Chang_Koehan_(2k2um)"
 id: 117
-author: Admin
+author: "Admin"
 ---
 
 # Chang Koehan (2k2um)

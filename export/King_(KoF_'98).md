@@ -1,8 +1,8 @@
 ---
-title: King (KoF '98)
-slug: King_(KoF_'98)
+title: "King (KoF '98)"
+slug:  "King_(KoF_'98)"
 id: 169
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # King (KoF '98)

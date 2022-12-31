@@ -1,8 +1,8 @@
 ---
-title: Bao (2k2um)
-slug: Bao_(2k2um)
+title: "Bao (2k2um)"
+slug:  "Bao_(2k2um)"
 id: 127
-author: Admin
+author: "Admin"
 ---
 
 # Bao (2k2um)

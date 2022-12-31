@@ -1,8 +1,8 @@
 ---
-title: Athena Asamiya (98um)
-slug: Athena_Asamiya_(98um)
+title: "Athena Asamiya (98um)"
+slug:  "Athena_Asamiya_(98um)"
 id: 216
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Athena Asamiya (98um)

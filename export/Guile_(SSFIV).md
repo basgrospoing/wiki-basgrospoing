@@ -1,8 +1,8 @@
 ---
-title: Guile (SSFIV)
-slug: Guile_(SSFIV)
+title: "Guile (SSFIV)"
+slug:  "Guile_(SSFIV)"
 id: 2151
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Guile (SSFIV)

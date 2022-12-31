@@ -1,9 +1,9 @@
 ---
-title: Billy Kane (2k2um)
-slug: Billy_Kane_(2k2um)
+title: "Billy Kane (2k2um)"
+slug:  "Billy_Kane_(2k2um)"
 id: 47
-author: Admin
-redirect: Billy_Kane
+author: "Admin"
+redirect: "Billy_Kane"
 old_id: 96
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Clark Steel (kof13)
-slug: Clark_Steel_(kof13)
+title: "Clark Steel (kof13)"
+slug:  "Clark_Steel_(kof13)"
 id: 1103
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Clark Steel (kof13)

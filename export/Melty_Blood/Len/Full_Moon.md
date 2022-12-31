@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Len/Full Moon
-slug: Melty_Blood/Len/Full_Moon
+title: "Melty Blood/Len/Full Moon"
+slug:  "Melty_Blood/Len/Full_Moon"
 id: 1796
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Len/Full Moon

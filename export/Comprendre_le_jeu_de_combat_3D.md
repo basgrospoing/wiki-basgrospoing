@@ -1,8 +1,8 @@
 ---
-title: Comprendre le jeu de combat 3D
-slug: Comprendre_le_jeu_de_combat_3D
+title: "Comprendre le jeu de combat 3D"
+slug:  "Comprendre_le_jeu_de_combat_3D"
 id: 2705
-author: Admin
+author: "Admin"
 ---
 
 # Comprendre le jeu de combat 3D

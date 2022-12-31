@@ -1,8 +1,8 @@
 ---
-title: Ken (2X)
-slug: Ken_(2X)
+title: "Ken (2X)"
+slug:  "Ken_(2X)"
 id: 459
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Ken (2X)

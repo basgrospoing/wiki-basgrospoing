@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Controls
-slug: Melty_Blood/Controls
+title: "Melty Blood/Controls"
+slug:  "Melty_Blood/Controls"
 id: 1716
-author: Zind
+author: "Zind"
 ---
 
 # Melty Blood/Controls

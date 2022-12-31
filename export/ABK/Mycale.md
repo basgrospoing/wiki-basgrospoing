@@ -1,8 +1,8 @@
 ---
-title: ABK/Mycale
-slug: ABK/Mycale
+title: "ABK/Mycale"
+slug:  "ABK/Mycale"
 id: 2263
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Mycale

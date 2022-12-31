@@ -1,8 +1,8 @@
 ---
-title: Blanka (SSFIV)
-slug: Blanka_(SSFIV)
+title: "Blanka (SSFIV)"
+slug:  "Blanka_(SSFIV)"
 id: 2145
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Blanka (SSFIV)

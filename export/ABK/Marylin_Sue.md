@@ -1,8 +1,8 @@
 ---
-title: ABK/Marylin Sue
-slug: ABK/Marylin_Sue
+title: "ABK/Marylin Sue"
+slug:  "ABK/Marylin_Sue"
 id: 2267
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Marylin Sue

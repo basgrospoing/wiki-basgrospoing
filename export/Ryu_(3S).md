@@ -1,8 +1,8 @@
 ---
-title: Ryu (3S)
-slug: Ryu_(3S)
+title: "Ryu (3S)"
+slug:  "Ryu_(3S)"
 id: 282
-author: ALX
+author: "ALX"
 ---
 
 # Ryu (3S)

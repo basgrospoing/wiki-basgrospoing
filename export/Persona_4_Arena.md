@@ -1,9 +1,9 @@
 ---
-title: Persona 4 Arena
-slug: Persona_4_Arena
+title: "Persona 4 Arena"
+slug:  "Persona_4_Arena"
 id: 2568
-author: Kabai
-redirect: P4A
+author: "Kabai"
+redirect: "P4A"
 old_id: 2569
 ---
 

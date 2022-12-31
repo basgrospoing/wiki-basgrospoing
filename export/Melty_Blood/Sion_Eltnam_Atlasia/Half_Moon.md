@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion Eltnam Atlasia/Half Moon
-slug: Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon
+title: "Melty Blood/Sion Eltnam Atlasia/Half Moon"
+slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon"
 id: 1880
-author: 82.234.188.250
+author: "82.234.188.250"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia/Half Moon

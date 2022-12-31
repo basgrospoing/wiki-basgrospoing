@@ -1,8 +1,8 @@
 ---
-title: Strider (UMVC3)
-slug: Strider_(UMVC3)
+title: "Strider (UMVC3)"
+slug:  "Strider_(UMVC3)"
 id: 3002
-author: ALX
+author: "ALX"
 ---
 
 # Strider (UMVC3)

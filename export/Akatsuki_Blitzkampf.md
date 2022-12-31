@@ -1,8 +1,8 @@
 ---
-title: Akatsuki Blitzkampf
-slug: Akatsuki_Blitzkampf
+title: "Akatsuki Blitzkampf"
+slug:  "Akatsuki_Blitzkampf"
 id: 2248
-author: Kabai
+author: "Kabai"
 ---
 
 # Akatsuki Blitzkampf

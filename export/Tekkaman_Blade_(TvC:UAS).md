@@ -1,8 +1,8 @@
 ---
-title: Tekkaman Blade (TvC:UAS)
-slug: Tekkaman_Blade_(TvC:UAS)
+title: "Tekkaman Blade (TvC:UAS)"
+slug:  "Tekkaman_Blade_(TvC:UAS)"
 id: 519
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Tekkaman Blade (TvC:UAS)

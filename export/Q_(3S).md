@@ -1,8 +1,8 @@
 ---
-title: Q (3S)
-slug: Q_(3S)
+title: "Q (3S)"
+slug:  "Q_(3S)"
 id: 280
-author: ALX
+author: "ALX"
 ---
 
 # Q (3S)

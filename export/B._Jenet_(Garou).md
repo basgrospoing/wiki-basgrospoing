@@ -1,8 +1,8 @@
 ---
-title: B. Jenet (Garou)
-slug: B._Jenet_(Garou)
+title: "B. Jenet (Garou)"
+slug:  "B._Jenet_(Garou)"
 id: 13
-author: Aerendir
+author: "Aerendir"
 ---
 
 # B. Jenet (Garou)

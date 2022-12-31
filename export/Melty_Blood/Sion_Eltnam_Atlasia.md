@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion Eltnam Atlasia
-slug: Melty_Blood/Sion_Eltnam_Atlasia
+title: "Melty Blood/Sion Eltnam Atlasia"
+slug:  "Melty_Blood/Sion_Eltnam_Atlasia"
 id: 1876
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia

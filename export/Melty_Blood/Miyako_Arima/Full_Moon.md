@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Miyako Arima/Full Moon
-slug: Melty_Blood/Miyako_Arima/Full_Moon
+title: "Melty Blood/Miyako Arima/Full Moon"
+slug:  "Melty_Blood/Miyako_Arima/Full_Moon"
 id: 1814
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Miyako Arima/Full Moon

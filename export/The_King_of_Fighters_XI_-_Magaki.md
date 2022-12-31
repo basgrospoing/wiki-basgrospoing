@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Magaki
-slug: The_King_of_Fighters_XI_-_Magaki
+title: "The King of Fighters XI - Magaki"
+slug:  "The_King_of_Fighters_XI_-_Magaki"
 id: 949
-author: Olivic
-redirect: Kofxi_magaki
+author: "Olivic"
+redirect: "Kofxi_magaki"
 old_id: 950
 ---
 

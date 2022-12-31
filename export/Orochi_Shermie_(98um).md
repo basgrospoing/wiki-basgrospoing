@@ -1,8 +1,8 @@
 ---
-title: Orochi Shermie (98um)
-slug: Orochi_Shermie_(98um)
+title: "Orochi Shermie (98um)"
+slug:  "Orochi_Shermie_(98um)"
 id: 245
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Orochi Shermie (98um)

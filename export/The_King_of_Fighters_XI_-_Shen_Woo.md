@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Shen Woo
-slug: The_King_of_Fighters_XI_-_Shen_Woo
+title: "The King of Fighters XI - Shen Woo"
+slug:  "The_King_of_Fighters_XI_-_Shen_Woo"
 id: 913
-author: Olivic
-redirect: Kofxi-shen-woo
+author: "Olivic"
+redirect: "Kofxi-shen-woo"
 old_id: 914
 ---
 

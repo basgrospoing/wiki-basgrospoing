@@ -1,9 +1,9 @@
 ---
-title: Kensou (2k2um)
-slug: Kensou_(2k2um)
+title: "Kensou (2k2um)"
+slug:  "Kensou_(2k2um)"
 id: 40
-author: Admin
-redirect: Kensou
+author: "Admin"
+redirect: "Kensou"
 old_id: 91
 ---
 

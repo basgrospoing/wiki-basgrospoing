@@ -1,9 +1,9 @@
 ---
-title: Mature (2k2um)
-slug: Mature_(2k2um)
+title: "Mature (2k2um)"
+slug:  "Mature_(2k2um)"
 id: 43
-author: Admin
-redirect: Mature
+author: "Admin"
+redirect: "Mature"
 old_id: 94
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: ABK/Anonym
-slug: ABK/Anonym
+title: "ABK/Anonym"
+slug:  "ABK/Anonym"
 id: 2269
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Anonym

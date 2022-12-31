@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)
-slug: Samurai_Shodown_IV_-_Galford_D._Weller_(ガルフォード＝Ｄ＝ウェラー,_Garufōdo_Dī_Werā)
+title: "Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)"
+slug:  "Samurai_Shodown_IV_-_Galford_D._Weller_(ガルフォード＝Ｄ＝ウェラー,_Garufōdo_Dī_Werā)"
 id: 647
-author: Olivic
-redirect: Ss4-Galford
+author: "Olivic"
+redirect: "Ss4-Galford"
 old_id: 665
 ---
 

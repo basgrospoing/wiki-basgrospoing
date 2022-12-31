@@ -1,8 +1,8 @@
 ---
-title: Yuri Sakazaki (kof13)
-slug: Yuri_Sakazaki_(kof13)
+title: "Yuri Sakazaki (kof13)"
+slug:  "Yuri_Sakazaki_(kof13)"
 id: 1078
-author: 90.47.247.53
+author: "90.47.247.53"
 ---
 
 # Yuri Sakazaki (kof13)

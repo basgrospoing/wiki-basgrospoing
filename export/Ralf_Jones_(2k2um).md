@@ -1,8 +1,8 @@
 ---
-title: Ralf Jones (2k2um)
-slug: Ralf_Jones_(2k2um)
+title: "Ralf Jones (2k2um)"
+slug:  "Ralf_Jones_(2k2um)"
 id: 122
-author: Admin
+author: "Admin"
 ---
 
 # Ralf Jones (2k2um)

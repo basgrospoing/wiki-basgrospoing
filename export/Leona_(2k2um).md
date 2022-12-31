@@ -1,9 +1,9 @@
 ---
-title: Leona (2k2um)
-slug: Leona_(2k2um)
+title: "Leona (2k2um)"
+slug:  "Leona_(2k2um)"
 id: 30
-author: Admin
-redirect: Leona
+author: "Admin"
+redirect: "Leona"
 old_id: 89
 ---
 

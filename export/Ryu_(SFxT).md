@@ -1,8 +1,8 @@
 ---
-title: Ryu (SFxT)
-slug: Ryu_(SFxT)
+title: "Ryu (SFxT)"
+slug:  "Ryu_(SFxT)"
 id: 2177
-author: KizanCPC
+author: "KizanCPC"
 ---
 
 # Ryu (SFxT)

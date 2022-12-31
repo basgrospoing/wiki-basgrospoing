@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion Eltnam Atlasia/Crescent Moon
-slug: Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon
+title: "Melty Blood/Sion Eltnam Atlasia/Crescent Moon"
+slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon"
 id: 1879
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia/Crescent Moon

@@ -1,8 +1,8 @@
 ---
-title: Joe Higashi (KoF '94) (98um)
-slug: Joe_Higashi_(KoF_'94)_(98um)
+title: "Joe Higashi (KoF '94) (98um)"
+slug:  "Joe_Higashi_(KoF_'94)_(98um)"
 id: 253
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Joe Higashi (KoF '94) (98um)

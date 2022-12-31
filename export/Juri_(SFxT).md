@@ -1,8 +1,8 @@
 ---
-title: Juri (SFxT)
-slug: Juri_(SFxT)
+title: "Juri (SFxT)"
+slug:  "Juri_(SFxT)"
 id: 2171
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Juri (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Beeho Yoo
-slug: Beeho_Yoo
+title: "Beeho Yoo"
+slug:  "Beeho_Yoo"
 id: 469
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Beeho Yoo

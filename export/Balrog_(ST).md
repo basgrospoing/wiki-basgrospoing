@@ -1,8 +1,8 @@
 ---
-title: Balrog (ST)
-slug: Balrog_(ST)
+title: "Balrog (ST)"
+slug:  "Balrog_(ST)"
 id: 451
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Balrog (ST)

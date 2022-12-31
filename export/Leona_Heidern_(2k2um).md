@@ -1,8 +1,8 @@
 ---
-title: Leona Heidern (2k2um)
-slug: Leona_Heidern_(2k2um)
+title: "Leona Heidern (2k2um)"
+slug:  "Leona_Heidern_(2k2um)"
 id: 124
-author: JPX
+author: "JPX"
 ---
 
 # Leona Heidern (2k2um)

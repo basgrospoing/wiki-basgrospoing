@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Shion
-slug: The_King_of_Fighters_XI_-_Shion
+title: "The King of Fighters XI - Shion"
+slug:  "The_King_of_Fighters_XI_-_Shion"
 id: 951
-author: Olivic
-redirect: Kofxi-shion
+author: "Olivic"
+redirect: "Kofxi-shion"
 old_id: 952
 ---
 

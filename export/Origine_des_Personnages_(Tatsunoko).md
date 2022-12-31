@@ -1,8 +1,8 @@
 ---
-title: Origine des Personnages (Tatsunoko)
-slug: Origine_des_Personnages_(Tatsunoko)
+title: "Origine des Personnages (Tatsunoko)"
+slug:  "Origine_des_Personnages_(Tatsunoko)"
 id: 2767
-author: Admin
+author: "Admin"
 ---
 
 # Origine des Personnages (Tatsunoko)

@@ -1,8 +1,8 @@
 ---
-title: Karas (TvC:UAS)
-slug: Karas_(TvC:UAS)
+title: "Karas (TvC:UAS)"
+slug:  "Karas_(TvC:UAS)"
 id: 526
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Karas (TvC:UAS)

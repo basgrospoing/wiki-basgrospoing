@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/White Len
-slug: Melty_Blood/White_Len
+title: "Melty Blood/White Len"
+slug:  "Melty_Blood/White_Len"
 id: 1894
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/White Len

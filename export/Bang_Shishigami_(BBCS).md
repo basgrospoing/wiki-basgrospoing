@@ -1,8 +1,8 @@
 ---
-title: Bang Shishigami (BBCS)
-slug: Bang_Shishigami_(BBCS)
+title: "Bang Shishigami (BBCS)"
+slug:  "Bang_Shishigami_(BBCS)"
 id: 305
-author: Achoral
+author: "Achoral"
 ---
 
 # Bang Shishigami (BBCS)

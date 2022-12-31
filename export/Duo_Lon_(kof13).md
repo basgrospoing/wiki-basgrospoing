@@ -1,8 +1,8 @@
 ---
-title: Duo Lon (kof13)
-slug: Duo_Lon_(kof13)
+title: "Duo Lon (kof13)"
+slug:  "Duo_Lon_(kof13)"
 id: 1082
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Duo Lon (kof13)

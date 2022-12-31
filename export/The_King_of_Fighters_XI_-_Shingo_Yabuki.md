@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Shingo Yabuki
-slug: The_King_of_Fighters_XI_-_Shingo_Yabuki
+title: "The King of Fighters XI - Shingo Yabuki"
+slug:  "The_King_of_Fighters_XI_-_Shingo_Yabuki"
 id: 965
-author: Olivic
-redirect: Kofxi-shingo-yabuki
+author: "Olivic"
+redirect: "Kofxi-shingo-yabuki"
 old_id: 966
 ---
 

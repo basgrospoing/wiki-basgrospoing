@@ -1,8 +1,8 @@
 ---
-title: Capcom vs SNK 2
-slug: Capcom_vs_SNK_2
+title: "Capcom vs SNK 2"
+slug:  "Capcom_vs_SNK_2"
 id: 1608
-author: Alx
+author: "Alx"
 ---
 
 # Capcom vs SNK 2

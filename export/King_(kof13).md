@@ -1,8 +1,8 @@
 ---
-title: King (kof13)
-slug: King_(kof13)
+title: "King (kof13)"
+slug:  "King_(kof13)"
 id: 1118
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # King (kof13)

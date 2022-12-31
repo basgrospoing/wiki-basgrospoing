@@ -1,8 +1,8 @@
 ---
-title: Diezel Sun (concepteur de jeu)
-slug: Diezel_Sun_(concepteur_de_jeu)
+title: "Diezel Sun (concepteur de jeu)"
+slug:  "Diezel_Sun_(concepteur_de_jeu)"
 id: 3017
-author: Wemsa8
+author: "Wemsa8"
 ---
 
 # Diezel Sun (concepteur de jeu)

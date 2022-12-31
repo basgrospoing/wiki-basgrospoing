@@ -1,8 +1,8 @@
 ---
-title: ABK/Fritz
-slug: ABK/Fritz
+title: "ABK/Fritz"
+slug:  "ABK/Fritz"
 id: 2266
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Fritz

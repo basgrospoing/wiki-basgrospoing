@@ -1,9 +1,9 @@
 ---
-title: Blue Mary (2k2um)
-slug: Blue_Mary_(2k2um)
+title: "Blue Mary (2k2um)"
+slug:  "Blue_Mary_(2k2um)"
 id: 46
-author: Hynkel
-redirect: Blue_Mary
+author: "Hynkel"
+redirect: "Blue_Mary"
 old_id: 97
 ---
 

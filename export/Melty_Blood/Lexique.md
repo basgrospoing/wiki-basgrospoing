@@ -1,9 +1,9 @@
 ---
-title: Melty Blood/Lexique
-slug: Melty_Blood/Lexique
+title: "Melty Blood/Lexique"
+slug:  "Melty_Blood/Lexique"
 id: 1713
-author: 82.234.188.250
-redirect: Melty_Blood/Glossary
+author: "82.234.188.250"
+redirect: "Melty_Blood/Glossary"
 old_id: 1714
 ---
 

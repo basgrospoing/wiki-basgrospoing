@@ -1,8 +1,8 @@
 ---
-title: Kain R. Heinlein (Garou)
-slug: Kain_R._Heinlein_(Garou)
+title: "Kain R. Heinlein (Garou)"
+slug:  "Kain_R._Heinlein_(Garou)"
 id: 17
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Kain R. Heinlein (Garou)

@@ -1,8 +1,8 @@
 ---
-title: Kula (kof13)
-slug: Kula_(kof13)
+title: "Kula (kof13)"
+slug:  "Kula_(kof13)"
 id: 1079
-author: Maj
+author: "Maj"
 ---
 
 # Kula (kof13)

@@ -1,8 +1,8 @@
 ---
-title: Julia (SFxT)
-slug: Julia_(SFxT)
+title: "Julia (SFxT)"
+slug:  "Julia_(SFxT)"
 id: 2186
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Julia (SFxT)

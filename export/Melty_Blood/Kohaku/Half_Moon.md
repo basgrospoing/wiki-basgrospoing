@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kohaku/Half Moon
-slug: Melty_Blood/Kohaku/Half_Moon
+title: "Melty Blood/Kohaku/Half Moon"
+slug:  "Melty_Blood/Kohaku/Half_Moon"
 id: 1778
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Kohaku/Half Moon

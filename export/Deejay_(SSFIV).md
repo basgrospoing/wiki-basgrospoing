@@ -1,8 +1,8 @@
 ---
-title: Deejay (SSFIV)
-slug: Deejay_(SSFIV)
+title: "Deejay (SSFIV)"
+slug:  "Deejay_(SSFIV)"
 id: 372
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Deejay (SSFIV)

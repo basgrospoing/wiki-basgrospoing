@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Links
-slug: Melty_Blood/Links
+title: "Melty Blood/Links"
+slug:  "Melty_Blood/Links"
 id: 1717
-author: Naast
+author: "Naast"
 ---
 
 # Melty Blood/Links

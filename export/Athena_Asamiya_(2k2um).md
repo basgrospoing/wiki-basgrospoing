@@ -1,8 +1,8 @@
 ---
-title: Athena Asamiya (2k2um)
-slug: Athena_Asamiya_(2k2um)
+title: "Athena Asamiya (2k2um)"
+slug:  "Athena_Asamiya_(2k2um)"
 id: 125
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Athena Asamiya (2k2um)

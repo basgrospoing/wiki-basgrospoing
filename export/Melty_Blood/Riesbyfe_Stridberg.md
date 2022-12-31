@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Riesbyfe Stridberg
-slug: Melty_Blood/Riesbyfe_Stridberg
+title: "Melty Blood/Riesbyfe Stridberg"
+slug:  "Melty_Blood/Riesbyfe_Stridberg"
 id: 1841
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Riesbyfe Stridberg

@@ -1,8 +1,8 @@
 ---
-title: Ryu (TvC:UAS)
-slug: Ryu_(TvC:UAS)
+title: "Ryu (TvC:UAS)"
+slug:  "Ryu_(TvC:UAS)"
 id: 566
-author: Admin
+author: "Admin"
 ---
 
 # Ryu (TvC:UAS)

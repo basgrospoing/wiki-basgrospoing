@@ -1,8 +1,8 @@
 ---
-title: Cammy (SSFIV)
-slug: Cammy_(SSFIV)
+title: "Cammy (SSFIV)"
+slug:  "Cammy_(SSFIV)"
 id: 2343
-author: 209.73.132.70
+author: "209.73.132.70"
 ---
 
 # Cammy (SSFIV)

@@ -1,9 +1,9 @@
 ---
-title: Nameless (2k2um)
-slug: Nameless_(2k2um)
+title: "Nameless (2k2um)"
+slug:  "Nameless_(2k2um)"
 id: 59
-author: 81.67.71.175
-redirect: K9999
+author: "81.67.71.175"
+redirect: "K9999"
 old_id: 109
 ---
 

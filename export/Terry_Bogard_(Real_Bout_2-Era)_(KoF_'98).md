@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (Real Bout 2-Era) (KoF '98)
-slug: Terry_Bogard_(Real_Bout_2-Era)_(KoF_'98)
+title: "Terry Bogard (Real Bout 2-Era) (KoF '98)"
+slug:  "Terry_Bogard_(Real_Bout_2-Era)_(KoF_'98)"
 id: 194
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Terry Bogard (Real Bout 2-Era) (KoF '98)

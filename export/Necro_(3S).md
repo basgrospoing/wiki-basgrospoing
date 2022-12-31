@@ -1,8 +1,8 @@
 ---
-title: Necro (3S)
-slug: Necro_(3S)
+title: "Necro (3S)"
+slug:  "Necro_(3S)"
 id: 278
-author: ALX
+author: "ALX"
 ---
 
 # Necro (3S)

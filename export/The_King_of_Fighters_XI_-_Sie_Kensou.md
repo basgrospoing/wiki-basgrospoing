@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Sie Kensou
-slug: The_King_of_Fighters_XI_-_Sie_Kensou
+title: "The King of Fighters XI - Sie Kensou"
+slug:  "The_King_of_Fighters_XI_-_Sie_Kensou"
 id: 935
-author: Olivic
-redirect: Kofxi-sie-kensou
+author: "Olivic"
+redirect: "Kofxi-sie-kensou"
 old_id: 936
 ---
 

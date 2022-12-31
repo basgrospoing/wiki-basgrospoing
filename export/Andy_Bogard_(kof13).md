@@ -1,8 +1,8 @@
 ---
-title: Andy Bogard (kof13)
-slug: Andy_Bogard_(kof13)
+title: "Andy Bogard (kof13)"
+slug:  "Andy_Bogard_(kof13)"
 id: 1081
-author: Lolo
+author: "Lolo"
 ---
 
 # Andy Bogard (kof13)

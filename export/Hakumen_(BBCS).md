@@ -1,8 +1,8 @@
 ---
-title: Hakumen (BBCS)
-slug: Hakumen_(BBCS)
+title: "Hakumen (BBCS)"
+slug:  "Hakumen_(BBCS)"
 id: 303
-author: Yolsgens
+author: "Yolsgens"
 ---
 
 # Hakumen (BBCS)

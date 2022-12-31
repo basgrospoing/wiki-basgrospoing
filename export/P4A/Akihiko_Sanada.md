@@ -1,9 +1,9 @@
 ---
-title: P4A/Akihiko Sanada
-slug: P4A/Akihiko_Sanada
+title: "P4A/Akihiko Sanada"
+slug:  "P4A/Akihiko_Sanada"
 id: 2636
-author: Kabai
-redirect: Akihiko_Sanada
+author: "Kabai"
+redirect: "Akihiko_Sanada"
 old_id: 2651
 ---
 

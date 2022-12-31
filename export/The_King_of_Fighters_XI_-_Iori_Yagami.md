@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Iori Yagami
-slug: The_King_of_Fighters_XI_-_Iori_Yagami
+title: "The King of Fighters XI - Iori Yagami"
+slug:  "The_King_of_Fighters_XI_-_Iori_Yagami"
 id: 963
-author: Olivic
-redirect: Kofxi-iori-yagami
+author: "Olivic"
+redirect: "Kofxi-iori-yagami"
 old_id: 964
 ---
 

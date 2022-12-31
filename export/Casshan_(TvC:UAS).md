@@ -1,8 +1,8 @@
 ---
-title: Casshan (TvC:UAS)
-slug: Casshan_(TvC:UAS)
+title: "Casshan (TvC:UAS)"
+slug:  "Casshan_(TvC:UAS)"
 id: 522
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Casshan (TvC:UAS)

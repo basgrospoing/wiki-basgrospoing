@@ -1,8 +1,8 @@
 ---
-title: Kim Kaphawn (kof13)
-slug: Kim_Kaphawn_(kof13)
+title: "Kim Kaphawn (kof13)"
+slug:  "Kim_Kaphawn_(kof13)"
 id: 1139
-author: Sharnt
+author: "Sharnt"
 ---
 
 # Kim Kaphawn (kof13)

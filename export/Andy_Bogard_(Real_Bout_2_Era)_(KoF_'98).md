@@ -1,8 +1,8 @@
 ---
-title: Andy Bogard (Real Bout 2 Era) (KoF '98)
-slug: Andy_Bogard_(Real_Bout_2_Era)_(KoF_'98)
+title: "Andy Bogard (Real Bout 2 Era) (KoF '98)"
+slug:  "Andy_Bogard_(Real_Bout_2_Era)_(KoF_'98)"
 id: 195
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Andy Bogard (Real Bout 2 Era) (KoF '98)

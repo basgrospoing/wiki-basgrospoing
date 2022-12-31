@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kohaku and Mech-Hisui/Crescent Moon
-slug: Melty_Blood/Kohaku_and_Mech-Hisui/Crescent_Moon
+title: "Melty Blood/Kohaku and Mech-Hisui/Crescent Moon"
+slug:  "Melty_Blood/Kohaku_and_Mech-Hisui/Crescent_Moon"
 id: 1782
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Kohaku and Mech-Hisui/Crescent Moon

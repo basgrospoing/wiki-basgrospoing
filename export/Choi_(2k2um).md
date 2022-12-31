@@ -1,9 +1,9 @@
 ---
-title: Choi (2k2um)
-slug: Choi_(2k2um)
+title: "Choi (2k2um)"
+slug:  "Choi_(2k2um)"
 id: 35
-author: Admin
-redirect: Choi
+author: "Admin"
+redirect: "Choi"
 old_id: 83
 ---
 

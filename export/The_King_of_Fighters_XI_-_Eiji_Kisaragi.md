@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Eiji Kisaragi
-slug: The_King_of_Fighters_XI_-_Eiji_Kisaragi
+title: "The King of Fighters XI - Eiji Kisaragi"
+slug:  "The_King_of_Fighters_XI_-_Eiji_Kisaragi"
 id: 953
-author: Olivic
-redirect: Kofxi-eiji-kisaragi
+author: "Olivic"
+redirect: "Kofxi-eiji-kisaragi"
 old_id: 954
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Super tir
-slug: Super_tir
+title: "Super tir"
+slug:  "Super_tir"
 id: 502
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Super tir

@@ -1,8 +1,8 @@
 ---
-title: Guy (Street Fighter Alpha 3)
-slug: Guy_(Street_Fighter_Alpha_3)
+title: "Guy (Street Fighter Alpha 3)"
+slug:  "Guy_(Street_Fighter_Alpha_3)"
 id: 1250
-author: Tonio
+author: "Tonio"
 ---
 
 # Guy (Street Fighter Alpha 3)

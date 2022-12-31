@@ -1,8 +1,8 @@
 ---
-title: Asuka (SFxT)
-slug: Asuka_(SFxT)
+title: "Asuka (SFxT)"
+slug:  "Asuka_(SFxT)"
 id: 2181
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Asuka (SFxT)

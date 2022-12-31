@@ -1,8 +1,8 @@
 ---
-title: Hwoarang (SFxT)
-slug: Hwoarang_(SFxT)
+title: "Hwoarang (SFxT)"
+slug:  "Hwoarang_(SFxT)"
 id: 2184
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Hwoarang (SFxT)

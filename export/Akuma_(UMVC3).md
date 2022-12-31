@@ -1,8 +1,8 @@
 ---
-title: Akuma (UMVC3)
-slug: Akuma_(UMVC3)
+title: "Akuma (UMVC3)"
+slug:  "Akuma_(UMVC3)"
 id: 2959
-author: ALX
+author: "ALX"
 ---
 
 # Akuma (UMVC3)

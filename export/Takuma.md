@@ -1,8 +1,8 @@
 ---
-title: Takuma
-slug: Takuma
+title: "Takuma"
+slug:  "Takuma"
 id: 29
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Takuma

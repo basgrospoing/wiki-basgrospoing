@@ -1,8 +1,8 @@
 ---
-title: Yashiro Nanakase (KoF '98)
-slug: Yashiro_Nanakase_(KoF_'98)
+title: "Yashiro Nanakase (KoF '98)"
+slug:  "Yashiro_Nanakase_(KoF_'98)"
 id: 173
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Yashiro Nanakase (KoF '98)

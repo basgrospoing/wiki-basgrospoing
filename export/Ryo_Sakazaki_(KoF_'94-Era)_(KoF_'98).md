@@ -1,8 +1,8 @@
 ---
-title: Ryo Sakazaki (KoF '94-Era) (KoF '98)
-slug: Ryo_Sakazaki_(KoF_'94-Era)_(KoF_'98)
+title: "Ryo Sakazaki (KoF '94-Era) (KoF '98)"
+slug:  "Ryo_Sakazaki_(KoF_'94-Era)_(KoF_'98)"
 id: 197
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Ryo Sakazaki (KoF '94-Era) (KoF '98)

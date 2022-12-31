@@ -1,8 +1,8 @@
 ---
-title: Makoto (3S)
-slug: Makoto_(3S)
+title: "Makoto (3S)"
+slug:  "Makoto_(3S)"
 id: 277
-author: ALX
+author: "ALX"
 ---
 
 # Makoto (3S)

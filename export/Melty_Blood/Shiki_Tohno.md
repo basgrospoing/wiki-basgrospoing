@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Tohno
-slug: Melty_Blood/Shiki_Tohno
+title: "Melty Blood/Shiki Tohno"
+slug:  "Melty_Blood/Shiki_Tohno"
 id: 1870
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Tohno

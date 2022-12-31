@@ -1,8 +1,8 @@
 ---
-title: Juri (SSFIV)
-slug: Juri_(SSFIV)
+title: "Juri (SSFIV)"
+slug:  "Juri_(SSFIV)"
 id: 354
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Juri (SSFIV)

@@ -1,8 +1,8 @@
 ---
-title: P4A/Mécanismes
-slug: P4A/Mécanismes
+title: "P4A/Mécanismes"
+slug:  "P4A/Mécanismes"
 id: 2571
-author: Kabai
+author: "Kabai"
 ---
 
 # P4A/Mécanismes

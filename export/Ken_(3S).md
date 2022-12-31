@@ -1,8 +1,8 @@
 ---
-title: Ken (3S)
-slug: Ken_(3S)
+title: "Ken (3S)"
+slug:  "Ken_(3S)"
 id: 276
-author: ALX
+author: "ALX"
 ---
 
 # Ken (3S)

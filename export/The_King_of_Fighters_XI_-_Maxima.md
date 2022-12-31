@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Maxima
-slug: The_King_of_Fighters_XI_-_Maxima
+title: "The King of Fighters XI - Maxima"
+slug:  "The_King_of_Fighters_XI_-_Maxima"
 id: 959
-author: Olivic
-redirect: Kofxi-maxima
+author: "Olivic"
+redirect: "Kofxi-maxima"
 old_id: 960
 ---
 

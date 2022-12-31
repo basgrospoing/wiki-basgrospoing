@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kohaku
-slug: Melty_Blood/Kohaku
+title: "Melty Blood/Kohaku"
+slug:  "Melty_Blood/Kohaku"
 id: 1774
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Kohaku

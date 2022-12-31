@@ -1,8 +1,8 @@
 ---
-title: Xiaoyu (SFxT)
-slug: Xiaoyu_(SFxT)
+title: "Xiaoyu (SFxT)"
+slug:  "Xiaoyu_(SFxT)"
 id: 2198
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Xiaoyu (SFxT)

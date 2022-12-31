@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Neco Arc
-slug: Melty_Blood/Neco_Arc
+title: "Melty Blood/Neco Arc"
+slug:  "Melty_Blood/Neco_Arc"
 id: 1815
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Neco Arc

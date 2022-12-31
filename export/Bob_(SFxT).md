@@ -1,8 +1,8 @@
 ---
-title: Bob (SFxT)
-slug: Bob_(SFxT)
+title: "Bob (SFxT)"
+slug:  "Bob_(SFxT)"
 id: 2182
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Bob (SFxT)

@@ -1,8 +1,8 @@
 ---
-title: Kyo-1 (2k2um)
-slug: Kyo-1_(2k2um)
+title: "Kyo-1 (2k2um)"
+slug:  "Kyo-1_(2k2um)"
 id: 139
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Kyo-1 (2k2um)

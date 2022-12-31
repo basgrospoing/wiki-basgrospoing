@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Duo Lon
-slug: The_King_of_Fighters_XI_-_Duo_Lon
+title: "The King of Fighters XI - Duo Lon"
+slug:  "The_King_of_Fighters_XI_-_Duo_Lon"
 id: 903
-author: Olivic
-redirect: Kofxi-duo-lon
+author: "Olivic"
+redirect: "Kofxi-duo-lon"
 old_id: 904
 ---
 

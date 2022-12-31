@@ -1,8 +1,8 @@
 ---
-title: Viewtiful Joe (TvC:UAS)
-slug: Viewtiful_Joe_(TvC:UAS)
+title: "Viewtiful Joe (TvC:UAS)"
+slug:  "Viewtiful_Joe_(TvC:UAS)"
 id: 551
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Viewtiful Joe (TvC:UAS)

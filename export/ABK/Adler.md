@@ -1,8 +1,8 @@
 ---
-title: ABK/Adler
-slug: ABK/Adler
+title: "ABK/Adler"
+slug:  "ABK/Adler"
 id: 2272
-author: Kabai
+author: "Kabai"
 ---
 
 # ABK/Adler

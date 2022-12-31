@@ -1,8 +1,8 @@
 ---
-title: Takuma Sakazaki (98um)
-slug: Takuma_Sakazaki_(98um)
+title: "Takuma Sakazaki (98um)"
+slug:  "Takuma_Sakazaki_(98um)"
 id: 235
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Takuma Sakazaki (98um)

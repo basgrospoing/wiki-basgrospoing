@@ -1,8 +1,8 @@
 ---
-title: Sakura (SSFIV)
-slug: Sakura_(SSFIV)
+title: "Sakura (SSFIV)"
+slug:  "Sakura_(SSFIV)"
 id: 497
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Sakura (SSFIV)

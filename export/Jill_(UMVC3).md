@@ -1,8 +1,8 @@
 ---
-title: Jill (UMVC3)
-slug: Jill_(UMVC3)
+title: "Jill (UMVC3)"
+slug:  "Jill_(UMVC3)"
 id: 2993
-author: ALX
+author: "ALX"
 ---
 
 # Jill (UMVC3)

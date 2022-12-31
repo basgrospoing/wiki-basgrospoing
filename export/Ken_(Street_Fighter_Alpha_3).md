@@ -1,8 +1,8 @@
 ---
-title: Ken (Street Fighter Alpha 3)
-slug: Ken_(Street_Fighter_Alpha_3)
+title: "Ken (Street Fighter Alpha 3)"
+slug:  "Ken_(Street_Fighter_Alpha_3)"
 id: 1366
-author: Tonio
+author: "Tonio"
 ---
 
 # Ken (Street Fighter Alpha 3)

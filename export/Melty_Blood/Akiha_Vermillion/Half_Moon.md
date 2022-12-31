@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Akiha Vermillion/Half Moon
-slug: Melty_Blood/Akiha_Vermillion/Half_Moon
+title: "Melty Blood/Akiha Vermillion/Half Moon"
+slug:  "Melty_Blood/Akiha_Vermillion/Half_Moon"
 id: 1733
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Akiha Vermillion/Half Moon

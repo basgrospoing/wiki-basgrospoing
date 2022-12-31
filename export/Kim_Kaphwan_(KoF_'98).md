@@ -1,8 +1,8 @@
 ---
-title: Kim Kaphwan (KoF '98)
-slug: Kim_Kaphwan_(KoF_'98)
+title: "Kim Kaphwan (KoF '98)"
+slug:  "Kim_Kaphwan_(KoF_'98)"
 id: 170
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Kim Kaphwan (KoF '98)

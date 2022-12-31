@@ -1,8 +1,8 @@
 ---
-title: Yuri Sakazaki (KoF '98)
-slug: Yuri_Sakazaki_(KoF_'98)
+title: "Yuri Sakazaki (KoF '98)"
+slug:  "Yuri_Sakazaki_(KoF_'98)"
 id: 160
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Yuri Sakazaki (KoF '98)

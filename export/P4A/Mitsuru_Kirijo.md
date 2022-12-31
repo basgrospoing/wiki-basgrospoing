@@ -1,9 +1,9 @@
 ---
-title: P4A/Mitsuru Kirijo
-slug: P4A/Mitsuru_Kirijo
+title: "P4A/Mitsuru Kirijo"
+slug:  "P4A/Mitsuru_Kirijo"
 id: 2638
-author: Kabai
-redirect: Mitsuru_Kirijo
+author: "Kabai"
+redirect: "Mitsuru_Kirijo"
 old_id: 2648
 ---
 

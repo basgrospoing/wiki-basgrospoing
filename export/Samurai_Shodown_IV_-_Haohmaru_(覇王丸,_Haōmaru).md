@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)
-slug: Samurai_Shodown_IV_-_Haohmaru_(覇王丸,_Haōmaru)
+title: "Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)"
+slug:  "Samurai_Shodown_IV_-_Haohmaru_(覇王丸,_Haōmaru)"
 id: 643
-author: Olivic
-redirect: Ss4-Haohmaru
+author: "Olivic"
+redirect: "Ss4-Haohmaru"
 old_id: 661
 ---
 

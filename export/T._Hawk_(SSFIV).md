@@ -1,8 +1,8 @@
 ---
-title: T. Hawk (SSFIV)
-slug: T._Hawk_(SSFIV)
+title: "T. Hawk (SSFIV)"
+slug:  "T._Hawk_(SSFIV)"
 id: 513
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # T. Hawk (SSFIV)

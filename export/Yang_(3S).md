@@ -1,8 +1,8 @@
 ---
-title: Yang (3S)
-slug: Yang_(3S)
+title: "Yang (3S)"
+slug:  "Yang_(3S)"
 id: 286
-author: ALX
+author: "ALX"
 ---
 
 # Yang (3S)

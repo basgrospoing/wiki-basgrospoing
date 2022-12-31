@@ -1,8 +1,8 @@
 ---
-title: Glossaire UMVC3
-slug: Glossaire_UMVC3
+title: "Glossaire UMVC3"
+slug:  "Glossaire_UMVC3"
 id: 2924
-author: ALX
+author: "ALX"
 ---
 
 # Glossaire UMVC3

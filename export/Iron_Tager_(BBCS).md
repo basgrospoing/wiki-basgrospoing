@@ -1,8 +1,8 @@
 ---
-title: Iron Tager (BBCS)
-slug: Iron_Tager_(BBCS)
+title: "Iron Tager (BBCS)"
+slug:  "Iron_Tager_(BBCS)"
 id: 301
-author: Achoral
+author: "Achoral"
 ---
 
 # Iron Tager (BBCS)

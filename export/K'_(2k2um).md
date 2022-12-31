@@ -1,9 +1,9 @@
 ---
-title: K' (2k2um)
-slug: K'_(2k2um)
+title: "K' (2k2um)"
+slug:  "K'_(2k2um)"
 id: 51
-author: Admin
-redirect: K'
+author: "Admin"
+redirect: "K'"
 old_id: 102
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Yuri Sakazaki
-slug: The_King_of_Fighters_XI_-_Yuri_Sakazaki
+title: "The King of Fighters XI - Yuri Sakazaki"
+slug:  "The_King_of_Fighters_XI_-_Yuri_Sakazaki"
 id: 931
-author: Olivic
-redirect: Kofxi-yuri-sakazaki
+author: "Olivic"
+redirect: "Kofxi-yuri-sakazaki"
 old_id: 932
 ---
 

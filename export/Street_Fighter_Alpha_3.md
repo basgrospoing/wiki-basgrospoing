@@ -1,8 +1,8 @@
 ---
-title: Street Fighter Alpha 3
-slug: Street_Fighter_Alpha_3
+title: "Street Fighter Alpha 3"
+slug:  "Street_Fighter_Alpha_3"
 id: 1025
-author: Admin
+author: "Admin"
 ---
 
 # Street Fighter Alpha 3

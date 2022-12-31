@@ -1,8 +1,8 @@
 ---
-title: Joe Higashi (kof13)
-slug: Joe_Higashi_(kof13)
+title: "Joe Higashi (kof13)"
+slug:  "Joe_Higashi_(kof13)"
 id: 1099
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Joe Higashi (kof13)

@@ -1,8 +1,8 @@
 ---
-title: Ken (SFxT)
-slug: Ken_(SFxT)
+title: "Ken (SFxT)"
+slug:  "Ken_(SFxT)"
 id: 2172
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Ken (SFxT)

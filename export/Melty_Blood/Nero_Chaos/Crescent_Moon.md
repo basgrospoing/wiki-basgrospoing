@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Nero Chaos/Crescent Moon
-slug: Melty_Blood/Nero_Chaos/Crescent_Moon
+title: "Melty Blood/Nero Chaos/Crescent Moon"
+slug:  "Melty_Blood/Nero_Chaos/Crescent_Moon"
 id: 1827
-author: Rapeur
+author: "Rapeur"
 ---
 
 # Melty Blood/Nero Chaos/Crescent Moon

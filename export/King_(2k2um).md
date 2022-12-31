@@ -1,8 +1,8 @@
 ---
-title: King (2k2um)
-slug: King_(2k2um)
+title: "King (2k2um)"
+slug:  "King_(2k2um)"
 id: 120
-author: Admin
+author: "Admin"
 ---
 
 # King (2k2um)

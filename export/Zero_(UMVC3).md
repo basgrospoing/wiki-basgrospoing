@@ -1,8 +1,8 @@
 ---
-title: Zero (UMVC3)
-slug: Zero_(UMVC3)
+title: "Zero (UMVC3)"
+slug:  "Zero_(UMVC3)"
 id: 3015
-author: ALX
+author: "ALX"
 ---
 
 # Zero (UMVC3)

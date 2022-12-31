@@ -1,9 +1,9 @@
 ---
-title: Vanessa (2k2um)
-slug: Vanessa_(2k2um)
+title: "Vanessa (2k2um)"
+slug:  "Vanessa_(2k2um)"
 id: 54
-author: Admin
-redirect: Vanessa
+author: "Admin"
+redirect: "Vanessa"
 old_id: 105
 ---
 

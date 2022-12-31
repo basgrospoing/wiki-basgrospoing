@@ -1,8 +1,8 @@
 ---
-title: Hazama (BBCS)
-slug: Hazama_(BBCS)
+title: "Hazama (BBCS)"
+slug:  "Hazama_(BBCS)"
 id: 302
-author: Achoral
+author: "Achoral"
 ---
 
 # Hazama (BBCS)

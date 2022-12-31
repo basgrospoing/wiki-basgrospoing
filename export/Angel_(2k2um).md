@@ -1,9 +1,9 @@
 ---
-title: Angel (2k2um)
-slug: Angel_(2k2um)
+title: "Angel (2k2um)"
+slug:  "Angel_(2k2um)"
 id: 57
-author: Aerendir
-redirect: Angel
+author: "Aerendir"
+redirect: "Angel"
 old_id: 110
 ---
 

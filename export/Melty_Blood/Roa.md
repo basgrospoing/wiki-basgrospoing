@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Roa
-slug: Melty_Blood/Roa
+title: "Melty Blood/Roa"
+slug:  "Melty_Blood/Roa"
 id: 1847
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Roa

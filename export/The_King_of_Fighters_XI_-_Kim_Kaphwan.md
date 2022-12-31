@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Kim Kaphwan
-slug: The_King_of_Fighters_XI_-_Kim_Kaphwan
+title: "The King of Fighters XI - Kim Kaphwan"
+slug:  "The_King_of_Fighters_XI_-_Kim_Kaphwan"
 id: 945
-author: Olivic
-redirect: Kofxi-kim-kaphwan
+author: "Olivic"
+redirect: "Kofxi-kim-kaphwan"
 old_id: 946
 ---
 

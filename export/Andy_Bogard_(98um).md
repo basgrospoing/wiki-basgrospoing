@@ -1,8 +1,8 @@
 ---
-title: Andy Bogard (98um)
-slug: Andy_Bogard_(98um)
+title: "Andy Bogard (98um)"
+slug:  "Andy_Bogard_(98um)"
 id: 208
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Andy Bogard (98um)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/White Len/Half Moon
-slug: Melty_Blood/White_Len/Half_Moon
+title: "Melty Blood/White Len/Half Moon"
+slug:  "Melty_Blood/White_Len/Half_Moon"
 id: 1897
-author: 88.173.34.60
+author: "88.173.34.60"
 ---
 
 # Melty Blood/White Len/Half Moon

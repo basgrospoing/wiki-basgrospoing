@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Nero Chaos
-slug: Melty_Blood/Nero_Chaos
+title: "Melty Blood/Nero Chaos"
+slug:  "Melty_Blood/Nero_Chaos"
 id: 1824
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Nero Chaos

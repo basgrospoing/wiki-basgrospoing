@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Clark Steel
-slug: The_King_of_Fighters_XI_-_Clark_Steel
+title: "The King of Fighters XI - Clark Steel"
+slug:  "The_King_of_Fighters_XI_-_Clark_Steel"
 id: 923
-author: Olivic
-redirect: Kofxi-clark-steel
+author: "Olivic"
+redirect: "Kofxi-clark-steel"
 old_id: 924
 ---
 

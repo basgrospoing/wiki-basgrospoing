@@ -1,8 +1,8 @@
 ---
-title: Freeman (Garou)
-slug: Freeman_(Garou)
+title: "Freeman (Garou)"
+slug:  "Freeman_(Garou)"
 id: 11
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Freeman (Garou)

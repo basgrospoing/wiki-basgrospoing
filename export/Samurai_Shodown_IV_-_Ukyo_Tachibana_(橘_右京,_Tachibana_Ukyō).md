@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)
-slug: Samurai_Shodown_IV_-_Ukyo_Tachibana_(橘_右京,_Tachibana_Ukyō)
+title: "Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)"
+slug:  "Samurai_Shodown_IV_-_Ukyo_Tachibana_(橘_右京,_Tachibana_Ukyō)"
 id: 646
-author: Olivic
-redirect: Ss4-Ukyo
+author: "Olivic"
+redirect: "Ss4-Ukyo"
 old_id: 664
 ---
 

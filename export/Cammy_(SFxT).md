@@ -1,8 +1,8 @@
 ---
-title: Cammy (SFxT)
-slug: Cammy_(SFxT)
+title: "Cammy (SFxT)"
+slug:  "Cammy_(SFxT)"
 id: 2165
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Cammy (SFxT)

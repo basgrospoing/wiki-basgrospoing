@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)
-slug: Samurai_Shodown_IV_-_Nakoruru_(ナコルル,_Nakoruru)
+title: "Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)"
+slug:  "Samurai_Shodown_IV_-_Nakoruru_(ナコルル,_Nakoruru)"
 id: 641
-author: Olivic
-redirect: Ss4-Nakoruru
+author: "Olivic"
+redirect: "Ss4-Nakoruru"
 old_id: 659
 ---
 

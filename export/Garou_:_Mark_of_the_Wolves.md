@@ -1,8 +1,8 @@
 ---
-title: Garou : Mark of the Wolves
-slug: Garou_:_Mark_of_the_Wolves
+title: "Garou : Mark of the Wolves"
+slug:  "Garou_:_Mark_of_the_Wolves"
 id: 4
-author: Timmytheturtle
+author: "Timmytheturtle"
 ---
 
 # Garou : Mark of the Wolves

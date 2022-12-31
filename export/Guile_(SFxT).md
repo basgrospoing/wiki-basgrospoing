@@ -1,8 +1,8 @@
 ---
-title: Guile (SFxT)
-slug: Guile_(SFxT)
+title: "Guile (SFxT)"
+slug:  "Guile_(SFxT)"
 id: 2168
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Guile (SFxT)

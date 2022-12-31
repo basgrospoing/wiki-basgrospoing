@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Miyako Arima/Crescent Moon
-slug: Melty_Blood/Miyako_Arima/Crescent_Moon
+title: "Melty Blood/Miyako Arima/Crescent Moon"
+slug:  "Melty_Blood/Miyako_Arima/Crescent_Moon"
 id: 1812
-author: Ouytsu
+author: "Ouytsu"
 ---
 
 # Melty Blood/Miyako Arima/Crescent Moon

@@ -1,8 +1,8 @@
 ---
-title: Poison (SFxT)
-slug: Poison_(SFxT)
+title: "Poison (SFxT)"
+slug:  "Poison_(SFxT)"
 id: 2174
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Poison (SFxT)

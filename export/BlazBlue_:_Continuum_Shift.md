@@ -1,9 +1,9 @@
 ---
-title: BlazBlue : Continuum Shift
-slug: BlazBlue_:_Continuum_Shift
+title: "BlazBlue : Continuum Shift"
+slug:  "BlazBlue_:_Continuum_Shift"
 id: 289
-author: Olivic
-redirect: Blazblue_:_Continuum_Shift
+author: "Olivic"
+redirect: "Blazblue_:_Continuum_Shift"
 old_id: 313
 ---
 

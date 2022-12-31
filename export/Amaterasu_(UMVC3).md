@@ -1,8 +1,8 @@
 ---
-title: Amaterasu (UMVC3)
-slug: Amaterasu_(UMVC3)
+title: "Amaterasu (UMVC3)"
+slug:  "Amaterasu_(UMVC3)"
 id: 2962
-author: ALX
+author: "ALX"
 ---
 
 # Amaterasu (UMVC3)

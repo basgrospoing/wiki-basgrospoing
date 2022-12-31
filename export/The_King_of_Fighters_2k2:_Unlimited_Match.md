@@ -1,8 +1,8 @@
 ---
-title: The King of Fighters 2k2: Unlimited Match
-slug: The_King_of_Fighters_2k2:_Unlimited_Match
+title: "The King of Fighters 2k2: Unlimited Match"
+slug:  "The_King_of_Fighters_2k2:_Unlimited_Match"
 id: 360
-author: 87.126.204.251
+author: "87.126.204.251"
 ---
 
 # The King of Fighters 2k2: Unlimited Match

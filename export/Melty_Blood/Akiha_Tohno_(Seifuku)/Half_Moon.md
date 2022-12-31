@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Akiha Tohno (Seifuku)/Half Moon
-slug: Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon
+title: "Melty Blood/Akiha Tohno (Seifuku)/Half Moon"
+slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon"
 id: 1728
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Akiha Tohno (Seifuku)/Half Moon

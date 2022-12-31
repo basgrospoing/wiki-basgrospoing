@@ -1,8 +1,8 @@
 ---
-title: Mature (98um)
-slug: Mature_(98um)
+title: "Mature (98um)"
+slug:  "Mature_(98um)"
 id: 232
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Mature (98um)

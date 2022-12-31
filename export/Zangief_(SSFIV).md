@@ -1,8 +1,8 @@
 ---
-title: Zangief (SSFIV)
-slug: Zangief_(SSFIV)
+title: "Zangief (SSFIV)"
+slug:  "Zangief_(SSFIV)"
 id: 2141
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Zangief (SSFIV)

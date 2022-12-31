@@ -1,8 +1,8 @@
 ---
-title: Twelve (3S)
-slug: Twelve_(3S)
+title: "Twelve (3S)"
+slug:  "Twelve_(3S)"
 id: 284
-author: ALX
+author: "ALX"
 ---
 
 # Twelve (3S)

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Kouma Kishima
-slug: Melty_Blood/Kouma_Kishima
+title: "Melty Blood/Kouma Kishima"
+slug:  "Melty_Blood/Kouma_Kishima"
 id: 1785
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Kouma Kishima

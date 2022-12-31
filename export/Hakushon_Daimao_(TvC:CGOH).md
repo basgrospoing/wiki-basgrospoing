@@ -1,8 +1,8 @@
 ---
-title: Hakushon Daimao (TvC:CGOH)
-slug: Hakushon_Daimao_(TvC:CGOH)
+title: "Hakushon Daimao (TvC:CGOH)"
+slug:  "Hakushon_Daimao_(TvC:CGOH)"
 id: 701
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Hakushon Daimao (TvC:CGOH)

@@ -1,8 +1,8 @@
 ---
-title: Jordi Costa
-slug: Jordi_Costa
+title: "Jordi Costa"
+slug:  "Jordi_Costa"
 id: 471
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Jordi Costa

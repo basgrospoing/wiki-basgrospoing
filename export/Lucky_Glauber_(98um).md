@@ -1,8 +1,8 @@
 ---
-title: Lucky Glauber (98um)
-slug: Lucky_Glauber_(98um)
+title: "Lucky Glauber (98um)"
+slug:  "Lucky_Glauber_(98um)"
 id: 238
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Lucky Glauber (98um)

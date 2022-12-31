@@ -1,9 +1,9 @@
 ---
-title: Kula (2k2um)
-slug: Kula_(2k2um)
+title: "Kula (2k2um)"
+slug:  "Kula_(2k2um)"
 id: 58
-author: 194.158.70.15
-redirect: Kula
+author: "194.158.70.15"
+redirect: "Kula"
 old_id: 108
 ---
 

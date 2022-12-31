@@ -1,8 +1,8 @@
 ---
-title: King (SFxT)
-slug: King_(SFxT)
+title: "King (SFxT)"
+slug:  "King_(SFxT)"
 id: 2188
-author: Hynkel
+author: "Hynkel"
 ---
 
 # King (SFxT)

@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)
-slug: Samurai_Shodown_IV_-_Gaira_Caffeine_(花諷院_骸羅,_Kafūin_Gaira)
+title: "Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)"
+slug:  "Samurai_Shodown_IV_-_Gaira_Caffeine_(花諷院_骸羅,_Kafūin_Gaira)"
 id: 645
-author: Olivic
-redirect: Ss4-Gaira
+author: "Olivic"
+redirect: "Ss4-Gaira"
 old_id: 663
 ---
 

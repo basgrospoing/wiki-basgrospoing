@@ -1,8 +1,8 @@
 ---
-title: Tekkaman (TvC:UAS)
-slug: Tekkaman_(TvC:UAS)
+title: "Tekkaman (TvC:UAS)"
+slug:  "Tekkaman_(TvC:UAS)"
 id: 516
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Tekkaman (TvC:UAS)

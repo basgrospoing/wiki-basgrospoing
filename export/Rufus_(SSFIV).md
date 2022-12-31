@@ -1,8 +1,8 @@
 ---
-title: Rufus (SSFIV)
-slug: Rufus_(SSFIV)
+title: "Rufus (SSFIV)"
+slug:  "Rufus_(SSFIV)"
 id: 2153
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Rufus (SSFIV)

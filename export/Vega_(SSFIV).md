@@ -1,8 +1,8 @@
 ---
-title: Vega (SSFIV)
-slug: Vega_(SSFIV)
+title: "Vega (SSFIV)"
+slug:  "Vega_(SSFIV)"
 id: 362
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Vega (SSFIV)

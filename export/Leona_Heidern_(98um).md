@@ -1,8 +1,8 @@
 ---
-title: Leona Heidern (98um)
-slug: Leona_Heidern_(98um)
+title: "Leona Heidern (98um)"
+slug:  "Leona_Heidern_(98um)"
 id: 213
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Leona Heidern (98um)

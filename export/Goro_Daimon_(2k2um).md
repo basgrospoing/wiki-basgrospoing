@@ -1,9 +1,9 @@
 ---
-title: Goro Daimon (2k2um)
-slug: Goro_Daimon_(2k2um)
+title: "Goro Daimon (2k2um)"
+slug:  "Goro_Daimon_(2k2um)"
 id: 23
-author: Admin
-redirect: Goro_Daimon
+author: "Admin"
+redirect: "Goro_Daimon"
 old_id: 80
 ---
 

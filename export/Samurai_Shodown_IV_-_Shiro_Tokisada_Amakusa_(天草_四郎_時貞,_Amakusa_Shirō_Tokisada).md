@@ -1,9 +1,9 @@
 ---
-title: Samurai Shodown IV - Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō Tokisada)
-slug: Samurai_Shodown_IV_-_Shiro_Tokisada_Amakusa_(天草_四郎_時貞,_Amakusa_Shirō_Tokisada)
+title: "Samurai Shodown IV - Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō Tokisada)"
+slug:  "Samurai_Shodown_IV_-_Shiro_Tokisada_Amakusa_(天草_四郎_時貞,_Amakusa_Shirō_Tokisada)"
 id: 638
-author: Olivic
-redirect: Ss4-Shiro
+author: "Olivic"
+redirect: "Ss4-Shiro"
 old_id: 656
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Arcueid Brunestud
-slug: Melty_Blood/Arcueid_Brunestud
+title: "Melty Blood/Arcueid Brunestud"
+slug:  "Melty_Blood/Arcueid_Brunestud"
 id: 1750
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Arcueid Brunestud

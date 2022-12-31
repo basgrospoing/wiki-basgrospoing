@@ -1,8 +1,8 @@
 ---
-title: Joe Higashi (98um)
-slug: Joe_Higashi_(98um)
+title: "Joe Higashi (98um)"
+slug:  "Joe_Higashi_(98um)"
 id: 209
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Joe Higashi (98um)

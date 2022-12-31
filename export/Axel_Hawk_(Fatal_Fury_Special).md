@@ -1,8 +1,8 @@
 ---
-title: Axel Hawk (Fatal Fury Special)
-slug: Axel_Hawk_(Fatal_Fury_Special)
+title: "Axel Hawk (Fatal Fury Special)"
+slug:  "Axel_Hawk_(Fatal_Fury_Special)"
 id: 743
-author: Atomskyu690
+author: "Atomskyu690"
 ---
 
 # Axel Hawk (Fatal Fury Special)

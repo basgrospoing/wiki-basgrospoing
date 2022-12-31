@@ -1,8 +1,8 @@
 ---
-title: Clay
-slug: Clay
+title: "Clay"
+slug:  "Clay"
 id: 490
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Clay

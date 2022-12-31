@@ -1,8 +1,8 @@
 ---
-title: Brian Battler (98um)
-slug: Brian_Battler_(98um)
+title: "Brian Battler (98um)"
+slug:  "Brian_Battler_(98um)"
 id: 239
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Brian Battler (98um)

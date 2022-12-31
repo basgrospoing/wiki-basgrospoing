@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Aoko Aozaki/Half Moon
-slug: Melty_Blood/Aoko_Aozaki/Half_Moon
+title: "Melty Blood/Aoko Aozaki/Half Moon"
+slug:  "Melty_Blood/Aoko_Aozaki/Half_Moon"
 id: 1742
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Aoko Aozaki/Half Moon

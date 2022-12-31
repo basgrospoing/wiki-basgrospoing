@@ -1,8 +1,8 @@
 ---
-title: Zero (TvC:UAS)
-slug: Zero_(TvC:UAS)
+title: "Zero (TvC:UAS)"
+slug:  "Zero_(TvC:UAS)"
 id: 531
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Zero (TvC:UAS)

@@ -1,8 +1,8 @@
 ---
-title: Hsien Ko (UMVC3)
-slug: Hsien_Ko_(UMVC3)
+title: "Hsien Ko (UMVC3)"
+slug:  "Hsien_Ko_(UMVC3)"
 id: 2992
-author: ALX
+author: "ALX"
 ---
 
 # Hsien Ko (UMVC3)

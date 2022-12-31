@@ -1,8 +1,8 @@
 ---
-title: Super Street Fighter IV
-slug: Super_Street_Fighter_IV
+title: "Super Street Fighter IV"
+slug:  "Super_Street_Fighter_IV"
 id: 2344
-author: Atomskyu690
+author: "Atomskyu690"
 ---
 
 # Super Street Fighter IV

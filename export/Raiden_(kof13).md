@@ -1,8 +1,8 @@
 ---
-title: Raiden (kof13)
-slug: Raiden_(kof13)
+title: "Raiden (kof13)"
+slug:  "Raiden_(kof13)"
 id: 1137
-author: Kula'
+author: "Kula'"
 ---
 
 # Raiden (kof13)

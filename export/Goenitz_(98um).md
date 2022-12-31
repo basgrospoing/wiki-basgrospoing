@@ -1,8 +1,8 @@
 ---
-title: Goenitz (98um)
-slug: Goenitz_(98um)
+title: "Goenitz (98um)"
+slug:  "Goenitz_(98um)"
 id: 266
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Goenitz (98um)

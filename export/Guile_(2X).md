@@ -1,8 +1,8 @@
 ---
-title: Guile (2X)
-slug: Guile_(2X)
+title: "Guile (2X)"
+slug:  "Guile_(2X)"
 id: 458
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Guile (2X)

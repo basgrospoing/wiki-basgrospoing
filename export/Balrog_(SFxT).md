@@ -1,8 +1,8 @@
 ---
-title: Balrog (SFxT)
-slug: Balrog_(SFxT)
+title: "Balrog (SFxT)"
+slug:  "Balrog_(SFxT)"
 id: 2164
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Balrog (SFxT)

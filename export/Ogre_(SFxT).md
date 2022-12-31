@@ -1,8 +1,8 @@
 ---
-title: Ogre (SFxT)
-slug: Ogre_(SFxT)
+title: "Ogre (SFxT)"
+slug:  "Ogre_(SFxT)"
 id: 2194
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Ogre (SFxT)

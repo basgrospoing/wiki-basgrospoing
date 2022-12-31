@@ -1,8 +1,8 @@
 ---
-title: Mai Shiranui (Fatal Fury Special)
-slug: Mai_Shiranui_(Fatal_Fury_Special)
+title: "Mai Shiranui (Fatal Fury Special)"
+slug:  "Mai_Shiranui_(Fatal_Fury_Special)"
 id: 735
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Mai Shiranui (Fatal Fury Special)

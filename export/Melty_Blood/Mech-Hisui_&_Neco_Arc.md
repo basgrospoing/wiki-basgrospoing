@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Mech-Hisui & Neco Arc
-slug: Melty_Blood/Mech-Hisui_&_Neco_Arc
+title: "Melty Blood/Mech-Hisui & Neco Arc"
+slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc"
 id: 1804
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Mech-Hisui & Neco Arc

@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Ash Crimson
-slug: The_King_of_Fighters_XI_-_Ash_Crimson
+title: "The King of Fighters XI - Ash Crimson"
+slug:  "The_King_of_Fighters_XI_-_Ash_Crimson"
 id: 897
-author: Olivic
-redirect: Kofxi-ash-crimson
+author: "Olivic"
+redirect: "Kofxi-ash-crimson"
 old_id: 898
 ---
 

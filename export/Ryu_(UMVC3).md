@@ -1,8 +1,8 @@
 ---
-title: Ryu (UMVC3)
-slug: Ryu_(UMVC3)
+title: "Ryu (UMVC3)"
+slug:  "Ryu_(UMVC3)"
 id: 3000
-author: ALX
+author: "ALX"
 ---
 
 # Ryu (UMVC3)

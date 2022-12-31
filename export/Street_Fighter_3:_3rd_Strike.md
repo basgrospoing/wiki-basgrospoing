@@ -1,8 +1,8 @@
 ---
-title: Street Fighter 3: 3rd Strike
-slug: Street_Fighter_3:_3rd_Strike
+title: "Street Fighter 3: 3rd Strike"
+slug:  "Street_Fighter_3:_3rd_Strike"
 id: 3
-author: ALX
+author: "ALX"
 ---
 
 # Street Fighter 3: 3rd Strike

@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Kula Diamond
-slug: The_King_of_Fighters_XI_-_Kula_Diamond
+title: "The King of Fighters XI - Kula Diamond"
+slug:  "The_King_of_Fighters_XI_-_Kula_Diamond"
 id: 957
-author: Olivic
-redirect: Kofxi-kula-diamond
+author: "Olivic"
+redirect: "Kofxi-kula-diamond"
 old_id: 958
 ---
 

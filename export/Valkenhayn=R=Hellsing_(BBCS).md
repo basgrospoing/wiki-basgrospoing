@@ -1,8 +1,8 @@
 ---
-title: Valkenhayn=R=Hellsing (BBCS)
-slug: Valkenhayn=R=Hellsing_(BBCS)
+title: "Valkenhayn=R=Hellsing (BBCS)"
+slug:  "Valkenhayn=R=Hellsing_(BBCS)"
 id: 293
-author: Achoral
+author: "Achoral"
 ---
 
 # Valkenhayn

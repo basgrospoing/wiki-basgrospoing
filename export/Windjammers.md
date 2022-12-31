@@ -1,8 +1,8 @@
 ---
-title: Windjammers
-slug: Windjammers
+title: "Windjammers"
+slug:  "Windjammers"
 id: 466
-author: Admin
+author: "Admin"
 ---
 
 # Windjammers

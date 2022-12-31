@@ -1,8 +1,8 @@
 ---
-title: Chun Li (UMVC3)
-slug: Chun_Li_(UMVC3)
+title: "Chun Li (UMVC3)"
+slug:  "Chun_Li_(UMVC3)"
 id: 2977
-author: ALX
+author: "ALX"
 ---
 
 # Chun Li (UMVC3)

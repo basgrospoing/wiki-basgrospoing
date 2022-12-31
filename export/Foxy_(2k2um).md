@@ -1,8 +1,8 @@
 ---
-title: Foxy (2k2um)
-slug: Foxy_(2k2um)
+title: "Foxy (2k2um)"
+slug:  "Foxy_(2k2um)"
 id: 129
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Foxy (2k2um)

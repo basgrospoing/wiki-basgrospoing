@@ -1,8 +1,8 @@
 ---
-title: Robert Garcia (kof13)
-slug: Robert_Garcia_(kof13)
+title: "Robert Garcia (kof13)"
+slug:  "Robert_Garcia_(kof13)"
 id: 1091
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Robert Garcia (kof13)

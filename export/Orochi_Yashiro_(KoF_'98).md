@@ -1,8 +1,8 @@
 ---
-title: Orochi Yashiro (KoF '98)
-slug: Orochi_Yashiro_(KoF_'98)
+title: "Orochi Yashiro (KoF '98)"
+slug:  "Orochi_Yashiro_(KoF_'98)"
 id: 188
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Orochi Yashiro (KoF '98)

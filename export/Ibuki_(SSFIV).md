@@ -1,8 +1,8 @@
 ---
-title: Ibuki (SSFIV)
-slug: Ibuki_(SSFIV)
+title: "Ibuki (SSFIV)"
+slug:  "Ibuki_(SSFIV)"
 id: 2152
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Ibuki (SSFIV)

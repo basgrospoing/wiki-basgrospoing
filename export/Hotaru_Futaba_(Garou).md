@@ -1,8 +1,8 @@
 ---
-title: Hotaru Futaba (Garou)
-slug: Hotaru_Futaba_(Garou)
+title: "Hotaru Futaba (Garou)"
+slug:  "Hotaru_Futaba_(Garou)"
 id: 7
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Hotaru Futaba (Garou)

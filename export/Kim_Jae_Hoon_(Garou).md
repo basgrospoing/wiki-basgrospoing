@@ -1,8 +1,8 @@
 ---
-title: Kim Jae Hoon (Garou)
-slug: Kim_Jae_Hoon_(Garou)
+title: "Kim Jae Hoon (Garou)"
+slug:  "Kim_Jae_Hoon_(Garou)"
 id: 15
-author: Aerendir
+author: "Aerendir"
 ---
 
 # Kim Jae Hoon (Garou)

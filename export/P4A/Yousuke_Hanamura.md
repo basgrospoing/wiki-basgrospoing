@@ -1,8 +1,8 @@
 ---
-title: P4A/Yousuke Hanamura
-slug: P4A/Yousuke_Hanamura
+title: "P4A/Yousuke Hanamura"
+slug:  "P4A/Yousuke_Hanamura"
 id: 2642
-author: Kabai
+author: "Kabai"
 ---
 
 # P4A/Yousuke Hanamura

@@ -1,8 +1,8 @@
 ---
-title: Yoshimitsu (SFxT)
-slug: Yoshimitsu_(SFxT)
+title: "Yoshimitsu (SFxT)"
+slug:  "Yoshimitsu_(SFxT)"
 id: 2199
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Yoshimitsu (SFxT)

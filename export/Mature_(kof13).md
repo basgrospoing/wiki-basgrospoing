@@ -1,8 +1,8 @@
 ---
-title: Mature (kof13)
-slug: Mature_(kof13)
+title: "Mature (kof13)"
+slug:  "Mature_(kof13)"
 id: 1131
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Mature (kof13)

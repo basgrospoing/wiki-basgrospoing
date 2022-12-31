@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Ramon
-slug: The_King_of_Fighters_XI_-_Ramon
+title: "The King of Fighters XI - Ramon"
+slug:  "The_King_of_Fighters_XI_-_Ramon"
 id: 939
-author: Olivic
-redirect: Kofxi-ramon
+author: "Olivic"
+redirect: "Kofxi-ramon"
 old_id: 940
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Yun (SSFIV)
-slug: Yun_(SSFIV)
+title: "Yun (SSFIV)"
+slug:  "Yun_(SSFIV)"
 id: 2157
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Yun (SSFIV)

@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Elisabeth Blanctorche
-slug: The_King_of_Fighters_XI_-_Elisabeth_Blanctorche
+title: "The King of Fighters XI - Elisabeth Blanctorche"
+slug:  "The_King_of_Fighters_XI_-_Elisabeth_Blanctorche"
 id: 905
-author: Olivic
-redirect: Kofxi-elisabeth-blanctorche
+author: "Olivic"
+redirect: "Kofxi-elisabeth-blanctorche"
 old_id: 906
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Frank West (TvC:UAS)
-slug: Frank_West_(TvC:UAS)
+title: "Frank West (TvC:UAS)"
+slug:  "Frank_West_(TvC:UAS)"
 id: 550
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Frank West (TvC:UAS)

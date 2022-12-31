@@ -1,8 +1,8 @@
 ---
-title: Jhun Hoon (2k2um)
-slug: Jhun_Hoon_(2k2um)
+title: "Jhun Hoon (2k2um)"
+slug:  "Jhun_Hoon_(2k2um)"
 id: 131
-author: Kaldanm
+author: "Kaldanm"
 ---
 
 # Jhun Hoon (2k2um)

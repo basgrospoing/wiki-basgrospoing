@@ -1,8 +1,8 @@
 ---
-title: Shermie (98um)
-slug: Shermie_(98um)
+title: "Shermie (98um)"
+slug:  "Shermie_(98um)"
 id: 226
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Shermie (98um)

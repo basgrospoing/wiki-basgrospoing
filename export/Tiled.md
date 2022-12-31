@@ -1,8 +1,8 @@
 ---
-title: Tiled
-slug: Tiled
+title: "Tiled"
+slug:  "Tiled"
 id: 492
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Tiled

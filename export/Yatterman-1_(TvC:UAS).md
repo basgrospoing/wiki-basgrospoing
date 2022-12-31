@@ -1,8 +1,8 @@
 ---
-title: Yatterman-1 (TvC:UAS)
-slug: Yatterman-1_(TvC:UAS)
+title: "Yatterman-1 (TvC:UAS)"
+slug:  "Yatterman-1_(TvC:UAS)"
 id: 524
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Yatterman-1 (TvC:UAS)

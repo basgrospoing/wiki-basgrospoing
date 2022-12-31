@@ -1,8 +1,8 @@
 ---
-title: Blanka (ST)
-slug: Blanka_(ST)
+title: "Blanka (ST)"
+slug:  "Blanka_(ST)"
 id: 452
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Blanka (ST)

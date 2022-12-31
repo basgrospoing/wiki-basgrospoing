@@ -1,8 +1,8 @@
 ---
-title: Kyo Kusanagi (KoF '95) (98um)
-slug: Kyo_Kusanagi_(KoF_'95)_(98um)
+title: "Kyo Kusanagi (KoF '95) (98um)"
+slug:  "Kyo_Kusanagi_(KoF_'95)_(98um)"
 id: 250
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Kyo Kusanagi (KoF '95) (98um)

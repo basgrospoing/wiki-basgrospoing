@@ -1,8 +1,8 @@
 ---
-title: Mai Shiranui (kof13)
-slug: Mai_Shiranui_(kof13)
+title: "Mai Shiranui (kof13)"
+slug:  "Mai_Shiranui_(kof13)"
 id: 1120
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Mai Shiranui (kof13)

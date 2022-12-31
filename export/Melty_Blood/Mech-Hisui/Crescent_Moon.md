@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Mech-Hisui/Crescent Moon
-slug: Melty_Blood/Mech-Hisui/Crescent_Moon
+title: "Melty Blood/Mech-Hisui/Crescent Moon"
+slug:  "Melty_Blood/Mech-Hisui/Crescent_Moon"
 id: 1801
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Mech-Hisui/Crescent Moon

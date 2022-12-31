@@ -1,8 +1,8 @@
 ---
-title: Dante (UMVC3)
-slug: Dante_(UMVC3)
+title: "Dante (UMVC3)"
+slug:  "Dante_(UMVC3)"
 id: 2980
-author: ALX
+author: "ALX"
 ---
 
 # Dante (UMVC3)

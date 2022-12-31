@@ -1,8 +1,8 @@
 ---
-title: Batsu Ichimonji (TvC:UAS)
-slug: Batsu_Ichimonji_(TvC:UAS)
+title: "Batsu Ichimonji (TvC:UAS)"
+slug:  "Batsu_Ichimonji_(TvC:UAS)"
 id: 561
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Batsu Ichimonji (TvC:UAS)

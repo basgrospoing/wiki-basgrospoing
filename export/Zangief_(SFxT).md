@@ -1,8 +1,8 @@
 ---
-title: Zangief (SFxT)
-slug: Zangief_(SFxT)
+title: "Zangief (SFxT)"
+slug:  "Zangief_(SFxT)"
 id: 2180
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Zangief (SFxT)

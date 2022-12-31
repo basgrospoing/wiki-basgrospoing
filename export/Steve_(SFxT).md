@@ -1,8 +1,8 @@
 ---
-title: Steve (SFxT)
-slug: Steve_(SFxT)
+title: "Steve (SFxT)"
+slug:  "Steve_(SFxT)"
 id: 2197
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Steve (SFxT)

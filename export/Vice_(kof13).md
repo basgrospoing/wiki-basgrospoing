@@ -1,8 +1,8 @@
 ---
-title: Vice (kof13)
-slug: Vice_(kof13)
+title: "Vice (kof13)"
+slug:  "Vice_(kof13)"
 id: 1135
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Vice (kof13)

@@ -1,8 +1,8 @@
 ---
-title: Ultimate Marvel vs Capcom 3
-slug: Ultimate_Marvel_vs_Capcom_3
+title: "Ultimate Marvel vs Capcom 3"
+slug:  "Ultimate_Marvel_vs_Capcom_3"
 id: 2707
-author: ALX
+author: "ALX"
 ---
 
 # Ultimate Marvel vs Capcom 3

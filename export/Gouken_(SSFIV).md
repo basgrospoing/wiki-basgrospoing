@@ -1,8 +1,8 @@
 ---
-title: Gouken (SSFIV)
-slug: Gouken_(SSFIV)
+title: "Gouken (SSFIV)"
+slug:  "Gouken_(SSFIV)"
 id: 352
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Gouken (SSFIV)

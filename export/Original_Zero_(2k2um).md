@@ -1,8 +1,8 @@
 ---
-title: Original Zero (2k2um)
-slug: Original_Zero_(2k2um)
+title: "Original Zero (2k2um)"
+slug:  "Original_Zero_(2k2um)"
 id: 150
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Original Zero (2k2um)

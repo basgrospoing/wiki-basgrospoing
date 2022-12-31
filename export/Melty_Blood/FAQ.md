@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/FAQ
-slug: Melty_Blood/FAQ
+title: "Melty Blood/FAQ"
+slug:  "Melty_Blood/FAQ"
 id: 1710
-author: Zind
+author: "Zind"
 ---
 
 # Melty Blood/FAQ

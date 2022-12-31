@@ -1,8 +1,8 @@
 ---
-title: Andy
-slug: Andy
+title: "Andy"
+slug:  "Andy"
 id: 25
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Andy

@@ -1,8 +1,8 @@
 ---
-title: Akuma (SSFIV)
-slug: Akuma_(SSFIV)
+title: "Akuma (SSFIV)"
+slug:  "Akuma_(SSFIV)"
 id: 434
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Akuma (SSFIV)

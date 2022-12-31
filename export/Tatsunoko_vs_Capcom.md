@@ -1,8 +1,8 @@
 ---
-title: Tatsunoko vs Capcom
-slug: Tatsunoko_vs_Capcom
+title: "Tatsunoko vs Capcom"
+slug:  "Tatsunoko_vs_Capcom"
 id: 382
-author: Admin
+author: "Admin"
 ---
 
 # Tatsunoko vs Capcom

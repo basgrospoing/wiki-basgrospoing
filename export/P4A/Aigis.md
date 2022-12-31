@@ -1,9 +1,9 @@
 ---
-title: P4A/Aigis
-slug: P4A/Aigis
+title: "P4A/Aigis"
+slug:  "P4A/Aigis"
 id: 2635
-author: Kabai
-redirect: Aigis
+author: "Kabai"
+redirect: "Aigis"
 old_id: 2649
 ---
 

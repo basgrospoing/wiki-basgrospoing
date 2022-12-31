@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Archetype: Earth
-slug: Melty_Blood/Archetype:_Earth
+title: "Melty Blood/Archetype: Earth"
+slug:  "Melty_Blood/Archetype:_Earth"
 id: 1745
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Archetype: Earth

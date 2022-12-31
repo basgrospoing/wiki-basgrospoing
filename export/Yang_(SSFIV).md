@@ -1,8 +1,8 @@
 ---
-title: Yang (SSFIV)
-slug: Yang_(SSFIV)
+title: "Yang (SSFIV)"
+slug:  "Yang_(SSFIV)"
 id: 2158
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Yang (SSFIV)

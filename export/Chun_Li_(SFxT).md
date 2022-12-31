@@ -1,8 +1,8 @@
 ---
-title: Chun Li (SFxT)
-slug: Chun_Li_(SFxT)
+title: "Chun Li (SFxT)"
+slug:  "Chun_Li_(SFxT)"
 id: 2166
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Chun Li (SFxT)

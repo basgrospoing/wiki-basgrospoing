@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Hisui & Kohaku/Half Moon
-slug: Melty_Blood/Hisui_&_Kohaku/Half_Moon
+title: "Melty Blood/Hisui & Kohaku/Half Moon"
+slug:  "Melty_Blood/Hisui_&_Kohaku/Half_Moon"
 id: 1772
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Hisui & Kohaku/Half Moon

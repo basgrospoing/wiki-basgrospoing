@@ -1,8 +1,8 @@
 ---
-title: HarkeyNewberry811
-slug: HarkeyNewberry811
+title: "HarkeyNewberry811"
+slug:  "HarkeyNewberry811"
 id: 2296
-author: HarkeyNewberry811
+author: "HarkeyNewberry811"
 ---
 
 # HarkeyNewberry811

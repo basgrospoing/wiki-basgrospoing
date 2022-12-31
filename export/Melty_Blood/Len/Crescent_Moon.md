@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Len/Crescent Moon
-slug: Melty_Blood/Len/Crescent_Moon
+title: "Melty Blood/Len/Crescent Moon"
+slug:  "Melty_Blood/Len/Crescent_Moon"
 id: 1794
-author: Oufan
+author: "Oufan"
 ---
 
 # Melty Blood/Len/Crescent Moon

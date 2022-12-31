@@ -1,8 +1,8 @@
 ---
-title: PTX-40A (TvC:UAS)
-slug: PTX-40A_(TvC:UAS)
+title: "PTX-40A (TvC:UAS)"
+slug:  "PTX-40A_(TvC:UAS)"
 id: 530
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # PTX-40A (TvC:UAS)

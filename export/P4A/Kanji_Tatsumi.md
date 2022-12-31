@@ -1,9 +1,9 @@
 ---
-title: P4A/Kanji Tatsumi
-slug: P4A/Kanji_Tatsumi
+title: "P4A/Kanji Tatsumi"
+slug:  "P4A/Kanji_Tatsumi"
 id: 2639
-author: Kabai
-redirect: Kanji_Tatsumi
+author: "Kabai"
+redirect: "Kanji_Tatsumi"
 old_id: 2655
 ---
 

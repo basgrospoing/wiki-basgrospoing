@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Sion TATARI
-slug: Melty_Blood/Sion_TATARI
+title: "Melty Blood/Sion TATARI"
+slug:  "Melty_Blood/Sion_TATARI"
 id: 1882
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Sion TATARI

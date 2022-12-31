@@ -1,9 +1,9 @@
 ---
-title: Athena (2k2um)
-slug: Athena_(2k2um)
+title: "Athena (2k2um)"
+slug:  "Athena_(2k2um)"
 id: 39
-author: Admin
-redirect: Athena
+author: "Admin"
+redirect: "Athena"
 old_id: 90
 ---
 

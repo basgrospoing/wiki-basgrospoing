@@ -1,8 +1,8 @@
 ---
-title: Goro Daimon (98um)
-slug: Goro_Daimon_(98um)
+title: "Goro Daimon (98um)"
+slug:  "Goro_Daimon_(98um)"
 id: 206
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Goro Daimon (98um)

@@ -1,8 +1,8 @@
 ---
-title: Arthur (UMVC3)
-slug: Arthur_(UMVC3)
+title: "Arthur (UMVC3)"
+slug:  "Arthur_(UMVC3)"
 id: 2963
-author: ALX
+author: "ALX"
 ---
 
 # Arthur (UMVC3)

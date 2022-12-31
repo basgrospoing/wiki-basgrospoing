@@ -1,8 +1,8 @@
 ---
-title: Rufus (SFxT)
-slug: Rufus_(SFxT)
+title: "Rufus (SFxT)"
+slug:  "Rufus_(SFxT)"
 id: 2176
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Rufus (SFxT)

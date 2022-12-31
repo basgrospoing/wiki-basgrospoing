@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Shiki Tohno/Crescent Moon
-slug: Melty_Blood/Shiki_Tohno/Crescent_Moon
+title: "Melty Blood/Shiki Tohno/Crescent Moon"
+slug:  "Melty_Blood/Shiki_Tohno/Crescent_Moon"
 id: 1873
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Shiki Tohno/Crescent Moon

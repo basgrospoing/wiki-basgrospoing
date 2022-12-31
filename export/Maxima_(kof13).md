@@ -1,8 +1,8 @@
 ---
-title: Maxima (kof13)
-slug: Maxima_(kof13)
+title: "Maxima (kof13)"
+slug:  "Maxima_(kof13)"
 id: 1109
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Maxima (kof13)

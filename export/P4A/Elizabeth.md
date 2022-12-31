@@ -1,9 +1,9 @@
 ---
-title: P4A/Elizabeth
-slug: P4A/Elizabeth
+title: "P4A/Elizabeth"
+slug:  "P4A/Elizabeth"
 id: 2637
-author: Kabai
-redirect: Elizabeth
+author: "Kabai"
+redirect: "Elizabeth"
 old_id: 2647
 ---
 

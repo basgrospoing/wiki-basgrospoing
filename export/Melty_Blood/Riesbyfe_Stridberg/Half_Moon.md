@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Riesbyfe Stridberg/Half Moon
-slug: Melty_Blood/Riesbyfe_Stridberg/Half_Moon
+title: "Melty Blood/Riesbyfe Stridberg/Half Moon"
+slug:  "Melty_Blood/Riesbyfe_Stridberg/Half_Moon"
 id: 1843
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Riesbyfe Stridberg/Half Moon

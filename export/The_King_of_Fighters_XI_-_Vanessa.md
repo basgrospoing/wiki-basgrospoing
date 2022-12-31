@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Vanessa
-slug: The_King_of_Fighters_XI_-_Vanessa
+title: "The King of Fighters XI - Vanessa"
+slug:  "The_King_of_Fighters_XI_-_Vanessa"
 id: 947
-author: Olivic
-redirect: Kofxi-vanessa
+author: "Olivic"
+redirect: "Kofxi-vanessa"
 old_id: 948
 ---
 

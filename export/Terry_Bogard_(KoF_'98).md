@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (KoF '98)
-slug: Terry_Bogard_(KoF_'98)
+title: "Terry Bogard (KoF '98)"
+slug:  "Terry_Bogard_(KoF_'98)"
 id: 155
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Terry Bogard (KoF '98)

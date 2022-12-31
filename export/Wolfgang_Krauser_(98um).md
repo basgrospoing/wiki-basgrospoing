@@ -1,8 +1,8 @@
 ---
-title: Wolfgang Krauser (98um)
-slug: Wolfgang_Krauser_(98um)
+title: "Wolfgang Krauser (98um)"
+slug:  "Wolfgang_Krauser_(98um)"
 id: 241
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Wolfgang Krauser (98um)

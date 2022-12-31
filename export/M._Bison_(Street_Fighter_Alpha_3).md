@@ -1,8 +1,8 @@
 ---
-title: M. Bison (Street Fighter Alpha 3)
-slug: M._Bison_(Street_Fighter_Alpha_3)
+title: "M. Bison (Street Fighter Alpha 3)"
+slug:  "M._Bison_(Street_Fighter_Alpha_3)"
 id: 1245
-author: Tonio
+author: "Tonio"
 ---
 
 # M. Bison (Street Fighter Alpha 3)

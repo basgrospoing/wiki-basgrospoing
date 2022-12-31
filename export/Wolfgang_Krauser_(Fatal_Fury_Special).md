@@ -1,8 +1,8 @@
 ---
-title: Wolfgang Krauser (Fatal Fury Special)
-slug: Wolfgang_Krauser_(Fatal_Fury_Special)
+title: "Wolfgang Krauser (Fatal Fury Special)"
+slug:  "Wolfgang_Krauser_(Fatal_Fury_Special)"
 id: 750
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Wolfgang Krauser (Fatal Fury Special)

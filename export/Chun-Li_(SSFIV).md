@@ -1,8 +1,8 @@
 ---
-title: Chun-Li (SSFIV)
-slug: Chun-Li_(SSFIV)
+title: "Chun-Li (SSFIV)"
+slug:  "Chun-Li_(SSFIV)"
 id: 364
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Chun-Li (SSFIV)

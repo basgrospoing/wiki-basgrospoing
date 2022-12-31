@@ -1,8 +1,8 @@
 ---
-title: Mai Shiranui (KoF '98)
-slug: Mai_Shiranui_(KoF_'98)
+title: "Mai Shiranui (KoF '98)"
+slug:  "Mai_Shiranui_(KoF_'98)"
 id: 168
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Mai Shiranui (KoF '98)

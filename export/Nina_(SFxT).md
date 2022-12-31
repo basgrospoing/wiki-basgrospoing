@@ -1,8 +1,8 @@
 ---
-title: Nina (SFxT)
-slug: Nina_(SFxT)
+title: "Nina (SFxT)"
+slug:  "Nina_(SFxT)"
 id: 2193
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Nina (SFxT)

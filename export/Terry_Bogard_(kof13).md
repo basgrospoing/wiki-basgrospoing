@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (kof13)
-slug: Terry_Bogard_(kof13)
+title: "Terry Bogard (kof13)"
+slug:  "Terry_Bogard_(kof13)"
 id: 1077
-author: Maj
+author: "Maj"
 ---
 
 # Terry Bogard (kof13)

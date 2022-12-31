@@ -1,9 +1,9 @@
 ---
-title: P4A/Yukiko Amagi
-slug: P4A/Yukiko_Amagi
+title: "P4A/Yukiko Amagi"
+slug:  "P4A/Yukiko_Amagi"
 id: 2644
-author: Kabai
-redirect: Yukiko_Amagi
+author: "Kabai"
+redirect: "Yukiko_Amagi"
 old_id: 2656
 ---
 

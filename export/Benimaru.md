@@ -1,8 +1,8 @@
 ---
-title: Benimaru
-slug: Benimaru
+title: "Benimaru"
+slug:  "Benimaru"
 id: 22
-author: Bberita
+author: "Bberita"
 ---
 
 # Benimaru

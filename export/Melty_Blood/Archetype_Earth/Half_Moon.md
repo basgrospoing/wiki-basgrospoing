@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Archetype Earth/Half Moon
-slug: Melty_Blood/Archetype_Earth/Half_Moon
+title: "Melty Blood/Archetype Earth/Half Moon"
+slug:  "Melty_Blood/Archetype_Earth/Half_Moon"
 id: 1748
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Archetype Earth/Half Moon

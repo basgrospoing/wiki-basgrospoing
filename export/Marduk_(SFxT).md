@@ -1,8 +1,8 @@
 ---
-title: Marduk (SFxT)
-slug: Marduk_(SFxT)
+title: "Marduk (SFxT)"
+slug:  "Marduk_(SFxT)"
 id: 2192
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Marduk (SFxT)

@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI
-slug: The_King_of_Fighters_XI
+title: "The King of Fighters XI"
+slug:  "The_King_of_Fighters_XI"
 id: 895
-author: Admin
-redirect: Kofxi
+author: "Admin"
+redirect: "Kofxi"
 old_id: 896
 ---
 

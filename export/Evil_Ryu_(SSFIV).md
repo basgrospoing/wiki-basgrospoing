@@ -1,8 +1,8 @@
 ---
-title: Evil Ryu (SSFIV)
-slug: Evil_Ryu_(SSFIV)
+title: "Evil Ryu (SSFIV)"
+slug:  "Evil_Ryu_(SSFIV)"
 id: 2156
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Evil Ryu (SSFIV)

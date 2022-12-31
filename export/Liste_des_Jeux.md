@@ -1,8 +1,8 @@
 ---
-title: Liste des Jeux
-slug: Liste_des_Jeux
+title: "Liste des Jeux"
+slug:  "Liste_des_Jeux"
 id: 311
-author: Kabai
+author: "Kabai"
 ---
 
 # Liste des Jeux

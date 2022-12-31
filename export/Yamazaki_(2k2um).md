@@ -1,9 +1,9 @@
 ---
-title: Yamazaki (2k2um)
-slug: Yamazaki_(2k2um)
+title: "Yamazaki (2k2um)"
+slug:  "Yamazaki_(2k2um)"
 id: 45
-author: Admin
-redirect: Yamazaki
+author: "Admin"
+redirect: "Yamazaki"
 old_id: 98
 ---
 

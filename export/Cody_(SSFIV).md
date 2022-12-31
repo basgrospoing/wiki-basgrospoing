@@ -1,8 +1,8 @@
 ---
-title: Cody (SSFIV)
-slug: Cody_(SSFIV)
+title: "Cody (SSFIV)"
+slug:  "Cody_(SSFIV)"
 id: 361
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Cody (SSFIV)

@@ -1,8 +1,8 @@
 ---
-title: Guilty Gear XX Accent Core
-slug: Guilty_Gear_XX_Accent_Core
+title: "Guilty Gear XX Accent Core"
+slug:  "Guilty_Gear_XX_Accent_Core"
 id: 288
-author: Admin
+author: "Admin"
 ---
 
 # Guilty Gear XX Accent Core

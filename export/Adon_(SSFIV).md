@@ -1,8 +1,8 @@
 ---
-title: Adon (SSFIV)
-slug: Adon_(SSFIV)
+title: "Adon (SSFIV)"
+slug:  "Adon_(SSFIV)"
 id: 2144
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Adon (SSFIV)

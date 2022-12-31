@@ -1,8 +1,8 @@
 ---
-title: Oni (SSFIV)
-slug: Oni_(SSFIV)
+title: "Oni (SSFIV)"
+slug:  "Oni_(SSFIV)"
 id: 2159
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Oni (SSFIV)

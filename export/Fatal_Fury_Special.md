@@ -1,8 +1,8 @@
 ---
-title: Fatal Fury Special
-slug: Fatal_Fury_Special
+title: "Fatal Fury Special"
+slug:  "Fatal_Fury_Special"
 id: 718
-author: Admin
+author: "Admin"
 ---
 
 # Fatal Fury Special

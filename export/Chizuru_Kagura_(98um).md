@@ -1,8 +1,8 @@
 ---
-title: Chizuru Kagura (98um)
-slug: Chizuru_Kagura_(98um)
+title: "Chizuru Kagura (98um)"
+slug:  "Chizuru_Kagura_(98um)"
 id: 219
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Chizuru Kagura (98um)

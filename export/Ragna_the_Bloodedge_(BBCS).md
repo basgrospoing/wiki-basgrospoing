@@ -1,8 +1,8 @@
 ---
-title: Ragna the Bloodedge (BBCS)
-slug: Ragna_the_Bloodedge_(BBCS)
+title: "Ragna the Bloodedge (BBCS)"
+slug:  "Ragna_the_Bloodedge_(BBCS)"
 id: 296
-author: 78.240.92.62
+author: "78.240.92.62"
 ---
 
 # Ragna the Bloodedge (BBCS)

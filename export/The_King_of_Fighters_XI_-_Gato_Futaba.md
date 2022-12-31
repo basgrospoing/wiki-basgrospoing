@@ -1,9 +1,9 @@
 ---
-title: The King of Fighters XI - Gato Futaba
-slug: The_King_of_Fighters_XI_-_Gato_Futaba
+title: "The King of Fighters XI - Gato Futaba"
+slug:  "The_King_of_Fighters_XI_-_Gato_Futaba"
 id: 907
-author: Olivic
-redirect: The_King_of_Fighters_XI_-_Gato
+author: "Olivic"
+redirect: "The_King_of_Fighters_XI_-_Gato"
 old_id: 967
 ---
 

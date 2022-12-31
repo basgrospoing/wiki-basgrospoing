@@ -1,8 +1,8 @@
 ---
-title: Goro Daimon (kof13)
-slug: Goro_Daimon_(kof13)
+title: "Goro Daimon (kof13)"
+slug:  "Goro_Daimon_(kof13)"
 id: 1113
-author: Natchooo
+author: "Natchooo"
 ---
 
 # Goro Daimon (kof13)

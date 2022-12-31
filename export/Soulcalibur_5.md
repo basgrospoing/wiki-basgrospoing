@@ -1,8 +1,8 @@
 ---
-title: Soulcalibur 5
-slug: Soulcalibur_5
+title: "Soulcalibur 5"
+slug:  "Soulcalibur_5"
 id: 2139
-author: Admin
+author: "Admin"
 ---
 
 # Soulcalibur 5

@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Satsuki Yumiduka
-slug: Melty_Blood/Satsuki_Yumiduka
+title: "Melty Blood/Satsuki Yumiduka"
+slug:  "Melty_Blood/Satsuki_Yumiduka"
 id: 1853
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Satsuki Yumiduka

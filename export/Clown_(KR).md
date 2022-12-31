@@ -1,8 +1,8 @@
 ---
-title: Clown (KR)
-slug: Clown_(KR)
+title: "Clown (KR)"
+slug:  "Clown_(KR)"
 id: 384
-author: Zarghatt
+author: "Zarghatt"
 ---
 
 # Clown (KR)

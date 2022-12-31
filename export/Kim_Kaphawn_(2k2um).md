@@ -1,8 +1,8 @@
 ---
-title: Kim Kaphawn (2k2um)
-slug: Kim_Kaphawn_(2k2um)
+title: "Kim Kaphawn (2k2um)"
+slug:  "Kim_Kaphawn_(2k2um)"
 id: 116
-author: 86.208.29.31
+author: "86.208.29.31"
 ---
 
 # Kim Kaphawn (2k2um)

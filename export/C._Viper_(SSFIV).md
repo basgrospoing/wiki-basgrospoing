@@ -1,8 +1,8 @@
 ---
-title: C. Viper (SSFIV)
-slug: C._Viper_(SSFIV)
+title: "C. Viper (SSFIV)"
+slug:  "C._Viper_(SSFIV)"
 id: 438
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # C. Viper (SSFIV)

@@ -1,9 +1,9 @@
 ---
-title: Kyo Kusanagi (2k2um)
-slug: Kyo_Kusanagi_(2k2um)
+title: "Kyo Kusanagi (2k2um)"
+slug:  "Kyo_Kusanagi_(2k2um)"
 id: 70
-author: JPX
-redirect: Kyo_Kusanagi
+author: "JPX"
+redirect: "Kyo_Kusanagi"
 old_id: 78
 ---
 

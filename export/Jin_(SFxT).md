@@ -1,8 +1,8 @@
 ---
-title: Jin (SFxT)
-slug: Jin_(SFxT)
+title: "Jin (SFxT)"
+slug:  "Jin_(SFxT)"
 id: 2185
-author: KizanCPC
+author: "KizanCPC"
 ---
 
 # Jin (SFxT)

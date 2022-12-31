@@ -1,8 +1,8 @@
 ---
-title: Geese Howard (Fatal Fury Special)
-slug: Geese_Howard_(Fatal_Fury_Special)
+title: "Geese Howard (Fatal Fury Special)"
+slug:  "Geese_Howard_(Fatal_Fury_Special)"
 id: 748
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Geese Howard (Fatal Fury Special)

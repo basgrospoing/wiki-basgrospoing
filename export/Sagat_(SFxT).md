@@ -1,8 +1,8 @@
 ---
-title: Sagat (SFxT)
-slug: Sagat_(SFxT)
+title: "Sagat (SFxT)"
+slug:  "Sagat_(SFxT)"
 id: 2178
-author: Hynkel
+author: "Hynkel"
 ---
 
 # Sagat (SFxT)

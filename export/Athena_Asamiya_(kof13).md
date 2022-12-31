@@ -1,8 +1,8 @@
 ---
-title: Athena Asamiya (kof13)
-slug: Athena_Asamiya_(kof13)
+title: "Athena Asamiya (kof13)"
+slug:  "Athena_Asamiya_(kof13)"
 id: 1144
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Athena Asamiya (kof13)

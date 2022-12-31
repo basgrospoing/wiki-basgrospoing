@@ -1,8 +1,8 @@
 ---
-title: Rugal Bernstein (KoF '98)
-slug: Rugal_Bernstein_(KoF_'98)
+title: "Rugal Bernstein (KoF '98)"
+slug:  "Rugal_Bernstein_(KoF_'98)"
 id: 191
-author: Corbeau Bleu
+author: "Corbeau Bleu"
 ---
 
 # Rugal Bernstein (KoF '98)

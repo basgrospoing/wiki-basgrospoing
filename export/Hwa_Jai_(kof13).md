@@ -1,8 +1,8 @@
 ---
-title: Hwa Jai (kof13)
-slug: Hwa_Jai_(kof13)
+title: "Hwa Jai (kof13)"
+slug:  "Hwa_Jai_(kof13)"
 id: 1142
-author: 82.238.249.39
+author: "82.238.249.39"
 ---
 
 # Hwa Jai (kof13)

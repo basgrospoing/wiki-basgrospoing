@@ -1,8 +1,8 @@
 ---
-title: Fei Long (2X)
-slug: Fei_Long_(2X)
+title: "Fei Long (2X)"
+slug:  "Fei_Long_(2X)"
 id: 457
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Fei Long (2X)

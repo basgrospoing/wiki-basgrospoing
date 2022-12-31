@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Arcueid Brunestud/Half Moon
-slug: Melty_Blood/Arcueid_Brunestud/Half_Moon
+title: "Melty Blood/Arcueid Brunestud/Half Moon"
+slug:  "Melty_Blood/Arcueid_Brunestud/Half_Moon"
 id: 1754
-author: Ninjigen
+author: "Ninjigen"
 ---
 
 # Melty Blood/Arcueid Brunestud/Half Moon

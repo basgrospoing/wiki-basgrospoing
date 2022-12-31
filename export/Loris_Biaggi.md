@@ -1,8 +1,8 @@
 ---
-title: Loris Biaggi
-slug: Loris_Biaggi
+title: "Loris Biaggi"
+slug:  "Loris_Biaggi"
 id: 473
-author: Wolmar
+author: "Wolmar"
 ---
 
 # Loris Biaggi

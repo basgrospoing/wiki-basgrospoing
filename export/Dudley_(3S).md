@@ -1,8 +1,8 @@
 ---
-title: Dudley (3S)
-slug: Dudley_(3S)
+title: "Dudley (3S)"
+slug:  "Dudley_(3S)"
 id: 271
-author: ALX
+author: "ALX"
 ---
 
 # Dudley (3S)

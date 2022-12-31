@@ -1,9 +1,9 @@
 ---
-title: P4A/Naoto Shirogane
-slug: P4A/Naoto_Shirogane
+title: "P4A/Naoto Shirogane"
+slug:  "P4A/Naoto_Shirogane"
 id: 2640
-author: Kabai
-redirect: Naoto_Shirogane
+author: "Kabai"
+redirect: "Naoto_Shirogane"
 old_id: 2654
 ---
 

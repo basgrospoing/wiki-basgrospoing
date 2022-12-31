@@ -1,8 +1,8 @@
 ---
-title: Ken (SSFIV)
-slug: Ken_(SSFIV)
+title: "Ken (SSFIV)"
+slug:  "Ken_(SSFIV)"
 id: 2148
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Ken (SSFIV)

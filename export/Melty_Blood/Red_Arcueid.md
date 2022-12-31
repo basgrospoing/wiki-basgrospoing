@@ -1,8 +1,8 @@
 ---
-title: Melty Blood/Red Arcueid
-slug: Melty_Blood/Red_Arcueid
+title: "Melty Blood/Red Arcueid"
+slug:  "Melty_Blood/Red_Arcueid"
 id: 1835
-author: Sannos
+author: "Sannos"
 ---
 
 # Melty Blood/Red Arcueid

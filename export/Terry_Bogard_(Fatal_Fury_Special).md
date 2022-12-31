@@ -1,8 +1,8 @@
 ---
-title: Terry Bogard (Fatal Fury Special)
-slug: Terry_Bogard_(Fatal_Fury_Special)
+title: "Terry Bogard (Fatal Fury Special)"
+slug:  "Terry_Bogard_(Fatal_Fury_Special)"
 id: 720
-author: Dan sakazaki
+author: "Dan sakazaki"
 ---
 
 # Terry Bogard (Fatal Fury Special)

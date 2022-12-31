@@ -1,8 +1,8 @@
 ---
-title: Gen (SSFIV)
-slug: Gen_(SSFIV)
+title: "Gen (SSFIV)"
+slug:  "Gen_(SSFIV)"
 id: 2149
-author: Atomskyu698
+author: "Atomskyu698"
 ---
 
 # Gen (SSFIV)
