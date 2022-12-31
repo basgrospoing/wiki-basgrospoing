@@ -1,6 +1,13 @@
+---
+title: Frank West (UMVC3)
+slug: Frank_West_(UMVC3)
+id: 2986
+author: ALX
+---
+
 # Frank West (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

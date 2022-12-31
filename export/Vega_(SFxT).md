@@ -1,6 +1,13 @@
+---
+title: Vega (SFxT)
+slug: Vega_(SFxT)
+id: 2179
+author: Hynkel
+---
+
 # Vega (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

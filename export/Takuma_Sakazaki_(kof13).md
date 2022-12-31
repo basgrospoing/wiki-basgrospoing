@@ -1,6 +1,13 @@
+---
+title: Takuma Sakazaki (kof13)
+slug: Takuma_Sakazaki_(kof13)
+id: 1076
+author: Kula'
+---
+
 # Takuma Sakazaki (kof13)
 
-Original author: Kula'.
+.
 
 ![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  
 [Retour à la fiche du

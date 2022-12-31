@@ -1,6 +1,13 @@
+---
+title: Kyo-2 (2k2um)
+slug: Kyo-2_(2k2um)
+id: 140
+author: Corbeau Bleu
+---
+
 # Kyo-2 (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

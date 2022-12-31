@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Kouma Kishima/Full Moon
+slug: Melty_Blood/Kouma_Kishima/Full_Moon
+id: 1790
+author: 88.167.173.143
+---
+
 # Melty Blood/Kouma Kishima/Full Moon
 
-Original author: 88.167.173.143.
+.
 
 # Combos
 

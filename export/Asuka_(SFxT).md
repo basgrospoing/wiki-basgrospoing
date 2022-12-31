@@ -1,6 +1,13 @@
+---
+title: Asuka (SFxT)
+slug: Asuka_(SFxT)
+id: 2181
+author: Hynkel
+---
+
 # Asuka (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

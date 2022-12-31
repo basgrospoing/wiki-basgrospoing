@@ -1,6 +1,13 @@
+---
+title: Morrigan (UMVC3)
+slug: Morrigan_(UMVC3)
+id: 2994
+author: ALX
+---
+
 # Morrigan (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Aoko Aozaki
+slug: Melty_Blood/Aoko_Aozaki
+id: 1739
+author: Oufan
+---
+
 # Melty Blood/Aoko Aozaki
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Aozaki Aoko (蒼崎青子)  —  **Nicknames:**   Miss Blue,
 Magic Gunner, Witch of Destruction \<br\\\>\<br\\\> **Voiced

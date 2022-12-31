@@ -1,6 +1,13 @@
+---
+title: Dante (UMVC3)
+slug: Dante_(UMVC3)
+id: 2980
+author: ALX
+---
+
 # Dante (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

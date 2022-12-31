@@ -1,6 +1,13 @@
+---
+title: Orochi (98um)
+slug: Orochi_(98um)
+id: 267
+author: Corbeau Bleu
+---
+
 # Orochi (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

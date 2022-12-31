@@ -1,6 +1,13 @@
+---
+title: ABK/Anonym
+slug: ABK/Anonym
+id: 2269
+author: Kabai
+---
+
 # ABK/Anonym
 
-Original author: Kabai.
+.
 
 ![](/images/Anonym_ABK.jpg "/images/Anonym_ABK.jpg")
 

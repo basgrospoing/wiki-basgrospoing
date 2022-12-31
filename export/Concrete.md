@@ -1,6 +1,13 @@
+---
+title: Concrete
+slug: Concrete
+id: 491
+author: Wolmar
+---
+
 # Concrete
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/_concrete.png" title="/images/_concrete.png"

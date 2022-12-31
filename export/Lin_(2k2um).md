@@ -1,6 +1,13 @@
+---
+title: Lin (2k2um)
+slug: Lin_(2k2um)
+id: 132
+author: Corbeau Bleu
+---
+
 # Lin (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

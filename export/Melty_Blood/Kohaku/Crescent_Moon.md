@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Kohaku/Crescent Moon
+slug: Melty_Blood/Kohaku/Crescent_Moon
+id: 1777
+author: Sannos
+---
+
 # Melty Blood/Kohaku/Crescent Moon
 
-Original author: Sannos.
+.
 
 # Combos
 

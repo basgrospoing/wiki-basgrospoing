@@ -1,6 +1,13 @@
+---
+title: Blanka (ST)
+slug: Blanka_(ST)
+id: 452
+author: Wolmar
+---
+
 # Blanka (ST)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

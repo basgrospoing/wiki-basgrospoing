@@ -1,6 +1,13 @@
+---
+title: Robert Garcia (kof13)
+slug: Robert_Garcia_(kof13)
+id: 1091
+author: 82.238.249.39
+---
+
 # Robert Garcia (kof13)
 
-Original author: 82.238.249.39.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

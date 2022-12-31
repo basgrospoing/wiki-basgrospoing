@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Akiha Tohno (Seifuku)
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)
+id: 1725
+author: Oufan
+---
+
 # Melty Blood/Akiha Tohno (Seifuku)
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little
 sister" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都

@@ -1,6 +1,13 @@
+---
+title: Zangief (SSFIV)
+slug: Zangief_(SSFIV)
+id: 2141
+author: Atomskyu698
+---
+
 # Zangief (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

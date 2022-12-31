@@ -1,6 +1,13 @@
+---
+title: Mature (98um)
+slug: Mature_(98um)
+id: 232
+author: Corbeau Bleu
+---
+
 # Mature (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

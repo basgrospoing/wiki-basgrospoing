@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Benimaru Nikaido
+slug: The_King_of_Fighters_XI_-_Benimaru_Nikaido
+id: 919
+author: Olivic
+redirect: Kofxi-benimaru-nikaido
+old_id: 922
+---
+
 # The King of Fighters XI - Benimaru Nikaido
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-benimaru-nikaido.jpg "/images/kofxi-benimaru-nikaido.jpg")
 

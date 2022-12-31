@@ -1,6 +1,15 @@
+---
+title: Clark (2k2um)
+slug: Clark_(2k2um)
+id: 32
+author: Admin
+redirect: Clark
+old_id: 88
+---
+
 # Clark (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

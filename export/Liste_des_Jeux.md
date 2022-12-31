@@ -1,6 +1,13 @@
+---
+title: Liste des Jeux
+slug: Liste_des_Jeux
+id: 311
+author: Kabai
+---
+
 # Liste des Jeux
 
-Original author: Kabai.
+.
 
 ## Liste des jeux présents sur le wiki
 

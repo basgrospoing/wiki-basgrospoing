@@ -1,6 +1,13 @@
+---
+title: Makoto Nanaya (BBCS)
+slug: Makoto_Nanaya_(BBCS)
+id: 290
+author: 84.103.225.237
+---
+
 # Makoto Nanaya (BBCS)
 
-Original author: 84.103.225.237.
+.
 
 <figure>
 <img src="/images/Bbcs_makoto_artwork_01.png"

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Ciel/Full Moon
+slug: Melty_Blood/Ciel/Full_Moon
+id: 1762
+author: Ninjigen
+---
+
 # Melty Blood/Ciel/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

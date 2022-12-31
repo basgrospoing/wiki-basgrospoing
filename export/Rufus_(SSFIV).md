@@ -1,6 +1,13 @@
+---
+title: Rufus (SSFIV)
+slug: Rufus_(SSFIV)
+id: 2153
+author: Atomskyu698
+---
+
 # Rufus (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

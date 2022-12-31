@@ -1,6 +1,13 @@
+---
+title: Tron Bonne (UMVC3)
+slug: Tron_Bonne_(UMVC3)
+id: 3008
+author: ALX
+---
+
 # Tron Bonne (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

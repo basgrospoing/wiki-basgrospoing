@@ -1,6 +1,13 @@
+---
+title: Ken (2X)
+slug: Ken_(2X)
+id: 459
+author: Wolmar
+---
+
 # Ken (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

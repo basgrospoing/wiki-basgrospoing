@@ -1,6 +1,13 @@
+---
+title: Killer Instinct
+slug: Killer_Instinct
+id: 572
+author: Dan sakazaki
+---
+
 # Killer Instinct
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Kiflyer.jpg" title="/images/Kiflyer.jpg" width="250"
 alt="/images/Kiflyer.jpg" />  

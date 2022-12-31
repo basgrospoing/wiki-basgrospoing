@@ -1,6 +1,13 @@
+---
+title: Igniz (2k2um)
+slug: Igniz_(2k2um)
+id: 115
+author: Corbeau Bleu
+---
+
 # Igniz (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

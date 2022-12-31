@@ -1,6 +1,13 @@
+---
+title: Λ -11- (BBCS)
+slug: Λ_-11-_(BBCS)
+id: 292
+author: Achoral
+---
+
 # Λ -11- (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_lambda_artwork_01.png"

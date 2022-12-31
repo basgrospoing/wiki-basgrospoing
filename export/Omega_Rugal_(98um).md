@@ -1,6 +1,13 @@
+---
+title: Omega Rugal (98um)
+slug: Omega_Rugal_(98um)
+id: 265
+author: Corbeau Bleu
+---
+
 # Omega Rugal (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

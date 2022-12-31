@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Warachia/Crescent Moon
+slug: Melty_Blood/Warachia/Crescent_Moon
+id: 1893
+author: 82.234.188.250
+---
+
 # Melty Blood/Warachia/Crescent Moon
 
-Original author: 82.234.188.250.
+.
 
 # Combos
 

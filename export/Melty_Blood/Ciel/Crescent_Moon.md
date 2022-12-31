@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Ciel/Crescent Moon
+slug: Melty_Blood/Ciel/Crescent_Moon
+id: 1760
+author: Ninjigen
+---
+
 # Melty Blood/Ciel/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

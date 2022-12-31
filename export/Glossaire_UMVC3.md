@@ -1,6 +1,13 @@
+---
+title: Glossaire UMVC3
+slug: Glossaire_UMVC3
+id: 2924
+author: ALX
+---
+
 # Glossaire UMVC3
 
-Original author: ALX.
+.
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 

@@ -1,6 +1,13 @@
+---
+title: Jhun Hoon (2k2um)
+slug: Jhun_Hoon_(2k2um)
+id: 131
+author: Kaldanm
+---
+
 # Jhun Hoon (2k2um)
 
-Original author: Kaldanm.
+.
 
 ## Introduction
 

@@ -1,6 +1,15 @@
+---
+title: May Lee (2k2um)
+slug: May_Lee_(2k2um)
+id: 38
+author: Admin
+redirect: May_Lee
+old_id: 86
+---
+
 # May Lee (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

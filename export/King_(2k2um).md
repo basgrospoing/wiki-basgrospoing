@@ -1,6 +1,13 @@
+---
+title: King (2k2um)
+slug: King_(2k2um)
+id: 120
+author: Admin
+---
+
 # King (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

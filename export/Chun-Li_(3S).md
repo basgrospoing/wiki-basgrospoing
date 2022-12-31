@@ -1,6 +1,13 @@
+---
+title: Chun-Li (3S)
+slug: Chun-Li_(3S)
+id: 270
+author: ALX
+---
+
 # Chun-Li (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Chunli3sport.gif "Character Select Portrait")
@@ -82,8 +89,4 @@ Portrait](/images/Chunli3sport.gif "Character Select Portrait")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|sTETHfdwaHo\|720\|align\|Trials Chun-Li}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/sTETHfdwaHo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

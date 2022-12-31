@@ -1,6 +1,13 @@
+---
+title: Eiji Kisaragi (98um)
+slug: Eiji_Kisaragi_(98um)
+id: 247
+author: Corbeau Bleu
+---
+
 # Eiji Kisaragi (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

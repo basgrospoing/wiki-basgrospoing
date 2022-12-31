@@ -1,6 +1,13 @@
+---
+title: Geese (2k2um)
+slug: Geese_(2k2um)
+id: 141
+author: 81.67.71.175
+---
+
 # Geese (2k2um)
 
-Original author: 81.67.71.175.
+.
 
 ## Introduction
 

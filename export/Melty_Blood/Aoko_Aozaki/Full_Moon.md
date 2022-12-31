@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Aoko Aozaki/Full Moon
+slug: Melty_Blood/Aoko_Aozaki/Full_Moon
+id: 1743
+author: Sannos
+---
+
 # Melty Blood/Aoko Aozaki/Full Moon
 
-Original author: Sannos.
+.
 
 # Combos
 

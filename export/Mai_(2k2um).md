@@ -1,6 +1,15 @@
+---
+title: Mai (2k2um)
+slug: Mai_(2k2um)
+id: 36
+author: Admin
+redirect: Mai
+old_id: 84
+---
+
 # Mai (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

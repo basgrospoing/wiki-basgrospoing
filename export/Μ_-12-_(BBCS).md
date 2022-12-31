@@ -1,6 +1,13 @@
+---
+title: Μ -12- (BBCS)
+slug: Μ_-12-_(BBCS)
+id: 307
+author: 83.194.242.114
+---
+
 # Μ -12- (BBCS)
 
-Original author: 83.194.242.114.
+.
 
 <figure>
 <img src="/images/Bbcs_mu_artwork_01.png"

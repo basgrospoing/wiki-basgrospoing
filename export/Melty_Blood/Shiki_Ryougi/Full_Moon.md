@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Shiki Ryougi/Full Moon
+slug: Melty_Blood/Shiki_Ryougi/Full_Moon
+id: 1867
+author: Skenn
+---
+
 # Melty Blood/Shiki Ryougi/Full Moon
 
-Original author: Skenn.
+.
 
 # Combos
 

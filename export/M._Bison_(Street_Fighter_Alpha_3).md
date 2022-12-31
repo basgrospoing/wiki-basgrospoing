@@ -1,6 +1,13 @@
+---
+title: M. Bison (Street Fighter Alpha 3)
+slug: M._Bison_(Street_Fighter_Alpha_3)
+id: 1245
+author: Tonio
+---
+
 # M. Bison (Street Fighter Alpha 3)
 
-Original author: Tonio.
+.
 
 ## Introduction
 

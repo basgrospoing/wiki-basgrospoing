@@ -1,6 +1,13 @@
+---
+title: Clone Zero (2k2um)
+slug: Clone_Zero_(2k2um)
+id: 148
+author: Corbeau Bleu
+---
+
 # Clone Zero (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

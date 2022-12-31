@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Neco Arc Chaos/Half Moon
+slug: Melty_Blood/Neco_Arc_Chaos/Half_Moon
+id: 1822
+author: Ninjigen
+---
+
 # Melty Blood/Neco Arc Chaos/Half Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

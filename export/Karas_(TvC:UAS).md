@@ -1,6 +1,13 @@
+---
+title: Karas (TvC:UAS)
+slug: Karas_(TvC:UAS)
+id: 526
+author: Dan sakazaki
+---
+
 # Karas (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"
 alt="/images/Karas.jpg" />  

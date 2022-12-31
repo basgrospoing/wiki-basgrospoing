@@ -1,6 +1,13 @@
+---
+title: Viewtiful Joe (TvC:UAS)
+slug: Viewtiful_Joe_(TvC:UAS)
+id: 551
+author: Dan sakazaki
+---
+
 # Viewtiful Joe (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"
 width="300" alt="/images/Viewtiful-joe.jpg" />  

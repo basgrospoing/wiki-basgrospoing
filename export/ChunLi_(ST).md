@@ -1,6 +1,13 @@
+---
+title: ChunLi (ST)
+slug: ChunLi_(ST)
+id: 454
+author: Moun-B
+---
+
 # ChunLi (ST)
 
-Original author: Moun-B.
+.
 
 <figure>
 <img src="/images/ST_ChunLi_portrait.png" width="200" />

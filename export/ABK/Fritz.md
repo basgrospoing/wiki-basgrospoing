@@ -1,6 +1,13 @@
+---
+title: ABK/Fritz
+slug: ABK/Fritz
+id: 2266
+author: Kabai
+---
+
 # ABK/Fritz
 
-Original author: Kabai.
+.
 
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")
 

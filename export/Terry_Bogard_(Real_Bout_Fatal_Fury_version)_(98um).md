@@ -1,6 +1,13 @@
+---
+title: Terry Bogard (Real Bout Fatal Fury version) (98um)
+slug: Terry_Bogard_(Real_Bout_Fatal_Fury_version)_(98um)
+id: 251
+author: Corbeau Bleu
+---
+
 # Terry Bogard (Real Bout Fatal Fury version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Yun (AE) (SSFIV)
+slug: Yun_(AE)_(SSFIV)
+id: 2147
+author: Atomskyu690
+---
+
 # Yun (AE) (SSFIV)
 
-Original author: Atomskyu690.
+.
 
 ## 1 Vue d'ensemble
 

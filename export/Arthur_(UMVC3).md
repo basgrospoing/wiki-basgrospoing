@@ -1,6 +1,13 @@
+---
+title: Arthur (UMVC3)
+slug: Arthur_(UMVC3)
+id: 2963
+author: ALX
+---
+
 # Arthur (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

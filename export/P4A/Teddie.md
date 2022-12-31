@@ -1,6 +1,15 @@
+---
+title: P4A/Teddie
+slug: P4A/Teddie
+id: 2641
+author: Kabai
+redirect: Teddie
+old_id: 2657
+---
+
 # P4A/Teddie
 
-Original author: Kabai.
+.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

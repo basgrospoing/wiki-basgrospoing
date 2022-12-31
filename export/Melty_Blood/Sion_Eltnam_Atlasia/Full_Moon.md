@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Sion Eltnam Atlasia/Full Moon
+slug: Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon
+id: 1881
+author: Ouytsu
+---
+
 # Melty Blood/Sion Eltnam Atlasia/Full Moon
 
-Original author: Ouytsu.
+.
 
 # Combos
 

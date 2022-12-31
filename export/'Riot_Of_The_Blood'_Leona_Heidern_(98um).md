@@ -1,6 +1,13 @@
+---
+title: 'Riot Of The Blood' Leona Heidern (98um)
+slug: 'Riot_Of_The_Blood'_Leona_Heidern_(98um)
+id: 263
+author: Corbeau Bleu
+---
+
 # 'Riot Of The Blood' Leona Heidern (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

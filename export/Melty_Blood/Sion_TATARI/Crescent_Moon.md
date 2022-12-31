@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Sion TATARI/Crescent Moon
+slug: Melty_Blood/Sion_TATARI/Crescent_Moon
+id: 1887
+author: Ninjigen
+---
+
 # Melty Blood/Sion TATARI/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Fei Long (2X)
+slug: Fei_Long_(2X)
+id: 457
+author: Wolmar
+---
+
 # Fei Long (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

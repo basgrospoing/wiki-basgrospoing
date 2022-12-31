@@ -1,6 +1,13 @@
+---
+title: Hokutomaru (Garou)
+slug: Hokutomaru_(Garou)
+id: 9
+author: Aerendir
+---
+
 # Hokutomaru (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Terry
+slug: Terry
+id: 24
+author: Corbeau Bleu
+---
+
 # Terry
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

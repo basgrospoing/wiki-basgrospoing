@@ -1,6 +1,13 @@
+---
+title: Vice (KoF '98)
+slug: Vice_(KoF_'98)
+id: 181
+author: Corbeau Bleu
+---
+
 # Vice (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

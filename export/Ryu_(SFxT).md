@@ -1,6 +1,13 @@
+---
+title: Ryu (SFxT)
+slug: Ryu_(SFxT)
+id: 2177
+author: KizanCPC
+---
+
 # Ryu (SFxT)
 
-Original author: KizanCPC.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

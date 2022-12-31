@@ -1,6 +1,13 @@
+---
+title: Trish (UMVC3)
+slug: Trish_(UMVC3)
+id: 3007
+author: ALX
+---
+
 # Trish (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

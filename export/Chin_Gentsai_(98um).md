@@ -1,6 +1,13 @@
+---
+title: Chin Gentsai (98um)
+slug: Chin_Gentsai_(98um)
+id: 218
+author: Corbeau Bleu
+---
+
 # Chin Gentsai (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

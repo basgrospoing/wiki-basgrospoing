@@ -1,6 +1,13 @@
+---
+title: ABK/Sai
+slug: ABK/Sai
+id: 2264
+author: Kabai
+---
+
 # ABK/Sai
 
-Original author: Kabai.
+.
 
 ![](/images/Sai_ABK.jpg "/images/Sai_ABK.jpg")
 

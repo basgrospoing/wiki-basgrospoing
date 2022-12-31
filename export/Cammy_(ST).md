@@ -1,6 +1,13 @@
+---
+title: Cammy (ST)
+slug: Cammy_(ST)
+id: 453
+author: Rej
+---
+
 # Cammy (ST)
 
-Original author: Rej.
+.
 
 ## Introduction
 

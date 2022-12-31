@@ -1,6 +1,13 @@
+---
+title: The King of Fighters XIII
+slug: The_King_of_Fighters_XIII
+id: 1074
+author: Admin
+---
+
 # The King of Fighters XIII
 
-Original author: Admin.
+.
 
 ![](/images/KoFXIII.png)
 

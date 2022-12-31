@@ -1,6 +1,13 @@
+---
+title: Dhalsim (SFxT)
+slug: Dhalsim_(SFxT)
+id: 2167
+author: Hynkel
+---
+
 # Dhalsim (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

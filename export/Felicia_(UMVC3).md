@@ -1,6 +1,13 @@
+---
+title: Felicia (UMVC3)
+slug: Felicia_(UMVC3)
+id: 2981
+author: ALX
+---
+
 # Felicia (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

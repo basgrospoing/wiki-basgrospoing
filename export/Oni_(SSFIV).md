@@ -1,6 +1,13 @@
+---
+title: Oni (SSFIV)
+slug: Oni_(SSFIV)
+id: 2159
+author: Atomskyu698
+---
+
 # Oni (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

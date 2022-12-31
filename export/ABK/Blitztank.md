@@ -1,6 +1,13 @@
+---
+title: ABK/Blitztank
+slug: ABK/Blitztank
+id: 2271
+author: Kabai
+---
+
 # ABK/Blitztank
 
-Original author: Kabai.
+.
 
 ![](/images/Blitztank.jpg "/images/Blitztank.jpg")
 

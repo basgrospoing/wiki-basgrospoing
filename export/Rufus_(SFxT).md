@@ -1,6 +1,13 @@
+---
+title: Rufus (SFxT)
+slug: Rufus_(SFxT)
+id: 2176
+author: Hynkel
+---
+
 # Rufus (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

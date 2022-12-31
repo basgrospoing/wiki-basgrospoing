@@ -1,6 +1,13 @@
+---
+title: Le pire de la baston
+slug: Le_pire_de_la_baston
+id: 2706
+author: Admin
+---
+
 # Le pire de la baston
 
-Original author: Admin.
+.
 
 \_\_NOTOC\_\_
 

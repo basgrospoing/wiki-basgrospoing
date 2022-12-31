@@ -1,6 +1,13 @@
+---
+title: Hugo (SFxT)
+slug: Hugo_(SFxT)
+id: 2169
+author: Hynkel
+---
+
 # Hugo (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

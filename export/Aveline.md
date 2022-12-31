@@ -1,6 +1,13 @@
+---
+title: Aveline
+slug: Aveline
+id: 2513
+author: Aveline
+---
+
 # Aveline
 
-Original author: Aveline.
+.
 
 There's a trend to acquire own autos these days because the tariff of
 the actual vehicles are lowering often. Whenever we use a personal auto

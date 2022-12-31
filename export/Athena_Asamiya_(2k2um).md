@@ -1,6 +1,13 @@
+---
+title: Athena Asamiya (2k2um)
+slug: Athena_Asamiya_(2k2um)
+id: 125
+author: Hynkel
+---
+
 # Athena Asamiya (2k2um)
 
-Original author: Hynkel.
+.
 
 ## Introduction
 

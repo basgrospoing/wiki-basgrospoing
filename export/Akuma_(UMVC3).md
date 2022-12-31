@@ -1,6 +1,13 @@
+---
+title: Akuma (UMVC3)
+slug: Akuma_(UMVC3)
+id: 2959
+author: ALX
+---
+
 # Akuma (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 
@@ -581,8 +588,4 @@ Level 3 Hyper.</p></td>
 
 ## Mission Mode
 
-<center>
-
-{{#ev:youtubehd\|WjtcznbhRPw\|720\|align\|Mission Mode Akuma}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/WjtcznbhRPw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

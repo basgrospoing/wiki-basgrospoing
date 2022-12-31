@@ -1,6 +1,13 @@
+---
+title: DeeJay (2X)
+slug: DeeJay_(2X)
+id: 455
+author: Wolmar
+---
+
 # DeeJay (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

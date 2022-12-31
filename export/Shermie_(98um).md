@@ -1,6 +1,13 @@
+---
+title: Shermie (98um)
+slug: Shermie_(98um)
+id: 226
+author: Corbeau Bleu
+---
+
 # Shermie (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

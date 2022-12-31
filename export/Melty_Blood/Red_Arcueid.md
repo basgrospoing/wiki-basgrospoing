@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Red Arcueid
+slug: Melty_Blood/Red_Arcueid
+id: 1835
+author: Sannos
+---
+
 # Melty Blood/Red Arcueid
 
-Original author: Sannos.
+.
 
 ![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red
 Arc　 \<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木

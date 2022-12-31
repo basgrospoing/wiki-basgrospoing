@@ -1,6 +1,13 @@
+---
+title: Casshan (TvC:UAS)
+slug: Casshan_(TvC:UAS)
+id: 522
+author: Dan sakazaki
+---
+
 # Casshan (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Casshern.jpg" title="/images/Casshern.jpg" width="250"
 alt="/images/Casshern.jpg" />  

@@ -1,6 +1,15 @@
+---
+title: Takuma Sakazaki (2k2um)
+slug: Takuma_Sakazaki_(2k2um)
+id: 66
+author: Corbeau Bleu
+redirect: Takuma_Sakazaki
+old_id: 74
+---
+
 # Takuma Sakazaki (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

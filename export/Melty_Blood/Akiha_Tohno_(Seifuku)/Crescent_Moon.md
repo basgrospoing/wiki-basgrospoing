@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon
+id: 1730
+author: Naast
+---
+
 # Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
 
-Original author: Naast.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Oro (3S)
+slug: Oro_(3S)
+id: 279
+author: ALX
+---
+
 # Oro (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Oro3sport.gif "Character Select Portrait") ![Neutral
@@ -68,8 +75,4 @@ Stance](/images/Oro3s-stance-short.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|0bzVGZMIZaY\|720\|align\|Trials Oro}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/0bzVGZMIZaY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

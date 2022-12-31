@@ -1,6 +1,13 @@
+---
+title: Ragna the Bloodedge (BBCS)
+slug: Ragna_the_Bloodedge_(BBCS)
+id: 296
+author: 78.240.92.62
+---
+
 # Ragna the Bloodedge (BBCS)
 
-Original author: 78.240.92.62.
+.
 
 <figure>
 <img src="/images/Bbcs_ragna_artwork_01.png"

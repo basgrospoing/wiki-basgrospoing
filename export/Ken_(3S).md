@@ -1,6 +1,13 @@
+---
+title: Ken (3S)
+slug: Ken_(3S)
+id: 276
+author: ALX
+---
+
 # Ken (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Ken3sport.gif "Character Select Portrait") ![Neutral
@@ -66,8 +73,4 @@ Stance](/images/Ken3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|plkXYsh6wIs\|720\|align\|Trials Ken}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/plkXYsh6wIs' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

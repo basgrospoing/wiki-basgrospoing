@@ -1,6 +1,13 @@
+---
+title: Saisyu Kusanagi (KoF '98)
+slug: Saisyu_Kusanagi_(KoF_'98)
+id: 184
+author: Corbeau Bleu
+---
+
 # Saisyu Kusanagi (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

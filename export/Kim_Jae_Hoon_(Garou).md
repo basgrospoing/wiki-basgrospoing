@@ -1,6 +1,13 @@
+---
+title: Kim Jae Hoon (Garou)
+slug: Kim_Jae_Hoon_(Garou)
+id: 15
+author: Aerendir
+---
+
 # Kim Jae Hoon (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Taokaka (BBCS)
+slug: Taokaka_(BBCS)
+id: 295
+author: Achoral
+---
+
 # Taokaka (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_taokaka_artwork_01.png"

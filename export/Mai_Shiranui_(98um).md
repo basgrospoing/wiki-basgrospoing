@@ -1,6 +1,13 @@
+---
+title: Mai Shiranui (98um)
+slug: Mai_Shiranui_(98um)
+id: 220
+author: Corbeau Bleu
+---
+
 # Mai Shiranui (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

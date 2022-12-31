@@ -1,6 +1,13 @@
+---
+title: Kim Dong Hwan (Garou)
+slug: Kim_Dong_Hwan_(Garou)
+id: 6
+author: Aerendir
+---
+
 # Kim Dong Hwan (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

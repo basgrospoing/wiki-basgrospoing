@@ -1,6 +1,13 @@
+---
+title: Original Zero (2k2um)
+slug: Original_Zero_(2k2um)
+id: 150
+author: Corbeau Bleu
+---
+
 # Original Zero (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

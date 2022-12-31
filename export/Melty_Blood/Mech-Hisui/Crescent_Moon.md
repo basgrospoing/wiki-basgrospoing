@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui/Crescent Moon
+slug: Melty_Blood/Mech-Hisui/Crescent_Moon
+id: 1801
+author: Ninjigen
+---
+
 # Melty Blood/Mech-Hisui/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

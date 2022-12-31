@@ -1,6 +1,13 @@
+---
+title: King (98um)
+slug: King_(98um)
+id: 221
+author: Corbeau Bleu
+---
+
 # King (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

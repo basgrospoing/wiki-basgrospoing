@@ -1,6 +1,13 @@
+---
+title: Hiromi Mita
+slug: Hiromi_Mita
+id: 467
+author: Wolmar
+---
+
 # Hiromi Mita
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/Hiromi_Mita.png" title="/images/Hiromi_Mita.png"

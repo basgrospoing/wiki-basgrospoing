@@ -1,6 +1,13 @@
+---
+title: Juri (SFxT)
+slug: Juri_(SFxT)
+id: 2171
+author: Hynkel
+---
+
 # Juri (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

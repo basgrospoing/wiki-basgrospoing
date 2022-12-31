@@ -1,6 +1,13 @@
+---
+title: Q (3S)
+slug: Q_(3S)
+id: 280
+author: ALX
+---
+
 # Q (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Q3sport.gif "Character Select Portrait") ![Neutral
@@ -66,8 +73,4 @@ Stance](/images/Q3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|QSWeMckxM\|720\|align\|Trials Q}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/QSWeMckxM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

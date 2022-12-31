@@ -1,6 +1,13 @@
+---
+title: Zangief (SFxT)
+slug: Zangief_(SFxT)
+id: 2180
+author: Hynkel
+---
+
 # Zangief (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

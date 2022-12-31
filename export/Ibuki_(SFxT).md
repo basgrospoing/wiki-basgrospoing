@@ -1,6 +1,13 @@
+---
+title: Ibuki (SFxT)
+slug: Ibuki_(SFxT)
+id: 2170
+author: Hynkel
+---
+
 # Ibuki (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

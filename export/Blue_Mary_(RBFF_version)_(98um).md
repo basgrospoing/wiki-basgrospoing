@@ -1,6 +1,13 @@
+---
+title: Blue Mary (RBFF version) (98um)
+slug: Blue_Mary_(RBFF_version)_(98um)
+id: 261
+author: Corbeau Bleu
+---
+
 # Blue Mary (RBFF version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

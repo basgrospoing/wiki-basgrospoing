@@ -1,6 +1,13 @@
+---
+title: Ryu (TvC:UAS)
+slug: Ryu_(TvC:UAS)
+id: 566
+author: Admin
+---
+
 # Ryu (TvC:UAS)
 
-Original author: Admin.
+.
 
 <img src="/images/Tvcryu.jpg" title="/images/Tvcryu.jpg" width="250"
 alt="/images/Tvcryu.jpg" />  

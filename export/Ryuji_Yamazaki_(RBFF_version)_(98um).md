@@ -1,6 +1,13 @@
+---
+title: Ryuji Yamazaki (RBFF version) (98um)
+slug: Ryuji_Yamazaki_(RBFF_version)_(98um)
+id: 260
+author: Corbeau Bleu
+---
+
 # Ryuji Yamazaki (RBFF version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

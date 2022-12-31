@@ -1,6 +1,13 @@
+---
+title: Sagat (SFxT)
+slug: Sagat_(SFxT)
+id: 2178
+author: Hynkel
+---
+
 # Sagat (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

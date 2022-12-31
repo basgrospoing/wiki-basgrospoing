@@ -1,6 +1,13 @@
+---
+title: Orochi Yashiro (98um)
+slug: Orochi_Yashiro_(98um)
+id: 243
+author: Corbeau Bleu
+---
+
 # Orochi Yashiro (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

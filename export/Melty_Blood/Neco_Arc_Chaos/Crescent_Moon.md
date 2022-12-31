@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Neco Arc Chaos/Crescent Moon
+slug: Melty_Blood/Neco_Arc_Chaos/Crescent_Moon
+id: 1821
+author: Ninjigen
+---
+
 # Melty Blood/Neco Arc Chaos/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

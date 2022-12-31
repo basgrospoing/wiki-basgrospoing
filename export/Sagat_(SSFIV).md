@@ -1,6 +1,13 @@
+---
+title: Sagat (SSFIV)
+slug: Sagat_(SSFIV)
+id: 1622
+author: Atomskyu698
+---
+
 # Sagat (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

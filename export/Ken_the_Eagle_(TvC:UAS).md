@@ -1,6 +1,13 @@
+---
+title: Ken the Eagle (TvC:UAS)
+slug: Ken_the_Eagle_(TvC:UAS)
+id: 512
+author: Dan sakazaki
+---
+
 # Ken the Eagle (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Kentheeagle.jpg" title="/images/Kentheeagle.jpg"
 width="300" alt="/images/Kentheeagle.jpg" />  

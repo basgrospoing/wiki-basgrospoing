@@ -1,6 +1,13 @@
+---
+title: Rolento (SFxT)
+slug: Rolento_(SFxT)
+id: 2175
+author: Hynkel
+---
+
 # Rolento (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

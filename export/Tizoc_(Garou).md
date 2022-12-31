@@ -1,6 +1,13 @@
+---
+title: Tizoc (Garou)
+slug: Tizoc_(Garou)
+id: 12
+author: Aerendir
+---
+
 # Tizoc (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

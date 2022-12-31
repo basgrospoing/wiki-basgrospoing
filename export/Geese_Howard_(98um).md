@@ -1,6 +1,13 @@
+---
+title: Geese Howard (98um)
+slug: Geese_Howard_(98um)
+id: 240
+author: Corbeau Bleu
+---
+
 # Geese Howard (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

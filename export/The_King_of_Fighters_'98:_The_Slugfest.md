@@ -1,6 +1,13 @@
+---
+title: The King of Fighters '98: The Slugfest
+slug: The_King_of_Fighters_'98:_The_Slugfest
+id: 203
+author: Admin
+---
+
 # The King of Fighters '98: The Slugfest
 
-Original author: Admin.
+.
 
 ATTENTION : CE WIKI EST UNE ÉBAUCHE A CORRIGER FAITE A PARTIR DE 98UM
 

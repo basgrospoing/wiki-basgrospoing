@@ -1,6 +1,13 @@
+---
+title: Vega (2X)
+slug: Vega_(2X)
+id: 463
+author: Wolmar
+---
+
 # Vega (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Guilty Gear XX Accent Core
+slug: Guilty_Gear_XX_Accent_Core
+id: 288
+author: Admin
+---
+
 # Guilty Gear XX Accent Core
 
-Original author: Admin.
+.
 
 ## Introduction
 

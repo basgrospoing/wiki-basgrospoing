@@ -1,6 +1,13 @@
+---
+title: Akuma (SSFIV)
+slug: Akuma_(SSFIV)
+id: 434
+author: Atomskyu698
+---
+
 # Akuma (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

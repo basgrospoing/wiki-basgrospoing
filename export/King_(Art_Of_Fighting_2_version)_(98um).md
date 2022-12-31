@@ -1,6 +1,13 @@
+---
+title: King (Art Of Fighting 2 version) (98um)
+slug: King_(Art_Of_Fighting_2_version)_(98um)
+id: 259
+author: Corbeau Bleu
+---
+
 # King (Art Of Fighting 2 version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Kyo Kusanagi (KoF '95-Era) (KoF '98)
+slug: Kyo_Kusanagi_(KoF_'95-Era)_(KoF_'98)
+id: 193
+author: Corbeau Bleu
+---
+
 # Kyo Kusanagi (KoF '95-Era) (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

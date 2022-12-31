@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui/Full Moon
+slug: Melty_Blood/Mech-Hisui/Full_Moon
+id: 1803
+author: Ninjigen
+---
+
 # Melty Blood/Mech-Hisui/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

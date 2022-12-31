@@ -1,6 +1,15 @@
+---
+title: Vice (2k2um)
+slug: Vice_(2k2um)
+id: 44
+author: Admin
+redirect: Vice
+old_id: 95
+---
+
 # Vice (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

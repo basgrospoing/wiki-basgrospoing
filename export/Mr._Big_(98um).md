@@ -1,6 +1,13 @@
+---
+title: Mr. Big (98um)
+slug: Mr._Big_(98um)
+id: 242
+author: Corbeau Bleu
+---
+
 # Mr. Big (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Wesker (UMVC3)
+slug: Wesker_(UMVC3)
+id: 3014
+author: ALX
+---
+
 # Wesker (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

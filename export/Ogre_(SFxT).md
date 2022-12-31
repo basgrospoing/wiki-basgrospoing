@@ -1,6 +1,13 @@
+---
+title: Ogre (SFxT)
+slug: Ogre_(SFxT)
+id: 2194
+author: Hynkel
+---
+
 # Ogre (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

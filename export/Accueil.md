@@ -1,6 +1,13 @@
+---
+title: Accueil
+slug: Accueil
+id: 2508
+author: Admin
+---
+
 # Accueil
 
-Original author: Admin.
+.
 
 \_\_NOTOC\_\_
 

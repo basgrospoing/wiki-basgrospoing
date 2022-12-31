@@ -1,6 +1,15 @@
+---
+title: Samurai Shodown IV - Rimururu (リムルル, Rimururu)
+slug: Samurai_Shodown_IV_-_Rimururu_(リムルル,_Rimururu)
+id: 644
+author: Olivic
+redirect: Ss4-Rimururu
+old_id: 662
+---
+
 # Samurai Shodown IV - Rimururu (リムルル, Rimururu)
 
-Original author: Olivic.
+.
 
 ![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")
 

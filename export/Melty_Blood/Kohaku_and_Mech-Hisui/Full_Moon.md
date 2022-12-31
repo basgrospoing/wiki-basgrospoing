@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Kohaku and Mech-Hisui/Full Moon
+slug: Melty_Blood/Kohaku_and_Mech-Hisui/Full_Moon
+id: 1784
+author: Ninjigen
+---
+
 # Melty Blood/Kohaku and Mech-Hisui/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

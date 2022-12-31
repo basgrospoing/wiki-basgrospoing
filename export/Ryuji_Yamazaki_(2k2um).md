@@ -1,6 +1,13 @@
+---
+title: Ryuji Yamazaki (2k2um)
+slug: Ryuji_Yamazaki_(2k2um)
+id: 128
+author: Admin
+---
+
 # Ryuji Yamazaki (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

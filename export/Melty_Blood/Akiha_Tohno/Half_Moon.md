@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Akiha Tohno/Half Moon
+slug: Melty_Blood/Akiha_Tohno/Half_Moon
+id: 1724
+author: Oufan
+---
+
 # Melty Blood/Akiha Tohno/Half Moon
 
-Original author: Oufan.
+.
 
 # Combos
 

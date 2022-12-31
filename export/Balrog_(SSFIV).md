@@ -1,6 +1,13 @@
+---
+title: Balrog (SSFIV)
+slug: Balrog_(SSFIV)
+id: 341
+author: Atomskyu698
+---
+
 # Balrog (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

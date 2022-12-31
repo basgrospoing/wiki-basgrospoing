@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Duck King
+slug: The_King_of_Fighters_XI_-_Duck_King
+id: 901
+author: Olivic
+redirect: Kofxi-duck-king
+old_id: 902
+---
+
 # The King of Fighters XI - Duck King
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-duck-king.jpg "/images/kofxi-duck-king.jpg")
 

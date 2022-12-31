@@ -1,6 +1,13 @@
+---
+title: Marvel vs Capcom 3
+slug: Marvel_vs_Capcom_3
+id: 579
+author: Admin
+---
+
 # Marvel vs Capcom 3
 
-Original author: Admin.
+.
 
 ## Personnages
 

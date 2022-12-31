@@ -1,6 +1,13 @@
+---
+title: Kazuya (SFxT)
+slug: Kazuya_(SFxT)
+id: 2187
+author: Hynkel
+---
+
 # Kazuya (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

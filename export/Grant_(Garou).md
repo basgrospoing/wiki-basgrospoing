@@ -1,6 +1,13 @@
+---
+title: Grant (Garou)
+slug: Grant_(Garou)
+id: 18
+author: 82.67.45.176
+---
+
 # Grant (Garou)
 
-Original author: 82.67.45.176.
+.
 
 ![](/images/vignette.png "/images/vignette.png")
 

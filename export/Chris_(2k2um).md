@@ -1,6 +1,15 @@
+---
+title: Chris (2k2um)
+slug: Chris_(2k2um)
+id: 50
+author: Aerendir
+redirect: Chris
+old_id: 99
+---
+
 # Chris (2k2um)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

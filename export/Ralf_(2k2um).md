@@ -1,6 +1,15 @@
+---
+title: Ralf (2k2um)
+slug: Ralf_(2k2um)
+id: 31
+author: Admin
+redirect: Ralf
+old_id: 87
+---
+
 # Ralf (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

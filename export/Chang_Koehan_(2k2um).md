@@ -1,6 +1,13 @@
+---
+title: Chang Koehan (2k2um)
+slug: Chang_Koehan_(2k2um)
+id: 117
+author: Admin
+---
+
 # Chang Koehan (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

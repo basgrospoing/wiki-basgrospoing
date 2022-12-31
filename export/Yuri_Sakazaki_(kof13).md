@@ -1,6 +1,13 @@
+---
+title: Yuri Sakazaki (kof13)
+slug: Yuri_Sakazaki_(kof13)
+id: 1078
+author: 90.47.247.53
+---
+
 # Yuri Sakazaki (kof13)
 
-Original author: 90.47.247.53.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

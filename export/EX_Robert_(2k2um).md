@@ -1,6 +1,13 @@
+---
+title: EX Robert (2k2um)
+slug: EX_Robert_(2k2um)
+id: 145
+author: Corbeau Bleu
+---
+
 # EX Robert (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

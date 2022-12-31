@@ -1,6 +1,13 @@
+---
+title: Ryo Sakazaki (98um)
+slug: Ryo_Sakazaki_(98um)
+id: 210
+author: Corbeau Bleu
+---
+
 # Ryo Sakazaki (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

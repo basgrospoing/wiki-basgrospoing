@@ -1,6 +1,13 @@
+---
+title: Law (SFxT)
+slug: Law_(SFxT)
+id: 2190
+author: Hynkel
+---
+
 # Law (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

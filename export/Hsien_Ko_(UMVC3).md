@@ -1,6 +1,13 @@
+---
+title: Hsien Ko (UMVC3)
+slug: Hsien_Ko_(UMVC3)
+id: 2992
+author: ALX
+---
+
 # Hsien Ko (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

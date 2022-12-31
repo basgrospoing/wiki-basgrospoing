@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Sion Eltnam Atlasia
+slug: Melty_Blood/Sion_Eltnam_Atlasia
+id: 1876
+author: Sannos
+---
+
 # Melty Blood/Sion Eltnam Atlasia
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Sion Eltnam Atlasia
 (シオン・エルトナム・アトラシア)  —  **Nicknames:**    -

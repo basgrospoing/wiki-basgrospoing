@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Akiha Tohno
+slug: Melty_Blood/Akiha_Tohno
+id: 1719
+author: Sannos
+---
+
 # Melty Blood/Akiha Tohno
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Petite
 Soeur" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都

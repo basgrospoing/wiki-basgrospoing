@@ -1,6 +1,13 @@
+---
+title: Kyo
+slug: Kyo
+id: 21
+author: Corbeau Bleu
+---
+
 # Kyo
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

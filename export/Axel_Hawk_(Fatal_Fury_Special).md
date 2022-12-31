@@ -1,6 +1,13 @@
+---
+title: Axel Hawk (Fatal Fury Special)
+slug: Axel_Hawk_(Fatal_Fury_Special)
+id: 743
+author: Atomskyu690
+---
+
 # Axel Hawk (Fatal Fury Special)
 
-Original author: Atomskyu690.
+.
 
 ![](/images/Axel.PNG)  
 

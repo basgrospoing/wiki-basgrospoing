@@ -1,6 +1,13 @@
+---
+title: ABK/Kanae
+slug: ABK/Kanae
+id: 2265
+author: Kabai
+---
+
 # ABK/Kanae
 
-Original author: Kabai.
+.
 
 ![](/images/Kanae_ABK.jpg "/images/Kanae_ABK.jpg")
 

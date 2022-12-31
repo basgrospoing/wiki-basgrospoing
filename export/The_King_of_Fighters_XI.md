@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI
+slug: The_King_of_Fighters_XI
+id: 895
+author: Admin
+redirect: Kofxi
+old_id: 896
+---
+
 # The King of Fighters XI
 
-Original author: Admin.
+.
 
 <figure>
 <img src="/images/kofxi-logo.jpg" title="/images/kofxi-logo.jpg"

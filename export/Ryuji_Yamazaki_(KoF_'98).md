@@ -1,6 +1,13 @@
+---
+title: Ryuji Yamazaki (KoF '98)
+slug: Ryuji_Yamazaki_(KoF_'98)
+id: 176
+author: Corbeau Bleu
+---
+
 # Ryuji Yamazaki (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

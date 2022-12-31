@@ -1,6 +1,13 @@
+---
+title: Iori Yagami (98um)
+slug: Iori_Yagami_(98um)
+id: 231
+author: Corbeau Bleu
+---
+
 # Iori Yagami (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

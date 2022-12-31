@@ -1,6 +1,13 @@
+---
+title: Spencer (UMVC3)
+slug: Spencer_(UMVC3)
+id: 3001
+author: ALX
+---
+
 # Spencer (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

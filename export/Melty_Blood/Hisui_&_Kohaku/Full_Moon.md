@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui & Kohaku/Full Moon
+slug: Melty_Blood/Hisui_&_Kohaku/Full_Moon
+id: 1771
+author: Ninjigen
+---
+
 # Melty Blood/Hisui & Kohaku/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

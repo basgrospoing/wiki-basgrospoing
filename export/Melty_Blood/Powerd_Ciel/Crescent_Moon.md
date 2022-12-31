@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Powerd Ciel/Crescent Moon
+slug: Melty_Blood/Powerd_Ciel/Crescent_Moon
+id: 1831
+author: 62.241.104.102
+---
+
 # Melty Blood/Powerd Ciel/Crescent Moon
 
-Original author: 62.241.104.102.
+.
 
 # Combos
 

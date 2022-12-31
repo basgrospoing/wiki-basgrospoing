@@ -1,6 +1,13 @@
+---
+title: Yun (SSFIV)
+slug: Yun_(SSFIV)
+id: 2157
+author: Atomskyu698
+---
+
 # Yun (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

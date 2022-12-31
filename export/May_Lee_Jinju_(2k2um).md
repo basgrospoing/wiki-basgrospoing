@@ -1,6 +1,13 @@
+---
+title: May Lee Jinju (2k2um)
+slug: May_Lee_Jinju_(2k2um)
+id: 138
+author: Corbeau Bleu
+---
+
 # May Lee Jinju (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

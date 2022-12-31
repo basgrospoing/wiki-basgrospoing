@@ -1,6 +1,13 @@
+---
+title: Saki Omokane (TvC:UAS)
+slug: Saki_Omokane_(TvC:UAS)
+id: 553
+author: Dan sakazaki
+---
+
 # Saki Omokane (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Saki-omokane.jpg" title="/images/Saki-omokane.jpg"
 width="250" alt="/images/Saki-omokane.jpg" />  

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Nero Chaos/Crescent Moon
+slug: Melty_Blood/Nero_Chaos/Crescent_Moon
+id: 1827
+author: Rapeur
+---
+
 # Melty Blood/Nero Chaos/Crescent Moon
 
-Original author: Rapeur.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Terry Bogard (Garou)
+slug: Terry_Bogard_(Garou)
+id: 16
+author: Aerendir
+---
+
 # Terry Bogard (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

@@ -1,6 +1,15 @@
+---
+title: Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
+slug: Samurai_Shodown_IV_-_Kazuki_Kazama_(風間_火月,_Kazama_Kazuki)
+id: 639
+author: Olivic
+redirect: Ss4-Kazuki
+old_id: 657
+---
+
 # Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
 
-Original author: Olivic.
+.
 
 ![](/images/ss4-Kazuki.gif "/images/ss4-Kazuki.gif")
 

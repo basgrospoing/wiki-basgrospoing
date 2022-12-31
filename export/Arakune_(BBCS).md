@@ -1,6 +1,13 @@
+---
+title: Arakune (BBCS)
+slug: Arakune_(BBCS)
+id: 291
+author: Achoral
+---
+
 # Arakune (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_arakune_artwork_01.png"

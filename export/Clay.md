@@ -1,6 +1,13 @@
+---
+title: Clay
+slug: Clay
+id: 490
+author: Wolmar
+---
+
 # Clay
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/_clay.png" title="/images/_clay.png" width="250"

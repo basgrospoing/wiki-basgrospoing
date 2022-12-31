@@ -1,6 +1,13 @@
+---
+title: Melty Blood/FAQ
+slug: Melty_Blood/FAQ
+id: 1710
+author: Zind
+---
+
 # Melty Blood/FAQ
 
-Original author: Zind.
+.
 
 ## Généralités
 

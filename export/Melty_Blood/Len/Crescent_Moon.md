@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Len/Crescent Moon
+slug: Melty_Blood/Len/Crescent_Moon
+id: 1794
+author: Oufan
+---
+
 # Melty Blood/Len/Crescent Moon
 
-Original author: Oufan.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Heidern (98um)
+slug: Heidern_(98um)
+id: 234
+author: Corbeau Bleu
+---
+
 # Heidern (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Ken (SFxT)
+slug: Ken_(SFxT)
+id: 2172
+author: Hynkel
+---
+
 # Ken (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

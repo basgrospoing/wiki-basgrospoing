@@ -1,6 +1,13 @@
+---
+title: Yuri Sakazaki (KoF '94) (98um)
+slug: Yuri_Sakazaki_(KoF_'94)_(98um)
+id: 256
+author: Corbeau Bleu
+---
+
 # Yuri Sakazaki (KoF '94) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

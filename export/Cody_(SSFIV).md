@@ -1,6 +1,13 @@
+---
+title: Cody (SSFIV)
+slug: Cody_(SSFIV)
+id: 361
+author: Atomskyu698
+---
+
 # Cody (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

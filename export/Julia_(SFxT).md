@@ -1,6 +1,13 @@
+---
+title: Julia (SFxT)
+slug: Julia_(SFxT)
+id: 2186
+author: Hynkel
+---
+
 # Julia (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

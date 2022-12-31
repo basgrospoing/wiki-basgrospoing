@@ -1,6 +1,13 @@
+---
+title: Sie Kensou (98um)
+slug: Sie_Kensou_(98um)
+id: 217
+author: Corbeau Bleu
+---
+
 # Sie Kensou (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

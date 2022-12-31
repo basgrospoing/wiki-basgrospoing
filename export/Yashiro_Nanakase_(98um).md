@@ -1,6 +1,13 @@
+---
+title: Yashiro Nanakase (98um)
+slug: Yashiro_Nanakase_(98um)
+id: 225
+author: Corbeau Bleu
+---
+
 # Yashiro Nanakase (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

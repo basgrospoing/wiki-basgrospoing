@@ -1,6 +1,13 @@
+---
+title: Gary Scott
+slug: Gary_Scott
+id: 475
+author: Wolmar
+---
+
 # Gary Scott
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/Gary_Scott.png" title="/images/Gary_Scott.png"

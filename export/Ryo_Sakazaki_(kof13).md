@@ -1,6 +1,13 @@
+---
+title: Ryo Sakazaki (kof13)
+slug: Ryo_Sakazaki_(kof13)
+id: 1075
+author: Lolo
+---
+
 # Ryo Sakazaki (kof13)
 
-Original author: Lolo.
+.
 
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 

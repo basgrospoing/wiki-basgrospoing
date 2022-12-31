@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Terry Bogard
+slug: The_King_of_Fighters_XI_-_Terry_Bogard
+id: 915
+author: Olivic
+redirect: Kofxi-terry-bogard
+old_id: 916
+---
+
 # The King of Fighters XI - Terry Bogard
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-terry-bogard.jpg "/images/kofxi-terry-bogard.jpg")
 

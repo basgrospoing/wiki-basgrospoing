@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui/Half Moon
+slug: Melty_Blood/Hisui/Half_Moon
+id: 1767
+author: Ninjigen
+---
+
 # Melty Blood/Hisui/Half Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Ryu (SSFIV)
+slug: Ryu_(SSFIV)
+id: 353
+author: Atomskyu690
+---
+
 # Ryu (SSFIV)
 
-Original author: Atomskyu690.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=Super_Street_Fighter_IV)

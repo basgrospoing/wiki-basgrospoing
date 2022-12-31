@@ -1,6 +1,13 @@
+---
+title: Poison (SFxT)
+slug: Poison_(SFxT)
+id: 2174
+author: Hynkel
+---
+
 # Poison (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

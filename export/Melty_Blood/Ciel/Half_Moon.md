@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Ciel/Half Moon
+slug: Melty_Blood/Ciel/Half_Moon
+id: 1761
+author: Ninjigen
+---
+
 # Melty Blood/Ciel/Half Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

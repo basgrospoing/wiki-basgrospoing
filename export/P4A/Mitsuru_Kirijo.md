@@ -1,6 +1,15 @@
+---
+title: P4A/Mitsuru Kirijo
+slug: P4A/Mitsuru_Kirijo
+id: 2638
+author: Kabai
+redirect: Mitsuru_Kirijo
+old_id: 2648
+---
+
 # P4A/Mitsuru Kirijo
 
-Original author: Kabai.
+.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

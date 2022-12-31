@@ -1,6 +1,15 @@
+---
+title: P4A/Akihiko Sanada
+slug: P4A/Akihiko_Sanada
+id: 2636
+author: Kabai
+redirect: Akihiko_Sanada
+old_id: 2651
+---
+
 # P4A/Akihiko Sanada
 
-Original author: Kabai.
+.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

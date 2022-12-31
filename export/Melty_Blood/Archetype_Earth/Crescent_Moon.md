@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Archetype Earth/Crescent Moon
+slug: Melty_Blood/Archetype_Earth/Crescent_Moon
+id: 1747
+author: Ninjigen
+---
+
 # Melty Blood/Archetype Earth/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

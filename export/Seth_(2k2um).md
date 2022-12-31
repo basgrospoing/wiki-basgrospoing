@@ -1,6 +1,15 @@
+---
+title: Seth (2k2um)
+slug: Seth_(2k2um)
+id: 55
+author: Admin
+redirect: Seth
+old_id: 106
+---
+
 # Seth (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

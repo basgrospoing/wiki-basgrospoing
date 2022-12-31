@@ -1,6 +1,13 @@
+---
+title: Yatterman-2 (TvC:UAS)
+slug: Yatterman-2_(TvC:UAS)
+id: 525
+author: Dan sakazaki
+---
+
 # Yatterman-2 (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Yatterman-2.jpg" title="/images/Yatterman-2.jpg"
 width="250" alt="/images/Yatterman-2.jpg" />  

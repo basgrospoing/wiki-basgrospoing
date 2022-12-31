@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Shiki Nanaya/Crescent Moon
+slug: Melty_Blood/Shiki_Nanaya/Crescent_Moon
+id: 1863
+author: Sannos
+---
+
 # Melty Blood/Shiki Nanaya/Crescent Moon
 
-Original author: Sannos.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui
+slug: Melty_Blood/Mech-Hisui
+id: 1798
+author: Oufan
+---
+
 # Melty Blood/Mech-Hisui
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki

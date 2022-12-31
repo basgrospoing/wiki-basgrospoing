@@ -1,6 +1,15 @@
+---
+title: Ryo Sakazaki (2k2um)
+slug: Ryo_Sakazaki_(2k2um)
+id: 64
+author: Admin
+redirect: Ryo_Sakazaki
+old_id: 73
+---
+
 # Ryo Sakazaki (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

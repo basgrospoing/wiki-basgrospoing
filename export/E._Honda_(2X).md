@@ -1,6 +1,13 @@
+---
+title: E. Honda (2X)
+slug: E._Honda_(2X)
+id: 449
+author: 93.1.10.245
+---
+
 # E. Honda (2X)
 
-Original author: 93.1.10.245.
+.
 
 ## Introduction
 

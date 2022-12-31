@@ -1,6 +1,15 @@
+---
+title: Leona (2k2um)
+slug: Leona_(2k2um)
+id: 30
+author: Admin
+redirect: Leona
+old_id: 89
+---
+
 # Leona (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

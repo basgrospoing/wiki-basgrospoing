@@ -1,6 +1,13 @@
+---
+title: Takuma Sakazaki (KoF '98)
+slug: Takuma_Sakazaki_(KoF_'98)
+id: 183
+author: Corbeau Bleu
+---
+
 # Takuma Sakazaki (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

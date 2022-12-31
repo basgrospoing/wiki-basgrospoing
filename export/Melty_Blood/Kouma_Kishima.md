@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Kouma Kishima
+slug: Melty_Blood/Kouma_Kishima
+id: 1785
+author: Sannos
+---
+
 # Melty Blood/Kouma Kishima
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion
 \<br\\\>\<br\\\> **Voiced by:**   Jurota Kosugi (小杉

@@ -1,6 +1,15 @@
+---
+title: P4A/Chie Satonaka
+slug: P4A/Chie_Satonaka
+id: 2634
+author: Kabai
+redirect: Chie_Satonaka
+old_id: 2650
+---
+
 # P4A/Chie Satonaka
 
-Original author: Kabai.
+.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

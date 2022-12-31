@@ -1,6 +1,13 @@
+---
+title: EX Takuma (2k2um)
+slug: EX_Takuma_(2k2um)
+id: 144
+author: 81.67.71.175
+---
+
 # EX Takuma (2k2um)
 
-Original author: 81.67.71.175.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Andy Bogard (98um)
+slug: Andy_Bogard_(98um)
+id: 208
+author: Corbeau Bleu
+---
+
 # Andy Bogard (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

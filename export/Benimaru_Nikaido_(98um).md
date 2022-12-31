@@ -1,6 +1,13 @@
+---
+title: Benimaru Nikaido (98um)
+slug: Benimaru_Nikaido_(98um)
+id: 204
+author: Corbeau Bleu
+---
+
 # Benimaru Nikaido (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

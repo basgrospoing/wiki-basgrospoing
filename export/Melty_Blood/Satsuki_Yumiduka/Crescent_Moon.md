@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Satsuki Yumiduka/Crescent Moon
+slug: Melty_Blood/Satsuki_Yumiduka/Crescent_Moon
+id: 1856
+author: Kairisu
+---
+
 # Melty Blood/Satsuki Yumiduka/Crescent Moon
 
-Original author: Kairisu.
+.
 
 # Combos
 

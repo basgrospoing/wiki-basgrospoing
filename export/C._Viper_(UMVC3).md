@@ -1,6 +1,13 @@
+---
+title: C. Viper (UMVC3)
+slug: C._Viper_(UMVC3)
+id: 2966
+author: ALX
+---
+
 # C. Viper (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

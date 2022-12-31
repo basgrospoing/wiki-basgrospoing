@@ -1,6 +1,13 @@
+---
+title: HarkeyNewberry811
+slug: HarkeyNewberry811
+id: 2296
+author: HarkeyNewberry811
+---
+
 # HarkeyNewberry811
 
-Original author: HarkeyNewberry811.
+.
 
 Learning building your own PERSONAL COMPUTER from scratch can be quite a
 very difficult task once you learn nothing about computers. However once

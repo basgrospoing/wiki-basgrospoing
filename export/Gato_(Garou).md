@@ -1,6 +1,13 @@
+---
+title: Gato (Garou)
+slug: Gato_(Garou)
+id: 14
+author: 83.199.55.44
+---
+
 # Gato (Garou)
 
-Original author: 83.199.55.44.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=Garou_:_Mark_of_the_Wolves)

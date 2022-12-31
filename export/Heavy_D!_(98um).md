@@ -1,6 +1,13 @@
+---
+title: Heavy D! (98um)
+slug: Heavy_D!_(98um)
+id: 237
+author: Corbeau Bleu
+---
+
 # Heavy D! (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: ABK/Wei
+slug: ABK/Wei
+id: 2268
+author: Kabai
+---
+
 # ABK/Wei
 
-Original author: Kabai.
+.
 
 ![](/images/Wei_ABK.jpg "/images/Wei_ABK.jpg")
 

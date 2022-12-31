@@ -1,6 +1,13 @@
+---
+title: ABK/Elektrosoldat
+slug: ABK/Elektrosoldat
+id: 2270
+author: Kabai
+---
+
 # ABK/Elektrosoldat
 
-Original author: Kabai.
+.
 
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")
 

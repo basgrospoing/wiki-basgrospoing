@@ -1,6 +1,13 @@
+---
+title: Karnov's Revenge
+slug: Karnov's_Revenge
+id: 383
+author: Admin
+---
+
 # Karnov's Revenge
 
-Original author: Admin.
+.
 
 ## Personnages
 

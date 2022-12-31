@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Red Arcueid/Half Moon
+slug: Melty_Blood/Red_Arcueid/Half_Moon
+id: 1839
+author: Oufan
+---
+
 # Melty Blood/Red Arcueid/Half Moon
 
-Original author: Oufan.
+.
 
 # Combos
 

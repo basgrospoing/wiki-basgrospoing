@@ -1,6 +1,13 @@
+---
+title: Tatsunoko vs Capcom
+slug: Tatsunoko_vs_Capcom
+id: 382
+author: Admin
+---
+
 # Tatsunoko vs Capcom
 
-Original author: Admin.
+.
 
 ![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")
 

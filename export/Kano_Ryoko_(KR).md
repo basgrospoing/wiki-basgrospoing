@@ -1,6 +1,13 @@
+---
+title: Kano Ryoko (KR)
+slug: Kano_Ryoko_(KR)
+id: 386
+author: Zarghatt
+---
+
 # Kano Ryoko (KR)
 
-Original author: Zarghatt.
+.
 
 ## Movelist
 

@@ -1,6 +1,13 @@
+---
+title: Marduk (SFxT)
+slug: Marduk_(SFxT)
+id: 2192
+author: Hynkel
+---
+
 # Marduk (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

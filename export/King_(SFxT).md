@@ -1,6 +1,13 @@
+---
+title: King (SFxT)
+slug: King_(SFxT)
+id: 2188
+author: Hynkel
+---
+
 # King (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -1,6 +1,15 @@
+---
+title: BlazBlue : Continuum Shift
+slug: BlazBlue_:_Continuum_Shift
+id: 289
+author: Olivic
+redirect: Blazblue_:_Continuum_Shift
+old_id: 313
+---
+
 # BlazBlue : Continuum Shift
 
-Original author: Olivic.
+.
 
 ![](/images/blazblue_logo.jpg "/images/blazblue_logo.jpg")
 

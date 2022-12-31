@@ -1,6 +1,13 @@
+---
+title: ABK/Mycale
+slug: ABK/Mycale
+id: 2263
+author: Kabai
+---
+
 # ABK/Mycale
 
-Original author: Kabai.
+.
 
 ![](/images/Mycale_ABK.jpg "/images/Mycale_ABK.jpg")
 

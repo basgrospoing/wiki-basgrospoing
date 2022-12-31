@@ -1,6 +1,13 @@
+---
+title: Heidern (2k2um)
+slug: Heidern_(2k2um)
+id: 134
+author: Corbeau Bleu
+---
+
 # Heidern (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

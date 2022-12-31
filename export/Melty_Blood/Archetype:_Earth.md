@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Archetype: Earth
+slug: Melty_Blood/Archetype:_Earth
+id: 1745
+author: Oufan
+---
+
 # Melty Blood/Archetype: Earth
 
-Original author: Oufan.
+.
 
 ![ **Nom:**   Archetype:Earth (真祖アルクエイド)  —  **Surnoms:**   
 "Hime Arcueid" \<br\\\>\<br\\\> **Jouée par:**   Yuzuki Ryōka (柚木

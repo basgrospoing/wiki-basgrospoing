@@ -1,6 +1,13 @@
+---
+title: Chun Li (SFxT)
+slug: Chun_Li_(SFxT)
+id: 2166
+author: Hynkel
+---
+
 # Chun Li (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

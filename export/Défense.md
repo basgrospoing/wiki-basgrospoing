@@ -1,6 +1,13 @@
+---
+title: Défense
+slug: Défense
+id: 500
+author: Wolmar
+---
+
 # Défense
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

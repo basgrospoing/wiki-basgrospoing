@@ -1,6 +1,13 @@
+---
+title: Billy Kane (Real Bout Fatal Fury version) (98um)
+slug: Billy_Kane_(Real_Bout_Fatal_Fury_version)_(98um)
+id: 257
+author: Corbeau Bleu
+---
+
 # Billy Kane (Real Bout Fatal Fury version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

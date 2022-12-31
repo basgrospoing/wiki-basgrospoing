@@ -1,6 +1,13 @@
+---
+title: Vergil (UMVC3)
+slug: Vergil_(UMVC3)
+id: 3009
+author: ALX
+---
+
 # Vergil (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

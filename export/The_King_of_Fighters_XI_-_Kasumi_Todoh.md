@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Kasumi Todoh
+slug: The_King_of_Fighters_XI_-_Kasumi_Todoh
+id: 927
+author: Olivic
+redirect: Kofxi-kasumi-todoh
+old_id: 928
+---
+
 # The King of Fighters XI - Kasumi Todoh
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-kasumi-todoh.jpg "/images/kofxi-kasumi-todoh.jpg")
 

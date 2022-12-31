@@ -1,6 +1,13 @@
+---
+title: Jordi Costa
+slug: Jordi_Costa
+id: 471
+author: Wolmar
+---
+
 # Jordi Costa
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/Jordi_costa.png" title="/images/Jordi_costa.png"

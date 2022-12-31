@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Len
+slug: Melty_Blood/Len
+id: 1791
+author: Oufan
+---
+
 # Melty Blood/Len
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
 \<br\\\>\<br\\\> **Voiced by:**   Mizuhashi Kaori (水橋

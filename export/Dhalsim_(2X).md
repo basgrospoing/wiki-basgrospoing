@@ -1,6 +1,13 @@
+---
+title: Dhalsim (2X)
+slug: Dhalsim_(2X)
+id: 456
+author: Wolmar
+---
+
 # Dhalsim (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

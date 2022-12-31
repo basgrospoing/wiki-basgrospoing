@@ -1,6 +1,13 @@
+---
+title: Loris Biaggi
+slug: Loris_Biaggi
+id: 473
+author: Wolmar
+---
+
 # Loris Biaggi
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/Loris_Biaggi.png" title="/images/Loris_Biaggi.png"

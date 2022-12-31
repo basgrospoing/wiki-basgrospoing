@@ -1,6 +1,13 @@
+---
+title: Ken (Street Fighter Alpha 3)
+slug: Ken_(Street_Fighter_Alpha_3)
+id: 1366
+author: Tonio
+---
+
 # Ken (Street Fighter Alpha 3)
 
-Original author: Tonio.
+.
 
 <figure>
 <img src="/images/SFA3_Ken.jpg" title="/images/SFA3_Ken.jpg" width="150"

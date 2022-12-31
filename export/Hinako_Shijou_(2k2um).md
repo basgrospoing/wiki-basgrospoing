@@ -1,6 +1,13 @@
+---
+title: Hinako Shijou (2k2um)
+slug: Hinako_Shijou_(2k2um)
+id: 137
+author: Corbeau Bleu
+---
+
 # Hinako Shijou (2k2um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

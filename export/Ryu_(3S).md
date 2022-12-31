@@ -1,6 +1,13 @@
+---
+title: Ryu (3S)
+slug: Ryu_(3S)
+id: 282
+author: ALX
+---
+
 # Ryu (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Ryu3sport.gif "Character Select Portrait") ![Neutral
@@ -71,8 +78,4 @@ répété des 360 avec le stick pour charger plus rapidement)
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|g0hmeiRoG7o\|720\|align\|Trials Ryu}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/g0hmeiRoG7o' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

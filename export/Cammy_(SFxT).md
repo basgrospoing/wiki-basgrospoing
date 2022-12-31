@@ -1,6 +1,13 @@
+---
+title: Cammy (SFxT)
+slug: Cammy_(SFxT)
+id: 2165
+author: Hynkel
+---
+
 # Cammy (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -1,6 +1,13 @@
+---
+title: Xiaoyu (SFxT)
+slug: Xiaoyu_(SFxT)
+id: 2198
+author: Hynkel
+---
+
 # Xiaoyu (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Riesbyfe Stridberg/Full Moon
+slug: Melty_Blood/Riesbyfe_Stridberg/Full_Moon
+id: 1842
+author: Ninjigen
+---
+
 # Melty Blood/Riesbyfe Stridberg/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

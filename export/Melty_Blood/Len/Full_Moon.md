@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Len/Full Moon
+slug: Melty_Blood/Len/Full_Moon
+id: 1796
+author: Oufan
+---
+
 # Melty Blood/Len/Full Moon
 
-Original author: Oufan.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Riesbyfe Stridberg
+slug: Melty_Blood/Riesbyfe_Stridberg
+id: 1841
+author: Oufan
+---
+
 # Melty Blood/Riesbyfe Stridberg
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Riesbyfe Stridberg
 (リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the

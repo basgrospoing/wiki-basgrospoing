@@ -1,6 +1,13 @@
+---
+title: Shermie (KoF '98)
+slug: Shermie_(KoF_'98)
+id: 175
+author: Corbeau Bleu
+---
+
 # Shermie (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

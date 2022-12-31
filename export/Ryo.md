@@ -1,6 +1,13 @@
+---
+title: Ryo
+slug: Ryo
+id: 27
+author: Corbeau Bleu
+---
+
 # Ryo
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

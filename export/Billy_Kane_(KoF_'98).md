@@ -1,6 +1,13 @@
+---
+title: Billy Kane (KoF '98)
+slug: Billy_Kane_(KoF_'98)
+id: 178
+author: Corbeau Bleu
+---
+
 # Billy Kane (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

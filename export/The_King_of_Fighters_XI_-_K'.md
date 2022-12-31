@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - K'
+slug: The_King_of_Fighters_XI_-_K'
+id: 955
+author: Olivic
+redirect: Kofxi-k
+old_id: 956
+---
+
 # The King of Fighters XI - K'
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-k.jpg "/images/kofxi-k.jpg")
 

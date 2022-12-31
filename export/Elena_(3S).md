@@ -1,6 +1,13 @@
+---
+title: Elena (3S)
+slug: Elena_(3S)
+id: 272
+author: ALX
+---
+
 # Elena (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Elena3sport.gif "Character Select Portrait") ![Neutral
@@ -88,8 +95,4 @@ Stance](/images/Elena3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|am2dSlp-SQI\|720\|align\|Trials Elena}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/am2dSlp-SQI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

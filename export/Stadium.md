@@ -1,6 +1,13 @@
+---
+title: Stadium
+slug: Stadium
+id: 489
+author: Wolmar
+---
+
 # Stadium
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/_stadium.png" title="/images/_stadium.png" width="250"

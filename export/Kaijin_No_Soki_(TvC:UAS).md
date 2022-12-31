@@ -1,6 +1,13 @@
+---
+title: Kaijin No Soki (TvC:UAS)
+slug: Kaijin_No_Soki_(TvC:UAS)
+id: 562
+author: Dan sakazaki
+---
+
 # Kaijin No Soki (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"
 width="250" alt="/images/Kaijinnosoki.jpg" />  

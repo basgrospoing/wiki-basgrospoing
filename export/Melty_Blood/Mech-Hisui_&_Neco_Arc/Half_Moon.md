@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui & Neco Arc/Half Moon
+slug: Melty_Blood/Mech-Hisui_&_Neco_Arc/Half_Moon
+id: 1807
+author: Ninjigen
+---
+
 # Melty Blood/Mech-Hisui & Neco Arc/Half Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

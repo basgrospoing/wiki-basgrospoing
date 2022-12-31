@@ -1,6 +1,13 @@
+---
+title: PTX-40A (TvC:UAS)
+slug: PTX-40A_(TvC:UAS)
+id: 530
+author: Dan sakazaki
+---
+
 # PTX-40A (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"
 alt="/images/PTX-40A.jpg" />  

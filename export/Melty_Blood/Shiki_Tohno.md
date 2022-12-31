@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Shiki Tohno
+slug: Melty_Blood/Shiki_Tohno
+id: 1870
+author: Sannos
+---
+
 # Melty Blood/Shiki Tohno
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima

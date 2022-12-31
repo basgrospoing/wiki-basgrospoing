@@ -1,6 +1,13 @@
+---
+title: Kasumi Todoh (98um)
+slug: Kasumi_Todoh_(98um)
+id: 246
+author: Corbeau Bleu
+---
+
 # Kasumi Todoh (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

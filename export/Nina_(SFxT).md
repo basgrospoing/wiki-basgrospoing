@@ -1,6 +1,13 @@
+---
+title: Nina (SFxT)
+slug: Nina_(SFxT)
+id: 2193
+author: Hynkel
+---
+
 # Nina (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -1,6 +1,13 @@
+---
+title: Joe Higashi (98um)
+slug: Joe_Higashi_(98um)
+id: 209
+author: Corbeau Bleu
+---
+
 # Joe Higashi (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

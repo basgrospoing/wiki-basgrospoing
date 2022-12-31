@@ -1,6 +1,15 @@
+---
+title: Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)
+slug: Samurai_Shodown_IV_-_Sogetsu_Kazama_(風間_蒼月,_Kazama_Sogetsu)
+id: 637
+author: Olivic
+redirect: Ss4-Sogetsu
+old_id: 655
+---
+
 # Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)
 
-Original author: Olivic.
+.
 
 ![](/images/ss4-Sogetsu.gif "/images/ss4-Sogetsu.gif")
 

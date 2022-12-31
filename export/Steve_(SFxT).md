@@ -1,6 +1,13 @@
+---
+title: Steve (SFxT)
+slug: Steve_(SFxT)
+id: 2197
+author: Hynkel
+---
+
 # Steve (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

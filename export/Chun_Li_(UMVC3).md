@@ -1,6 +1,13 @@
+---
+title: Chun Li (UMVC3)
+slug: Chun_Li_(UMVC3)
+id: 2977
+author: ALX
+---
+
 # Chun Li (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

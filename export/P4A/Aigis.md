@@ -1,6 +1,15 @@
+---
+title: P4A/Aigis
+slug: P4A/Aigis
+id: 2635
+author: Kabai
+redirect: Aigis
+old_id: 2649
+---
+
 # P4A/Aigis
 
-Original author: Kabai.
+.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

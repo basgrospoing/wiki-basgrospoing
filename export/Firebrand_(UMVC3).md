@@ -1,6 +1,13 @@
+---
+title: Firebrand (UMVC3)
+slug: Firebrand_(UMVC3)
+id: 2985
+author: ALX
+---
+
 # Firebrand (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

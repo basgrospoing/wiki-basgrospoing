@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Moons
+slug: Melty_Blood/Moons
+id: 1712
+author: 109.209.196.225
+---
+
 # Melty Blood/Moons
 
-Original author: 109.209.196.225.
+.
 
 Melty Blood Actress Again introduit les moons, qui sont des sortes de
 Isms de Street Fighter Alpha 3 ou Grooves de Capcom vs. SNK 2. Après

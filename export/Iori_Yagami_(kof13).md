@@ -1,6 +1,13 @@
+---
+title: Iori Yagami (kof13)
+slug: Iori_Yagami_(kof13)
+id: 1080
+author: 82.238.249.39
+---
+
 # Iori Yagami (kof13)
 
-Original author: 82.238.249.39.
+.
 
 ![Iori Yagami](/images/Iorikof13.gif "Iori Yagami") [Retour à la fiche
 du

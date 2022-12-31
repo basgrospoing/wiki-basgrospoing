@@ -1,6 +1,13 @@
+---
+title: Clown (KR)
+slug: Clown_(KR)
+id: 384
+author: Zarghatt
+---
+
 # Clown (KR)
 
-Original author: Zarghatt.
+.
 
 ## Généralités
 

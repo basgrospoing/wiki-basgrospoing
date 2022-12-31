@@ -1,6 +1,13 @@
+---
+title: Cheng Sinzan (Fatal Fury Special)
+slug: Cheng_Sinzan_(Fatal_Fury_Special)
+id: 731
+author: Dan sakazaki
+---
+
 # Cheng Sinzan (Fatal Fury Special)
 
-Original author: Dan sakazaki.
+.
 
 ![](/images/Ffspcheng.PNG)  
 

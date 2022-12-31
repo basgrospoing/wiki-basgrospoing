@@ -1,6 +1,15 @@
+---
+title: Orochi Shermie (2k2um)
+slug: Orochi_Shermie_(2k2um)
+id: 61
+author: Aerendir
+redirect: Orochi_Shermie
+old_id: 112
+---
+
 # Orochi Shermie (2k2um)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

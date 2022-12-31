@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Akiha Vermillion/Full Moon
+slug: Melty_Blood/Akiha_Vermillion/Full_Moon
+id: 1734
+author: Sannos
+---
+
 # Melty Blood/Akiha Vermillion/Full Moon
 
-Original author: Sannos.
+.
 
 # Combos
 

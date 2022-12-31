@@ -1,6 +1,13 @@
+---
+title: Akuma (ST)
+slug: Akuma_(ST)
+id: 450
+author: Wolmar
+---
+
 # Akuma (ST)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

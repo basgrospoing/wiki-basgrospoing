@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui & Kohaku
+slug: Melty_Blood/Hisui_&_Kohaku
+id: 1769
+author: Oufan
+---
+
 # Melty Blood/Hisui & Kohaku
 
-Original author: Oufan.
+.
 
 ![](/images/Hisuiandkohaku0.png "/images/Hisuiandkohaku0.png")
 

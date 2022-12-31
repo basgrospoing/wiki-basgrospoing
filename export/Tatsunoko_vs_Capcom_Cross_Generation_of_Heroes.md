@@ -1,6 +1,13 @@
+---
+title: Tatsunoko vs Capcom Cross Generation of Heroes
+slug: Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes
+id: 567
+author: Dan sakazaki
+---
+
 # Tatsunoko vs Capcom Cross Generation of Heroes
 
-Original author: Dan sakazaki.
+.
 
 ![](/images/cgoh.jpg "/images/cgoh.jpg")
 

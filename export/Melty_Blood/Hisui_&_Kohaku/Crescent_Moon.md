@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui & Kohaku/Crescent Moon
+slug: Melty_Blood/Hisui_&_Kohaku/Crescent_Moon
+id: 1773
+author: Sannos
+---
+
 # Melty Blood/Hisui & Kohaku/Crescent Moon
 
-Original author: Sannos.
+.
 
 # Combos
 

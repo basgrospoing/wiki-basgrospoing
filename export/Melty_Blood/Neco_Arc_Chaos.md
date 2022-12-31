@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Neco Arc Chaos
+slug: Melty_Blood/Neco_Arc_Chaos
+id: 1819
+author: Sannos
+---
+
 # Melty Blood/Neco Arc Chaos
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Neco Arc Chaos
 (ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>

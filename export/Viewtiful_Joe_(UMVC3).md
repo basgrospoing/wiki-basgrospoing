@@ -1,6 +1,13 @@
+---
+title: Viewtiful Joe (UMVC3)
+slug: Viewtiful_Joe_(UMVC3)
+id: 3013
+author: ALX
+---
+
 # Viewtiful Joe (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

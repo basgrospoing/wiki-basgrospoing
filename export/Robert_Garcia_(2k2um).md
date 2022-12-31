@@ -1,6 +1,15 @@
+---
+title: Robert Garcia (2k2um)
+slug: Robert_Garcia_(2k2um)
+id: 65
+author: Admin
+redirect: Robert_Garcia
+old_id: 72
+---
+
 # Robert Garcia (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

@@ -1,6 +1,15 @@
+---
+title: Joe Higashi (2k2um)
+slug: Joe_Higashi_(2k2um)
+id: 69
+author: Admin
+redirect: Joe_Higashi
+old_id: 77
+---
+
 # Joe Higashi (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

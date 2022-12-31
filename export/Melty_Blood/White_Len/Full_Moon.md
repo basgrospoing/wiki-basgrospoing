@@ -1,6 +1,13 @@
+---
+title: Melty Blood/White Len/Full Moon
+slug: Melty_Blood/White_Len/Full_Moon
+id: 1896
+author: 88.173.34.60
+---
+
 # Melty Blood/White Len/Full Moon
 
-Original author: 88.173.34.60.
+.
 
 # Combos
 

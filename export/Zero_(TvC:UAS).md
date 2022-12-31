@@ -1,6 +1,13 @@
+---
+title: Zero (TvC:UAS)
+slug: Zero_(TvC:UAS)
+id: 531
+author: Dan sakazaki
+---
+
 # Zero (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Zero.jpg" title="/images/Zero.jpg" width="250"
 alt="/images/Zero.jpg" />  

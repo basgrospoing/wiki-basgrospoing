@@ -1,6 +1,13 @@
+---
+title: Hazama (BBCS)
+slug: Hazama_(BBCS)
+id: 302
+author: Achoral
+---
+
 # Hazama (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_hazama_artwork_01.png"

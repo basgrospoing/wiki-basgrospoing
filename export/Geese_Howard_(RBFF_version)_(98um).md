@@ -1,6 +1,13 @@
+---
+title: Geese Howard (RBFF version) (98um)
+slug: Geese_Howard_(RBFF_version)_(98um)
+id: 262
+author: Corbeau Bleu
+---
+
 # Geese Howard (RBFF version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

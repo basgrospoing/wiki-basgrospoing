@@ -1,6 +1,13 @@
+---
+title: Balrog (ST)
+slug: Balrog_(ST)
+id: 451
+author: Hynkel
+---
+
 # Balrog (ST)
 
-Original author: Hynkel.
+.
 
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")
 

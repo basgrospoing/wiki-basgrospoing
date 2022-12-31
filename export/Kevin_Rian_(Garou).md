@@ -1,6 +1,13 @@
+---
+title: Kevin Rian (Garou)
+slug: Kevin_Rian_(Garou)
+id: 10
+author: Sp1p3
+---
+
 # Kevin Rian (Garou)
 
-Original author: Sp1p3.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Super tir
+slug: Super_tir
+id: 502
+author: Wolmar
+---
+
 # Super tir
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

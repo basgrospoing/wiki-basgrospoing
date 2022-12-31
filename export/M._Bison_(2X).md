@@ -1,6 +1,13 @@
+---
+title: M. Bison (2X)
+slug: M._Bison_(2X)
+id: 465
+author: Wolmar
+---
+
 # M. Bison (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

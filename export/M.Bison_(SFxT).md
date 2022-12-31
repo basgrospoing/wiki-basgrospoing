@@ -1,6 +1,13 @@
+---
+title: M.Bison (SFxT)
+slug: M.Bison_(SFxT)
+id: 2173
+author: Hynkel
+---
+
 # M.Bison (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

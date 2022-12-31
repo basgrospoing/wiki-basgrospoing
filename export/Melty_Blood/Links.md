@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Links
+slug: Melty_Blood/Links
+id: 1717
+author: Naast
+---
+
 # Melty Blood/Links
 
-Original author: Naast.
+.
 
 ### Sites
 

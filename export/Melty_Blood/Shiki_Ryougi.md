@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Shiki Ryougi
+slug: Melty_Blood/Shiki_Ryougi
+id: 1864
+author: Sannos
+---
+
 # Melty Blood/Shiki Ryougi
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
 Male)  —  **Nicknames:**    "That woman" "Neko Shiki" \<br\\\>\<br\\\>

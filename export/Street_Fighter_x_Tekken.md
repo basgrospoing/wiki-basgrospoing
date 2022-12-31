@@ -1,6 +1,13 @@
+---
+title: Street Fighter x Tekken
+slug: Street_Fighter_x_Tekken
+id: 2161
+author: MaxDaStereo
+---
+
 # Street Fighter x Tekken
 
-Original author: MaxDaStereo.
+.
 
 ## LES CONTROLES / MOUVEMENTS
 

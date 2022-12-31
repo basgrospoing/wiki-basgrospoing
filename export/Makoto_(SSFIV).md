@@ -1,6 +1,13 @@
+---
+title: Makoto (SSFIV)
+slug: Makoto_(SSFIV)
+id: 813
+author: Atomskyu698
+---
+
 # Makoto (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

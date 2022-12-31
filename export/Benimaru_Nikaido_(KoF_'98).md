@@ -1,6 +1,13 @@
+---
+title: Benimaru Nikaido (KoF '98)
+slug: Benimaru_Nikaido_(KoF_'98)
+id: 154
+author: Corbeau Bleu
+---
+
 # Benimaru Nikaido (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

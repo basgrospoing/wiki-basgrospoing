@@ -1,6 +1,15 @@
+---
+title: Whip (2k2um)
+slug: Whip_(2k2um)
+id: 53
+author: Admin
+redirect: Whip
+old_id: 104
+---
+
 # Whip (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

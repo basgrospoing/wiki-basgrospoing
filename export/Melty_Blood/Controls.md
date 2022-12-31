@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Controls
+slug: Melty_Blood/Controls
+id: 1716
+author: Zind
+---
+
 # Melty Blood/Controls
 
-Original author: Zind.
+.
 
 ## Contrôles
 

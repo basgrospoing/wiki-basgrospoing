@@ -1,6 +1,13 @@
+---
+title: Chris (KoF '98)
+slug: Chris_(KoF_'98)
+id: 174
+author: Corbeau Bleu
+---
+
 # Chris (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

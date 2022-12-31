@@ -1,6 +1,13 @@
+---
+title: Jill (UMVC3)
+slug: Jill_(UMVC3)
+id: 2993
+author: ALX
+---
+
 # Jill (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

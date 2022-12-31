@@ -1,6 +1,13 @@
+---
+title: Goro Daimon (kof13)
+slug: Goro_Daimon_(kof13)
+id: 1113
+author: Natchooo
+---
+
 # Goro Daimon (kof13)
 
-Original author: Natchooo.
+.
 
 ![Goro Daimon](/images/Gorokof13.gif "Goro Daimon") [Retour à la fiche
 du

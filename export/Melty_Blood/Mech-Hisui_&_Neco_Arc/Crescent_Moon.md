@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui & Neco Arc/Crescent Moon
+slug: Melty_Blood/Mech-Hisui_&_Neco_Arc/Crescent_Moon
+id: 1806
+author: Ninjigen
+---
+
 # Melty Blood/Mech-Hisui & Neco Arc/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

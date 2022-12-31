@@ -1,6 +1,13 @@
+---
+title: Hakumen (BBCS)
+slug: Hakumen_(BBCS)
+id: 303
+author: Yolsgens
+---
+
 # Hakumen (BBCS)
 
-Original author: Yolsgens.
+.
 
 <figure>
 <img src="/images/Bbcs_hakumen_artwork_01.png"

@@ -1,6 +1,13 @@
+---
+title: Jin (SFxT)
+slug: Jin_(SFxT)
+id: 2185
+author: KizanCPC
+---
+
 # Jin (SFxT)
 
-Original author: KizanCPC.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

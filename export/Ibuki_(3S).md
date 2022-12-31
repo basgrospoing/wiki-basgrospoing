@@ -1,6 +1,13 @@
+---
+title: Ibuki (3S)
+slug: Ibuki_(3S)
+id: 275
+author: ALX
+---
+
 # Ibuki (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Ibuki3sport.gif "Character Select Portrait") ![Neutral
@@ -84,8 +91,4 @@ Stance](/images/Ibuki3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|747Szb6Eu5w\|720\|align\|Trials Ibuki}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/747Szb6Eu5w' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

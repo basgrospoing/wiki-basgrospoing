@@ -1,6 +1,13 @@
+---
+title: Benimaru
+slug: Benimaru
+id: 22
+author: Bberita
+---
+
 # Benimaru
 
-Original author: Bberita.
+.
 
 ## Introduction
 

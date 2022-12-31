@@ -1,6 +1,13 @@
+---
+title: Terry Bogard (kof13)
+slug: Terry_Bogard_(kof13)
+id: 1077
+author: Maj
+---
+
 # Terry Bogard (kof13)
 
-Original author: Maj.
+.
 
 ![Terry Bogard](/images/terrykof13.gif "Terry Bogard") [Retour à la
 fiche du

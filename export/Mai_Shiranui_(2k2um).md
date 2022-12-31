@@ -1,6 +1,13 @@
+---
+title: Mai Shiranui (2k2um)
+slug: Mai_Shiranui_(2k2um)
+id: 119
+author: Admin
+---
+
 # Mai Shiranui (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: ABK/Marylin Sue
+slug: ABK/Marylin_Sue
+id: 2267
+author: Kabai
+---
+
 # ABK/Marylin Sue
 
-Original author: Kabai.
+.
 
 ![](/images/Marylin_Sue_ABK.jpg "/images/Marylin_Sue_ABK.jpg")
 

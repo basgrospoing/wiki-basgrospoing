@@ -1,6 +1,13 @@
+---
+title: Kula (kof13)
+slug: Kula_(kof13)
+id: 1079
+author: Maj
+---
+
 # Kula (kof13)
 
-Original author: Maj.
+.
 
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  
 [Retour à la fiche du

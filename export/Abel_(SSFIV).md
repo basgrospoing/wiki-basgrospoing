@@ -1,6 +1,13 @@
+---
+title: Abel (SSFIV)
+slug: Abel_(SSFIV)
+id: 367
+author: Atomskyu698
+---
+
 # Abel (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

@@ -1,6 +1,13 @@
+---
+title: Phoenix Wright (UMVC3)
+slug: Phoenix_Wright_(UMVC3)
+id: 2999
+author: ALX
+---
+
 # Phoenix Wright (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

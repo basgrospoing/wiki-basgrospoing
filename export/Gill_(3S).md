@@ -1,6 +1,13 @@
+---
+title: Gill (3S)
+slug: Gill_(3S)
+id: 273
+author: ALX
+---
+
 # Gill (3S)
 
-Original author: ALX.
+.
 
 ![Character Select
 Portrait](/images/Gill.gif "Character Select Portrait") ![Neutral

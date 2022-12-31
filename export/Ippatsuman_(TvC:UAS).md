@@ -1,6 +1,13 @@
+---
+title: Ippatsuman (TvC:UAS)
+slug: Ippatsuman_(TvC:UAS)
+id: 521
+author: Dan sakazaki
+---
+
 # Ippatsuman (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"
 width="250" alt="/images/Ippatsuman.jpg" />  

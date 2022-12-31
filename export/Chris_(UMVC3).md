@@ -1,6 +1,13 @@
+---
+title: Chris (UMVC3)
+slug: Chris_(UMVC3)
+id: 2968
+author: ALX
+---
+
 # Chris (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

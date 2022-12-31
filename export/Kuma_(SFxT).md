@@ -1,6 +1,13 @@
+---
+title: Kuma (SFxT)
+slug: Kuma_(SFxT)
+id: 2189
+author: Hynkel
+---
+
 # Kuma (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

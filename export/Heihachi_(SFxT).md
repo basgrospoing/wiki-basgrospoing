@@ -1,6 +1,13 @@
+---
+title: Heihachi (SFxT)
+slug: Heihachi_(SFxT)
+id: 2183
+author: Hynkel
+---
+
 # Heihachi (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

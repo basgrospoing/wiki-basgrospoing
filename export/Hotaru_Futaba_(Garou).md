@@ -1,6 +1,13 @@
+---
+title: Hotaru Futaba (Garou)
+slug: Hotaru_Futaba_(Garou)
+id: 7
+author: Aerendir
+---
+
 # Hotaru Futaba (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

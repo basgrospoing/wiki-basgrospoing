@@ -1,6 +1,13 @@
+---
+title: Ryu (2X)
+slug: Ryu_(2X)
+id: 460
+author: Wolmar
+---
+
 # Ryu (2X)
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

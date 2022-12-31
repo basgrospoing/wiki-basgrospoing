@@ -1,6 +1,13 @@
+---
+title: Ryu (UMVC3)
+slug: Ryu_(UMVC3)
+id: 3000
+author: ALX
+---
+
 # Ryu (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

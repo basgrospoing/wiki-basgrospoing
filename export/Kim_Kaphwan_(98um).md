@@ -1,6 +1,13 @@
+---
+title: Kim Kaphwan (98um)
+slug: Kim_Kaphwan_(98um)
+id: 222
+author: Corbeau Bleu
+---
+
 # Kim Kaphwan (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

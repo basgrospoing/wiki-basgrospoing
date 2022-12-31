@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Mech-Hisui & Neco Arc
+slug: Melty_Blood/Mech-Hisui_&_Neco_Arc
+id: 1804
+author: Sannos
+---
+
 # Melty Blood/Mech-Hisui & Neco Arc
 
-Original author: Sannos.
+.
 
 ![ **Team:**   Neco Arc & Mech Hisui
 \|frame\|right](/images/Necomech0.png " Team:   Neco Arc & Mech Hisui |frame|right")

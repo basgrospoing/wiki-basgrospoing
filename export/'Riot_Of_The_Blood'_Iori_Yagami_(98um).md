@@ -1,6 +1,13 @@
+---
+title: 'Riot Of The Blood' Iori Yagami (98um)
+slug: 'Riot_Of_The_Blood'_Iori_Yagami_(98um)
+id: 264
+author: Corbeau Bleu
+---
+
 # 'Riot Of The Blood' Iori Yagami (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

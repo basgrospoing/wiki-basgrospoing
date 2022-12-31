@@ -1,6 +1,13 @@
+---
+title: Seth (SSFIV)
+slug: Seth_(SSFIV)
+id: 369
+author: Atomskyu698
+---
+
 # Seth (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

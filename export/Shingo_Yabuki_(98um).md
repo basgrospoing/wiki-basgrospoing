@@ -1,6 +1,13 @@
+---
+title: Shingo Yabuki (98um)
+slug: Shingo_Yabuki_(98um)
+id: 249
+author: Corbeau Bleu
+---
+
 # Shingo Yabuki (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Ramon
+slug: The_King_of_Fighters_XI_-_Ramon
+id: 939
+author: Olivic
+redirect: Kofxi-ramon
+old_id: 940
+---
+
 # The King of Fighters XI - Ramon
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-ramon.jpg "/images/kofxi-ramon.jpg")
 

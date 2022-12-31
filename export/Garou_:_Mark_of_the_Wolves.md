@@ -1,6 +1,13 @@
+---
+title: Garou : Mark of the Wolves
+slug: Garou_:_Mark_of_the_Wolves
+id: 4
+author: Timmytheturtle
+---
+
 # Garou : Mark of the Wolves
 
-Original author: Timmytheturtle.
+.
 
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")
 

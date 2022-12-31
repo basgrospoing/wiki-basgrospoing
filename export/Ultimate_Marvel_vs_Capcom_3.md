@@ -1,6 +1,13 @@
+---
+title: Ultimate Marvel vs Capcom 3
+slug: Ultimate_Marvel_vs_Capcom_3
+id: 2707
+author: ALX
+---
+
 # Ultimate Marvel vs Capcom 3
 
-Original author: ALX.
+.
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 

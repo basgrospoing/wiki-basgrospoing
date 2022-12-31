@@ -1,6 +1,13 @@
+---
+title: Freeman (Garou)
+slug: Freeman_(Garou)
+id: 11
+author: Aerendir
+---
+
 # Freeman (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

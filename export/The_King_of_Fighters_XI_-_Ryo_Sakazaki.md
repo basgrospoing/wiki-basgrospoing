@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Ryo Sakazaki
+slug: The_King_of_Fighters_XI_-_Ryo_Sakazaki
+id: 937
+author: Olivic
+redirect: Kofxi-ryo-sakazaki
+old_id: 938
+---
+
 # The King of Fighters XI - Ryo Sakazaki
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-ryo-sakazaki.jpg "/images/kofxi-ryo-sakazaki.jpg")
 

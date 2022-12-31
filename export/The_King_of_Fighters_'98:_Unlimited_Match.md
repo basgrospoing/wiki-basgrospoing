@@ -1,6 +1,13 @@
+---
+title: The King of Fighters '98: Unlimited Match
+slug: The_King_of_Fighters_'98:_Unlimited_Match
+id: 19
+author: Admin
+---
+
 # The King of Fighters '98: Unlimited Match
 
-Original author: Admin.
+.
 
 ## Personnages
 

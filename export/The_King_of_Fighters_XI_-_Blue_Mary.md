@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Blue Mary
+slug: The_King_of_Fighters_XI_-_Blue_Mary
+id: 920
+author: Olivic
+redirect: Kofxi-blue-mary
+old_id: 921
+---
+
 # The King of Fighters XI - Blue Mary
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-blue-mary.jpg "/images/kofxi-blue-mary.jpg")
 

@@ -1,6 +1,13 @@
+---
+title: Rock (Garou)
+slug: Rock_(Garou)
+id: 5
+author: Aerendir
+---
+
 # Rock (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

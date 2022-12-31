@@ -1,6 +1,13 @@
+---
+title: Clark Still (98um)
+slug: Clark_Still_(98um)
+id: 215
+author: Corbeau Bleu
+---
+
 # Clark Still (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

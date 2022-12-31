@@ -1,6 +1,13 @@
+---
+title: Bao (2k2um)
+slug: Bao_(2k2um)
+id: 127
+author: Admin
+---
+
 # Bao (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: ABK/Murakumo
+slug: ABK/Murakumo
+id: 2509
+author: Kabai
+---
+
 # ABK/Murakumo
 
-Original author: Kabai.
+.
 
 J'ai décidé de continuer à update cette glorieuse section mais je n'ai
 aucune idée de comment le perso se joue, d'où les références à

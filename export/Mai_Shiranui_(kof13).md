@@ -1,6 +1,13 @@
+---
+title: Mai Shiranui (kof13)
+slug: Mai_Shiranui_(kof13)
+id: 1120
+author: 82.238.249.39
+---
+
 # Mai Shiranui (kof13)
 
-Original author: 82.238.249.39.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

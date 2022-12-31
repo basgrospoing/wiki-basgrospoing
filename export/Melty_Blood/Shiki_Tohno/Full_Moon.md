@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Shiki Tohno/Full Moon
+slug: Melty_Blood/Shiki_Tohno/Full_Moon
+id: 1875
+author: Ninjigen
+---
+
 # Melty Blood/Shiki Tohno/Full Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

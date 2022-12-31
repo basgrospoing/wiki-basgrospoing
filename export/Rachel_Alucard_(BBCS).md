@@ -1,6 +1,13 @@
+---
+title: Rachel Alucard (BBCS)
+slug: Rachel_Alucard_(BBCS)
+id: 297
+author: Achoral
+---
+
 # Rachel Alucard (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_rachel_artwork_01.png"

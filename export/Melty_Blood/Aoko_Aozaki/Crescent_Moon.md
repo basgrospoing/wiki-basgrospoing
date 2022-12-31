@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Aoko Aozaki/Crescent Moon
+slug: Melty_Blood/Aoko_Aozaki/Crescent_Moon
+id: 1741
+author: Toto
+---
+
 # Melty Blood/Aoko Aozaki/Crescent Moon
 
-Original author: Toto.
+.
 
 # Combos
 

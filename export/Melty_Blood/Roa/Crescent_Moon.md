@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Roa/Crescent Moon
+slug: Melty_Blood/Roa/Crescent_Moon
+id: 1852
+author: 82.234.188.250
+---
+
 # Melty Blood/Roa/Crescent Moon
 
-Original author: 82.234.188.250.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Zero (UMVC3)
+slug: Zero_(UMVC3)
+id: 3015
+author: ALX
+---
+
 # Zero (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

@@ -1,6 +1,13 @@
+---
+title: Morrigan Aensland (TvC:UAS)
+slug: Morrigan_Aensland_(TvC:UAS)
+id: 552
+author: Dan sakazaki
+---
+
 # Morrigan Aensland (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Tvcmorrigan.jpg" title="/images/Tvcmorrigan.jpg"
 width="250" alt="/images/Tvcmorrigan.jpg" />  

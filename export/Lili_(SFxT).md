@@ -1,6 +1,13 @@
+---
+title: Lili (SFxT)
+slug: Lili_(SFxT)
+id: 2191
+author: Hynkel
+---
+
 # Lili (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

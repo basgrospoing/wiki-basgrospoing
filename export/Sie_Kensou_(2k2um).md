@@ -1,6 +1,13 @@
+---
+title: Sie Kensou (2k2um)
+slug: Sie_Kensou_(2k2um)
+id: 126
+author: Hynkel
+---
+
 # Sie Kensou (2k2um)
 
-Original author: Hynkel.
+.
 
 ## Introduction
 

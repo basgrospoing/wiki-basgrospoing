@@ -1,6 +1,13 @@
+---
+title: Bang Shishigami (BBCS)
+slug: Bang_Shishigami_(BBCS)
+id: 305
+author: Achoral
+---
+
 # Bang Shishigami (BBCS)
 
-Original author: Achoral.
+.
 
 <figure>
 <img src="/images/Bbcs_bang_artwork_01.png"

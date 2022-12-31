@@ -1,6 +1,13 @@
+---
+title: Haggar (UMVC3)
+slug: Haggar_(UMVC3)
+id: 2987
+author: ALX
+---
+
 # Haggar (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

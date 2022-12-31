@@ -1,6 +1,13 @@
+---
+title: Ryu (Street Fighter Alpha 3)
+slug: Ryu_(Street_Fighter_Alpha_3)
+id: 1230
+author: Tonio
+---
+
 # Ryu (Street Fighter Alpha 3)
 
-Original author: Tonio.
+.
 
 <figure>
 <img src="/images/Sfa3-ryu1.jpg" title="/images/Sfa3-ryu1.jpg"

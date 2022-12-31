@@ -1,6 +1,15 @@
+---
+title: Ramon (2k2um)
+slug: Ramon_(2k2um)
+id: 56
+author: Admin
+redirect: Ramon
+old_id: 107
+---
+
 # Ramon (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

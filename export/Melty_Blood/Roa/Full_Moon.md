@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Roa/Full Moon
+slug: Melty_Blood/Roa/Full_Moon
+id: 1850
+author: Zind
+---
+
 # Melty Blood/Roa/Full Moon
 
-Original author: Zind.
+.
 
 # Introduction
 

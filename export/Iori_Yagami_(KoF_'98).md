@@ -1,6 +1,13 @@
+---
+title: Iori Yagami (KoF '98)
+slug: Iori_Yagami_(KoF_'98)
+id: 179
+author: Corbeau Bleu
+---
+
 # Iori Yagami (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

@@ -1,6 +1,15 @@
+---
+title: The King of Fighters XI - Momoko
+slug: The_King_of_Fighters_XI_-_Momoko
+id: 943
+author: Olivic
+redirect: Kofxi-momoko
+old_id: 944
+---
+
 # The King of Fighters XI - Momoko
 
-Original author: Olivic.
+.
 
 ![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")
 

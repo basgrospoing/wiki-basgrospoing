@@ -1,6 +1,13 @@
+---
+title: Nemesis (UMVC3)
+slug: Nemesis_(UMVC3)
+id: 2995
+author: ALX
+---
+
 # Nemesis (UMVC3)
 
-Original author: ALX.
+.
 
 <center>
 

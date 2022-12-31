@@ -1,6 +1,13 @@
+---
+title: Joe
+slug: Joe
+id: 26
+author: Corbeau Bleu
+---
+
 # Joe
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

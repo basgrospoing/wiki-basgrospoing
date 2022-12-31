@@ -1,6 +1,13 @@
+---
+title: B. Jenet (Garou)
+slug: B._Jenet_(Garou)
+id: 13
+author: Aerendir
+---
+
 # B. Jenet (Garou)
 
-Original author: Aerendir.
+.
 
 ## Introduction
 

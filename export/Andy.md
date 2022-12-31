@@ -1,6 +1,13 @@
+---
+title: Andy
+slug: Andy
+id: 25
+author: Corbeau Bleu
+---
+
 # Andy
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

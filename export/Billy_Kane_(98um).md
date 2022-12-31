@@ -1,6 +1,13 @@
+---
+title: Billy Kane (98um)
+slug: Billy_Kane_(98um)
+id: 230
+author: Corbeau Bleu
+---
+
 # Billy Kane (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

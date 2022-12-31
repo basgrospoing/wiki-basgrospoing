@@ -1,6 +1,13 @@
+---
+title: Takuma
+slug: Takuma
+id: 29
+author: Corbeau Bleu
+---
+
 # Takuma
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

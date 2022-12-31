@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Defense
+slug: Melty_Blood/Defense
+id: 1709
+author: Naast
+---
+
 # Melty Blood/Defense
 
-Original author: Naast.
+.
 
 Dans Melty Blood Actress Again Current Code, tous les personnages
 possèdent environ 11400 points de vie, et subissent des dégâts pondérés

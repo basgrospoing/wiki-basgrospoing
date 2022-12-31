@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Satsuki Yumiduka
+slug: Melty_Blood/Satsuki_Yumiduka
+id: 1853
+author: Sannos
+---
+
 # Melty Blood/Satsuki Yumiduka
 
-Original author: Sannos.
+.
 
 \[\[Image:/images/Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚
 さつき)  —  **Nicknames:**    Sacchin \<br\\\>\<br\\\> **Voiced

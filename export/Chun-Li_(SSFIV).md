@@ -1,6 +1,13 @@
+---
+title: Chun-Li (SSFIV)
+slug: Chun-Li_(SSFIV)
+id: 364
+author: Atomskyu698
+---
+
 # Chun-Li (SSFIV)
 
-Original author: Atomskyu698.
+.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

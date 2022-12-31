@@ -1,6 +1,13 @@
+---
+title: Ryuji Yamazaki (98um)
+slug: Ryuji_Yamazaki_(98um)
+id: 228
+author: Corbeau Bleu
+---
+
 # Ryuji Yamazaki (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

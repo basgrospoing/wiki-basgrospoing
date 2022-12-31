@@ -1,6 +1,15 @@
+---
+title: Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
+slug: Samurai_Shodown_IV_-_Hanzo_Hattori_(服部_半蔵,_Hattori_Hanzō)
+id: 651
+author: Olivic
+redirect: Ss4-Hanzo
+old_id: 668
+---
+
 # Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
 
-Original author: Olivic.
+.
 
 ![](/images/ss4-Hanzo.gif "/images/ss4-Hanzo.gif")
 

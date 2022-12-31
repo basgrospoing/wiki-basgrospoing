@@ -1,6 +1,13 @@
+---
+title: Akatsuki Blitzkampf
+slug: Akatsuki_Blitzkampf
+id: 2248
+author: Kabai
+---
+
 # Akatsuki Blitzkampf
 
-Original author: Kabai.
+.
 
 ![](/images/abk_main.png "/images/abk_main.png")
 

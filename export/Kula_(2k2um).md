@@ -1,6 +1,15 @@
+---
+title: Kula (2k2um)
+slug: Kula_(2k2um)
+id: 58
+author: 194.158.70.15
+redirect: Kula
+old_id: 108
+---
+
 # Kula (2k2um)
 
-Original author: 194.158.70.15.
+.
 
 ## Introduction
 

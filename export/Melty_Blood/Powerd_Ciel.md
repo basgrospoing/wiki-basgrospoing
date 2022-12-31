@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Powerd Ciel
+slug: Melty_Blood/Powerd_Ciel
+id: 1830
+author: Sannos
+---
+
 # Melty Blood/Powerd Ciel
 
-Original author: Sannos.
+.
 
 ![ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
 Curry" \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間

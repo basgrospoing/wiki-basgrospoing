@@ -1,6 +1,15 @@
+---
+title: Yuri (2k2um)
+slug: Yuri_(2k2um)
+id: 37
+author: Admin
+redirect: Yuri
+old_id: 85
+---
+
 # Yuri (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

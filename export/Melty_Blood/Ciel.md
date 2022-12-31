@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Ciel
+slug: Melty_Blood/Ciel
+id: 1757
+author: Oufan
+---
+
 # Melty Blood/Ciel
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Ciel (シエル)  —  **Nicknames:**    Curry
 \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間

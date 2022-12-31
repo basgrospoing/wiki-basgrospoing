@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Red Arcueid/Full Moon
+slug: Melty_Blood/Red_Arcueid/Full_Moon
+id: 1840
+author: Oufan
+---
+
 # Melty Blood/Red Arcueid/Full Moon
 
-Original author: Oufan.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui
+slug: Melty_Blood/Hisui
+id: 1763
+author: Oufan
+---
+
 # Melty Blood/Hisui
 
-Original author: Oufan.
+.
 
 ![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
 \<br\\\>\<br\\\> **Voiced by:**   Matsuki Miyu (松来

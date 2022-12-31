@@ -1,6 +1,13 @@
+---
+title: Mai Shiranui (Real Bout Fatal Fury version) (98um)
+slug: Mai_Shiranui_(Real_Bout_Fatal_Fury_version)_(98um)
+id: 258
+author: Corbeau Bleu
+---
+
 # Mai Shiranui (Real Bout Fatal Fury version) (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

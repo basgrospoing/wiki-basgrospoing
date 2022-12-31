@@ -1,6 +1,13 @@
+---
+title: Blue Mary (98um)
+slug: Blue_Mary_(98um)
+id: 229
+author: Corbeau Bleu
+---
+
 # Blue Mary (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

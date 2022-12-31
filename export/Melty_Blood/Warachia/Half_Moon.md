@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Warachia/Half Moon
+slug: Melty_Blood/Warachia/Half_Moon
+id: 1892
+author: 95.182.218.13
+---
+
 # Melty Blood/Warachia/Half Moon
 
-Original author: 95.182.218.13.
+.
 
 # Combos
 

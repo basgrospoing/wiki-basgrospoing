@@ -1,6 +1,15 @@
+---
+title: Chang (2k2um)
+slug: Chang_(2k2um)
+id: 34
+author: Admin
+redirect: Chang
+old_id: 82
+---
+
 # Chang (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

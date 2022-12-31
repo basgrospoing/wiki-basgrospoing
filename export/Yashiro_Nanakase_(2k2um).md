@@ -1,6 +1,13 @@
+---
+title: Yashiro Nanakase (2k2um)
+slug: Yashiro_Nanakase_(2k2um)
+id: 130
+author: JPX
+---
+
 # Yashiro Nanakase (2k2um)
 
-Original author: JPX.
+.
 
 ## Introduction
 

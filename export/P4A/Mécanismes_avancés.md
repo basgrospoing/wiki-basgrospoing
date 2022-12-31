@@ -1,6 +1,13 @@
+---
+title: P4A/Mécanismes avancés
+slug: P4A/Mécanismes_avancés
+id: 2680
+author: Kabai
+---
+
 # P4A/Mécanismes avancés
 
-Original author: Kabai.
+.
 
 # Status spéciaux
 

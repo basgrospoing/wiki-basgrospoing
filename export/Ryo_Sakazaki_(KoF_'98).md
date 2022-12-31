@@ -1,6 +1,13 @@
+---
+title: Ryo Sakazaki (KoF '98)
+slug: Ryo_Sakazaki_(KoF_'98)
+id: 158
+author: Corbeau Bleu
+---
+
 # Ryo Sakazaki (KoF '98)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

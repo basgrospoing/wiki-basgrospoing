@@ -1,6 +1,15 @@
+---
+title: Yamazaki (2k2um)
+slug: Yamazaki_(2k2um)
+id: 45
+author: Admin
+redirect: Yamazaki
+old_id: 98
+---
+
 # Yamazaki (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Beeho Yoo
+slug: Beeho_Yoo
+id: 469
+author: Wolmar
+---
+
 # Beeho Yoo
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/Beeho_Yoo.png" title="/images/Beeho_Yoo.png"

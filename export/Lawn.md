@@ -1,6 +1,13 @@
+---
+title: Lawn
+slug: Lawn
+id: 493
+author: Wolmar
+---
+
 # Lawn
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/_lawn.png" title="/images/_lawn.png" width="250"

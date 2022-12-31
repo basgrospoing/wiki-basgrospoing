@@ -1,6 +1,13 @@
+---
+title: Yuri Sakazaki (98um)
+slug: Yuri_Sakazaki_(98um)
+id: 212
+author: Corbeau Bleu
+---
+
 # Yuri Sakazaki (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

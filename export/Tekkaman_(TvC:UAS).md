@@ -1,6 +1,13 @@
+---
+title: Tekkaman (TvC:UAS)
+slug: Tekkaman_(TvC:UAS)
+id: 516
+author: Dan sakazaki
+---
+
 # Tekkaman (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Tekkaman.jpg" title="/images/Tekkaman.jpg" width="200"
 alt="/images/Tekkaman.jpg" />  

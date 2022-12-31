@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Hisui/Crescent Moon
+slug: Melty_Blood/Hisui/Crescent_Moon
+id: 1766
+author: Ninjigen
+---
+
 # Melty Blood/Hisui/Crescent Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Hwoarang (SFxT)
+slug: Hwoarang_(SFxT)
+id: 2184
+author: Hynkel
+---
+
 # Hwoarang (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

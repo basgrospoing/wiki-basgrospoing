@@ -1,6 +1,13 @@
+---
+title: Sagat (Street Fighter Alpha 3)
+slug: Sagat_(Street_Fighter_Alpha_3)
+id: 1248
+author: Tonio
+---
+
 # Sagat (Street Fighter Alpha 3)
 
-Original author: Tonio.
+.
 
 <figure>
 <img src="/images/SFA3_Sagat.jpg" title="/images/SFA3_Sagat.jpg"

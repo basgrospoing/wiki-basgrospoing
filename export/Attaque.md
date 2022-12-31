@@ -1,6 +1,13 @@
+---
+title: Attaque
+slug: Attaque
+id: 501
+author: Wolmar
+---
+
 # Attaque
 
-Original author: Wolmar.
+.
 
 ## Introduction
 

@@ -1,6 +1,13 @@
+---
+title: Gold Lightan (TvC:UAS)
+slug: Gold_Lightan_(TvC:UAS)
+id: 520
+author: Dan sakazaki
+---
+
 # Gold Lightan (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Goldlightan.jpg" title="/images/Goldlightan.jpg"
 width="250" alt="/images/Goldlightan.jpg" />  

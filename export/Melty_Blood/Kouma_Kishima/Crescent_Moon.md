@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Kouma Kishima/Crescent Moon
+slug: Melty_Blood/Kouma_Kishima/Crescent_Moon
+id: 1788
+author: 88.167.173.143
+---
+
 # Melty Blood/Kouma Kishima/Crescent Moon
 
-Original author: 88.167.173.143.
+.
 
 # Combos
 

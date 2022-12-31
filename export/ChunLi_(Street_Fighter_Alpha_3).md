@@ -1,6 +1,13 @@
+---
+title: ChunLi (Street Fighter Alpha 3)
+slug: ChunLi_(Street_Fighter_Alpha_3)
+id: 1247
+author: Tonio
+---
+
 # ChunLi (Street Fighter Alpha 3)
 
-Original author: Tonio.
+.
 
 ## Introduction
 

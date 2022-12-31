@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Satsuki Yumiduka/Full Moon
+slug: Melty_Blood/Satsuki_Yumiduka/Full_Moon
+id: 1858
+author: Kigal
+---
+
 # Melty Blood/Satsuki Yumiduka/Full Moon
 
-Original author: Kigal.
+.
 
 # Combos
 

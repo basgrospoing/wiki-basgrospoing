@@ -1,6 +1,13 @@
+---
+title: P4A/Mécanismes
+slug: P4A/Mécanismes
+id: 2571
+author: Kabai
+---
+
 # P4A/Mécanismes
 
-Original author: Kabai.
+.
 
 Cette page décrit les mécanismes de base d'un jeu de combat disponibles
 dans *[Persona 4 Arena](Persona_4_Arena "wikilink")*. Pour un aperçu des

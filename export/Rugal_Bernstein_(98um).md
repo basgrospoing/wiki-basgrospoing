@@ -1,6 +1,13 @@
+---
+title: Rugal Bernstein (98um)
+slug: Rugal_Bernstein_(98um)
+id: 248
+author: Corbeau Bleu
+---
+
 # Rugal Bernstein (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

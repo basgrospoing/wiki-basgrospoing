@@ -1,6 +1,13 @@
+---
+title: Athena Asamiya (98um)
+slug: Athena_Asamiya_(98um)
+id: 216
+author: Corbeau Bleu
+---
+
 # Athena Asamiya (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

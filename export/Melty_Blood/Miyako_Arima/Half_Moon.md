@@ -1,6 +1,13 @@
+---
+title: Melty Blood/Miyako Arima/Half Moon
+slug: Melty_Blood/Miyako_Arima/Half_Moon
+id: 1813
+author: Ninjigen
+---
+
 # Melty Blood/Miyako Arima/Half Moon
 
-Original author: Ninjigen.
+.
 
 # Combos
 

@@ -1,6 +1,13 @@
+---
+title: Ryo Sakazaki (Fatal Fury Special)
+slug: Ryo_Sakazaki_(Fatal_Fury_Special)
+id: 729
+author: Dan sakazaki
+---
+
 # Ryo Sakazaki (Fatal Fury Special)
 
-Original author: Dan sakazaki.
+.
 
 ![](/images/Ffspryo.PNG)  
 

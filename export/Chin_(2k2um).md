@@ -1,6 +1,15 @@
+---
+title: Chin (2k2um)
+slug: Chin_(2k2um)
+id: 41
+author: Admin
+redirect: Chin
+old_id: 92
+---
+
 # Chin (2k2um)
 
-Original author: Admin.
+.
 
 ## Introduction
 

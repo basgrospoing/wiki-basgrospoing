@@ -1,6 +1,13 @@
+---
+title: Tekkaman Blade (TvC:UAS)
+slug: Tekkaman_Blade_(TvC:UAS)
+id: 519
+author: Dan sakazaki
+---
+
 # Tekkaman Blade (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Tekkamanblade.jpg" title="/images/Tekkamanblade.jpg"
 width="250" alt="/images/Tekkamanblade.jpg" />  

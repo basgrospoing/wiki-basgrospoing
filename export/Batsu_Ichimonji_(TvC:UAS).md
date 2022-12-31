@@ -1,6 +1,13 @@
+---
+title: Batsu Ichimonji (TvC:UAS)
+slug: Batsu_Ichimonji_(TvC:UAS)
+id: 561
+author: Dan sakazaki
+---
+
 # Batsu Ichimonji (TvC:UAS)
 
-Original author: Dan sakazaki.
+.
 
 <img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"
 width="230" alt="/images/Tvc-batsu.jpg" />  

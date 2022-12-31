@@ -1,6 +1,13 @@
+---
+title: Tiled
+slug: Tiled
+id: 492
+author: Wolmar
+---
+
 # Tiled
 
-Original author: Wolmar.
+.
 
 <figure>
 <img src="/images/_tiled.png" title="/images/_tiled.png" width="250"

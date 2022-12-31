@@ -1,6 +1,13 @@
+---
+title: Tsubaki Yayoi (BBCS)
+slug: Tsubaki_Yayoi_(BBCS)
+id: 294
+author: Yolsgens
+---
+
 # Tsubaki Yayoi (BBCS)
 
-Original author: Yolsgens.
+.
 
 <figure>
 <img src="/images/Bbcs_tsubaki_artwork_01.png"

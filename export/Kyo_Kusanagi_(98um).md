@@ -1,6 +1,13 @@
+---
+title: Kyo Kusanagi (98um)
+slug: Kyo_Kusanagi_(98um)
+id: 205
+author: Corbeau Bleu
+---
+
 # Kyo Kusanagi (98um)
 
-Original author: Corbeau Bleu.
+.
 
 ## Introduction
 

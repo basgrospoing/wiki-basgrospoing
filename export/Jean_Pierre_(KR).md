@@ -1,6 +1,13 @@
+---
+title: Jean Pierre (KR)
+slug: Jean_Pierre_(KR)
+id: 385
+author: Zarghatt
+---
+
 # Jean Pierre (KR)
 
-Original author: Zarghatt.
+.
 
 ## Généralités
 

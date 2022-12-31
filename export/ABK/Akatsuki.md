@@ -1,6 +1,13 @@
+---
+title: ABK/Akatsuki
+slug: ABK/Akatsuki
+id: 2262
+author: Kabai
+---
+
 # ABK/Akatsuki
 
-Original author: Kabai.
+.
 
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")
 

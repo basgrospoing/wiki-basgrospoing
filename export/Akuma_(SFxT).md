@@ -1,6 +1,13 @@
+---
+title: Akuma (SFxT)
+slug: Akuma_(SFxT)
+id: 2163
+author: Hynkel
+---
+
 # Akuma (SFxT)
 
-Original author: Hynkel.
+.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

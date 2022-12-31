@@ -1,6 +1,13 @@
+---
+title: Kim Kaphawn (kof13)
+slug: Kim_Kaphawn_(kof13)
+id: 1139
+author: Sharnt
+---
+
 # Kim Kaphawn (kof13)
 
-Original author: Sharnt.
+.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
