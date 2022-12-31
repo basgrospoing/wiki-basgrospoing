@@ -190,7 +190,7 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    content = "=" + entry["text"] + "=\n\n" + entry["content"].replace('\n-\n', '-')
+    content = "=" + entry["text"] + "=\n\n" + "Original author: " +  entry["author"] + ".\n\n" + entry["content"].replace('\n-\n', '-')
     print(entry["src"])
     md = pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
