@@ -1,6 +1,8 @@
+# Urien (3S)
+
 ![Character Select
-Portrait](Urien3sport.gif "Character Select Portrait") ![Neutral
-Stance](Urien3s-stance.gif "Neutral Stance")
+Portrait](/images/Urien3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Urien3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -12,50 +14,52 @@ Stance](Urien3s-stance.gif "Neutral Stance")
 
 ## Couleurs
 
-|                                |                                |                                |                                |                                |                                |                                                              |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")           | ![](MP.png "MP.png")           | ![](HP.png "HP.png")           | ![](LK.png "LK.png")           | ![](MK.png "MK.png")           | ![](HK.png "HK.png")           | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Urienlp.gif "Urienlp.gif") | ![](Urienmp.gif "Urienmp.gif") | ![](Urienhp.gif "Urienhp.gif") | ![](Urienlk.gif "Urienlk.gif") | ![](Urienmk.gif "Urienmk.gif") | ![](Urienhk.gif "Urienhk.gif") | ![](Urienlpmkhp.gif "Urienlpmkhp.gif")                       |
-|                                |                                |                                |                                |                                |                                |                                                              |
+|                                                |                                                |                                                |                                                |                                                |                                                |                                                                                                              |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")           | ![](/images/MP.png "/images/MP.png")           | ![](/images/HP.png "/images/HP.png")           | ![](/images/LK.png "/images/LK.png")           | ![](/images/MK.png "/images/MK.png")           | ![](/images/HK.png "/images/HK.png")           | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Urienlp.gif "/images/Urienlp.gif") | ![](/images/Urienmp.gif "/images/Urienmp.gif") | ![](/images/Urienhp.gif "/images/Urienhp.gif") | ![](/images/Urienlk.gif "/images/Urienlk.gif") | ![](/images/Urienmk.gif "/images/Urienmk.gif") | ![](/images/Urienhk.gif "/images/Urienhk.gif") | ![](/images/Urienlpmkhp.gif "/images/Urienlpmkhp.gif")                                                       |
+|                                                |                                                |                                                |                                                |                                                |                                                |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|              |                                                                                        |
-|--------------|----------------------------------------------------------------------------------------|
-| Destroy Claw | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                            |
-| Spartan Bomb | ![](F.png "F.png") ou ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|              |                                                                                                                                                        |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Destroy Claw | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                            |
+| Spartan Bomb | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|                |                                           |
-|----------------|-------------------------------------------|
-| Quarrel Punch  | ![](F.png "F.png") + ![](MP.png "MP.png") |
-| Quarrel Kick   | ![](F.png "F.png") + ![](MK.png "MK.png") |
-| Terrible Smash | ![](F.png "F.png") + ![](HP.png "HP.png") |
+|                |                                                                           |
+|----------------|---------------------------------------------------------------------------|
+| Quarrel Punch  | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
+| Quarrel Kick   | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
+| Terrible Smash | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
 
 ### Target Combos
 
-- ![](F.png "F.png") + ![](MP.png "MP.png") -\> ![](F.png "F.png") +
-  ![](HP.png "HP.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/F.png "/images/F.png") +
+  ![](/images/HP.png "/images/HP.png")
 
 ### Coups Spéciaux
 
-|                    |                                                                              |     |
-|--------------------|------------------------------------------------------------------------------|-----|
-| Chariot Tackle     | ![](B.png "B.png") charge ![](F.png "F.png") + ![](Kick.png "Kick.png")      | EX  |
-| Violence Kneedrop  | ![](D.png "D.png") charge ![](U.png "U.png") + ![](Kick.png "Kick.png")      | EX  |
-| Dangerous Headbutt | ![](D.png "D.png") charge ![](U.png "U.png") + ![](Punch.png "Punch.png")    | EX  |
-| Metallic Sphere    | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") (maintenir pour charger) | EX  |
+|                    |                                                                                                                           |     |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------|-----|
+| Chariot Tackle     | ![](/images/B.png "/images/B.png") charge ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png")   | EX  |
+| Violence Kneedrop  | ![](/images/D.png "/images/D.png") charge ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png")   | EX  |
+| Dangerous Headbutt | ![](/images/D.png "/images/D.png") charge ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") | EX  |
+| Metallic Sphere    | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (maintenir pour charger)              | EX  |
 
 ### Super Arts
 
-|     |                  |                                                                                                              |          |
-|-----|------------------|--------------------------------------------------------------------------------------------------------------|----------|
-| I   | Tyrant Slaughter | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                   | 2 stocks |
-| II  | Temporal Thunder | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                   | 2 stocks |
-| III | Aegis Reflector  | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") ou ![](3xPunch.png "3xPunch.png") | 2 stocks |
+|     |                  |                                                                                                                                                                              |          |
+|-----|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Tyrant Slaughter | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                   | 2 stocks |
+| II  | Temporal Thunder | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                   | 2 stocks |
+| III | Aegis Reflector  | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") ou ![](/images/3xPunch.png "/images/3xPunch.png") | 2 stocks |
 
 ## Stratégie
 

@@ -1,4 +1,6 @@
-![](Street_Fighter_Alpha_3_Logo.png "Street_Fighter_Alpha_3_Logo.png")
+# Street Fighter Alpha 3
+
+![](/images/Street_Fighter_Alpha_3_Logo.png "/images/Street_Fighter_Alpha_3_Logo.png")
 
 ## Introduction
 
@@ -32,30 +34,35 @@ l'interopérabilité des discussions entre joueurs de deux langues
 différentes. Pour faciliter la lecture des wikis en général, apprendre
 ces notations est conseillé.
 
-- ![](F.png "F.png") - Forward/Avant - Pencher le stick vers
-  l'avant/vers l'adversaire. (axe-X)
-- ![](B.png "B.png") - Back/Arrière - Pencher le stick vers l'arrière/à
-  l'opposé de l'adversaire. (axe-X)
-- ![](U.png "U.png") - Up/Haut - Pencher le stick vers le haut. (axe-Y)
-- ![](D.png "D.png") - Down/Bas - Pencher le stick vers le bas. (axe-Y)
-- ![](qcf.png "qcf.png") - Quarter circle forward/Quart de Cercle vers
-  l'Avant - Pencher le stick vers le bas, puis vers le bas et l'avant,
-  puis vers l'avant. Communément utilisé pour les projectiles.
-- ![](qcb.png "qcb.png") - Quarter circle backward/Quart de Cercle
-  Arrière - Pencher le stick vers le bas, puis vers le bas et l'arrière,
+- ![](/images/F.png "/images/F.png") - Forward/Avant - Pencher le stick
+  vers l'avant/vers l'adversaire. (axe-X)
+- ![](/images/B.png "/images/B.png") - Back/Arrière - Pencher le stick
+  vers l'arrière/à l'opposé de l'adversaire. (axe-X)
+- ![](/images/U.png "/images/U.png") - Up/Haut - Pencher le stick vers
+  le haut. (axe-Y)
+- ![](/images/D.png "/images/D.png") - Down/Bas - Pencher le stick vers
+  le bas. (axe-Y)
+- ![](/images/qcf.png "/images/qcf.png") - Quarter circle forward/Quart
+  de Cercle vers l'Avant - Pencher le stick vers le bas, puis vers le
+  bas et l'avant, puis vers l'avant. Communément utilisé pour les
+  projectiles.
+- ![](/images/qcb.png "/images/qcb.png") - Quarter circle backward/Quart
+  de Cercle Arrière - Pencher le stick vers le bas, puis vers le bas et
+  l'arrière, puis vers l'arrière.
+- ![](/images/hcf.png "/images/hcf.png") - Half circle forward/Demi-tour
+  Avant - Pencher le stick vers l'arrière, puis vers l'arrière et le
+  bas, puis vers le bas, puis vers le bas et l'avant, puis vers l'avant.
+- ![](/images/hcb.png "/images/hcb.png") - Half circle
+  backward/Demi-Tour Arrière - Pencher le stick vers l'avant, puis vers
+  l'avant et le bas, puis vers le bas, puis vers le bas et l'arrière,
   puis vers l'arrière.
-- ![](hcf.png "hcf.png") - Half circle forward/Demi-tour Avant - Pencher
-  le stick vers l'arrière, puis vers l'arrière et le bas, puis vers le
-  bas, puis vers le bas et l'avant, puis vers l'avant.
-- ![](hcb.png "hcb.png") - Half circle backward/Demi-Tour Arrière -
-  Pencher le stick vers l'avant, puis vers l'avant et le bas, puis vers
-  le bas, puis vers le bas et l'arrière, puis vers l'arrière.
-- ![](dp.png "dp.png") - Dragon punch/Shoryuken - Pencher le stick vers
-  l'avant, puis vers le bas, puis vers le bas et l'avant.
-- ![](360.png "360.png")/FC - Full circle/Tour Complet - Faire une
-  rotation complète du stick (360°)
-- ![](360.png "360.png")![](360.png "360.png")720 - Faire deux rotations
-  complètes du stick (720°)
+- ![](/images/dp.png "/images/dp.png") - Dragon punch/Shoryuken -
+  Pencher le stick vers l'avant, puis vers le bas, puis vers le bas et
+  l'avant.
+- ![](/images/360.png "/images/360.png")/FC - Full circle/Tour Complet -
+  Faire une rotation complète du stick (360°)
+- ![](/images/360.png "/images/360.png")![](/images/360.png "/images/360.png")720 -
+  Faire deux rotations complètes du stick (720°)
 - Charge - Pencher le stick vers l'arrière, puis pencher le stick vers
   l'avant (les directions peuvent changer en fonction de la manipulation
   de la charge)
@@ -70,17 +77,22 @@ l'axe-X et vice-versa.
 Exprimées comme telles : Notation - Mouvement - (Bouton par défaut sur
 Xbox) - (Boutons par défaut sur PS2)
 
-- ![](LP.png "LP.png") - Light Punch/Petit Poing - (X) - (Carré)
-- ![](MP.png "MP.png") - Medium Punch/Moyen Poing - (Y) - (Triangle)
-- ![](HP.png "HP.png") - Heavy Punch/Gros Poing - (Gachette
-  Droite/Blanche) - (R1)
-- ![](Punch.png "Punch.png") - Any punch/N'importe quel Poing -
-  (X/Y/Gachette Droite/Blanche) - (Carré/Triangle/R1)
-- ![](LK.png "LK.png") - Light Kick/ Petit Pied - (A) - (X)
-- ![](MK.png "MK.png") - Medium Kick/Moyen Pied - (B) - (Rond)
-- ![](HK.png "HK.png") - Heavy Kick/Gros Pied - (Gachette Gauche/Noir) -
-  (R2)
-- ![](Kick.png "Kick.png") = Any kick/N'importe quel Pied -
+- ![](/images/LP.png "/images/LP.png") - Light Punch/Petit Poing - (X) -
+  (Carré)
+- ![](/images/MP.png "/images/MP.png") - Medium Punch/Moyen
+  Poing - (Y) - (Triangle)
+- ![](/images/HP.png "/images/HP.png") - Heavy Punch/Gros Poing -
+  (Gachette Droite/Blanche) - (R1)
+- ![](/images/Punch.png "/images/Punch.png") - Any punch/N'importe quel
+  Poing - (X/Y/Gachette Droite/Blanche) - (Carré/Triangle/R1)
+- ![](/images/LK.png "/images/LK.png") - Light Kick/ Petit Pied - (A) -
+  (X)
+- ![](/images/MK.png "/images/MK.png") - Medium Kick/Moyen Pied - (B) -
+  (Rond)
+- ![](/images/HK.png "/images/HK.png") - Heavy Kick/Gros Pied -
+  (Gachette Gauche/Noir) - (R2)
+- ![](/images/Kick.png "/images/Kick.png") = Any kick/N'importe quel
+  Pied -
 
 ## Mécaniques de jeu
 
@@ -94,27 +106,29 @@ coups normaux et les Super ne peuvent être gardés.
 
 Il existe 3 manières de se rétablir dans les airs à savoir :
 
-\- presser ![](2xPunch.png "2xPunch.png") pour se rétablir rapidement
-sur ses pieds et se retrouver prés de l'endroit où le personnage a été
-touché
+\- presser ![](/images/2xPunch.png "/images/2xPunch.png") pour se
+rétablir rapidement sur ses pieds et se retrouver prés de l'endroit où
+le personnage a été touché
 
-\- presser ![](B.png "B.png") + ![](2xPunch.png "2xPunch.png") pour se
-rétablir en s'éloignant de votre adversaire.
+\- presser ![](/images/B.png "/images/B.png") +
+![](/images/2xPunch.png "/images/2xPunch.png") pour se rétablir en
+s'éloignant de votre adversaire.
 
-\- presser ![](F.png "F.png") + ![](2xPunch.png "2xPunch.png") pour se
-rétablir en conservant un maximum la trajectoire.
+\- presser ![](/images/F.png "/images/F.png") +
+![](/images/2xPunch.png "/images/2xPunch.png") pour se rétablir en
+conservant un maximum la trajectoire.
 
 ### Ground Recovery
 
 Lorsqu'un personnage est touché dans les airs il lui est possible
 d'effectuer une roulade lorsqu'il touche le sol.
 
-\- Presser ![](2xKick.png "2xKick.png") pour effectuer une roulade qui
-fera s'approcher votre personnage de votre adversaire
+\- Presser ![](/images/2xKick.png "/images/2xKick.png") pour effectuer
+une roulade qui fera s'approcher votre personnage de votre adversaire
 
-\- Presser ![](B.png "B.png") + ![](2xKick.png "2xKick.png") pour
-effectuer une roulade qui fera passer votre personnage derrière votre
-adversaire
+\- Presser ![](/images/B.png "/images/B.png") +
+![](/images/2xKick.png "/images/2xKick.png") pour effectuer une roulade
+qui fera passer votre personnage derrière votre adversaire
 
 ### Alpha Counter
 
@@ -215,7 +229,7 @@ manipulation suivante: **QCF + taunt**
 
 ### ISMs
 
-- **X-ISM** :![](Gif_X-ISM.gif "Gif_X-ISM.gif")
+- **X-ISM** :![](/images/Gif_X-ISM.gif "/images/Gif_X-ISM.gif")
 
 Pour jouer le personnage à la manière de [Super Street Fighter II
 X](Super_Street_Fighter_II_X "wikilink").
@@ -226,7 +240,7 @@ recovery, de la Taunt (excepté Dan), de l'Alpha Counter et disposera
 d'une barre de garde beaucoup plus grande. La barre se recharge
 lentement
 
-- **A-ISM** :![](Gif_A-ISM.gif "Gif_A-ISM.gif")
+- **A-ISM** :![](/images/Gif_A-ISM.gif "/images/Gif_A-ISM.gif")
 
 A pour Alpha et donc Z-ISM au japon. Le mode par défaut et très
 équilibré du jeu.
@@ -241,7 +255,7 @@ par exemple. La barre se recharge normalement
 Certains personnages possèdent une Super disponible seulement en A-ISM
 et seulement au niveau 3, notamment le *Shippuujinrai Kyaku* de Ken.
 
-- **V-ISM** :![](Gif_V-ISM.gif "Gif_V-ISM.gif")
+- **V-ISM** :![](/images/Gif_V-ISM.gif "/images/Gif_V-ISM.gif")
 
 Pour effectuer des combos personnalisés et dévastateurs.
 
@@ -347,12 +361,12 @@ des couleurs et leurs codes de déverrouillage est la suivante:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><font color="#FDF1B8"><b>Crème</b></font></p></td>
+<td><p><font color="#FDF1B8"><b>Crème</b></p></td>
 <td><p>aucun</p></td>
 <td><p>Système par défaut</p></td>
 </tr>
 <tr class="even">
-<td><p><font color="#FF0000"><b>Rouge clair</b></font></p></td>
+<td><p><font color="#FF0000"><b>Rouge clair</b></p></td>
 <td><p>Balrog, Juni, and Juli peuvent être sélectionnés</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -360,7 +374,7 @@ suivante:<br />
 Un message 'HERE COME NEW CHALLENGERS' devrait apparaître.</p></td>
 </tr>
 <tr class="odd">
-<td><p><font color="#00FF00"><b>Vert clair</b></font></p></td>
+<td><p><font color="#00FF00"><b>Vert clair</b></p></td>
 <td><p>Classic Mode</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -368,7 +382,7 @@ suivante:<br />
 Un message 'TRADITIONAL FIGHT BEGINS' devrait apparaître.</p></td>
 </tr>
 <tr class="even">
-<td><p><font color="#A10684"><b>Violet clair</b></font></p></td>
+<td><p><font color="#A10684"><b>Violet clair</b></p></td>
 <td><p>Mazi Mode et Saikyou Mode</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -377,7 +391,7 @@ suivante:<br />
 Un message 'ENJOY NEW FIGHTING STYLE' devrait apparaître.</p></td>
 </tr>
 <tr class="odd">
-<td><p><font color="#318CE7"><b>Bleu clair</b></font></p></td>
+<td><p><font color="#318CE7"><b>Bleu clair</b></p></td>
 <td><p>Les 3 modes de jeu peuvent être sélectionnés.</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -469,103 +483,103 @@ Sélection du Joueur. Ensuite, choisissez votre personnage.
 |                                                                   |                                                                       |                                                                       |                                                                          |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------|
 |                                                                   |                                                                       |                                                                       | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_MBison.png"                                       
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_MBison.png"                               
                                                                                                                                                                                                                      title="M. Bison|link=M. Bison (Street Fighter Alpha 3)" width="42"        
                                                                                                                                                                                                                      alt="M. Bison|link=M. Bison (Street Fighter Alpha 3)" />                  
                                                                                                                                                                                                                      <figcaption aria-hidden="true">M. Bison|link=M. Bison (Street Fighter     
                                                                                                                                                                                                                      Alpha 3)</figcaption>                                                     
                                                                                                                                                                                                                      </figure>                                                                 |
 |                                                                   |                                                                       | <figure>                                                              
-                                                                                                                                             <img src="Portrait_SFA3_Charlie.png"                                   
+                                                                                                                                             <img src="/images/Portrait_SFA3_Charlie.png"                           
                                                                                                                                              title="Nash|link=Nash (Street Fighter Alpha 3)" width="42"             
                                                                                                                                              alt="Nash|link=Nash (Street Fighter Alpha 3)" />                       
                                                                                                                                              <figcaption aria-hidden="true">Nash|link=Nash (Street Fighter Alpha    
                                                                                                                                              3)</figcaption>                                                        
                                                                                                                                              </figure>                                                              | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_ChunLi.png"                                       
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_ChunLi.png"                               
                                                                                                                                                                                                                      title="Chun-Li|link=ChunLi (Street Fighter Alpha 3)" width="42"           
                                                                                                                                                                                                                      alt="Chun-Li|link=ChunLi (Street Fighter Alpha 3)" />                     
                                                                                                                                                                                                                      <figcaption aria-hidden="true">Chun-Li|link=ChunLi (Street Fighter Alpha  
                                                                                                                                                                                                                      3)</figcaption>                                                           
                                                                                                                                                                                                                      </figure>                                                                 |
 |                                                                   | <figure>                                                              
-                                                                     <img src="Portrait_SFA3_Dan.png"                                       
+                                                                     <img src="/images/Portrait_SFA3_Dan.png"                               
                                                                      title="Dan|link=Dan (Street Fighter Alpha 3)" width="42"               
                                                                      alt="Dan|link=Dan (Street Fighter Alpha 3)" />                         
                                                                      <figcaption aria-hidden="true">Dan|link=Dan (Street Fighter Alpha      
                                                                      3)</figcaption>                                                        
                                                                      </figure>                                                              | <figure>                                                              
-                                                                                                                                             <img src="Portrait_SFA3_Guy.png"                                       
+                                                                                                                                             <img src="/images/Portrait_SFA3_Guy.png"                               
                                                                                                                                              title="Guy|link=Guy (Street Fighter Alpha 3)" width="42"               
                                                                                                                                              alt="Guy|link=Guy (Street Fighter Alpha 3)" />                         
                                                                                                                                              <figcaption aria-hidden="true">Guy|link=Guy (Street Fighter Alpha      
                                                                                                                                              3)</figcaption>                                                        
                                                                                                                                              </figure>                                                              | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_RMika.png"                                        
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_RMika.png"                                
                                                                                                                                                                                                                      title="R. Mika|link=R. Mika (Street Fighter Alpha 3)" width="42"          
                                                                                                                                                                                                                      alt="R. Mika|link=R. Mika (Street Fighter Alpha 3)" />                    
                                                                                                                                                                                                                      <figcaption aria-hidden="true">R. Mika|link=R. Mika (Street Fighter       
                                                                                                                                                                                                                      Alpha 3)</figcaption>                                                     
                                                                                                                                                                                                                      </figure>                                                                 |
 | <figure>                                                          
- <img src="Portrait_SFA3_Ryu.png"                                   
+ <img src="/images/Portrait_SFA3_Ryu.png"                           
  title="Ryu|link=Ryu (Street Fighter Alpha 3)" width="42"           
  alt="Ryu|link=Ryu (Street Fighter Alpha 3)" />                     
  <figcaption aria-hidden="true">Ryu|link=Ryu (Street Fighter Alpha  
  3)</figcaption>                                                    
  </figure>                                                          | <figure>                                                              
-                                                                     <img src="Portrait_SFA3_EHonda.png"                                    
+                                                                     <img src="/images/Portrait_SFA3_EHonda.png"                            
                                                                      title="E. Honda|link=E. Honda (Street Fighter Alpha 3)" width="42"     
                                                                      alt="E. Honda|link=E. Honda (Street Fighter Alpha 3)" />               
                                                                      <figcaption aria-hidden="true">E. Honda|link=E. Honda (Street Fighter  
                                                                      Alpha 3)</figcaption>                                                  
                                                                      </figure>                                                              | <figure>                                                              
-                                                                                                                                             <img src="Portrait_SFA3_Cody.png"                                      
+                                                                                                                                             <img src="/images/Portrait_SFA3_Cody.png"                              
                                                                                                                                              title="Cody|link=Cody (Street Fighter Alpha 3)" width="42"             
                                                                                                                                              alt="Cody|link=Cody (Street Fighter Alpha 3)" />                       
                                                                                                                                              <figcaption aria-hidden="true">Cody|link=Cody (Street Fighter Alpha    
                                                                                                                                              3)</figcaption>                                                        
                                                                                                                                              </figure>                                                              | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_Karin.png"                                        
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_Karin.png"                                
                                                                                                                                                                                                                      title="Karin|link=Karin (Street Fighter Alpha 3)" width="42"              
                                                                                                                                                                                                                      alt="Karin|link=Karin (Street Fighter Alpha 3)" />                        
                                                                                                                                                                                                                      <figcaption aria-hidden="true">Karin|link=Karin (Street Fighter Alpha     
                                                                                                                                                                                                                      3)</figcaption>                                                           
                                                                                                                                                                                                                      </figure>                                                                 |
 |                                                                   | <figure>                                                              
-                                                                     <img src="Portrait_SFA3_Dhalsim.png"                                   
+                                                                     <img src="/images/Portrait_SFA3_Dhalsim.png"                           
                                                                      title="Dhalsim|link=Dhalsim (Street Fighter Alpha 3)" width="42"       
                                                                      alt="Dhalsim|link=Dhalsim (Street Fighter Alpha 3)" />                 
                                                                      <figcaption aria-hidden="true">Dhalsim|link=Dhalsim (Street Fighter    
                                                                      Alpha 3)</figcaption>                                                  
                                                                      </figure>                                                              | <figure>                                                              
-                                                                                                                                             <img src="Portrait_SFA3_Sodom.png"                                     
+                                                                                                                                             <img src="/images/Portrait_SFA3_Sodom.png"                             
                                                                                                                                              title="Sodom|link=Sodom (Street Fighter Alpha 3)" width="42"           
                                                                                                                                              alt="Sodom|link=Sodom (Street Fighter Alpha 3)" />                     
                                                                                                                                              <figcaption aria-hidden="true">Sodom|link=Sodom (Street Fighter Alpha  
                                                                                                                                              3)</figcaption>                                                        
                                                                                                                                              </figure>                                                              | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_Cammy.png"                                        
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_Cammy.png"                                
                                                                                                                                                                                                                      title="Cammy|link=Cammy (Street Fighter Alpha 3)" width="42"              
                                                                                                                                                                                                                      alt="Cammy|link=Cammy (Street Fighter Alpha 3)" />                        
                                                                                                                                                                                                                      <figcaption aria-hidden="true">Cammy|link=Cammy (Street Fighter Alpha     
                                                                                                                                                                                                                      3)</figcaption>                                                           
                                                                                                                                                                                                                      </figure>                                                                 |
 |                                                                   |                                                                       | <figure>                                                              
-                                                                                                                                             <img src="Portrait_SFA3_Rolento.png"                                   
+                                                                                                                                             <img src="/images/Portrait_SFA3_Rolento.png"                           
                                                                                                                                              title="Rolento|link=Rolento (Street Fighter Alpha 3)" width="42"       
                                                                                                                                              alt="Rolento|link=Rolento (Street Fighter Alpha 3)" />                 
                                                                                                                                              <figcaption aria-hidden="true">Rolento|link=Rolento (Street Fighter    
                                                                                                                                              Alpha 3)</figcaption>                                                  
                                                                                                                                              </figure>                                                              | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_Sakura.png"                                       
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_Sakura.png"                               
                                                                                                                                                                                                                      title="Sakura|link=Sakura (Street Fighter Alpha 3)" width="42"            
                                                                                                                                                                                                                      alt="Sakura|link=Sakura (Street Fighter Alpha 3)" />                      
                                                                                                                                                                                                                      <figcaption aria-hidden="true">Sakura|link=Sakura (Street Fighter Alpha   
                                                                                                                                                                                                                      3)</figcaption>                                                           
                                                                                                                                                                                                                      </figure>                                                                 |
 |                                                                   |                                                                       |                                                                       | <figure>                                                                 
-                                                                                                                                                                                                                     <img src="Portrait_SFA3_Rose.png"                                         
+                                                                                                                                                                                                                     <img src="/images/Portrait_SFA3_Rose.png"                                 
                                                                                                                                                                                                                      title="Rose|link=Rose (Street Fighter Alpha 3)" width="42"                
                                                                                                                                                                                                                      alt="Rose|link=Rose (Street Fighter Alpha 3)" />                          
                                                                                                                                                                                                                      <figcaption aria-hidden="true">Rose|link=Rose (Street Fighter Alpha       

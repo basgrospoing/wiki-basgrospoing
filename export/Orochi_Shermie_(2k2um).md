@@ -1,3 +1,5 @@
+# Orochi Shermie (2k2um)
+
 ## Introduction
 
 ## Liste des coups

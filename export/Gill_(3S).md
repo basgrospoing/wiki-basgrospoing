@@ -1,5 +1,8 @@
-![Character Select Portrait](Gill.gif "Character Select Portrait")
-![Neutral Stance](Gill-stance.gif "Neutral Stance")
+# Gill (3S)
+
+![Character Select
+Portrait](/images/Gill.gif "Character Select Portrait") ![Neutral
+Stance](/images/Gill-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -10,47 +13,51 @@
 
 ## Couleurs
 
-|                                    |                                  |
-|------------------------------------|----------------------------------|
-| ![](Punch.png "Punch.png")         | ![](Kick.png "Kick.png")         |
-| ![](Gillpunch.gif "Gillpunch.gif") | ![](Gillkick.gif "Gillkick.gif") |
-|                                    |                                  |
+|                                                    |                                                  |
+|----------------------------------------------------|--------------------------------------------------|
+| ![](/images/Punch.png "/images/Punch.png")         | ![](/images/Kick.png "/images/Kick.png")         |
+| ![](/images/Gillpunch.gif "/images/Gillpunch.gif") | ![](/images/Gillkick.gif "/images/Gillkick.gif") |
+|                                                    |                                                  |
 
 ## Liste des coups
 
 ### Chopes
 
-|             |                                                                                        |
-|-------------|----------------------------------------------------------------------------------------|
-| Impact Claw | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                            |
-| Guilty Bomb | ![](F.png "F.png") ou ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|             |                                                                                                                                                        |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Impact Claw | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                            |
+| Guilty Bomb | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|            |                                           |
-|------------|-------------------------------------------|
-| Palm Upper | ![](B.png "B.png") + ![](MP.png "MP.png") |
-| Step Kick  | ![](F.png "F.png") + ![](MK.png "MK.png") |
+|            |                                                                           |
+|------------|---------------------------------------------------------------------------|
+| Palm Upper | ![](/images/B.png "/images/B.png") + ![](/images/MP.png "/images/MP.png") |
+| Step Kick  | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
 
 ### Target Combos
 
-- ![](LP.png "LP.png") -\> ![](MP.png "MP.png")
-- ![](LK.png "LK.png") -\> ![](MK.png "MK.png")
-- ![](LP.png "LP.png") -\> ![](D.png "D.png") + ![](MP.png "MP.png")
+- ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/MP.png "/images/MP.png")
+- ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MK.png "/images/MK.png")
+- ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/D.png "/images/D.png") +
+  ![](/images/MP.png "/images/MP.png")
 
 ### Coups Spéciaux
 
-|                     |                                                     |
-|---------------------|-----------------------------------------------------|
-| Pyro/Cryo Kenesis   | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
-| Saber Lariat        | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")   |
-| Psycho Head Butt    | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") |
-| Moonsault Knee Drop | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")   |
+|                     |                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------|
+| Pyro/Cryo Kenesis   | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+| Saber Lariat        | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")   |
+| Psycho Head Butt    | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
+| Moonsault Knee Drop | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")   |
 
 ### Super Arts
 
-|     |               |                                                                            |
-|-----|---------------|----------------------------------------------------------------------------|
-| I   | Resurrection  | activer automatiquement lors du K.O                                        |
-| II  | Meteor Shower | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
-| III | Seraphic Wing | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")   |
+|     |               |                                                                                                                            |
+|-----|---------------|----------------------------------------------------------------------------------------------------------------------------|
+| I   | Resurrection  | activer automatiquement lors du K.O                                                                                        |
+| II  | Meteor Shower | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+| III | Seraphic Wing | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")   |

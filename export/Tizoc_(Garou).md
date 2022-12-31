@@ -1,3 +1,5 @@
+# Tizoc (Garou)
+
 ## Introduction
 
 ## Moves List
@@ -47,58 +49,58 @@
 
 ### Rock Howard
 
-![](Rock.png‎ "Rock.png‎")
+![](/images/Rock.png‎ "/images/Rock.png‎")
 
 ### Kim Donw Hwan
 
-![](Donghwan.png‎ "Donghwan.png‎")
+![](/images/Donghwan.png‎ "/images/Donghwan.png‎")
 
 ### Hotaru Futaba
 
-![](Hotaru.png‎ "Hotaru.png‎")
+![](/images/Hotaru.png‎ "/images/Hotaru.png‎")
 
 ### Marco Rodriguez
 
-![](Khushnood.png‎ "Khushnood.png‎")
+![](/images/Khushnood.png‎ "/images/Khushnood.png‎")
 
 ### Hokutomaru
 
-![](Hokutomaru.png "Hokutomaru.png")
+![](/images/Hokutomaru.png "/images/Hokutomaru.png")
 
 ### Kevin
 
-![](Kevin.png‎ "Kevin.png‎")
+![](/images/Kevin.png‎ "/images/Kevin.png‎")
 
 ### Freeman
 
-![](Freeman.png‎ "Freeman.png‎")
+![](/images/Freeman.png‎ "/images/Freeman.png‎")
 
 ### Tizoc
 
-![](Tizoc.png‎ "Tizoc.png‎")
+![](/images/Tizoc.png‎ "/images/Tizoc.png‎")
 
 ### B.Jenet
 
-![](Bjenet.png‎ "Bjenet.png‎")
+![](/images/Bjenet.png‎ "/images/Bjenet.png‎")
 
 ### Gato
 
-![](Gato.png‎ "Gato.png‎")
+![](/images/Gato.png‎ "/images/Gato.png‎")
 
 ### Jaehoon
 
-![](Jaehoon.png‎ "Jaehoon.png‎")
+![](/images/Jaehoon.png‎ "/images/Jaehoon.png‎")
 
 ### Terry Bogard
 
-![](Garou-terry.png‎ "Garou-terry.png‎")
+![](/images/Garou-terry.png‎ "/images/Garou-terry.png‎")
 
 ### Grant
 
-![](vignette.png "vignette.png")
+![](/images/vignette.png "/images/vignette.png")
 
 ### Kain.R.Heilein
 
-![](Kain.png‎ "Kain.png‎")
+![](/images/Kain.png‎ "/images/Kain.png‎")
 
 ## Divers

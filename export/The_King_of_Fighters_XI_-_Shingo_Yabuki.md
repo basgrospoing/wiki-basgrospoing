@@ -1,4 +1,6 @@
-![](kofxi-shingo-yabuki.jpg "kofxi-shingo-yabuki.jpg")
+# The King of Fighters XI - Shingo Yabuki
+
+![](/images/kofxi-shingo-yabuki.jpg "/images/kofxi-shingo-yabuki.jpg")
 
 ## Introduction
 

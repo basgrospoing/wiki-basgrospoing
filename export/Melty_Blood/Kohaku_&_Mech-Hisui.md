@@ -1,5 +1,7 @@
-[ **Team:**   Kohaku & Mech Hisui
-\|frame\|right](image:Kohamech1.png "wikilink")
+# Melty Blood/Kohaku & Mech-Hisui
+
+![ **Team:**   Kohaku & Mech Hisui
+\|frame\|right](/images/Kohamech1.png " Team:   Kohaku & Mech Hisui |frame|right")
 
 # Introduction
 
@@ -23,7 +25,7 @@ Le god-tier absolue du jeu, d'après Aryth-sensei.
 
 # Palettes
 
-![](Kohamech-colors.png "Kohamech-colors.png")
+![](/images/Kohamech-colors.png "/images/Kohamech-colors.png")
 
 # Liste de joueurs
 

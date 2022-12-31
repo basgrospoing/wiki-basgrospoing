@@ -1,4 +1,6 @@
-![](kofxi-benimaru-nikaido.jpg "kofxi-benimaru-nikaido.jpg")
+# The King of Fighters XI - Benimaru Nikaido
+
+![](/images/kofxi-benimaru-nikaido.jpg "/images/kofxi-benimaru-nikaido.jpg")
 
 ## Introduction
 

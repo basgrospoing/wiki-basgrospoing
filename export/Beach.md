@@ -1,6 +1,9 @@
+# Beach
+
 <figure>
-<img src="_beach.png" title="_beach.png" width="250" alt="_beach.png" />
-<figcaption aria-hidden="true">_beach.png</figcaption>
+<img src="/images/_beach.png" title="/images/_beach.png" width="250"
+alt="/images/_beach.png" />
+<figcaption aria-hidden="true">/images/_beach.png</figcaption>
 </figure>
 
 ## Généralités

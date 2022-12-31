@@ -1,4 +1,10 @@
-[thumb\|400px\|right\|Logo](image:Soulcalibur5_Logo.png "wikilink")
+# Soulcalibur 5
+
+<figure>
+<img src="/images/Soulcalibur5_Logo.png" title="Logo" width="400"
+alt="Logo" />
+<figcaption aria-hidden="true">Logo</figcaption>
+</figure>
 
 Article en construction, soyez tendres...
 

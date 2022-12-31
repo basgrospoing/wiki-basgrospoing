@@ -1,3 +1,5 @@
+# E. Honda (2X)
+
 ## Introduction
 
 E.Honda est un personnage que l'on peut considérer comme facile à manier

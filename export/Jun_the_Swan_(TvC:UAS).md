@@ -1,5 +1,7 @@
-<img src="Juntheswan.jpg" title="Juntheswan.jpg" width="300"
-alt="Juntheswan.jpg" />  
+# Jun the Swan (TvC:UAS)
+
+<img src="/images/Juntheswan.jpg" title="/images/Juntheswan.jpg"
+width="300" alt="/images/Juntheswan.jpg" />  
 
 # Introduction
 

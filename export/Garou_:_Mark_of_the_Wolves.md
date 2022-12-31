@@ -1,4 +1,6 @@
-![](Garou-jaquette.jpg "Garou-jaquette.jpg")
+# Garou : Mark of the Wolves
+
+![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")
 
 ## Introduction
 
@@ -120,7 +122,7 @@ l'axe-X et vice-versa.
 
 ### Description de l'écran de jeu
 
-![](HUD.png "HUD.png")
+![](/images/HUD.png "/images/HUD.png")
 
 ### T.O.P.
 
@@ -529,7 +531,7 @@ Hwan, Hotaru, Hokutomaru, B. Jenet.
 ### Tier-list et Matchup Chart
 
 *NB: Tier-list de 2007 de la Howard Arena*  
-![](Garou-chart.png "Garou-chart.png")
+![](/images/Garou-chart.png "/images/Garou-chart.png")
 
 ### Tier-list actualisée
 
@@ -567,25 +569,30 @@ Bottom Tier
 
 ## Personnages
 
-- ![](00%.gif‎ "00%.gif‎")[Rock Howard](Rock_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Kim Dong
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Rock
+  Howard](Rock_(Garou) "wikilink")
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Kim Dong
   Hwan](Kim_Dong_Hwan_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Hotaru
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Hotaru
   Futaba](Hotaru_Futaba_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Kushnood Butt (Marco
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Kushnood Butt (Marco
   Rodriguez)](Marco_Rodriguez_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Hokutomaru](Hokutomaru_(Garou) "wikilink")
-- ![](20%.gif‎ "20%.gif‎")[Kevin Rian](Kevin_Rian_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Freeman](Freeman_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Tizoc (The Griffon
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Hokutomaru](Hokutomaru_(Garou) "wikilink")
+- ![](/images/20%.gif‎ "/images/20%.gif‎")[Kevin
+  Rian](Kevin_Rian_(Garou) "wikilink")
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Freeman](Freeman_(Garou) "wikilink")
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Tizoc (The Griffon
   Mask)](Tizoc_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[B. Jenet](B._Jenet_(Garou) "wikilink")
-- ![](100%.gif‎ "100%.gif‎")[Gato](Gato_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Kim Jae Hoon](Kim_Jae_Hoon_(Garou) "wikilink")
-- ![](00%.gif‎ "00%.gif‎")[Terry Bogard](Terry_Bogard_(Garou) "wikilink")
-- ![](50%.gif‎ "50%.gif‎")[Kain R.
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[B.
+  Jenet](B._Jenet_(Garou) "wikilink")
+- ![](/images/100%.gif‎ "/images/100%.gif‎")[Gato](Gato_(Garou) "wikilink")
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Kim Jae
+  Hoon](Kim_Jae_Hoon_(Garou) "wikilink")
+- ![](/images/00%.gif‎ "/images/00%.gif‎")[Terry
+  Bogard](Terry_Bogard_(Garou) "wikilink")
+- ![](/images/50%.gif‎ "/images/50%.gif‎")[Kain R.
   Heinlein](Kain_R._Heinlein_(Garou) "wikilink")
-- ![](20%.gif‎ "20%.gif‎")[Grant](Grant_(Garou) "wikilink")
+- ![](/images/20%.gif‎ "/images/20%.gif‎")[Grant](Grant_(Garou) "wikilink")
 
 Note: Les noms entre parenthèses sont les noms japonais.
 

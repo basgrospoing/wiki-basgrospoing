@@ -1,4 +1,6 @@
-![](ss4-Ukyo.gif "ss4-Ukyo.gif")
+# Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)
+
+![](/images/ss4-Ukyo.gif "/images/ss4-Ukyo.gif")
 
 ## Introduction
 

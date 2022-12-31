@@ -1,4 +1,6 @@
-![](abk_main.png "abk_main.png")
+# Akatsuki Blitzkampf
+
+![](/images/abk_main.png "/images/abk_main.png")
 
 *Akatsuki Blitzkampf* est un jeu de combat 2D développé par [SUBTLE
 STYLE](http://subtlestyle.net/) disponible sur PC depuis 2007. Le

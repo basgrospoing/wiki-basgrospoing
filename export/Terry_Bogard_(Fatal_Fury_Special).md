@@ -1,4 +1,6 @@
-![](Ffspterry.PNG)  
+# Terry Bogard (Fatal Fury Special)
+
+![](/images/Ffspterry.PNG)  
 
 ## Introduction
 

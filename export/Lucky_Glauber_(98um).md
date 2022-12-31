@@ -1,3 +1,5 @@
+# Lucky Glauber (98um)
+
 ## Introduction
 
 ## Liste des coups

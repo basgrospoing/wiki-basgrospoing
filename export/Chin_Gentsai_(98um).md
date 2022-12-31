@@ -1,3 +1,5 @@
+# Chin Gentsai (98um)
+
 ## Introduction
 
 ## Liste des coups

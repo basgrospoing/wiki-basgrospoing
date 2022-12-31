@@ -1,4 +1,6 @@
-![](Ffsplaurence.PNG)  
+# Laurence Blood (Fatal Fury Special)
+
+![](/images/Ffsplaurence.PNG)  
 
 ## Introduction
 

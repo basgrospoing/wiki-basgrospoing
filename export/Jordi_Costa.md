@@ -1,7 +1,9 @@
+# Jordi Costa
+
 <figure>
-<img src="Jordi_costa.png" title="Jordi_costa.png" width="300"
-alt="Jordi_costa.png" />
-<figcaption aria-hidden="true">Jordi_costa.png</figcaption>
+<img src="/images/Jordi_costa.png" title="/images/Jordi_costa.png"
+width="300" alt="/images/Jordi_costa.png" />
+<figcaption aria-hidden="true">/images/Jordi_costa.png</figcaption>
 </figure>
 
 ## Caractéristiques et analyse

@@ -1,3 +1,5 @@
+# Frank West (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,8 @@
 
 ## Frank West
 
-![](Umvc3_frankwest_face.jpg‎ "Umvc3_frankwest_face.jpg‎") TBW
+![](/images/Umvc3_frankwest_face.jpg‎ "/images/Umvc3_frankwest_face.jpg‎")
+TBW
 
 **In a nutshell** Frank West is a unique character that was built for
 supporting teams. He starts out weak, but by utilizing his snapshot

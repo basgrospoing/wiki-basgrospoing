@@ -1,3 +1,5 @@
+# Attaque
+
 ## Introduction
 
 L'offensive est composée de nombreux éléments dans Windjammers. On
@@ -25,8 +27,9 @@ personnage fait un léger mouvement du bras, comme pour frapper le
 disque. Celui-ci s'élève et indique alors sa retombée par une cible.
 
 <figure>
-<img src="Toss.jpg" title="Toss.jpg" width="250" alt="Toss.jpg" />
-<figcaption aria-hidden="true">Toss.jpg</figcaption>
+<img src="/images/Toss.jpg" title="/images/Toss.jpg" width="250"
+alt="/images/Toss.jpg" />
+<figcaption aria-hidden="true">/images/Toss.jpg</figcaption>
 </figure>
 
 Plus le toss est effectué près de la réception du disque, plus la cible
@@ -63,8 +66,8 @@ certainement le moins efficace du jeu. Le normal suivant, touchant
 environ au milieu du terrain en diagonale, peut être très utile sur des
 terrains larges. Enfin, le tir diagonal touchant juste avant le but sur
 l'image, est sans doute le plus utilisé, sur tout type de surfaces.  
-<img src="Normaux.jpg" title="Normaux.jpg" width="250"
-alt="Normaux.jpg" />
+<img src="/images/Normaux.jpg" title="/images/Normaux.jpg" width="250"
+alt="/images/Normaux.jpg" />
 
 Il faut aussi noter que les normaux suivent une trajectoire symétrique
 (comparable à une réflexion de miroir), une fois un mur touché.  
@@ -102,8 +105,8 @@ davantage. Il semble néanmoins que les personnages à forte dextérité ont
 plus de facilité à sortir des tirs rapides. Une traînée caractéristique
 (bien visible sur l'image) accompagne un effet sonore pour indiquer un
 tir rapide.  
-<img src="tir_rapide.jpg" title="tir_rapide.jpg" width="250"
-alt="tir_rapide.jpg" />
+<img src="/images/tir_rapide.jpg" title="/images/tir_rapide.jpg"
+width="250" alt="/images/tir_rapide.jpg" />
 
 Il est possible de lancer un tel tir n'importe quand dans le jeu, et
 donc dès l'engagement. Ceci étant, il semble paradoxalement plus facile
@@ -136,9 +139,9 @@ cette limite va déterminer l'emplacement du disque sur le camp adverse :
 plus on attend, plus le tir sera proche du filet.
 
 <figure>
-<img src="lob_près.jpg" title="lob_près.jpg" width="250"
-alt="lob_près.jpg" />
-<figcaption aria-hidden="true">lob_près.jpg</figcaption>
+<img src="/images/lob_près.jpg" title="/images/lob_près.jpg" width="250"
+alt="/images/lob_près.jpg" />
+<figcaption aria-hidden="true">/images/lob_près.jpg</figcaption>
 </figure>
 
 A l'inverse, plus on réagit vite, plus le lob sera lointain, avant les
@@ -146,9 +149,9 @@ buts adverses. Sur l'image, la cible montre justement l'emplacement le
 plus éloigné possible que l'on peut atteindre avec un lob.
 
 <figure>
-<img src="lob_lointain.jpg" title="lob_lointain.jpg" width="250"
-alt="lob_lointain.jpg" />
-<figcaption aria-hidden="true">lob_lointain.jpg</figcaption>
+<img src="/images/lob_lointain.jpg" title="/images/lob_lointain.jpg"
+width="250" alt="/images/lob_lointain.jpg" />
+<figcaption aria-hidden="true">/images/lob_lointain.jpg</figcaption>
 </figure>
 
 ### Effets
@@ -161,8 +164,8 @@ est clairement différente d'un tir normal. Il est peu probable de
 tromper un adversaire avec un tel coup. Lorsque le tir heurte un mur,
 l'effet s'arrête et la course du freesbee reprend comme pour un
 normal.  
-<img src="spin_qcf.jpg" title="spin_qcf.jpg" width="250"
-alt="spin_qcf.jpg" />
+<img src="/images/spin_qcf.jpg" title="/images/spin_qcf.jpg" width="250"
+alt="/images/spin_qcf.jpg" />
 
 **Effet avancé (EA)** : s'effectue en produisant un demi cercle moins le
 dernier input ( exemple : haut, haut/arrière, arrière, bas/arrière).
@@ -175,17 +178,17 @@ avec tous les personnages, cela peut faire marquer d'entrée. La
 trajectoire est en effet moins prononcée que pour l'EB, ce qui fait que
 les murs ont moins tendance à venir changer la course du freesbee en
 normal.  
-<img src="Spin_hcf.jpg" title="Spin_hcf.jpg" width="250"
-alt="Spin_hcf.jpg" />
+<img src="/images/Spin_hcf.jpg" title="/images/Spin_hcf.jpg" width="250"
+alt="/images/Spin_hcf.jpg" />
 
 On peut voir ci-dessous une comparaison faite du même point du terrain
 entre un EB et un EA. La trajectoire dessinée (un EB) ne correspond pas
 à celle du disque sur l'image, qui était justement celle d'un EA.
 
 <figure>
-<img src="Comparaison.jpg" title="Comparaison.jpg" width="250"
-alt="Comparaison.jpg" />
-<figcaption aria-hidden="true">Comparaison.jpg</figcaption>
+<img src="/images/Comparaison.jpg" title="/images/Comparaison.jpg"
+width="250" alt="/images/Comparaison.jpg" />
+<figcaption aria-hidden="true">/images/Comparaison.jpg</figcaption>
 </figure>
 
 Notes (avancées) :  
@@ -206,9 +209,9 @@ heurte le mur haut. Cela est valable avec seulement un effet de coup
 droit comme dans l'image ci-dessous.
 
 <figure>
-<img src="Wessel_effet.jpg" title="Wessel_effet.jpg" width="250"
-alt="Wessel_effet.jpg" />
-<figcaption aria-hidden="true">Wessel_effet.jpg</figcaption>
+<img src="/images/Wessel_effet.jpg" title="/images/Wessel_effet.jpg"
+width="250" alt="/images/Wessel_effet.jpg" />
+<figcaption aria-hidden="true">/images/Wessel_effet.jpg</figcaption>
 </figure>
 
 \- En effet de revers (toujours en cas d'EA), la trajectoire du disque

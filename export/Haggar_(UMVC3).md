@@ -1,3 +1,5 @@
+# Haggar (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,11 +8,12 @@
 
 ## Haggar
 
-![](Umvc3_haggar_face.jpg‎ "Umvc3_haggar_face.jpg‎") Mike Haggar, one time
-professional wrestler and Mayor of Metro City, took up his wrestling
-mantle once more to keep the streets of his fair city clean and to save
-his kidnapped daughter, Jessica. Now known as the "Fighting Mayor",
-Haggar continues a constant battle against the thugs of Mad Gear.
+![](/images/Umvc3_haggar_face.jpg‎ "/images/Umvc3_haggar_face.jpg‎") Mike
+Haggar, one time professional wrestler and Mayor of Metro City, took up
+his wrestling mantle once more to keep the streets of his fair city
+clean and to save his kidnapped daughter, Jessica. Now known as the
+"Fighting Mayor", Haggar continues a constant battle against the thugs
+of Mad Gear.
 
 **In a nutshell** Haggar is a slow, brute of a grappler with some
 damaging tricks. His game-plan revolves around slowly stalking his

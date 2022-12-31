@@ -1,10 +1,12 @@
-[ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
+# Melty Blood/Len
+
+![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
 \<br\\\>\<br\\\> **Voiced by:**   Mizuhashi Kaori (水橋
 かおり)  —  **Type:**    Succubus   —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**   September 9  —  **Sizes:**   63 / 48 /
 61  —  **Height:**   132cm  —  **Weight:**   33kg \<br\\\>\<br\\\> **Eye
 Color:**   Red  —  **Hair Color:**   Light Blue
-\|frame\|right](image:len0.png "wikilink")
+\|frame\|right](/images/len0.png " Name:   Len (レン)  —  Nicknames:    Black Len <br\><br\> Voiced by:   Mizuhashi Kaori (水橋 かおり)  —  Type:    Succubus   —  Gender:   Female <br\><br\> Birthday:   September 9  —  Sizes:   63 / 48 / 61  —  Height:   132cm  —  Weight:   33kg <br\><br\> Eye Color:   Red  —  Hair Color:   Light Blue |frame|right")
 
 # Introduction
 
@@ -44,7 +46,7 @@ permettent en bonus de renvoyer certains projectiles.
 
 # Palettes
 
-![](Len-colors.png "Len-colors.png")
+![](/images/Len-colors.png "/images/Len-colors.png")
 
 # Liste de joueurs
 

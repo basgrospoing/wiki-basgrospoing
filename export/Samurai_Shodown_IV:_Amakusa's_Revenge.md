@@ -1,3 +1,5 @@
+# Samurai Shodown IV: Amakusa's Revenge
+
 Image:ss4-flyer.jpg Image:ss4-flyer2.jpg
 
 ## Introduction
@@ -81,7 +83,7 @@ bonne fois pour toute.
 Le tableau ci-dessous représente les rivalités entre les différents
 personnages.  
 La colonne de droite représente donc le dernier adversaire que vous
-rencontrerez. ![Ecran de titre](ss4-title.png "Ecran de titre")
+rencontrerez. ![Ecran de titre](/images/ss4-title.png "Ecran de titre")
 
 | Joueur                       | Rivale            |
 |:-----------------------------|:------------------|
@@ -120,8 +122,8 @@ prédilection et si l'on gagne, on obtiendra la mauvaise fin.
 ## Mécaniques de jeu
 
 <figure>
-<img src="ss4-instruction.jpg" title="Instruction Card" width="300"
-alt="Instruction Card" />
+<img src="/images/ss4-instruction.jpg" title="Instruction Card"
+width="300" alt="Instruction Card" />
 <figcaption aria-hidden="true">Instruction Card</figcaption>
 </figure>
 
@@ -446,8 +448,8 @@ Première ligne
 
   
 ![Ecran de choix du
-personnage](ss4-personnage.png "Ecran de choix du personnage") Deuxième
-ligne
+personnage](/images/ss4-personnage.png "Ecran de choix du personnage")
+Deuxième ligne
 
 - [Nakoruru (ナコルル, Nakoruru)](ss4-Nakoruru "wikilink")
 - [Genjuro Kibagami (牙神 幻十郎, Kibagami

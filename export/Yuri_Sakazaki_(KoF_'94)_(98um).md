@@ -1,3 +1,5 @@
+# Yuri Sakazaki (KoF '94) (98um)
+
 ## Introduction
 
 ## Liste des coups

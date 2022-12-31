@@ -1,4 +1,6 @@
-![](ss4-Kazuki.gif "ss4-Kazuki.gif")
+# Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
+
+![](/images/ss4-Kazuki.gif "/images/ss4-Kazuki.gif")
 
 ## Introduction
 

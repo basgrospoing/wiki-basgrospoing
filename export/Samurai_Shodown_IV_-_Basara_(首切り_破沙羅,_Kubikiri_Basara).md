@@ -1,4 +1,6 @@
-![](ss4-Basara.gif "ss4-Basara.gif")
+# Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)
+
+![](/images/ss4-Basara.gif "/images/ss4-Basara.gif")
 
 ## Introduction
 

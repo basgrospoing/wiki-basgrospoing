@@ -1,3 +1,5 @@
+# Chris (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,15 +8,15 @@
 
 ## Chris
 
-![](Umvc3_chris_face.jpg‎ "Umvc3_chris_face.jpg‎") As a member of Special
-Tactics And Rescue Service (S.T.A.R.S.) Chris Redfield was one of the
-first on the scene to investigate the strange occurrences in and around
-Raccoon City and continued on through the destruction of Umbrella, a
-company researching and testing biological warfare. Through all of this
-Chris has seen the betrayal of S.T.A.R.S. captain, Albert Wesker, and
-the apparent death of his partner Jill Valentine. Chris becomes a
-founding member of the Bio-terrorism Security Assessment Alliance (BSAA)
-and continued the battle against Bioterrorism.
+![](/images/Umvc3_chris_face.jpg‎ "/images/Umvc3_chris_face.jpg‎") As a
+member of Special Tactics And Rescue Service (S.T.A.R.S.) Chris Redfield
+was one of the first on the scene to investigate the strange occurrences
+in and around Raccoon City and continued on through the destruction of
+Umbrella, a company researching and testing biological warfare. Through
+all of this Chris has seen the betrayal of S.T.A.R.S. captain, Albert
+Wesker, and the apparent death of his partner Jill Valentine. Chris
+becomes a founding member of the Bio-terrorism Security Assessment
+Alliance (BSAA) and continued the battle against Bioterrorism.
 
 **In a nutshell** Through the use of his heavy arsenal Chris is able to
 compete at long range while causing a large amount of chip damage on a

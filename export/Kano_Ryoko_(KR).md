@@ -1,3 +1,5 @@
+# Kano Ryoko (KR)
+
 ## Movelist
 
 - **ZenTenUkeMi (Rolling Body Attack)** : \[←\] → C / D

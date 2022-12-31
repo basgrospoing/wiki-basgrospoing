@@ -1,4 +1,6 @@
-![](Ffspcheng.PNG)  
+# Cheng Sinzan (Fatal Fury Special)
+
+![](/images/Ffspcheng.PNG)  
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# Dhalsim (2X)
+
 ## Introduction
 
 ## Analyse de coups

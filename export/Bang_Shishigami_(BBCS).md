@@ -1,7 +1,11 @@
+# Bang Shishigami (BBCS)
+
 <figure>
-<img src="Bbcs_bang_artwork_01.png" title="Bbcs_bang_artwork_01.png"
-width="150" alt="Bbcs_bang_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_bang_artwork_01.png</figcaption>
+<img src="/images/Bbcs_bang_artwork_01.png"
+title="/images/Bbcs_bang_artwork_01.png" width="150"
+alt="/images/Bbcs_bang_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_bang_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -19,9 +23,11 @@ indépendamment. Il est le chef d'une armée de ninja, et est amoureux de
 ## Couleurs
 
 <figure>
-<img src="Bbcs_bang_costumes.png" title="Bbcs_bang_costumes.png"
-width="600" alt="Bbcs_bang_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_bang_costumes.png</figcaption>
+<img src="/images/Bbcs_bang_costumes.png"
+title="/images/Bbcs_bang_costumes.png" width="600"
+alt="/images/Bbcs_bang_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_bang_costumes.png</figcaption>
 </figure>
 
 Couleurs "hommage" de la seconde palette :

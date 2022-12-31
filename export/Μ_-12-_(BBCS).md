@@ -1,7 +1,11 @@
+# Μ -12- (BBCS)
+
 <figure>
-<img src="Bbcs_mu_artwork_01.png" title="Bbcs_mu_artwork_01.png"
-width="150" alt="Bbcs_mu_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_mu_artwork_01.png</figcaption>
+<img src="/images/Bbcs_mu_artwork_01.png"
+title="/images/Bbcs_mu_artwork_01.png" width="150"
+alt="/images/Bbcs_mu_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_mu_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -14,9 +18,10 @@ du monde.
 ## Couleurs
 
 <figure>
-<img src="Bbcs_mu_costumes.png" title="Bbcs_mu_costumes.png" width="600"
-alt="Bbcs_mu_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_mu_costumes.png</figcaption>
+<img src="/images/Bbcs_mu_costumes.png"
+title="/images/Bbcs_mu_costumes.png" width="600"
+alt="/images/Bbcs_mu_costumes.png" />
+<figcaption aria-hidden="true">/images/Bbcs_mu_costumes.png</figcaption>
 </figure>
 
 ## Coups particuliers

@@ -1,10 +1,12 @@
-[ **Name:**   Shiki Nanaya (七夜 志貴)  —  **Nicknames:**    Satsujinki
+# Melty Blood/Shiki Nanaya
+
+![ **Name:**   Shiki Nanaya (七夜 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima
 (野島　健児)  —  **Type:**   Human, Demon Hunter   —  **Gender:**   Male
 \<br\\\>\<br\\\> **Birthday:**   Oct
 15  —  **Height:**   169cm  —  **Weight:**   57kg \<br\\\>\<br\\\> **Eye
 Color:**   Black  —  **Hair Color:**   Black
-\|frame\|right](image:Nanaya0.png "wikilink")
+\|frame\|right](/images/Nanaya0.png " Name:   Shiki Nanaya (七夜 志貴)  —  Nicknames:    Satsujinki <br\><br\> Voiced by:   Kenji Noshima (野島　健児)  —  Type:   Human, Demon Hunter   —  Gender:   Male <br\><br\> Birthday:   Oct 15  —  Height:   169cm  —  Weight:   57kg <br\><br\> Eye Color:   Black  —  Hair Color:   Black |frame|right")
 
 # Introduction
 
@@ -48,7 +50,7 @@ oki.
 
 # Palettes
 
-![](Nanaya-colors.png "Nanaya-colors.png")
+![](/images/Nanaya-colors.png "/images/Nanaya-colors.png")
 
 # Liste de joueurs
 

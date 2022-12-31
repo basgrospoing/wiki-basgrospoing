@@ -1,3 +1,5 @@
+# Abel (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -21,9 +23,9 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Forward Kick
 
-|                  |                                           |                                      |
-|------------------|-------------------------------------------|--------------------------------------|
-| **Forward Kick** | ![](f.png "f.png") + ![](MK.png "MK.png") | Cancellable en **Dash vers l'avant** |
+|                  |                                                                           |                                      |
+|------------------|---------------------------------------------------------------------------|--------------------------------------|
+| **Forward Kick** | ![](/images/f.png "/images/f.png") + ![](/images/MK.png "/images/MK.png") | Cancellable en **Dash vers l'avant** |
 
 ### Choppes
 
@@ -33,9 +35,9 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Change Of Direction
 
-|                         |                                                     |                      |                                  |
-|-------------------------|-----------------------------------------------------|----------------------|----------------------------------|
-| **Change Of Direction** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | ![](Ex.png "Ex.png") gains Armor |
+|                         |                                                                                     |                                      |                                                  |
+|-------------------------|-------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------|
+| **Change Of Direction** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | ![](/images/Ex.png "/images/Ex.png") gains Armor |
 
 Description du coup:
 
@@ -43,9 +45,9 @@ Explications détaillés du coup:
 
 ##### Change Of Direction Followup Second Mid (après le COD)
 
-|                                             |                                                     |
-|---------------------------------------------|-----------------------------------------------------|
-| **Change Of Direction Followup Second Mid** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                                             |                                                                                     |
+|---------------------------------------------|-------------------------------------------------------------------------------------|
+| **Change Of Direction Followup Second Mid** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Description du coup:
 
@@ -53,9 +55,9 @@ Explications détaillés du coup:
 
 ##### Change Of Direction Followup Second Low (après le COD)
 
-|                  |                              |
-|------------------|------------------------------|
-| **Quick Lariat** | ![](3xKick.png "3xKick.png") |
+|                  |                                              |
+|------------------|----------------------------------------------|
+| **Quick Lariat** | ![](/images/3xKick.png "/images/3xKick.png") |
 
 Description du coup:
 
@@ -63,9 +65,9 @@ Explications détaillés du coup:
 
 ##### Change Of Direction Followup Finish Mid (après le Followup Second Mid/Low)
 
-|                                             |                                                 |
-|---------------------------------------------|-------------------------------------------------|
-| **Change Of Direction Followup Finish Mid** | ![](f.png "f.png") + ![](Punch.png "Punch.png") |
+|                                             |                                                                                 |
+|---------------------------------------------|---------------------------------------------------------------------------------|
+| **Change Of Direction Followup Finish Mid** | ![](/images/f.png "/images/f.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Description du coup:
 
@@ -73,9 +75,9 @@ Explications détaillés du coup:
 
 ##### Change Of Direction Followup Finish Low (après le Followup Second Mid/Low)
 
-|                                             |                                               |
-|---------------------------------------------|-----------------------------------------------|
-| **Change Of Direction Followup Finish Low** | ![](f.png "f.png") + ![](Kick.png "Kick.png") |
+|                                             |                                                                               |
+|---------------------------------------------|-------------------------------------------------------------------------------|
+| **Change Of Direction Followup Finish Low** | ![](/images/f.png "/images/f.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Description du coup:
 
@@ -83,9 +85,9 @@ Explications détaillés du coup:
 
 #### Wheel Kick
 
-|                |                                                   |                                      |
-|----------------|---------------------------------------------------|--------------------------------------|
-| **Wheel Kick** | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") **Armor Break** |
+|                |                                                                                   |                                                      |
+|----------------|-----------------------------------------------------------------------------------|------------------------------------------------------|
+| **Wheel Kick** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") **Armor Break** |
 
 Description du coup:
 
@@ -93,9 +95,9 @@ Explications détaillés du coup:
 
 #### Marseille Roll
 
-|                    |                                                   |                      |
-|--------------------|---------------------------------------------------|----------------------|
-| **Marseille Roll** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                    |                                                                                   |                                      |
+|--------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Marseille Roll** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup:
 
@@ -103,9 +105,9 @@ Explications détaillés du coup:
 
 #### Falling Sky
 
-|                 |                                                   |                      |
-|-----------------|---------------------------------------------------|----------------------|
-| **Falling Sky** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                 |                                                                                   |                                      |
+|-----------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Falling Sky** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup:
 
@@ -113,9 +115,9 @@ Explications détaillés du coup:
 
 #### Tornado Throw
 
-|                   |                                                     |                      |
-|-------------------|-----------------------------------------------------|----------------------|
-| **Tornado Throw** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                   |                                                                                     |                                      |
+|-------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Tornado Throw** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup:
 
@@ -125,9 +127,9 @@ Explications détaillés du coup:
 
 #### Hearthless
 
-|            |                                                                          |                 |
-|------------|--------------------------------------------------------------------------|-----------------|
-| Hearthless | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") ![](Punch.png "Punch.png") | **Armor Break** |
+|            |                                                                                                                          |                 |
+|------------|--------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Hearthless | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") ![](/images/Punch.png "/images/Punch.png") | **Armor Break** |
 
 Description du coup:
 
@@ -137,9 +139,9 @@ Explications détaillés du coup:
 
 #### Soulless (Ultra 1)
 
-|              |                                                                              |                 |
-|--------------|------------------------------------------------------------------------------|-----------------|
-| **Soulless** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") ![](3xPunch.png "3xPunch.png") | **Armor Break** |
+|              |                                                                                                                              |                 |
+|--------------|------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Soulless** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 Description du coup:
 
@@ -147,9 +149,9 @@ Explications détaillés du coup:
 
 #### Breathless (Ultra 2)
 
-|                |                                                                            |
-|----------------|----------------------------------------------------------------------------|
-| **Breathless** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") ![](3xKick.png "3xKick.png") |
+|                |                                                                                                                            |
+|----------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Breathless** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") ![](/images/3xKick.png "/images/3xKick.png") |
 
 Description du coup:
 

@@ -1,3 +1,5 @@
+# Liste des Jeux
+
 ## Liste des jeux présents sur le wiki
 
 Vous trouverez ci-dessous classés par développeur la liste des jeux
@@ -63,11 +65,11 @@ SNK
 - [King of Fighters 2k2
   UM](The_King_of_Fighters_2k2:_Unlimited_Match "wikilink")
 - [The King of Fighters XI](kofxi "wikilink")
-  ![](icone-pdf-16.png "icone-pdf-16.png")
+  ![](/images/icone-pdf-16.png "/images/icone-pdf-16.png")
 - [The King of Fighters XIII](The_King_of_Fighters_XIII "wikilink")
 - [Garou : Mark of the Wolves](Garou_:_Mark_of_the_Wolves "wikilink")
 - [Samurai Shodown IV: Amakusa's Revenge](ss4 "wikilink")
-  ![](icone-pdf-16.png "icone-pdf-16.png")
+  ![](/images/icone-pdf-16.png "/images/icone-pdf-16.png")
 - [Fatal Fury Special](Fatal_Fury_Special "wikilink")
 - [The Last Blade 2](The_Last_Blade_2 "wikilink")
 

@@ -1,4 +1,6 @@
-![](kofxi-ryo-sakazaki.jpg "kofxi-ryo-sakazaki.jpg")
+# The King of Fighters XI - Ryo Sakazaki
+
+![](/images/kofxi-ryo-sakazaki.jpg "/images/kofxi-ryo-sakazaki.jpg")
 
 ## Introduction
 

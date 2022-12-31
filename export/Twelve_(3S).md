@@ -1,6 +1,8 @@
+# Twelve (3S)
+
 ![Character Select
-Portrait](Twelve3sport.gif "Character Select Portrait") ![Neutral
-Stance](Twelve3s-stance.gif "Neutral Stance")
+Portrait](/images/Twelve3sport.gif "Character Select Portrait")
+![Neutral Stance](/images/Twelve3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -11,45 +13,45 @@ Stance](Twelve3s-stance.gif "Neutral Stance")
 
 ## Couleurs
 
-|                          |                          |                          |                          |                          |                          |                                                              |
-|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")     | ![](MP.png "MP.png")     | ![](HP.png "HP.png")     | ![](LK.png "LK.png")     | ![](MK.png "MK.png")     | ![](HK.png "HK.png")     | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](12lp.gif "12lp.gif") | ![](12mp.gif "12mp.gif") | ![](12hp.gif "12hp.gif") | ![](12lk.gif "12lk.gif") | ![](12mk.gif "12mk.gif") | ![](12hk.gif "12hk.gif") | ![](12lpmkhp.gif "12lpmkhp.gif")                             |
-|                          |                          |                          |                          |                          |                          |                                                              |
+|                                          |                                          |                                          |                                          |                                          |                                          |                                                                                                              |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")     | ![](/images/MP.png "/images/MP.png")     | ![](/images/HP.png "/images/HP.png")     | ![](/images/LK.png "/images/LK.png")     | ![](/images/MK.png "/images/MK.png")     | ![](/images/HK.png "/images/HK.png")     | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/12lp.gif "/images/12lp.gif") | ![](/images/12mp.gif "/images/12mp.gif") | ![](/images/12hp.gif "/images/12hp.gif") | ![](/images/12lk.gif "/images/12lk.gif") | ![](/images/12mk.gif "/images/12mk.gif") | ![](/images/12hk.gif "/images/12hk.gif") | ![](/images/12lpmkhp.gif "/images/12lpmkhp.gif")                                                             |
+|                                          |                                          |                                          |                                          |                                          |                                          |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|        |                                                                  |
-|--------|------------------------------------------------------------------|
-| H.U.G. | ![](LP.png "LP.png") + ![](LK.png "LK.png")                      |
-| F.L.G. | ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-| T.R.W. | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|        |                                                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------------|
+| H.U.G. | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                      |
+| F.L.G. | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+| T.R.W. | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|                |                                                                                          |
-|----------------|------------------------------------------------------------------------------------------|
-| Kokkuu         | **(Air)** ![](B.png "B.png") ![](B.png "B.png") ou ![](F.png "F.png") ![](F.png "F.png") |
-| Kabe Haritsuki | ![](F.png "F.png") près d'un mur pendant un Kokkuu                                       |
-| B.M.K.         | ![](F.png "F.png") + ![](MK.png "MK.png")                                                |
+|                |                                                                                                                                                          |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kokkuu         | **(Air)** ![](/images/B.png "/images/B.png") ![](/images/B.png "/images/B.png") ou ![](/images/F.png "/images/F.png") ![](/images/F.png "/images/F.png") |
+| Kabe Haritsuki | ![](/images/F.png "/images/F.png") près d'un mur pendant un Kokkuu                                                                                       |
+| B.M.K.         | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")                                                                                |
 
 ### Coups Spéciaux
 
-|        |                                                                              |     |
-|--------|------------------------------------------------------------------------------|-----|
-| N.D.L. | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                          | EX  |
-| A.X.E. | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") répété (en l'air ou sol) | EX  |
-| D.R.A. | **(Air)** ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png")                  | EX  |
+|        |                                                                                                              |     |
+|--------|--------------------------------------------------------------------------------------------------------------|-----|
+| N.D.L. | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                          | EX  |
+| A.X.E. | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") répété (en l'air ou sol) | EX  |
+| D.R.A. | **(Air)** ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png")                  | EX  |
 
 ### Super Arts
 
-|     |            |                                                                                    |          |
-|-----|------------|------------------------------------------------------------------------------------|----------|
-| I   | X.N.D.L.   | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")         | 2 stocks |
-| II  | X.F.L.A.T. | **(Air)** ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") | 1 stock  |
-| III | X.C.O.P.Y. | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")         | 1 stock  |
+|     |            |                                                                                                                                    |          |
+|-----|------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | X.N.D.L.   | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")         | 2 stocks |
+| II  | X.F.L.A.T. | **(Air)** ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") | 1 stock  |
+| III | X.C.O.P.Y. | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")         | 1 stock  |
 
 ## Stratégie
 

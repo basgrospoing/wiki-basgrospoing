@@ -1,4 +1,6 @@
-![](kofxi-elisabeth-blanctorche.jpg "kofxi-elisabeth-blanctorche.jpg")
+# The King of Fighters XI - Elisabeth Blanctorche
+
+![](/images/kofxi-elisabeth-blanctorche.jpg "/images/kofxi-elisabeth-blanctorche.jpg")
 
 ## Introduction
 

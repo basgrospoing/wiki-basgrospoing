@@ -1,4 +1,6 @@
-![](FfspJoe.PNG)  
+# Joe Higashi (Fatal Fury Special)
+
+![](/images/FfspJoe.PNG)  
 
 ## Introduction
 

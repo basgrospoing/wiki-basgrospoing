@@ -1,3 +1,5 @@
+# Yang (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -33,43 +35,43 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Torou Zan (Mantis Slash)
 
-|               |                                                     |                      |                 |
-|---------------|-----------------------------------------------------|----------------------|-----------------|
-| **Torou Zan** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|               |                                                                                     |                                      |                 |
+|---------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Torou Zan** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description:Yang découpe l'air devant lui (et l'adversaire aussi) avec
 ses mains.
 
 #### Senkyuutai (Dragonz)
 
-|               |                                                 |                      |     |
-|---------------|-------------------------------------------------|----------------------|-----|
-| **Senkyutai** | ![](dp.png "dp.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |     |
+|               |                                                                                 |                                      |     |
+|---------------|---------------------------------------------------------------------------------|--------------------------------------|-----|
+| **Senkyutai** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |     |
 
 Description: Yang envoie 2 Kick chelous vers les airs.
 
 #### Byakou Sushouda (Dual Hand Palm)
 
-|                     |                                                     |                      |
-|---------------------|-----------------------------------------------------|----------------------|
-| **Byakou Sushouda** | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                     |                                                                                     |                                      |
+|---------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Byakou Sushouda** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description:
 
 #### Zenpou Tenshin (Choppe Spéciale)
 
-|                    |                                                   |                      |                 |
-|--------------------|---------------------------------------------------|----------------------|-----------------|
-| **Zenpou Tenshin** | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|                    |                                                                                   |                                      |                 |
+|--------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Zenpou Tenshin** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description:Yang attrape l'adversaire par la tête et se met derriere
 lui.Similaire à la choppe spéciale de Fei Long.
 
 #### Kaihou (Téléport vers l'avant)
 
-|            |                                                   |                      |                 |
-|------------|---------------------------------------------------|----------------------|-----------------|
-| **Kaihou** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|            |                                                                                   |                                      |                 |
+|------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Kaihou** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description:Téleport de Yang vers l'adversaire.
 
@@ -77,9 +79,9 @@ Description:Téleport de Yang vers l'adversaire.
 
 #### Sei'ei Enbu (Dédoublement)
 
-|                 |                                                                            |
-|-----------------|----------------------------------------------------------------------------|
-| **Sei'ei Enbu** | ![](qcb.png "qcb.png") ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") |
+|                 |                                                                                                                            |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Sei'ei Enbu** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Description:Yang se dédouble comme Dio Brando et The World pour envoyer
 des combos infinis.
@@ -88,9 +90,9 @@ des combos infinis.
 
 #### Raishin Mahha Ken (Ultra 1)
 
-|                       |                                                                                |                 |
-|-----------------------|--------------------------------------------------------------------------------|-----------------|
-| **Raishin Mahha Ken** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") | **Armor Break** |
+|                       |                                                                                                                                |                 |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Raishin Mahha Ken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 Description:Yang commence par une pose Snake style , et nous fait un
 découpage; tranchage ; saucissonnage ,emballé c'est pesé ma bonne
@@ -98,9 +100,9 @@ dame.Similaire au style de l'ami des tout petits, Rei de HnK.
 
 #### Tenshin Senkyuutai (Ultra 2)
 
-|                        |                                                                              |                 |
-|------------------------|------------------------------------------------------------------------------|-----------------|
-| **Tenshin Senkyuutai** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") | **Armor Break** |
+|                        |                                                                                                                              |                 |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Tenshin Senkyuutai** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") | **Armor Break** |
 
 Description:Yang envoie une volée de ses mocassins dans la trogne de
 l'adversaire et finit avec un combo en l'air ballz to the wallz et envoi

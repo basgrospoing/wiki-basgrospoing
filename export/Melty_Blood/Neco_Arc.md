@@ -1,9 +1,11 @@
-[ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
+# Melty Blood/Neco Arc
+
+![ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
 \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
 涼香)  —  **Type:**    Neco   —  **Gender:**   Female \<br\\\>\<br\\\>
 **Birthday:**   ...  —  **Height:**   ...  —  **Weight:**   ...
 \<br\\\>\<br\\\> **Eye Color:**   ...  —  **Hair Color:**   Blonde
-\|frame\|right](image:Neco0.png "wikilink")
+\|frame\|right](/images/Neco0.png " Name:   Neco Arc (ネコ　アルク)  —  Nicknames:   - <br\><br\> Voiced by:   Ryoka Yuzuki (柚木 涼香)  —  Type:    Neco   —  Gender:   Female <br\><br\> Birthday:   ...  —  Height:   ...  —  Weight:   ... <br\><br\> Eye Color:   ...  —  Hair Color:   Blonde |frame|right")
 
 # Introduction
 
@@ -25,7 +27,7 @@
 
 # Palettes
 
-![](Neco-colors.png "Neco-colors.png")
+![](/images/Neco-colors.png "/images/Neco-colors.png")
 
 # Liste de joueurs
 

@@ -1,7 +1,9 @@
+# P4A/Yu Narukami
+
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 
-![](Yu_big.jpg "Yu_big.jpg")
+![](/images/Yu_big.jpg "/images/Yu_big.jpg")
 
 </div>
 <div>

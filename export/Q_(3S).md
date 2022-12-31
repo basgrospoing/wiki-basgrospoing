@@ -1,5 +1,8 @@
-![Character Select Portrait](Q3sport.gif "Character Select Portrait")
-![Neutral Stance](Q3s-stance.gif "Neutral Stance")
+# Q (3S)
+
+![Character Select
+Portrait](/images/Q3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Q3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -15,47 +18,47 @@
 
 ## Couleurs
 
-|                        |                        |                        |                        |                        |                        |                                                              |
-|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")   | ![](MP.png "MP.png")   | ![](HP.png "HP.png")   | ![](LK.png "LK.png")   | ![](MK.png "MK.png")   | ![](HK.png "HK.png")   | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Qlp.gif "Qlp.gif") | ![](Qmp.gif "Qmp.gif") | ![](Qhp.gif "Qhp.gif") | ![](Qlk.gif "Qlk.gif") | ![](Qmk.gif "Qmk.gif") | ![](Qhk.gif "Qhk.gif") | ![](Qlpmkhp.gif "Qlpmkhp.gif")                               |
-|                        |                        |                        |                        |                        |                        |                                                              |
+|                                        |                                        |                                        |                                        |                                        |                                        |                                                                                                              |
+|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")   | ![](/images/MP.png "/images/MP.png")   | ![](/images/HP.png "/images/HP.png")   | ![](/images/LK.png "/images/LK.png")   | ![](/images/MK.png "/images/MK.png")   | ![](/images/HK.png "/images/HK.png")   | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Qlp.gif "/images/Qlp.gif") | ![](/images/Qmp.gif "/images/Qmp.gif") | ![](/images/Qhp.gif "/images/Qhp.gif") | ![](/images/Qlk.gif "/images/Qlk.gif") | ![](/images/Qmk.gif "/images/Qmk.gif") | ![](/images/Qhk.gif "/images/Qhk.gif") | ![](/images/Qlpmkhp.gif "/images/Qlpmkhp.gif")                                                               |
+|                                        |                                        |                                        |                                        |                                        |                                        |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|                                              |                                                                                        |
-|----------------------------------------------|----------------------------------------------------------------------------------------|
-| Hokaku Oyobi Touteki ni yoru Daraku Shougeki | ![](F.png "F.png") ou ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-| Hokaku Oyobi Shippu o Mochi ta Tsuuda        | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                            |
+|                                              |                                                                                                                                                        |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hokaku Oyobi Touteki ni yoru Daraku Shougeki | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+| Hokaku Oyobi Shippu o Mochi ta Tsuuda        | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                            |
 
 ### Normaux
 
-|                                         |                                                                                           |
-|-----------------------------------------|-------------------------------------------------------------------------------------------|
-| Toubu ni yaru Jouhou Kougeki (Kari)     | ![](B.png "B.png") + ![](MP.png "MP.png")                                                 |
-| Ryouude ni yaru Zenshin Tsuugeki (Kari) | ![](B.png "B.png") + ![](HP.png "HP.png")                                                 |
-| Tentou kara no Toubu Tsuugeki (Kari)    | ![](B.png "B.png") + ![](HK.png "HK.png")                                                 |
-| Tentou kara no Kyakubu Tsuugeki (Kari)  | ![](Db.png "Db.png") ou ![](D.png "D.png") ou ![](Df.png "Df.png") + ![](HK.png "HK.png") |
+|                                         |                                                                                                                                                           |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Toubu ni yaru Jouhou Kougeki (Kari)     | ![](/images/B.png "/images/B.png") + ![](/images/MP.png "/images/MP.png")                                                                                 |
+| Ryouude ni yaru Zenshin Tsuugeki (Kari) | ![](/images/B.png "/images/B.png") + ![](/images/HP.png "/images/HP.png")                                                                                 |
+| Tentou kara no Toubu Tsuugeki (Kari)    | ![](/images/B.png "/images/B.png") + ![](/images/HK.png "/images/HK.png")                                                                                 |
+| Tentou kara no Kyakubu Tsuugeki (Kari)  | ![](/images/Db.png "/images/Db.png") ou ![](/images/D.png "/images/D.png") ou ![](/images/Df.png "/images/Df.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Coups Spéciaux
 
-|                                |                                                                                                                  |     |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------|-----|
-| High Speed Barrage             | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png")                                                              | EX  |
-| Dashing Head Attack            | ![](B.png "B.png") Charge ![](F.png "F.png") + Punch.png                                                         | EX  |
-| Dashing Head Attack (Overhead) | ![](B.png "B.png") Charge ![](F.png "F.png") + ![](Punch.png "Punch.png") (maintenir ![](Punch.png "Punch.png")) |     |
-| Dashing Leg Attack             | ![](B.png "B.png") Charge ![](F.png "F.png") + ![](Kick.png "Kick.png")                                          | EX  |
-| Capture and Deadly Blow        | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")                                                                |     |
+|                                |                                                                                                                                                                                  |     |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| High Speed Barrage             | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png")                                                                                              | EX  |
+| Dashing Head Attack            | ![](/images/B.png "/images/B.png") Charge ![](/images/F.png "/images/F.png") + Punch.png                                                                                         | EX  |
+| Dashing Head Attack (Overhead) | ![](/images/B.png "/images/B.png") Charge ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") (maintenir ![](/images/Punch.png "/images/Punch.png")) |     |
+| Dashing Leg Attack             | ![](/images/B.png "/images/B.png") Charge ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png")                                                          | EX  |
+| Capture and Deadly Blow        | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")                                                                                                |     |
 
 ### Super Arts
 
-|     |                           |                                                                                                                                                                                          |          |
-|-----|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| I   | Critical Combo Attack     | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                                                                                               | 2 stocks |
-| II  | Deadly Double Combination | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                                                                                               | 1 stock  |
-| III | Total Destruction         | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") puis ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") ou ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") | 1 stock  |
+|     |                           |                                                                                                                                                                                                                                                                                                          |          |
+|-----|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Critical Combo Attack     | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                                                                                                                                               | 2 stocks |
+| II  | Deadly Double Combination | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                                                                                                                                               | 1 stock  |
+| III | Total Destruction         | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") puis ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") ou ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") | 1 stock  |
 
 ## Stratégie
 

@@ -1,4 +1,6 @@
-[frame\|right](image:Hisuiandkohaku0.png "wikilink")
+# Melty Blood/Hisui & Kohaku
+
+![](/images/Hisuiandkohaku0.png "/images/Hisuiandkohaku0.png")
 
 # Introduction
 
@@ -24,7 +26,7 @@ fair-play.
 
 # Palettes
 
-![](HisuKoha-colors.png "HisuKoha-colors.png")
+![](/images/HisuKoha-colors.png "/images/HisuKoha-colors.png")
 
 # Liste de joueurs
 

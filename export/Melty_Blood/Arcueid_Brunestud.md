@@ -1,3 +1,5 @@
+# Melty Blood/Arcueid Brunestud
+
 ![ **Name:**   Arcueid Brunestud (アルクェイド・ブリュ
 ンスタッド)  —  **Nicknames:**    White Princess of the Shinso, Arcade
 Bumstead \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
@@ -5,7 +7,7 @@ Bumstead \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
 \<br\\\>\<br\\\> **Birthday:**   Dec 25  —  **Sizes:**   88 / 55 /
 85  —  **Height:**   167cm  —  **Weight:**   52kg \<br\\\>\<br\\\> **Eye
 Color:**   Red  —  **Hair Color:**   Blonde
-\|frame\|right](arc1.png " Name:   Arcueid Brunestud (アルクェイド・ブリュ ンスタッド)  —  Nicknames:    White Princess of the Shinso, Arcade Bumstead <br\><br\> Voiced by:   Ryoka Yuzuki (柚木 涼香)  —  Type:   True Ancestor   —  Gender:   Female <br\><br\> Birthday:   Dec 25  —  Sizes:   88 / 55 / 85  —  Height:   167cm  —  Weight:   52kg <br\><br\> Eye Color:   Red  —  Hair Color:   Blonde |frame|right")
+\|frame\|right](/images/arc1.png " Name:   Arcueid Brunestud (アルクェイド・ブリュ ンスタッド)  —  Nicknames:    White Princess of the Shinso, Arcade Bumstead <br\><br\> Voiced by:   Ryoka Yuzuki (柚木 涼香)  —  Type:   True Ancestor   —  Gender:   Female <br\><br\> Birthday:   Dec 25  —  Sizes:   88 / 55 / 85  —  Height:   167cm  —  Weight:   52kg <br\><br\> Eye Color:   Red  —  Hair Color:   Blonde |frame|right")
 
 # Introduction
 
@@ -40,7 +42,7 @@ Des coups plus lents, mais avec plus de portées.
 
 # Palettes
 
-![](Arc-colors.png "Arc-colors.png")
+![](/images/Arc-colors.png "/images/Arc-colors.png")
 
 # Liste de joueurs
 

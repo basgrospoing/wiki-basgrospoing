@@ -1,12 +1,15 @@
+# The King of Fighters XI
+
 <figure>
-<img src="kofxi-logo.jpg" title="kofxi-logo.jpg" width="500"
-alt="kofxi-logo.jpg" />
-<figcaption aria-hidden="true">kofxi-logo.jpg</figcaption>
+<img src="/images/kofxi-logo.jpg" title="/images/kofxi-logo.jpg"
+width="500" alt="/images/kofxi-logo.jpg" />
+<figcaption aria-hidden="true">/images/kofxi-logo.jpg</figcaption>
 </figure>
 
 ## Système de jeux
 
-![Configuration arcade](kofxi-config-arcade.png "Configuration arcade")
+![Configuration
+arcade](/images/kofxi-config-arcade.png "Configuration arcade")
 
 ### Description des boutons
 
@@ -49,7 +52,7 @@ alt="kofxi-logo.jpg" />
 - ← ← : saut arrière ; on est invulnérable pendant le saut arrière
 - ↖ ou ↑ ou ↗ : sauter
 
-![Description des sauts](kofxi-saut.png "Description des sauts")
+![Description des sauts](/images/kofxi-saut.png "Description des sauts")
 
 #### Description des sauts
 
@@ -112,8 +115,8 @@ alt="kofxi-logo.jpg" />
   spécial par un Super Special Leader Move : utilise 1 SP et 2 PS
 
   
-<img src="kofxi-ecran-de-jeux.jpg" title="Ecran de jeux" width="300"
-alt="Ecran de jeux" />
+<img src="/images/kofxi-ecran-de-jeux.jpg" title="Ecran de jeux"
+width="300" alt="Ecran de jeux" />
 
 ## Description de l'écran de jeux
 
@@ -209,7 +212,7 @@ Dream Cancel derrière un Super Special Move ou même carrément derrière
 un Super Cancel.
 
 <figure>
-<img src="kofxi-gauge.png" title="Skill Gauge et Power Gauge"
+<img src="/images/kofxi-gauge.png" title="Skill Gauge et Power Gauge"
 width="300" alt="Skill Gauge et Power Gauge" />
 <figcaption aria-hidden="true">Skill Gauge et Power Gauge</figcaption>
 </figure>
@@ -241,7 +244,7 @@ coup. Si la jauge se vide alors que le joueur garde, un Guard Crush
 (casse garde) se produit et rend le joueur vulnérable à toutes attaques.
 
 <figure>
-<img src="kofxi-judgement.png" title="Indicateur de jugement"
+<img src="/images/kofxi-judgement.png" title="Indicateur de jugement"
 width="300" alt="Indicateur de jugement" />
 <figcaption aria-hidden="true">Indicateur de jugement</figcaption>
 </figure>
@@ -266,8 +269,8 @@ personnage.
 
   
 ==Débloquer les personnages==
-<img src="kofxi-system-arcade.jpg" title="Système arcade" width="300"
-alt="Système arcade" />
+<img src="/images/kofxi-system-arcade.jpg" title="Système arcade"
+width="300" alt="Système arcade" />
 
 ### Atomiswave
 
@@ -318,7 +321,7 @@ Image:kofxi-the-final-hall-stage.gif \| The final hall
 Image:kofxi-the-different-space-stage.gif \| The different space
 
   
-<img src="kofxi-personnage.jpg" title="Choix des personnages"
+<img src="/images/kofxi-personnage.jpg" title="Choix des personnages"
 width="400" alt="Choix des personnages" />
 
 ## Personnages

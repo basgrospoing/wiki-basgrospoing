@@ -1,3 +1,5 @@
+# Guilty Gear XX Accent Core
+
 ## Introduction
 
 Guilty Gear Accent Core est le dernier épisode de la série Guilty Gear
@@ -62,7 +64,7 @@ indiqués dans le tableau ci-dessous :
 <CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
-<TH WIDTH="580"  COLSPAN="9">
+<TH WIDTH="580" COLSPAN="9">
 
 Notations
 
@@ -84,7 +86,7 @@ Notations
 9
 
 </TD>
-<TD WIDTH="155" align="center"  ROWSPAN="3">
+<TD WIDTH="155" align="center" ROWSPAN="3">
 
 \<- Directions Boutons -\>
 
@@ -592,27 +594,27 @@ ci-dessous :
 <CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
-<TD WIDTH="116"  class="d">
+<TD WIDTH="116" class="d">
 
 0% - 25%
 
 </TD>
-<TD WIDTH="116"  class="d">
+<TD WIDTH="116" class="d">
 
 25% - 50%
 
 </TD>
-<TD WIDTH="116"  class="d">
+<TD WIDTH="116" class="d">
 
 50% - 75%
 
 </TD>
-<TD WIDTH="116"  class="d">
+<TD WIDTH="116" class="d">
 
 75% - 100%
 
 </TD>
-<TD WIDTH="116"  class="d">
+<TD WIDTH="116" class="d">
 
 100%
 
@@ -1335,7 +1337,7 @@ réduction de la barre de Garde.
 <CENTER>
 <TABLE BORDER=1 CELLSPACING=2 CELLPADDING=10 WIDTH=50>
 <TR class="d">
-<TD WIDTH="580"  COLSPAN="10">
+<TD WIDTH="580" COLSPAN="10">
 
 Calcul des dégâts
 
@@ -1530,12 +1532,12 @@ Valeur en fonction de la vie restante.
 <center>
 <TABLE BORDER=1 CELLSPACING=2 CELLPADDING=10 WIDTH=10>
 <TR valign="top" align="center">
-<TD WIDTH="60"  ROWSPAN="2">
+<TD WIDTH="60" ROWSPAN="2">
 
  
 
 </TD>
-<TD WIDTH="520"  COLSPAN="8">
+<TD WIDTH="520" COLSPAN="8">
 
 Barre de vie
 
@@ -1871,7 +1873,7 @@ x 0.36
 Valeur
 
 </TD>
-<TD WIDTH="520"  COLSPAN="8">
+<TD WIDTH="520" COLSPAN="8">
 
 Modification des dégats
 
@@ -2364,34 +2366,34 @@ x 1.00
 </TD>
 </TR>
 <TR align="center">
-<TD WIDTH="58"  class="d">
+<TD WIDTH="58" class="d">
 
 Robo-Ky
 
 </TD>
-<TD WIDTH="58"  class="d">
+<TD WIDTH="58" class="d">
 
 Holy Order Sol
 
 </TD>
-<TD WIDTH="58"  class="d">
+<TD WIDTH="58" class="d">
 
 ABA
 
 </TD>
 </TR>
 <TR align="center">
-<TD WIDTH="65"  >
+<TD WIDTH="65" >
 
 x 0.89
 
 </TD>
-<TD WIDTH="65"  >
+<TD WIDTH="65" >
 
 x 0.96
 
 </TD>
-<TD WIDTH="65"  >
+<TD WIDTH="65" >
 
 x 0.89
 
@@ -2400,7 +2402,7 @@ x 0.89
 </TABLE>
 </CENTER>
 
-`     `  
+  
 
 ### Étourdissement
 

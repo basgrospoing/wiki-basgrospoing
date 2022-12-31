@@ -1,4 +1,6 @@
-![](ss4-TamTam.gif "ss4-TamTam.gif")
+# Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)
+
+![](/images/ss4-TamTam.gif "/images/ss4-TamTam.gif")
 
 ## Introduction
 

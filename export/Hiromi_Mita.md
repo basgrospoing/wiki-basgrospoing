@@ -1,7 +1,9 @@
+# Hiromi Mita
+
 <figure>
-<img src="Hiromi_Mita.png" title="Hiromi_Mita.png" width="300"
-alt="Hiromi_Mita.png" />
-<figcaption aria-hidden="true">Hiromi_Mita.png</figcaption>
+<img src="/images/Hiromi_Mita.png" title="/images/Hiromi_Mita.png"
+width="300" alt="/images/Hiromi_Mita.png" />
+<figcaption aria-hidden="true">/images/Hiromi_Mita.png</figcaption>
 </figure>
 
 ## Caractéristiques et analyse
@@ -77,9 +79,9 @@ donc sa capacité de charge est la plus longue d'entre tous les
 personnages.  
 
 <figure>
-<img src="mita_custom.png" title="mita_custom.png" width="250"
-alt="mita_custom.png" />
-<figcaption aria-hidden="true">mita_custom.png</figcaption>
+<img src="/images/mita_custom.png" title="/images/mita_custom.png"
+width="250" alt="/images/mita_custom.png" />
+<figcaption aria-hidden="true">/images/mita_custom.png</figcaption>
 </figure>
 
 \- Le pattern classique (premier screenshot) est régulier et n'est en
@@ -107,8 +109,9 @@ de départ selon que l'on presse HAUT ou BAS en même temps que A. Pensez
 à varier vos super custom à l'aide de ces commandes.
 
 <figure>
-<img src="Mita_2.jpg" title="Mita_2.jpg" width="250" alt="Mita_2.jpg" />
-<figcaption aria-hidden="true">Mita_2.jpg</figcaption>
+<img src="/images/Mita_2.jpg" title="/images/Mita_2.jpg" width="250"
+alt="/images/Mita_2.jpg" />
+<figcaption aria-hidden="true">/images/Mita_2.jpg</figcaption>
 </figure>
 
 \- Le pattern alternatif (deuxième screenshot) se déploie le long long

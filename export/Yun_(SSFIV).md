@@ -1,3 +1,5 @@
+# Yun (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -25,9 +27,9 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 ##### Raigeki Shu
 
-|                 |                                                                                       |
-|-----------------|---------------------------------------------------------------------------------------|
-| **Raigeki Shu** | Durant un saut vertical/vers l'avant ![](Df.png "Df.png") \> ![](Kick.png "Kick.png") |
+|                 |                                                                                                                       |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Raigeki Shu** | Durant un saut vertical/vers l'avant ![](/images/Df.png "/images/Df.png") \> ![](/images/Kick.png "/images/Kick.png") |
 
 Description:
 
@@ -35,9 +37,9 @@ Analyse:
 
 ##### Dakai
 
-|           |                                                                                 |
-|-----------|---------------------------------------------------------------------------------|
-| **Dakai** | Durant un saut vertical/vers l'avant ![](F.png "F.png") \> ![](HP.png "HP.png") |
+|           |                                                                                                                 |
+|-----------|-----------------------------------------------------------------------------------------------------------------|
+| **Dakai** | Durant un saut vertical/vers l'avant ![](/images/F.png "/images/F.png") \> ![](/images/HP.png "/images/HP.png") |
 
 Description:
 
@@ -45,9 +47,9 @@ Analyse:
 
 ##### Senpukyaku
 
-|                |                                            |
-|----------------|--------------------------------------------|
-| **Senpukyaku** | ![](F.png "F.png") \> ![](MK.png "MK.png") |
+|                |                                                                            |
+|----------------|----------------------------------------------------------------------------|
+| **Senpukyaku** | ![](/images/F.png "/images/F.png") \> ![](/images/MK.png "/images/MK.png") |
 
 Description:
 
@@ -59,9 +61,9 @@ Analyse:
 
 ##### Target Combo 1
 
-|                    |                                                                                  |                 |
-|--------------------|----------------------------------------------------------------------------------|-----------------|
-| **Target Combo 1** | Durant un saut ![](LP.png "LP.png") \> ![](F.png "F.png") + ![](HP.png "HP.png") | **Armor Break** |
+|                    |                                                                                                                                  |                 |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Target Combo 1** | Durant un saut ![](/images/LP.png "/images/LP.png") \> ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") | **Armor Break** |
 
 Description:
 
@@ -69,9 +71,9 @@ Analyse:
 
 ##### Target Combo 2
 
-|                    |                                                                                        |
-|--------------------|----------------------------------------------------------------------------------------|
-| **Target Combo 2** | ![](D.png "D.png") + ![](MP.png "MP.png") \> ![](D.png "D.png") + ![](HP.png "HP.png") |
+|                    |                                                                                                                                                        |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 2** | ![](/images/D.png "/images/D.png") + ![](/images/MP.png "/images/MP.png") \> ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") |
 
 Description:
 
@@ -79,9 +81,9 @@ Analyse:
 
 ##### Target Combo 3
 
-|                    |                                                                   |
-|--------------------|-------------------------------------------------------------------|
-| **Target Combo 3** | ![](D.png "D.png") + ![](HP.png "HP.png") \> ![](HP.png "HP.png") |
+|                    |                                                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 3** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") \> ![](/images/HP.png "/images/HP.png") |
 
 Description:
 
@@ -89,9 +91,9 @@ Analyse:
 
 ##### Target Combo 4
 
-|                    |                                                                                           |                            |
-|--------------------|-------------------------------------------------------------------------------------------|----------------------------|
-| **Target Combo 4** | ![](MP.png "MP.png") \> ![](HP.png "HP.png") \> ![](B.png "B.png") + ![](HP.png "HP.png") | **Armor Break sur 3e hit** |
+|                    |                                                                                                                                                           |                            |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| **Target Combo 4** | ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") \> ![](/images/B.png "/images/B.png") + ![](/images/HP.png "/images/HP.png") | **Armor Break sur 3e hit** |
 
 Description:
 
@@ -99,9 +101,9 @@ Analyse:
 
 ##### Target Combo 5
 
-|                    |                                                                                             |
-|--------------------|---------------------------------------------------------------------------------------------|
-| **Target Combo 5** | Proche de l'adversaire ![](LP.png "LP.png") \> ![](LK.png "LK.png") \> ![](MP.png "MP.png") |
+|                    |                                                                                                                                             |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 5** | Proche de l'adversaire ![](/images/LP.png "/images/LP.png") \> ![](/images/LK.png "/images/LK.png") \> ![](/images/MP.png "/images/MP.png") |
 
 Description:
 
@@ -113,17 +115,17 @@ Analyse:
 
 #### Zesshou Hohou
 
-|                   |                                                     |                      |                 |
-|-------------------|-----------------------------------------------------|----------------------|-----------------|
-| **Zesshou Hohou** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|                   |                                                                                     |                                      |                 |
+|-------------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Zesshou Hohou** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description: Yun fait une fente du bras vers l'avant avec son poing.
 
 #### Kobokushi (Dual Hand Palm)
 
-|               |                                                     |                      |                 |
-|---------------|-----------------------------------------------------|----------------------|-----------------|
-| **Kobokushi** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|               |                                                                                     |                                      |                 |
+|---------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Kobokushi** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description:
 
@@ -131,9 +133,9 @@ Analyse:
 
 ##### Kobokushi Feinte
 
-|               |                                                                                       |
-|---------------|---------------------------------------------------------------------------------------|
-| **Kobokushi** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") \> ![](2xPunch.png "2xPunch.png") |
+|               |                                                                                                                                       |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Kobokushi** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") \> ![](/images/2xPunch.png "/images/2xPunch.png") |
 
 Description:
 
@@ -141,9 +143,9 @@ Analyse:
 
 #### Nishou Kyaku (Dragonz)
 
-|                  |                                                 |                      |
-|------------------|-------------------------------------------------|----------------------|
-| **Nishou Kyaku** | ![](dp.png "dp.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                  |                                                                                 |                                      |
+|------------------|---------------------------------------------------------------------------------|--------------------------------------|
+| **Nishou Kyaku** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description:
 
@@ -151,9 +153,9 @@ Analyse:
 
 #### Zenpo Tenshin (Choppe spéciale)
 
-|                   |                                                   |                      |
-|-------------------|---------------------------------------------------|----------------------|
-| **Zenpo Tenshin** | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                   |                                                                                   |                                      |
+|-------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Zenpo Tenshin** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description:
 
@@ -161,9 +163,9 @@ Analyse:
 
 #### Tetsuzan Kou (Shoulder Strike)
 
-|                  |                                                   |                      |                 |
-|------------------|---------------------------------------------------|----------------------|-----------------|
-| **Tetsuzan Kou** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|                  |                                                                                   |                                      |                 |
+|------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Tetsuzan Kou** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 Description:Yun fait une tacle de l'épaule Baijiquan Style.
 
@@ -173,9 +175,9 @@ Analyse:
 
 #### Genei Jin
 
-|               |                                                                            |                 |
-|---------------|----------------------------------------------------------------------------|-----------------|
-| **Genei Jin** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | **Armor Break** |
+|               |                                                                                                                            |                 |
+|---------------|----------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Genei Jin** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | **Armor Break** |
 
 Description:Yun crée 3 illusion de son corps qui copiera chaque coup.
 
@@ -185,9 +187,9 @@ Analyse:
 
 #### Youhou (Ultra 1)
 
-|            |                                                                                |                 |
-|------------|--------------------------------------------------------------------------------|-----------------|
-| **Youhou** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") | **Armor Break** |
+|            |                                                                                                                                |                 |
+|------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Youhou** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 Description: Yun fait un combo Shoulder Strike et finalement envoie
 l'adversaire dans l'air.
@@ -196,9 +198,9 @@ Analyse:
 
 #### Sourai Rengeki (Ultra 2)
 
-|                    |                                                                              |
-|--------------------|------------------------------------------------------------------------------|
-| **Sourai Rengeki** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") |
+|                    |                                                                                                                              |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Sourai Rengeki** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Description: Yun fait un combo au sol (cassage de briques inclus yay)
 puis envoie son adversaire dans les airs pour ensuite lui dézinguer la

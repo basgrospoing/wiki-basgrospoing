@@ -1,4 +1,6 @@
-![](Ffspkrauser.PNG)  
+# Wolfgang Krauser (Fatal Fury Special)
+
+![](/images/Ffspkrauser.PNG)  
 
 ## Introduction
 

@@ -1,4 +1,6 @@
-![](kofxi-blue-mary.jpg "kofxi-blue-mary.jpg")
+# The King of Fighters XI - Blue Mary
+
+![](/images/kofxi-blue-mary.jpg "/images/kofxi-blue-mary.jpg")
 
 ## Introduction
 

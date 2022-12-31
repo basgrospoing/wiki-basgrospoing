@@ -1,3 +1,5 @@
+# Marvel vs Capcom 3
+
 ## Personnages
 
 <table>

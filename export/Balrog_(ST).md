@@ -1,4 +1,6 @@
-![](ST_Boxer_portrait.png "ST_Boxer_portrait.png")
+# Balrog (ST)
+
+![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")
 
 ## Introduction
 

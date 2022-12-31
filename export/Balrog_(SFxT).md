@@ -1,3 +1,5 @@
+# Balrog (SFxT)
+
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 
 ## Vue d'ensemble
@@ -10,46 +12,46 @@
 
 ### Coups spéciaux
 
-|                       |                                                                               |
-|-----------------------|-------------------------------------------------------------------------------|
-| **Dash Low Straight** | ![](B.png "B.png") (charge) ![](Df.png "Df.png") + ![](punch.png "punch.png") |
+|                       |                                                                                                                               |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Dash Low Straight** | ![](/images/B.png "/images/B.png") (charge) ![](/images/Df.png "/images/Df.png") + ![](/images/punch.png "/images/punch.png") |
 
 **Low.**
 
-|                    |                                                                             |
-|--------------------|-----------------------------------------------------------------------------|
-| **Dash Low Smash** | ![](B.png "B.png") (charge) ![](Df.png "Df.png") + ![](kick.png "kick.png") |
+|                    |                                                                                                                             |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Dash Low Smash** | ![](/images/B.png "/images/B.png") (charge) ![](/images/Df.png "/images/Df.png") + ![](/images/kick.png "/images/kick.png") |
 
-|                     |                                                                                          |
-|---------------------|------------------------------------------------------------------------------------------|
-| **Dash Swing Blow** | ![](B.png "B.png") (charge) ![](Df.png "Df.png") + ![](punch.png "punch.png") (maintenu) |
+|                     |                                                                                                                                          |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **Dash Swing Blow** | ![](/images/B.png "/images/B.png") (charge) ![](/images/Df.png "/images/Df.png") + ![](/images/punch.png "/images/punch.png") (maintenu) |
 
 **Overhead.**
 
-|                  |                                                                             |
-|------------------|-----------------------------------------------------------------------------|
-| **Buffalo Head** | ![](D.png "D.png") (charge) ![](U.png "U.png") + ![](punch.png "punch.png") |
+|                  |                                                                                                                             |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Buffalo Head** | ![](/images/D.png "/images/D.png") (charge) ![](/images/U.png "/images/U.png") + ![](/images/punch.png "/images/punch.png") |
 
-|                |                                                                                          |
-|----------------|------------------------------------------------------------------------------------------|
-| **Turn Punch** | ![](3xPunch.png "3xPunch.png") ou ![](3xKick.png "3xKick.png") (maintenir puis relâcher) |
+|                |                                                                                                                          |
+|----------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Turn Punch** | ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") (maintenir puis relâcher) |
 
-|                   |                                                                             |
-|-------------------|-----------------------------------------------------------------------------|
-| **Dash Straight** | ![](B.png "B.png") (charge) ![](F.png "F.png") + ![](punch.png "punch.png") |
+|                   |                                                                                                                             |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Dash Straight** | ![](/images/B.png "/images/B.png") (charge) ![](/images/F.png "/images/F.png") + ![](/images/punch.png "/images/punch.png") |
 
 **Super charge.**
 
-|                |                                                                           |
-|----------------|---------------------------------------------------------------------------|
-| **Dash Upper** | ![](B.png "B.png") (charge) ![](F.png "F.png") + ![](kick.png "kick.png") |
+|                |                                                                                                                           |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Dash Upper** | ![](/images/B.png "/images/B.png") (charge) ![](/images/F.png "/images/F.png") + ![](/images/kick.png "/images/kick.png") |
 
 **Super charge.**
 
 ### Super
 
-|                   |                                                                                                                 |
-|-------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Crazy Buffalo** | ![](B.png "B.png") (charge) ![](F.png "F.png") + ![](3xPunch.png "3xPunch.png") ou ![](3xKick.png "3xKick.png") |
+|                   |                                                                                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Crazy Buffalo** | ![](/images/B.png "/images/B.png") (charge) ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## Combos

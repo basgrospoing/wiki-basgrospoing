@@ -1,4 +1,6 @@
-![](Fritz_ABK.jpg "Fritz_ABK.jpg")
+# ABK/Fritz
+
+![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")
 
 # Combos
 
@@ -58,51 +60,11 @@ reversals/dragons.
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width=""
-style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
+<td><p><strong>2A</strong></p>
 <p>Liste des coups par ordre de puissance.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2B</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5B</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">6C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JA</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">JB</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JC</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">J6C</font></strong> -</p></td>
+<td><p><strong>5A</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -112,8 +74,7 @@ style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Maegake 「前駆」 - 236A/B/C/B+C</font></strong></p>
+<td><p><strong>Maegake 「前駆」 - 236A/B/C/B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Déplacement spécial en avant. A
 utiliser pour embrouiller l'adversaire en footsies.</li>
@@ -132,8 +93,7 @@ retour au neutral au prix d'une barre de super.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Ushirogake 「後駆 」 -
-214A/B/C/B+C</font></strong></p>
+<td><p><strong>Ushirogake 「後駆 」 - 214A/B/C/B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Pareil que le 236 mais dans l'autre
 sens.</li>
@@ -147,8 +107,8 @@ sens.</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Hissatsu Kirikomi Touhou 「必殺切込刀法」 - A+B+C </font></strong></p>
+<td><p><strong>Hissatsu Kirikomi Touhou 「必殺切込刀法」 -
+A+B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - "HISSATSU !" ou comment faire
 disparaître la moitié d'une barre de vie. Fritz dash en avant puis fait

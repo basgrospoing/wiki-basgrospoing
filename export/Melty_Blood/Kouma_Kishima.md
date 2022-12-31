@@ -1,10 +1,12 @@
-[ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion
+# Melty Blood/Kouma Kishima
+
+![ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion
 \<br\\\>\<br\\\> **Voiced by:**   Jurota Kosugi (小杉
 十郎太)  —  **Type:**   Crimson Red Vermillion   —  **Gender:**   Male
 \<br\\\>\<br\\\>
 **Birthday:**   Unknow  —  **Height:**   175cm  —  **Weight:**   80kg
 \<br\\\>\<br\\\> **Eye Color:**   Black  —  **Hair Color:**   Black
-\|frame\|right](image:Kouma0.png "wikilink")
+\|frame\|right](/images/Kouma0.png " Name:   Kouma Kishima (軋間 紅摩)  —  Nicknames:    Red Lion <br\><br\> Voiced by:   Jurota Kosugi (小杉 十郎太)  —  Type:   Crimson Red Vermillion   —  Gender:   Male <br\><br\> Birthday:   Unknow  —  Height:   175cm  —  Weight:   80kg <br\><br\> Eye Color:   Black  —  Hair Color:   Black |frame|right")
 
 # Introduction
 
@@ -78,7 +80,7 @@ matchups, quand les styles Crescent et Half ne s'appliquent pas.
 
 # Palettes
 
-![](Kouma-colors.png "Kouma-colors.png")
+![](/images/Kouma-colors.png "/images/Kouma-colors.png")
 
 # Liste de joueurs
 

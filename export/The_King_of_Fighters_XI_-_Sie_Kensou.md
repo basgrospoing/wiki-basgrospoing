@@ -1,4 +1,6 @@
-![](kofxi-sie-kensou.jpg "kofxi-sie-kensou.jpg")
+# The King of Fighters XI - Sie Kensou
+
+![](/images/kofxi-sie-kensou.jpg "/images/kofxi-sie-kensou.jpg")
 
 ## Introduction
 

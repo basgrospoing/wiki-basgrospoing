@@ -1,3 +1,5 @@
+# Hsien Ko (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Hsien-ko (Lei Lei)
 
-![](Umvc3_hsienko_face.jpg‎ "Umvc3_hsienko_face.jpg‎") TBW
+![](/images/Umvc3_hsienko_face.jpg‎ "/images/Umvc3_hsienko_face.jpg‎") TBW
 
 **In a nutshell** In a nutshell Generally regarded as one of the worst
 characters in the game, Hsien Ko is a character that you really need to

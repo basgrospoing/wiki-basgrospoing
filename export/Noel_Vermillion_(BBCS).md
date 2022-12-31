@@ -1,7 +1,11 @@
+# Noel Vermillion (BBCS)
+
 <figure>
-<img src="Bbcs_noel_artwork_01.png" title="Bbcs_noel_artwork_01.png"
-width="150" alt="Bbcs_noel_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_noel_artwork_01.png</figcaption>
+<img src="/images/Bbcs_noel_artwork_01.png"
+title="/images/Bbcs_noel_artwork_01.png" width="150"
+alt="/images/Bbcs_noel_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_noel_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -34,9 +38,11 @@ le même jeu. Elle a aussi chanté 3 chansons de la bande originale :
 ## Couleurs
 
 <figure>
-<img src="Bbcs_noel_costumes.png" title="Bbcs_noel_costumes.png"
-width="600" alt="Bbcs_noel_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_noel_costumes.png</figcaption>
+<img src="/images/Bbcs_noel_costumes.png"
+title="/images/Bbcs_noel_costumes.png" width="600"
+alt="/images/Bbcs_noel_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_noel_costumes.png</figcaption>
 </figure>
 
 Couleurs "hommage" de la seconde palette :

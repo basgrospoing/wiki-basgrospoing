@@ -1,4 +1,7 @@
-<img src="Zero.jpg" title="Zero.jpg" width="250" alt="Zero.jpg" />  
+# Zero (TvC:UAS)
+
+<img src="/images/Zero.jpg" title="/images/Zero.jpg" width="250"
+alt="/images/Zero.jpg" />  
 
 # Introduction
 

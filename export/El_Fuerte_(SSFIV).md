@@ -1,3 +1,5 @@
+# El Fuerte (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -68,9 +70,9 @@ son **Run Stop Fierce**, sont les clés pour avoir un bon Fuerte.
 
 #### Quesadilla Bomb
 
-|                     |                                                |
-|---------------------|------------------------------------------------|
-| **Quesadilla Bomb** | Maintenir ![](Kick.png "Kick.png") et relacher |
+|                     |                                                                |
+|---------------------|----------------------------------------------------------------|
+| **Quesadilla Bomb** | Maintenir ![](/images/Kick.png "/images/Kick.png") et relacher |
 
 #### Wall Jump
 

@@ -1,8 +1,11 @@
+# Arakune (BBCS)
+
 <figure>
-<img src="Bbcs_arakune_artwork_01.png"
-title="Bbcs_arakune_artwork_01.png" width="150"
-alt="Bbcs_arakune_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_arakune_artwork_01.png</figcaption>
+<img src="/images/Bbcs_arakune_artwork_01.png"
+title="/images/Bbcs_arakune_artwork_01.png" width="150"
+alt="/images/Bbcs_arakune_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_arakune_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -47,8 +50,9 @@ casse la garde si elle n'est pas ouverte)
 
 ## Couleurs
 
-<img src="Bbcs_arakune_costumes.png" title="Bbcs_arakune_costumes.png"
-width="600" alt="Bbcs_arakune_costumes.png" /> Couleurs "hommage" de la
+<img src="/images/Bbcs_arakune_costumes.png"
+title="/images/Bbcs_arakune_costumes.png" width="600"
+alt="/images/Bbcs_arakune_costumes.png" /> Couleurs "hommage" de la
 seconde palette :
 
 -Drapeau du Japon

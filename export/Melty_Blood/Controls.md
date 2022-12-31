@@ -1,8 +1,10 @@
+# Melty Blood/Controls
+
 ## Contrôles
 
-`7 8 9     A B C`  
+`7 8 9  A B C`  
 `4 5 6`  
-`1 2 3     D   E`
+`1 2 3  D E`
 
 Ceci est la configuration classique, sur la version Arcade.
 

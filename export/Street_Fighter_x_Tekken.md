@@ -1,49 +1,61 @@
+# Street Fighter x Tekken
+
 ## LES CONTROLES / MOUVEMENTS
 
 ### Boutons
 
 *Notation à la Street Fighter*
 
-- ![](LP.png "LP.png") - **LP** / Light Punch/Petit Poing
-- ![](MP.png "MP.png") - **MP** / Medium Punch/Poing Moyen
-- ![](HP.png "HP.png") - **HP** / Hard Punch/Gros Poing
-- ![](Punch.png "Punch.png") - **P** / N'importe quel Poing
-- ![](LK.png "LK.png") - **LK** / Light Kick/Petit Pied
-- ![](MK.png "MK.png") - **MK** / Medium Kick/Pied Moyen
-- ![](HK.png "HK.png") - **HK** / Hard Kick/Gros Pied
-- ![](Kick.png "Kick.png") - **K** / N'importe quel Pied
+- ![](/images/LP.png "/images/LP.png") - **LP** / Light Punch/Petit
+  Poing
+- ![](/images/MP.png "/images/MP.png") - **MP** / Medium Punch/Poing
+  Moyen
+- ![](/images/HP.png "/images/HP.png") - **HP** / Hard Punch/Gros Poing
+- ![](/images/Punch.png "/images/Punch.png") - **P** / N'importe quel
+  Poing
+- ![](/images/LK.png "/images/LK.png") - **LK** / Light Kick/Petit Pied
+- ![](/images/MK.png "/images/MK.png") - **MK** / Medium Kick/Pied Moyen
+- ![](/images/HK.png "/images/HK.png") - **HK** / Hard Kick/Gros Pied
+- ![](/images/Kick.png "/images/Kick.png") - **K** / N'importe quel Pied
 
 *Notation à la Tekken*
 
-- ![](LP.png "LP.png") - **1** / Left Punch/Poing Gauche
-- ![](MP.png "MP.png") - **2** / Right Punch/Poing Droit
-- ![](LK.png "LK.png") - **3** / Left Kick/Pied Gauche
-- ![](MK.png "MK.png") - **4** / Right Kick/Pied Droit
+- ![](/images/LP.png "/images/LP.png") - **1** / Left Punch/Poing Gauche
+- ![](/images/MP.png "/images/MP.png") - **2** / Right Punch/Poing Droit
+- ![](/images/LK.png "/images/LK.png") - **3** / Left Kick/Pied Gauche
+- ![](/images/MK.png "/images/MK.png") - **4** / Right Kick/Pied Droit
 
 ### Résumé des commandes
 
-- ![](F.png "F.png")\*![](F.png "F.png") ou
-  ![](B.png "B.png")![](B.png "B.png") - Dash avant ou arrière
-- ![](LP.png "LP.png")+![](LK.png "LK.png") - Chope / Déchope
-- ![](MP.png "MP.png")+![](MK.png "MK.png") - Switch (changer de
-  perso) - 1 barre si placé en cancel
-- ![](HP.png "HP.png")+![](HK.png "HK.png") - Launcher manuel
-- ![](F.png "F.png")+![](HP.png "HP.png")+![](HK.png "HK.png") - Cross
-  cancel (aka Alpha Counter) - pendant le blockstun
-- ![](qcf.png "qcf.png")+![](MP.png "MP.png")+![](MK.png "MK.png") -
+- ![](/images/F.png "/images/F.png")\*![](/images/F.png "/images/F.png")
+  ou
+  ![](/images/B.png "/images/B.png")![](/images/B.png "/images/B.png") -
+  Dash avant ou arrière
+- ![](/images/LP.png "/images/LP.png")+![](/images/LK.png "/images/LK.png") -
+  Chope / Déchope
+- ![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png") -
+  Switch (changer de perso) - 1 barre si placé en cancel
+- ![](/images/HP.png "/images/HP.png")+![](/images/HK.png "/images/HK.png") -
+  Launcher manuel
+- ![](/images/F.png "/images/F.png")+![](/images/HP.png "/images/HP.png")+![](/images/HK.png "/images/HK.png") -
+  Cross cancel (aka Alpha Counter) - pendant le blockstun
+- ![](/images/qcf.png "/images/qcf.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png") -
   Cross Art = super coup à 2 persos - 3 barres
-- ![](qcb.png "qcb.png")+![](MP.png "MP.png")+![](MK.png "MK.png") -
+- ![](/images/qcb.png "/images/qcb.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png") -
   Cross Assault = les 2 persos en même temps - 3 barres
-- ![](D.png "D.png")![](D.png "D.png")+![](MP.png "MP.png")+![](MK.png "MK.png") -
+- ![](/images/D.png "/images/D.png")![](/images/D.png "/images/D.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png") -
   Pandora Mode - quand Vie \< 25%
 
 ### Mouvements
 
-- Dash avant / arrière : ![](F.png "F.png")\*![](F.png "F.png") ou
-  ![](B.png "B.png")![](B.png "B.png")
+- Dash avant / arrière :
+  ![](/images/F.png "/images/F.png")\*![](/images/F.png "/images/F.png")
+  ou
+  ![](/images/B.png "/images/B.png")![](/images/B.png "/images/B.png")
   - Permet de canceler une charge (voir plus loin)
   - Tous les backdashs sont invincibles durant 8 frames
-- ![](D.png "D.png") puis ![](U.png "U.png") - High Jump
+- ![](/images/D.png "/images/D.png") puis
+  ![](/images/U.png "/images/U.png") - High Jump
 
 ## LES BARRES
 
@@ -64,18 +76,19 @@
 
 ### Garde
 
-- Comme dans tous les "Street Fighter " : ![](B.png "B.png") pour
-  bloquer les coups "hauts", ![](Db.png "Db.png") pour bloquer les coups
-  "bas"
+- Comme dans tous les "Street Fighter " :
+  ![](/images/B.png "/images/B.png") pour bloquer les coups "hauts",
+  ![](/images/Db.png "/images/Db.png") pour bloquer les coups "bas"
 - Les coups spéciaux / super font toujours de légers dégâts ("chip
   damage") même si ils sont bloqués
 
 ### Recovery
 
-- Quick recovery : taper ![](D.png "D.png") ou 2 boutons à la réception
+- Quick recovery : taper ![](/images/D.png "/images/D.png") ou 2 boutons
+  à la réception
 - Roulade à la relevée "à la Tekken" :
-  - une fois mis au sol, maintenir ![](F.png "F.png") vers l’adversaire
-    lors de la relevée
+  - une fois mis au sol, maintenir ![](/images/F.png "/images/F.png")
+    vers l’adversaire lors de la relevée
   - invincible aux coups et chopes, mais attention à la fin de
     l'invincibilité
 
@@ -84,13 +97,15 @@
 - pour repousser l'adversaire qui bourre dans sa garde, avec un coup
   prédéfini
 - Manip : garder au dernier moment, puis pendant le blockstun, faire
-  ![](F.png "F.png") + ![](HP.png "HP.png")+![](HK.png "HK.png")
+  ![](/images/F.png "/images/F.png") +
+  ![](/images/HP.png "/images/HP.png")+![](/images/HK.png "/images/HK.png")
 
 ## MECANISMES DE BASE
 
 ### Chope / Déchope
 
-- Manip : comme dans SF4, ![](LP.png "LP.png")+![](LK.png "LK.png")
+- Manip : comme dans SF4,
+  ![](/images/LP.png "/images/LP.png")+![](/images/LK.png "/images/LK.png")
 - Idem pour "déchopper"
 - Attention, la distance des chopes de base est assez faible, les chopes
   spéciales (Zangief etc.) sont avantagées
@@ -99,7 +114,8 @@
 
 ### Switcher entre 2 persos
 
-- Manip : ![](MP.png "MP.png")+![](MK.png "MK.png")
+- Manip :
+  ![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
 - Le nouveau perso arrive sans frapper, avec un petit temps de
   vulnérabilité -\> PAS SAFE !!!
 - Mais possible aussi en combos, voir ci-dessous
@@ -107,14 +123,16 @@
 ### Switch cancel
 
 - Canceler un coup pour faire venir le 2ème perso
-- Manip : ![](MP.png "MP.png")+![](MK.png "MK.png") quand le coup touche
-  l'adversaire
+- Manip :
+  ![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
+  quand le coup touche l'adversaire
 - Coûte 1 barre de super
 
 ### Launcher
 
 - Pour projeter adversaire en l'air et changer de perso
-- Manip : ![](HP.png "HP.png")+![](HK.png "HK.png")
+- Manip :
+  ![](/images/HP.png "/images/HP.png")+![](/images/HK.png "/images/HK.png")
 - Immunité aux coups bas !
 - NB : il y a d'autres types de launcher :
   - Les persos Tekken ont leur propre coups launcher (3 maxi dans le
@@ -161,10 +179,10 @@
 ### En résumé
 
 - Manuel :
-  - ![](MP.png "MP.png")+![](MK.png "MK.png") n'importe quand = switch
-    "simple"
-  - ![](MP.png "MP.png")+![](MK.png "MK.png") pendant un combo = switch
-    cancel (1 barre)
+  - ![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
+    n'importe quand = switch "simple"
+  - ![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
+    pendant un combo = switch cancel (1 barre)
 - Automatique :
   - après un launcher manuel
   - pendant un Cross Rush (au moment du coup launcher)
@@ -212,7 +230,7 @@
 ### Super arts
 
 - Manip : comme un coup spécial avec 3P ou 3K (donc souvent un seul
-  ![](qcf.png "qcf.png") ou non pas 2)
+  ![](/images/qcf.png "/images/qcf.png") ou non pas 2)
 - On peut canceler en Super
   - depuis un coup normal, même s'il est dans un chain combo
   - Mais pas depuis un coup spécial
@@ -224,7 +242,7 @@
 
 - Super coup avec les 2 persos
 - Manip :
-  ![](qcf.png "qcf.png")+![](MP.png "MP.png")+![](MK.png "MK.png")
+  ![](/images/qcf.png "/images/qcf.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
 - Très puissant : 400 à 500 points de dégâts
 - L'animation du coup du perso qui active le Cross Art est unique, mais
   celle du 2ème perso est celle de sa Super Art, avec les même dégâts (à
@@ -241,7 +259,7 @@
 ### Cross Assault
 
 - Manip :
-  ![](qcb.png "qcb.png")+![](MP.png "MP.png")+![](MK.png "MK.png")
+  ![](/images/qcb.png "/images/qcb.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
 - Pour avoir ses 2 persos en même temps
 - Vide la barre de Super progressivement
 - ATTENTION : en solo pas possible de switcher entre ses 2 persos, le
@@ -253,7 +271,7 @@
 - Quand barre de vie \< 25% (elle clignote), on peut sacrifier son perso
   pour booster le 2ème
 - Manip =
-  ![](D.png "D.png")![](D.png "D.png")+![](MP.png "MP.png")+![](MK.png "MK.png")
+  ![](/images/D.png "/images/D.png")![](/images/D.png "/images/D.png")+![](/images/MP.png "/images/MP.png")+![](/images/MK.png "/images/MK.png")
 - Bonus :
   - 10 à 15% de dégats en plus
   - Barre de super illimitée, pour coups EX, super arts…

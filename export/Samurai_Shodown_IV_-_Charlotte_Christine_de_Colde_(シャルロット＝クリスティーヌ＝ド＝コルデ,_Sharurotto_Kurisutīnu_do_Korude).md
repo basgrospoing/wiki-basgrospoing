@@ -1,4 +1,6 @@
-![](ss4-Charlotte.gif "ss4-Charlotte.gif")
+# Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do Korude)
+
+![](/images/ss4-Charlotte.gif "/images/ss4-Charlotte.gif")
 
 ## Introduction
 

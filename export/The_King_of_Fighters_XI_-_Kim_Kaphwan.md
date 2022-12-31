@@ -1,4 +1,6 @@
-![](kofxi-kim-kaphwan.jpg "kofxi-kim-kaphwan.jpg")
+# The King of Fighters XI - Kim Kaphwan
+
+![](/images/kofxi-kim-kaphwan.jpg "/images/kofxi-kim-kaphwan.jpg")
 
 ## Introduction
 

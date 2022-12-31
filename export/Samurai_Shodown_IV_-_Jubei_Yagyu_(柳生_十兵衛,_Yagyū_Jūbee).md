@@ -1,4 +1,6 @@
-![](ss4-Jubei.gif "ss4-Jubei.gif")
+# Samurai Shodown IV - Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)
+
+![](/images/ss4-Jubei.gif "/images/ss4-Jubei.gif")
 
 ## Introduction
 

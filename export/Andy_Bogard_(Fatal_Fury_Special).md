@@ -1,4 +1,6 @@
-![](Ffspandy.PNG)  
+# Andy Bogard (Fatal Fury Special)
+
+![](/images/Ffspandy.PNG)  
 
 ## Introduction
 

@@ -1,4 +1,6 @@
-![](kofxi-ralf-jones.jpg "kofxi-ralf-jones.jpg")
+# The King of Fighters XI - Ralf Jones
+
+![](/images/kofxi-ralf-jones.jpg "/images/kofxi-ralf-jones.jpg")
 
 ## Introduction
 

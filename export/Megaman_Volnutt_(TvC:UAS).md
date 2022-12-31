@@ -1,5 +1,7 @@
-<img src="Rockvolnutt.jpg" title="Rockvolnutt.jpg" width="230"
-alt="Rockvolnutt.jpg" />  
+# Megaman Volnutt (TvC:UAS)
+
+<img src="/images/Rockvolnutt.jpg" title="/images/Rockvolnutt.jpg"
+width="230" alt="/images/Rockvolnutt.jpg" />  
 
 # Introduction
 

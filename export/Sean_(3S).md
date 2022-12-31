@@ -1,5 +1,8 @@
-![Character Select Portrait](Sean3sport.gif "Character Select Portrait")
-![Neutral Stance](Sean3s-stance.gif "Neutral Stance")
+# Sean (3S)
+
+![Character Select
+Portrait](/images/Sean3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Sean3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -12,51 +15,53 @@
 
 ## Couleurs
 
-|                              |                              |                              |                              |                              |                              |                                                              |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")         | ![](MP.png "MP.png")         | ![](HP.png "HP.png")         | ![](LK.png "LK.png")         | ![](MK.png "MK.png")         | ![](HK.png "HK.png")         | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Seanlp.gif "Seanlp.gif") | ![](Seanmp.gif "Seanmp.gif") | ![](Seanhp.gif "Seanhp.gif") | ![](Seanlk.gif "Seanlk.gif") | ![](Seanmk.gif "Seanmk.gif") | ![](Seanhk.gif "Seanhk.gif") | ![](Seanlpmkhp.gif "Seanlpmkhp.gif")                         |
-|                              |                              |                              |                              |                              |                              |                                                              |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")         | ![](/images/MP.png "/images/MP.png")         | ![](/images/HP.png "/images/HP.png")         | ![](/images/LK.png "/images/LK.png")         | ![](/images/MK.png "/images/MK.png")         | ![](/images/HK.png "/images/HK.png")         | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Seanlp.gif "/images/Seanlp.gif") | ![](/images/Seanmp.gif "/images/Seanmp.gif") | ![](/images/Seanhp.gif "/images/Seanhp.gif") | ![](/images/Seanlk.gif "/images/Seanlk.gif") | ![](/images/Seanmk.gif "/images/Seanmk.gif") | ![](/images/Seanhk.gif "/images/Seanhk.gif") | ![](/images/Seanlpmkhp.gif "/images/Seanlpmkhp.gif")                                                         |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|             |                                                                            |
-|-------------|----------------------------------------------------------------------------|
-| Seoi Throw  | ![](F.png "F.png") ou Neutre + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-| Tomoe Throw | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png")           |
+|             |                                                                                                                            |
+|-------------|----------------------------------------------------------------------------------------------------------------------------|
+| Seoi Throw  | ![](/images/F.png "/images/F.png") ou Neutre + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+| Tomoe Throw | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")           |
 
 ### Normaux
 
-|               |                                           |
-|---------------|-------------------------------------------|
-| Sean Pachiki  | ![](F.png "F.png") + ![](HP.png "HP.png") |
-| Rolling Sobat | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|               |                                                                           |
+|---------------|---------------------------------------------------------------------------|
+| Sean Pachiki  | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
+| Rolling Sobat | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Target Combos
 
-- Près ![](MP.png "MP.png") -\> ![](HK.png "HK.png")
-- Près ![](HP.png "HP.png") -\> ![](F.png "F.png") +
-  ![](HP.png "HP.png")
+- Près ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HK.png "/images/HK.png")
+- Près ![](/images/HP.png "/images/HP.png") -\>
+  ![](/images/F.png "/images/F.png") +
+  ![](/images/HP.png "/images/HP.png")
 
 ### Coups Spéciaux
 
-|              |                                                                                                      |     |
-|--------------|------------------------------------------------------------------------------------------------------|-----|
-| Sean Tackle  | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png") maintenir ![](Punch.png "Punch.png") pour tacler | EX  |
-| Tornado Kick | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png")                                                    | EX  |
-| Ryubi-Kyaku  | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")                                                    | EX  |
-| Dragon Smash | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")                                                    | EX  |
-| Zenten       | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png")                                                  |     |
+|              |                                                                                                                                                      |     |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Sean Tackle  | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png") maintenir ![](/images/Punch.png "/images/Punch.png") pour tacler | EX  |
+| Tornado Kick | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png")                                                                    | EX  |
+| Ryubi-Kyaku  | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")                                                                    | EX  |
+| Dragon Smash | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")                                                                    | EX  |
+| Zenten       | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png")                                                                  |     |
 
 ### Super Arts
 
-|     |               |                                                                                           |          |
-|-----|---------------|-------------------------------------------------------------------------------------------|----------|
-| I   | Hado-Burst    | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                | 3 stocks |
-| II  | Shoryu-Cannon | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") en répétitions | 2 stocks |
-| III | Hyper Tornado | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                | 1 stock  |
+|     |               |                                                                                                                                           |          |
+|-----|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Hado-Burst    | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                | 3 stocks |
+| II  | Shoryu-Cannon | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") en répétitions | 2 stocks |
+| III | Hyper Tornado | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                | 1 stock  |
 
 ## Stratégie
 

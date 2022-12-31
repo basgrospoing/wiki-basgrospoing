@@ -1,4 +1,7 @@
+# Lawn
+
 <figure>
-<img src="_lawn.png" title="_lawn.png" width="250" alt="_lawn.png" />
-<figcaption aria-hidden="true">_lawn.png</figcaption>
+<img src="/images/_lawn.png" title="/images/_lawn.png" width="250"
+alt="/images/_lawn.png" />
+<figcaption aria-hidden="true">/images/_lawn.png</figcaption>
 </figure>

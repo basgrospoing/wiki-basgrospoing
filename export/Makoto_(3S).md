@@ -1,6 +1,8 @@
+# Makoto (3S)
+
 ![Character Select
-Portrait](makoto3sport.gif "Character Select Portrait") ![Neutral
-Stance](makoto3s-stance.gif "Neutral Stance")
+Portrait](/images/makoto3sport.gif "Character Select Portrait")
+![Neutral Stance](/images/makoto3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -20,62 +22,67 @@ Stance](makoto3s-stance.gif "Neutral Stance")
 
 ## Couleurs
 
-|                                  |                                  |                                  |                                  |                                  |                                  |                                                              |
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")             | ![](MP.png "MP.png")             | ![](HP.png "HP.png")             | ![](LK.png "LK.png")             | ![](MK.png "MK.png")             | ![](HK.png "HK.png")             | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Makotolp.gif "Makotolp.gif") | ![](Makotomp.gif "Makotomp.gif") | ![](Makotohp.gif "Makotohp.gif") | ![](Makotolk.gif "Makotolk.gif") | ![](Makotomk.gif "Makotomk.gif") | ![](Makotohk.gif "Makotohk.gif") | ![](Makotolpmkhp.gif "Makotolpmkhp.gif")                     |
-|                                  |                                  |                                  |                                  |                                  |                                  |                                                              |
+|                                                  |                                                  |                                                  |                                                  |                                                  |                                                  |                                                                                                              |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")             | ![](/images/MP.png "/images/MP.png")             | ![](/images/HP.png "/images/HP.png")             | ![](/images/LK.png "/images/LK.png")             | ![](/images/MK.png "/images/MK.png")             | ![](/images/HK.png "/images/HK.png")             | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Makotolp.gif "/images/Makotolp.gif") | ![](/images/Makotomp.gif "/images/Makotomp.gif") | ![](/images/Makotohp.gif "/images/Makotohp.gif") | ![](/images/Makotolk.gif "/images/Makotolk.gif") | ![](/images/Makotomk.gif "/images/Makotomk.gif") | ![](/images/Makotohk.gif "/images/Makotohk.gif") | ![](/images/Makotolpmkhp.gif "/images/Makotolpmkhp.gif")                                                     |
+|                                                  |                                                  |                                                  |                                                  |                                                  |                                                  |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|         |                                                                                      |
-|---------|--------------------------------------------------------------------------------------|
-| Tacchuu | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                          |
-| Araiso  | ![](F.png "F.png") ou ![](B.png "B.png") ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|         |                                                                                                                                                      |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tacchuu | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                          |
+| Araiso  | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|          |                                                                                                   |
-|----------|---------------------------------------------------------------------------------------------------|
-| Kazami   | ![](F.png "F.png") + ![](LP.png "LP.png")                                                         |
-| Kaoruna  | ![](F.png "F.png") + ![](MP.png "MP.png")                                                         |
-| Shimaki  | ![](F.png "F.png") + ![](HP.png "HP.png")                                                         |
-|          | Appuyer sur ![](HP.png "HP.png") au cours de ce mouvement pour rallonger le coup (jusqu'à 2 fois) |
-| Shinbuki | ![](F.png "F.png") + ![](LK.png "LK.png")                                                         |
-| Naruto   | ![](F.png "F.png") + ![](MK.png "MK.png")                                                         |
-| Kurushio | ![](F.png "F.png") + ![](HK.png "HK.png")                                                         |
+|          |                                                                                                                   |
+|----------|-------------------------------------------------------------------------------------------------------------------|
+| Kazami   | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png")                                         |
+| Kaoruna  | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png")                                         |
+| Shimaki  | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png")                                         |
+|          | Appuyer sur ![](/images/HP.png "/images/HP.png") au cours de ce mouvement pour rallonger le coup (jusqu'à 2 fois) |
+| Shinbuki | ![](/images/F.png "/images/F.png") + ![](/images/LK.png "/images/LK.png")                                         |
+| Naruto   | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")                                         |
+| Kurushio | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png")                                         |
 
 ### Target Combos
 
-- ![](LP.png "LP.png") -\> ![](LK.png "LK.png") -\> ![](MK.png "MK.png")
+- ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- ![](LK.png "LK.png") -\> ![](MK.png "MK.png")
+- ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- ![](F.png "F.png") + ![](MK.png "MK.png") -\> ![](HK.png "HK.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/HK.png "/images/HK.png")
 
 ### Coups Spéciaux
 
-|          |                                                             |      |
-|----------|-------------------------------------------------------------|------|
-| Hayate   | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")         | (EX) |
-| Fukiage  | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")           | (EX) |
-| Karakusa | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")           |      |
-| Oroshi   | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png")         | (EX) |
-| Tsurugi  | **(Air)** ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") | (EX) |
+|          |                                                                                             |      |
+|----------|---------------------------------------------------------------------------------------------|------|
+| Hayate   | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")         | (EX) |
+| Fukiage  | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")           | (EX) |
+| Karakusa | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")           |      |
+| Oroshi   | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png")         | (EX) |
+| Tsurugi  | **(Air)** ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | (EX) |
 
 ### Super Arts
 
-|     |                     |                                                                            |          |
-|-----|---------------------|----------------------------------------------------------------------------|----------|
-| I   | Seichusen-Godanzuki | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
-| II  | Abare-Tosanami      | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")   | 2 stocks |
-| III | Tanden-Renki        | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
+|     |                     |                                                                                                                            |          |
+|-----|---------------------|----------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Seichusen-Godanzuki | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
+| II  | Abare-Tosanami      | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")   | 2 stocks |
+| III | Tanden-Renki        | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
 
 ## Stratégie
 

@@ -1,4 +1,6 @@
-![](Jubei.PNG)  
+# Jubei Yamada (Fatal Fury Special)
+
+![](/images/Jubei.PNG)  
 
 ## Introduction
 

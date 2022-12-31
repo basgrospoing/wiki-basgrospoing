@@ -1,5 +1,7 @@
-<img src="Kaijinnosoki.jpg" title="Kaijinnosoki.jpg" width="250"
-alt="Kaijinnosoki.jpg" />  
+# Kaijin No Soki (TvC:UAS)
+
+<img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"
+width="250" alt="/images/Kaijinnosoki.jpg" />  
 
 # Introduction
 

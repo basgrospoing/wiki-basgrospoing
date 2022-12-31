@@ -1,4 +1,6 @@
-![](Bigbear.PNG)  
+# Big Bear (Fatal Fury Special)
+
+![](/images/Bigbear.PNG)  
 
 ## Introduction
 

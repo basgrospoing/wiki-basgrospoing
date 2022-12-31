@@ -1,3 +1,5 @@
+# Amaterasu (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,10 +8,10 @@
 
 ## Amaterasu
 
-![](Umvc3_amaterasu_face.jpg‎ "Umvc3_amaterasu_face.jpg‎") Amaterasu, the
-sun goddess, lost her physical form defeating the True Orochi. 100 years
-later she was resurrected in the form of a wolf who now uses her powers
-to restore beauty to the islands of Japan.
+![](/images/Umvc3_amaterasu_face.jpg‎ "/images/Umvc3_amaterasu_face.jpg‎")
+Amaterasu, the sun goddess, lost her physical form defeating the True
+Orochi. 100 years later she was resurrected in the form of a wolf who
+now uses her powers to restore beauty to the islands of Japan.
 
 **In a nutshell** Amaterasu is a very unique and versatile character due
 to her extensive weapons and swift defense. She is well equiped to force

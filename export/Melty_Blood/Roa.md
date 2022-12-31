@@ -1,10 +1,12 @@
-[ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン
+# Melty Blood/Roa
+
+![ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン
 )  —  **Nicknames:**    Serpent of Akasha \<br\\\>\<br\\\> **Voiced
 by:**   Ken Narita (成田 剣)  —  **Type:**   Dead Apostle Ancestor
   —  **Gender:**   Male \<br\\\>\<br\\\> **Birthday:**   Sept 29
   —  **Height:**   178cm  —  **Weight:**   65kg \<br\\\>\<br\\\> **Eye
 Color:**   Red  —  **Hair Color:**   Black
-\|frame\|right](image:Roa1.png "wikilink")
+\|frame\|right](/images/Roa1.png " Name:   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン )  —  Nicknames:    Serpent of Akasha <br\><br\> Voiced by:   Ken Narita (成田 剣)  —  Type:   Dead Apostle Ancestor   —  Gender:   Male <br\><br\> Birthday:   Sept 29   —  Height:   178cm  —  Weight:   65kg <br\><br\> Eye Color:   Red  —  Hair Color:   Black |frame|right")
 
 # Introduction
 
@@ -35,7 +37,7 @@ concurrence.
 
 # Palettes
 
-![](Roa-colors.png "Roa-colors.png")
+![](/images/Roa-colors.png "/images/Roa-colors.png")
 
 # Liste de joueurs
 

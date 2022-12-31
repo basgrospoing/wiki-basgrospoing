@@ -1,10 +1,12 @@
-[ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
+# Melty Blood/Mech-Hisui
+
+![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki
 (松来未祐)  —  **Type:**   Robot   —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**   ?  —  **Sizes:**   ? / ? /
 ?  —  **Height:**   ?cm  —  **Weight:**   ?kg \<br\\\>\<br\\\> **Eye
 Color:**   Grey  —  **Hair Color:**   Purple
-\|frame\|right](image:Mhisui0.png "wikilink")
+\|frame\|right](/images/Mhisui0.png " Name:   Mech-Hisui (メカヒスイ)  —  Nicknames:    - <br\><br\> Voiced by:   Miyu Matsuki (松来未祐)  —  Type:   Robot   —  Gender:   Female <br\><br\> Birthday:   ?  —  Sizes:   ? / ? / ?  —  Height:   ?cm  —  Weight:   ?kg <br\><br\> Eye Color:   Grey  —  Hair Color:   Purple |frame|right")
 
 # Introduction
 
@@ -45,7 +47,7 @@ l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
 
 # Palettes
 
-![](Mhisui-colors.png "Mhisui-colors.png")
+![](/images/Mhisui-colors.png "/images/Mhisui-colors.png")
 
 # Liste de joueurs
 

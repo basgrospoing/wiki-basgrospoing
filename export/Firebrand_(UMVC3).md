@@ -1,3 +1,5 @@
+# Firebrand (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,8 @@
 
 ## Firebrand
 
-![](Umvc3_firebrand_face.jpg‎ "Umvc3_firebrand_face.jpg‎") TBW
+![](/images/Umvc3_firebrand_face.jpg‎ "/images/Umvc3_firebrand_face.jpg‎")
+TBW
 
 **In a nutshell** Firebrand uses flight mixups and projectiles to open
 an opponent's defenses. While he may not deal much damage, his combos

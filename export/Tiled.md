@@ -1,4 +1,7 @@
+# Tiled
+
 <figure>
-<img src="_tiled.png" title="_tiled.png" width="250" alt="_tiled.png" />
-<figcaption aria-hidden="true">_tiled.png</figcaption>
+<img src="/images/_tiled.png" title="/images/_tiled.png" width="250"
+alt="/images/_tiled.png" />
+<figcaption aria-hidden="true">/images/_tiled.png</figcaption>
 </figure>

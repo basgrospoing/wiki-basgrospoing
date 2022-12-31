@@ -1,4 +1,6 @@
-![](ss4-Kyoshiro.gif "ss4-Kyoshiro.gif")
+# Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshirō)
+
+![](/images/ss4-Kyoshiro.gif "/images/ss4-Kyoshiro.gif")
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# Hinako Shijou (2k2um)
+
 ## Introduction
 
 ## Moves List

@@ -1,3 +1,5 @@
+# Melty Blood/Shiki Nanaya/Crescent Moon
+
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.
@@ -185,70 +187,62 @@ continuant avec 2C 5BB j.BC j.BC airthrow ou 2C 5BB 236C 2C 214A.
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">2A
-[Mid]</font></strong></p>
+<td><p><strong>2A [Mid]</strong></p>
 <p>-Startup : 4 frames, frame actives : 4 frames, recovery : 7
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A[Mid]</font></strong></p>
+<td><p><strong>5A[Mid]</strong></p>
 <p>-Startup : 4 frames, frame actives : 4 frames, recovery : 6
 frames</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">2B
-[Low]</font></strong></p>
+<td><p><strong>2B [Low]</strong></p>
 <p>-Startup : 7 frames, frame actives : 6 frames, recovery : 14
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5B [Mid]</font></strong></p>
+<td><p><strong>5B [Mid]</strong></p>
 <p>-Startup : 7 frames, frame actives : 4 frames, recovery : 10
 frames</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">5B-&gt;B [Mid]</font></strong></p>
+<td><p><strong>5B-&gt;B [Mid]</strong></p>
 <p>-Startup : 4 frames, frame actives : 4 frames, recovery : 25
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5B-&gt;[B]
-[Overhead]</font></strong></p>
+<td><p><strong>5B-&gt;[B] [Overhead]</strong></p>
 <p>-Startup : 27 frames, frame actives : 4 frames, recovery : 25
 frames</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">2C
-[Low]</font></strong></p>
+<td><p><strong>2C [Low]</strong></p>
 <p>-Startup : 10 frames, frame actives : 9 frames, recovery : 11
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5C [Mid]</font></strong></p>
+<td><p><strong>5C [Mid]</strong></p>
 <p>-Startup : ~12 frames, frame actives : 5 frames, recovery : 26
 frames</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">5[C] [Overhead]</font></strong></p>
+<td><p><strong>5[C] [Overhead]</strong></p>
 <p>-Startup : 26 frames, frame actives : 4 frames, recovery : 28
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">j.A [Mid]</font></strong></p>
+<td><p><strong>j.A [Mid]</strong></p>
 <p>-Startup : 5 frames, frame actives : 4 frames, recovery : ~11
 frames</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j.B [Overhead]</font></strong></p>
+<td><p><strong>j.B [Overhead]</strong></p>
 <p>-Startup : 6 frames, frame actives : 4 frames, recovery : 16
 frames</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">j.C
-[Overhead]</font></strong></p>
+<td><p><strong>j.C [Overhead]</strong></p>
 <p>-Startup : 9 frames, frame actives : 6 frames, recovery : 11
 frames</p></td>
 </tr>
@@ -260,8 +254,7 @@ frames</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Sensou・Suigetsu 「閃走・水月」 - 22ABC</font></strong></p>
+<td><p><strong>Sensou・Suigetsu 「閃走・水月」 - 22ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Téléportations non offensif.</li>
 <li><strong>(A version)</strong> - Après la stance, se téléporte en
@@ -310,8 +303,7 @@ en fin de compte ne fait rien. Ce coup est cancelable par n'importe quoi
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Sensa・Hattenshou
-「閃鞘・八点衝」 - 236ABC</font></strong></p>
+<td><p><strong>Sensa・Hattenshou 「閃鞘・八点衝」 - 236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya éxécute une rafale de coup
 de couteau devant lui, aussi appelé "Les Milles Couteaux".</li>
@@ -326,8 +318,7 @@ de la frame 6 à la frame 10. Donne un soft knockdown.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Sensou・Rikuto 「閃走・六兎」 - 623ABC</font></strong></p>
+<td><p><strong>Sensou・Rikuto 「閃走・六兎」 - 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya se propulse en l'air, le
 pied en avant.</li>
@@ -352,8 +343,7 @@ bon oki.
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Sensa~ 「閃鞘～」 -
-214ABC</font></strong></p>
+<td><p><strong>Sensa~ 「閃鞘～」 - 214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Téléportations offensifs.</li>
 <li><strong>(version A: Hassen)</strong> - Si l'adversaire est sur le
@@ -390,8 +380,7 @@ mixup.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Kyuukouka/Fastfall 「急降下」 - j.22</font></strong></p>
+<td><p><strong>Kyuukouka/Fastfall 「急降下」 - j.22</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Comme son nom l'indique, permet à
 Nanaya de stopper son momentum en l'air et de rapidement descendre au
@@ -406,9 +395,8 @@ sol.</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en HEAT ou en MAX
-</font></strong></p>
+<td><p><strong>Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en HEAT
+ou en MAX</strong></p>
 <ul>
 <li>Dêgats: 2500</li>
 <li>Le temps se ralentie et Nanaya fait un saut en arc. Les frames
@@ -427,9 +415,8 @@ beaucoup de dégâts.</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en BLOOD HEAT
-</font></strong></p>
+<td><p><strong>Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en BLOOD
+HEAT</strong></p>
 <ul>
 <li>Dégâts :5483</li>
 <li>Le temps se ralentie et Nanaya fait un saut en arc avec un clone
@@ -446,9 +433,8 @@ frames actives. Ce coup est imbloquable.</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Kyokushi・Nanaya 「極死・七夜」- EX shield en BLOOD HEAT assis ou debout
-</font></strong></p>
+<td><p><strong>Kyokushi・Nanaya 「極死・七夜」- EX shield en BLOOD HEAT
+assis ou debout</strong></p>
 <ul>
 <li><strong>(Description)</strong> - LA description. Indiquer dans quel
 position il est activé.</li>

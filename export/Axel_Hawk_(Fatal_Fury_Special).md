@@ -1,4 +1,6 @@
-![](Axel.PNG)  
+# Axel Hawk (Fatal Fury Special)
+
+![](/images/Axel.PNG)  
 
 ## Introduction
 

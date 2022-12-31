@@ -1,4 +1,7 @@
-<img src="ffsp.jpg" title="ffsp.jpg" width="200" alt="ffsp.jpg" />  
+# Fatal Fury Special
+
+<img src="/images/ffsp.jpg" title="/images/ffsp.jpg" width="200"
+alt="/images/ffsp.jpg" />  
 
 ## Introduction
 
@@ -31,13 +34,13 @@ possibilité de débloquer Ryo Sakazaki dans la version console, la
 version CD propose en plus des musiques réorchestrées et des temps de
 chargement relativement courts
 
-<img src="Ngcdffsp.jpg" title="Ngcdffsp.jpg" width="250"
-alt="Ngcdffsp.jpg" />  
+<img src="/images/Ngcdffsp.jpg" title="/images/Ngcdffsp.jpg" width="250"
+alt="/images/Ngcdffsp.jpg" />  
 
 **Version Super Nes (US) / Super Famicom**  
 
-<img src="Snesffsp.jpg" title="Snesffsp.jpg" width="280"
-alt="Snesffsp.jpg" />  
+<img src="/images/Snesffsp.jpg" title="/images/Snesffsp.jpg" width="280"
+alt="/images/Snesffsp.jpg" />  
 
 **Version Super Nintendo (PAL)**  
 Pour la version européenne, Takara n' a alloué que 24 MB à la cartouche,
@@ -46,21 +49,22 @@ personnages à l' appel
 (Cheng Sinzan, Axel Hawk, Big Bear, Laurence Blood) et le jeu est
 beaucoup trop lent en 50 Hz. Une version à éviter
 
-![](Rostersninffsp.png "Rostersninffsp.png")  
+![](/images/Rostersninffsp.png "/images/Rostersninffsp.png")  
 
 **Version PC Engine CD ROM**  
 
-<img src="Pcecdromffsp.jpg" title="Pcecdromffsp.jpg" width="250"
-alt="Pcecdromffsp.jpg" />  
+<img src="/images/Pcecdromffsp.jpg" title="/images/Pcecdromffsp.jpg"
+width="250" alt="/images/Pcecdromffsp.jpg" />  
 
 **Version Mega-CD**  
 
-<img src="Megacdffsp.jpg" title="Megacdffsp.jpg" width="200"
-alt="Megacdffsp.jpg" />  
+<img src="/images/Megacdffsp.jpg" title="/images/Megacdffsp.jpg"
+width="200" alt="/images/Megacdffsp.jpg" />  
 
 **Version Game Gear**  
 
-<img src="Ggffsp.jpg" title="Ggffsp.jpg" width="200" alt="Ggffsp.jpg" />  
+<img src="/images/Ggffsp.jpg" title="/images/Ggffsp.jpg" width="200"
+alt="/images/Ggffsp.jpg" />  
 
 **Version PlayStation 2**  
 La version de cette compilation ressemble plus à un portage opportuniste
@@ -68,8 +72,8 @@ qu' à une vraie conversion,l' émulation du titre s' accompagne d' un
 filtre graphique particuliérement mal venu. Une version à éviter une
 fois de plus
 
-<img src="Ffbavol1ps2.jpg" title="Ffbavol1ps2.jpg" width="200"
-alt="Ffbavol1ps2.jpg" />  
+<img src="/images/Ffbavol1ps2.jpg" title="/images/Ffbavol1ps2.jpg"
+width="200" alt="/images/Ffbavol1ps2.jpg" />  
 
 **Version Wii (Console Virtuelle)**  
 Rien de spécial à dire sur la version Wii, on a affaire à une émulation

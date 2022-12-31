@@ -1,3 +1,5 @@
+# Joe Higashi (KoF '94-Era) (KoF '98)
+
 ## Introduction
 
 ## Liste des coups

@@ -1,4 +1,6 @@
-![](3s_logo.gif "3s_logo.gif")
+# Street Fighter 3: 3rd Strike
+
+![](/images/3s_logo.gif "/images/3s_logo.gif")
 
 ## Introduction
 
@@ -6,13 +8,15 @@ Street Fighter 3: 3rd Strike est la dernière version de la série SF3,
 les deux précédentes étant SF3: New Generation et SF3 : Second Impact.
 Les principales différences que l'on trouve dans 3rd Strike : une
 nouvelle manipulation pour la chope (en appuyant sur
-![](LP.png "LP.png") + ![](LK.png "LK.png")), les universal overheads
-(![](MP.png "MP.png") + ![](MK.png "MK.png")), le choix de son
-adversaire en mode Arcade, le retour du stage bonus où l'on détruit une
-voiture, une nouvelle bande son, de nouveaux stages, et 5 nouveaux
-personnages. ([Chun-Li](Chun-Li_(3S) "wikilink"),
-[Q](Q_(3S) "wikilink"), [Twelve](Twelve_(3S) "wikilink"),
-[Remy](Remy_(3S) "wikilink") et [Makoto](Makoto_(3S) "wikilink"))
+![](/images/LP.png "/images/LP.png") +
+![](/images/LK.png "/images/LK.png")), les universal overheads
+(![](/images/MP.png "/images/MP.png") +
+![](/images/MK.png "/images/MK.png")), le choix de son adversaire en
+mode Arcade, le retour du stage bonus où l'on détruit une voiture, une
+nouvelle bande son, de nouveaux stages, et 5 nouveaux personnages.
+([Chun-Li](Chun-Li_(3S) "wikilink"), [Q](Q_(3S) "wikilink"),
+[Twelve](Twelve_(3S) "wikilink"), [Remy](Remy_(3S) "wikilink") et
+[Makoto](Makoto_(3S) "wikilink"))
 
 Des versions consoles de Street Fighter 3: 3rd Strike existent sur
 Dreamcast, Ps2 et Xbox. La version Dreamcast est sortie en 2000 avec
@@ -48,36 +52,40 @@ l'interopérabilité des discussions entre joueurs de deux langues
 différentes. Pour faciliter la lecture des wikis en général, apprendre
 ces notations est conseillé.
 
-- ![](F.png "F.png") - **Forward/Avant** - Pencher le stick vers
-  l'avant/vers l'adversaire. (axe-X)
-- ![](B.png "B.png") - **Back/Arrière** - Pencher le stick vers
-  l'arrière/à l'opposé de l'adversaire. (axe-X)
-- ![](U.png "U.png") - **Up/Haut** - Pencher le stick vers le haut.
-  (axe-Y)
-- ![](D.png "D.png") - **Down/Bas** - Pencher le stick vers le bas.
-  (axe-Y)
-- ![](qcf.png "qcf.png") - **Quarter circle forward/Quart de Cercle vers
-  l'Avant** - Pencher le stick vers le bas, puis vers le bas et l'avant,
-  puis vers l'avant. Communément utilisé pour les projectiles.
-- ![](qcb.png "qcb.png") - **Quarter circle backward/Quart de Cercle
-  Arrière** - Pencher le stick vers le bas, puis vers le bas et
+- ![](/images/F.png "/images/F.png") - **Forward/Avant** - Pencher le
+  stick vers l'avant/vers l'adversaire. (axe-X)
+- ![](/images/B.png "/images/B.png") - **Back/Arrière** - Pencher le
+  stick vers l'arrière/à l'opposé de l'adversaire. (axe-X)
+- ![](/images/U.png "/images/U.png") - **Up/Haut** - Pencher le stick
+  vers le haut. (axe-Y)
+- ![](/images/D.png "/images/D.png") - **Down/Bas** - Pencher le stick
+  vers le bas. (axe-Y)
+- ![](/images/qcf.png "/images/qcf.png") - **Quarter circle
+  forward/Quart de Cercle vers l'Avant** - Pencher le stick vers le bas,
+  puis vers le bas et l'avant, puis vers l'avant. Communément utilisé
+  pour les projectiles.
+- ![](/images/qcb.png "/images/qcb.png") - **Quarter circle
+  backward/Quart de Cercle Arrière** - Pencher le stick vers le bas,
+  puis vers le bas et l'arrière, puis vers l'arrière.
+- ![](/images/hcf.png "/images/hcf.png") - **Half circle
+  forward/Demi-tour Avant** - Pencher le stick vers l'arrière, puis vers
+  l'arrière et le bas, puis vers le bas, puis vers le bas et l'avant,
+  puis vers l'avant.
+- ![](/images/hcb.png "/images/hcb.png") - **Half circle
+  backward/Demi-Tour Arrière** - Pencher le stick vers l'avant, puis
+  vers l'avant et le bas, puis vers le bas, puis vers le bas et
   l'arrière, puis vers l'arrière.
-- ![](hcf.png "hcf.png") - **Half circle forward/Demi-tour Avant** -
-  Pencher le stick vers l'arrière, puis vers l'arrière et le bas, puis
-  vers le bas, puis vers le bas et l'avant, puis vers l'avant.
-- ![](hcb.png "hcb.png") - **Half circle backward/Demi-Tour Arrière** -
-  Pencher le stick vers l'avant, puis vers l'avant et le bas, puis vers
-  le bas, puis vers le bas et l'arrière, puis vers l'arrière.
-- ![](dp.png "dp.png") - **Dragon punch/Shoryuken** - Pencher le stick
-  vers l'avant, puis vers le bas, puis vers le bas et l'avant.
-- [image:rdp.png](image:rdp.png "wikilink") - **Reversed Dragon
+- ![](/images/dp.png "/images/dp.png") - **Dragon punch/Shoryuken** -
+  Pencher le stick vers l'avant, puis vers le bas, puis vers le bas et
+  l'avant.
+- ![](/images/rdp.png "/images/rdp.png") - **Reversed Dragon
   punch/Shoryuken** - Pencher le stick vers l'arrière, puis vers le bas,
   puis vers le bas et l'arrière.
-- ![](360.png "360.png") - **Full circle/Tour Complet** - Faire une
-  rotation complète du stick (360°)
-- ![](360.png "360.png")![](360.png "360.png") - **Double Full
-  Circle/Double Tour Complet/720** - Faire deux rotations complètes du
-  stick (720°)
+- ![](/images/360.png "/images/360.png") - **Full circle/Tour
+  Complet** - Faire une rotation complète du stick (360°)
+- ![](/images/360.png "/images/360.png")![](/images/360.png "/images/360.png") -
+  **Double Full Circle/Double Tour Complet/720** - Faire deux rotations
+  complètes du stick (720°)
 - **"Charge"** - Pencher le stick vers l'arrière, puis pencher le stick
   vers l'avant (les directions peuvent changer en fonction de la
   manipulation de la charge)
@@ -92,19 +100,22 @@ l'axe-X et vice-versa.
 Exprimées comme telles : Notation - Mouvement - (Bouton par défaut sur
 Xbox) - (Boutons par défaut sur PS2)
 
-- ![](LP.png "LP.png") - **LP**/Light Punch/Petit Poing - (X) - (Carré)
-- ![](MP.png "MP.png") - **MP**/Medium Punch/Moyen Poing - (Y) -
-  (Triangle)
-- ![](HP.png "HP.png") - **HP**/Heavy Punch/Gros Poing - (Gachette
-  Droite/Blanche) - (R1)
-- ![](Punch.png "Punch.png") - Any punch/N'importe quel Poing -
-  (X/Y/Gachette Droite/Blanche) - (Carré/Triangle/R1)
-- ![](LK.png "LK.png") - **LK**/Light Kick/ Petit Pied - (A) - (X)
-- ![](MK.png "MK.png") - **MK**/Medium Kick/Moyen Pied - (B) - (Rond)
-- ![](HK.png "HK.png") - **HK**/Heavy Kick/Gros Pied - (Gachette
-  Gauche/Noir) - (R2)
-- ![](Kick.png "Kick.png") = Any kick/N'importe quel Pied -
-  (A/B/Gachette Gauche/Noir) - (X/Rond/R2)
+- ![](/images/LP.png "/images/LP.png") - **LP**/Light Punch/Petit
+  Poing - (X) - (Carré)
+- ![](/images/MP.png "/images/MP.png") - **MP**/Medium Punch/Moyen
+  Poing - (Y) - (Triangle)
+- ![](/images/HP.png "/images/HP.png") - **HP**/Heavy Punch/Gros Poing -
+  (Gachette Droite/Blanche) - (R1)
+- ![](/images/Punch.png "/images/Punch.png") - Any punch/N'importe quel
+  Poing - (X/Y/Gachette Droite/Blanche) - (Carré/Triangle/R1)
+- ![](/images/LK.png "/images/LK.png") - **LK**/Light Kick/ Petit
+  Pied - (A) - (X)
+- ![](/images/MK.png "/images/MK.png") - **MK**/Medium Kick/Moyen
+  Pied - (B) - (Rond)
+- ![](/images/HK.png "/images/HK.png") - **HK**/Heavy Kick/Gros Pied -
+  (Gachette Gauche/Noir) - (R2)
+- ![](/images/Kick.png "/images/Kick.png") = Any kick/N'importe quel
+  Pied - (A/B/Gachette Gauche/Noir) - (X/Rond/R2)
 
 Les gens utilisent parfois le mot "mouvement" en parlant d'une notation.
 
@@ -119,7 +130,7 @@ directions et/ou les boutons.
   être faites au même moment. Ex. "X" + "Y", "X" devra être utilisé en
   même temps que "Y".
 
-*Exemple en jeu : F + ![](MP.png "MP.png")*
+*Exemple en jeu : F + ![](/images/MP.png "/images/MP.png")*
 
 - -\> (ou "\>" ou ","): Indique la prochaine partie d'une séquence de
   notations. Ex. "X" -\> "Y" -\> "Z", Après avoir utilisé "X", "Y" suit,
@@ -134,14 +145,16 @@ directions et/ou les boutons.
   annulation de manière ascendante : Coups Normaux \> Coups Spéciaux \>
   Supers.
 
-''Exemple en jeu : ![](MP.png "MP.png"), ![](HP.png "HP.png") xx SA III
+''Exemple en jeu : ![](/images/MP.png "/images/MP.png"),
+![](/images/HP.png "/images/HP.png") xx SA III
 
 - \~: Indique un link depuis l'action précédente (enchaînement à la fin
   de la notation précédente) vers l'action suivante. Ex. "X" \~ "Y", "X"
   sera immédiatement suivi par "Y"
 
-*Exemple en jeu : ![](LK.png "LK.png") \~ ![](MP.png "MP.png") \~
-![](HP.png "HP.png")*
+*Exemple en jeu : ![](/images/LK.png "/images/LK.png") \~
+![](/images/MP.png "/images/MP.png") \~
+![](/images/HP.png "/images/HP.png")*
 
 - /: Indique quand deux ou plusieurs options sont possibles à un point
   précis d'une séquence, invariablement pour montrer qu'elles produisent
@@ -196,15 +209,17 @@ aussi être effectué en l'air.
 
 Fonctionnement général:
 
-- Contre les attaques hautes et mid: Tapoter ![](F.png "F.png")
+- Contre les attaques hautes et mid: Tapoter
+  ![](/images/F.png "/images/F.png")
 
 <!-- -->
 
-- Contre les attaques basses: Tapoter ![](D.png "D.png")
+- Contre les attaques basses: Tapoter ![](/images/D.png "/images/D.png")
 
 <!-- -->
 
-- Contre les attaques en l'air: Tapoter ![](F.png "F.png")
+- Contre les attaques en l'air: Tapoter
+  ![](/images/F.png "/images/F.png")
 
 Certains mouvements peuvent être parrés avec n'importe lequel.
 
@@ -258,19 +273,22 @@ direction.
 
 Commandes :
 
-- ![](LP.png "LP.png") + ![](LK.png "LK.png")
-- ![](B.png "B.png") ou ![](F.png "F.png") + ![](LP.png "LP.png") +
-  ![](LK.png "LK.png")
+- ![](/images/LP.png "/images/LP.png") +
+  ![](/images/LK.png "/images/LK.png")
+- ![](/images/B.png "/images/B.png") ou
+  ![](/images/F.png "/images/F.png") +
+  ![](/images/LP.png "/images/LP.png") +
+  ![](/images/LK.png "/images/LK.png")
 
 Toutes les chopes normales de tous les personnages sortent en 2 frames,
 ont 1 frame d'attaque, puis 21 frames de recovery si la chope loupe.
 
 Une chope normale peut être contrée durant les 5 frames qui suivent la
-frame d'attaque, en appuyant sur ![](LP.png "LP.png") +
-![](LK.png "LK.png"). Une chope normale dont la frame d'attaque touche
-dans les 2 premières frames d'une chope adverse causera une déchope.
-Vous ne pouvez pas déchoper si vous êtes chopés pendant le recovery
-d'une attaque.
+frame d'attaque, en appuyant sur ![](/images/LP.png "/images/LP.png") +
+![](/images/LK.png "/images/LK.png"). Une chope normale dont la frame
+d'attaque touche dans les 2 premières frames d'une chope adverse causera
+une déchope. Vous ne pouvez pas déchoper si vous êtes chopés pendant le
+recovery d'une attaque.
 
 Vous ne pouvez pas être choppé pendant un blockstun, quand vous êtes
 dans les airs, ou au départ d'un saut. Et en règle générale, vous ne
@@ -288,8 +306,9 @@ chope.
 Tous les personnages n'ont pas une Kara-Chope réellement utile.
 
 Comment l'effectuer : Pour Alex par exemple : avant +
-![](HP.png "HP.png") annulé par ![](LP.png "LP.png") +
-![](LK.png "LK.png") (il faut le faire très rapidement).
+![](/images/HP.png "/images/HP.png") annulé par
+![](/images/LP.png "/images/LP.png") +
+![](/images/LK.png "/images/LK.png") (il faut le faire très rapidement).
 
 Légende du tableau : S=Standing/Debout C=Crouching/Accroupi
 F=Forward/Avant B=Back/Arrière
@@ -327,7 +346,8 @@ touche en meaty ou à une certaine distance.
 
 Commande :
 
-- ![](MP.png "MP.png") + ![](MK.png "MK.png")
+- ![](/images/MP.png "/images/MP.png") +
+  ![](/images/MK.png "/images/MK.png")
 
 ### Stamina
 
@@ -408,7 +428,8 @@ que la durée d'un round. Il existe deux types de Taunts : relâchée
 (simple pression) ou maintenue (pression constante jusqu'à la fin de la
 taunt). Certains personnages ont plusieurs PA.
 
-Commande : ![](HP.png "HP.png") + ![](HK.png "HK.png")
+Commande : ![](/images/HP.png "/images/HP.png") +
+![](/images/HK.png "/images/HK.png")
 
 - **Alex**:
 
@@ -583,13 +604,14 @@ les Dash :
 #### Dash Ground Cross-up
 
 Dans Third Strike, il est possible de passer derrière l'adversaire avec
-un dash lorsque ce dernier fait une relevée rapide (![](D.png "D.png")
-quand vous touchez le sol) selon certaine condition. Par exemple : Vous
-jouez Ken, et votre adversaire Alex. Vous êtes pressé dans le coin,
-faites une choppe arrière suivi de 2 ou 3 dash, si votre adversaire a
-effectué une relevée rapide, vous passerez à travers lui et vous vous
-retrouverez à nouveau dans le coin. Cette technique à pour but de
-surprendre l'adversaire. Cette technique est chara-spécifique.
+un dash lorsque ce dernier fait une relevée rapide
+(![](/images/D.png "/images/D.png") quand vous touchez le sol) selon
+certaine condition. Par exemple : Vous jouez Ken, et votre adversaire
+Alex. Vous êtes pressé dans le coin, faites une choppe arrière suivi de
+2 ou 3 dash, si votre adversaire a effectué une relevée rapide, vous
+passerez à travers lui et vous vous retrouverez à nouveau dans le coin.
+Cette technique à pour but de surprendre l'adversaire. Cette technique
+est chara-spécifique.
 
 <table>
 <thead>
@@ -892,7 +914,8 @@ Dashing Head Attack</p></td>
 Semblable à un saut normal, mais permet d'aller plus loin et demande
 plus de temps au démarrage.
 
-- Appuyer sur : ![](D.png "D.png"), ![](U.png "U.png")
+- Appuyer sur : ![](/images/D.png "/images/D.png"),
+  ![](/images/U.png "/images/U.png")
 
 ### Relevée et Relevée Rapide
 
@@ -909,8 +932,9 @@ peut effectuer un cross-up, complexifiant votre relevée.
 Vous ne pouvez pas vous relever rapidement après avoir été mis au sol
 par une Super Art ainsi que certains coups spéciaux spécifiques.
 
-- Pour se relever rapidement, appuyer sur ![](D.png "D.png") (Down/Bas)
-  quand le personnage touche le sol.
+- Pour se relever rapidement, appuyer sur
+  ![](/images/D.png "/images/D.png") (Down/Bas) quand le personnage
+  touche le sol.
 
 Chaque personnage se relève plus ou moins vite, il en est de même pour
 la relevée rapide. Toutes les informations dans le tableau suivent sont
@@ -983,15 +1007,15 @@ Voici quelques conseils pour bien débuter :
 
 ## Personnages
 
-|                                                |                                          |                                          |
-|------------------------------------------------|------------------------------------------|------------------------------------------|
-| ![](Akumamini3s.jpg "Akumamini3s.jpg")         | ![](Yunmini3s.jpg "Yunmini3s.jpg")       | ![](Ryumini3s.jpg "Ryumini3s.jpg")       |
-| ![](Urienmini3s.jpg "Urienmini3s.jpg")         | ![](Remymini3s.jpg "Remymini3s.jpg")     | ![](Oromini3s.jpg "Oromini3s.jpg")       |
-| ![](Necromini3s.jpg "Necromini3s.jpg")         | ![](Qmini3s.jpg "Qmini3s.jpg")           | ![](Dudleymini3s.jpg "Dudleymini3s.jpg") |
-| ![](Ibukimini3s.jpg "Ibukimini3s.jpg")         | ![](Chunlimini3s.jpg "Chunlimini3s.jpg") | ![](Elenamini3s.jpg "Elenamini3s.jpg")   |
-| ![](Seanmini3s.jpg "Seanmini3s.jpg")           | ![](Makotomini3s.jpg "Makotomini3s.jpg") | ![](Hugomini3s.jpg "Hugomini3s.jpg")     |
-| ![](Alexmini3s.jpg "Alexmini3s.jpg")           | ![](Twelvemini3s.jpg "Twelvemini3s.jpg") | ![](Kenmini3s.jpg "Kenmini3s.jpg")       |
-| ![](Emptyface_small.png "Emptyface_small.png") | ![](Yangmini3s.jpg "Yangmini3s.jpg")     | ![](Gillmini3s.jpg "Gillmini3s.jpg")     |
+|                                                                |                                                          |                                                          |
+|----------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| ![](/images/Akumamini3s.jpg "/images/Akumamini3s.jpg")         | ![](/images/Yunmini3s.jpg "/images/Yunmini3s.jpg")       | ![](/images/Ryumini3s.jpg "/images/Ryumini3s.jpg")       |
+| ![](/images/Urienmini3s.jpg "/images/Urienmini3s.jpg")         | ![](/images/Remymini3s.jpg "/images/Remymini3s.jpg")     | ![](/images/Oromini3s.jpg "/images/Oromini3s.jpg")       |
+| ![](/images/Necromini3s.jpg "/images/Necromini3s.jpg")         | ![](/images/Qmini3s.jpg "/images/Qmini3s.jpg")           | ![](/images/Dudleymini3s.jpg "/images/Dudleymini3s.jpg") |
+| ![](/images/Ibukimini3s.jpg "/images/Ibukimini3s.jpg")         | ![](/images/Chunlimini3s.jpg "/images/Chunlimini3s.jpg") | ![](/images/Elenamini3s.jpg "/images/Elenamini3s.jpg")   |
+| ![](/images/Seanmini3s.jpg "/images/Seanmini3s.jpg")           | ![](/images/Makotomini3s.jpg "/images/Makotomini3s.jpg") | ![](/images/Hugomini3s.jpg "/images/Hugomini3s.jpg")     |
+| ![](/images/Alexmini3s.jpg "/images/Alexmini3s.jpg")           | ![](/images/Twelvemini3s.jpg "/images/Twelvemini3s.jpg") | ![](/images/Kenmini3s.jpg "/images/Kenmini3s.jpg")       |
+| ![](/images/Emptyface_small.png "/images/Emptyface_small.png") | ![](/images/Yangmini3s.jpg "/images/Yangmini3s.jpg")     | ![](/images/Gillmini3s.jpg "/images/Gillmini3s.jpg")     |
 
 - [Akuma](Akuma_(3S) "wikilink")
 - [Alex](Alex_(3S) "wikilink")

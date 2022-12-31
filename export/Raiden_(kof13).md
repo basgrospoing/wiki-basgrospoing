@@ -1,6 +1,8 @@
+# Raiden (kof13)
+
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
-![Raiden ](Raidenkof13.gif "Raiden ")
+![Raiden ](/images/Raidenkof13.gif "Raiden ")
 
 ## Introduction
 
@@ -33,10 +35,12 @@ Damage EX</p></th>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Neck Hanging</p></td>
-<td style="text-align: left;"><p><img src="B.png" title="B.png"
-alt="B.png" /> ou <img src="F.png" title="F.png" alt="F.png" /> + <img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /> ou <img src="Snkd.gif"
-title="Snkd.gif" alt="Snkd.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/B.png"
+title="/images/B.png" alt="/images/B.png" /> ou <img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snkc.gif" title="/images/Snkc.gif"
+alt="/images/Snkc.gif" /> ou <img src="/images/Snkd.gif"
+title="/images/Snkd.gif" alt="/images/Snkd.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -60,11 +64,13 @@ title="Snkd.gif" alt="Snkd.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Poison Mist</p></td>
-<td style="text-align: left;"><p><img src="qcb.png" title="qcb.png"
-alt="qcb.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcb.png"
+title="/images/qcb.png" alt="/images/qcb.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p>Raiden fait un rot toxique<br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>60 / 80<br />
@@ -72,12 +78,14 @@ alt="punch.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Raiden Bomb</p></td>
-<td style="text-align: left;"><p><img src="dp.png" title="dp.png"
-alt="dp.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/dp.png"
+title="/images/dp.png" alt="/images/dp.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p>Choppe les persos en l'air (s'exécute
 au sol)<br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>129<br />
@@ -85,11 +93,13 @@ au sol)<br />
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Head Crusher</p></td>
-<td style="text-align: left;"><p><img src="hcf.png" title="hcf.png"
-alt="hcf.png" /> + <img src="kick.gif" title="kick.gif"
-alt="kick.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/hcf.png"
+title="/images/hcf.png" alt="/images/hcf.png" /> + <img
+src="/images/kick.gif" title="/images/kick.gif"
+alt="/images/kick.gif" /></p></td>
 <td style="text-align: left;"><p>Choppe<br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>150<br />
@@ -97,13 +107,17 @@ alt="kick.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Giant Bomb</p></td>
-<td style="text-align: left;"><p><img src="db.png" title="db.png"
-alt="db.png" />Charge<img src="f.png" title="f.png" alt="f.png" /> +
-<img src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
-<td style="text-align: left;"><p><img src="Snka.gif" title="Snka.gif"
-alt="Snka.gif" />+<img src="Snkb.gif" title="Snkb.gif" alt="Snkb.gif" />
-pour break<br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<td style="text-align: left;"><p><img src="/images/db.png"
+title="/images/db.png" alt="/images/db.png" />Charge<img
+src="/images/f.png" title="/images/f.png" alt="/images/f.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/Snka.gif"
+title="/images/Snka.gif" alt="/images/Snka.gif" />+<img
+src="/images/Snkb.gif" title="/images/Snkb.gif"
+alt="/images/Snkb.gif" /> pour break<br />
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>70/100<br />
@@ -111,14 +125,15 @@ pour break<br />
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Super Dropkick</p></td>
-<td style="text-align: left;"><p>charge <img src="kick.gif"
-title="kick.gif" alt="kick.gif" /></p></td>
+<td style="text-align: left;"><p>charge <img src="/images/kick.gif"
+title="/images/kick.gif" alt="/images/kick.gif" /></p></td>
 <td style="text-align: left;"><p>Il est possible de charger un Super
-Dropkick à la fois sur <img src="Snkb.gif" title="Snkb.gif"
-alt="Snkb.gif" /> et sur <img src="Snkd.gif" title="Snkd.gif"
-alt="Snkd.gif" />. Plus vous resterez appuyé, plus le coup sera violent.
-Le coup part quand vous relâchez le bouton. Il y a 4 niveau en fonction
-du temps de charge :<br />
+Dropkick à la fois sur <img src="/images/Snkb.gif"
+title="/images/Snkb.gif" alt="/images/Snkb.gif" /> et sur <img
+src="/images/Snkd.gif" title="/images/Snkd.gif"
+alt="/images/Snkd.gif" />. Plus vous resterez appuyé, plus le coup sera
+violent. Le coup part quand vous relâchez le bouton. Il y a 4 niveau en
+fonction du temps de charge :<br />
 Level 1 - Temps de charge : 4 secs. Start-up : lent. Invincibilité :
 aucune. Désavantage en block : énorme. Damage : 100.</p>
 <p>Level 2 - Temps de charge : 8 secs. Start-up : lent. Invincibilité :
@@ -152,11 +167,14 @@ de juggle. Damage : 200.</p>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Super Raiden Drop</p></td>
-<td style="text-align: left;"><p><img src="hcb.png" title="hcb.png"
-alt="hcb.png" /><img src="hcb.png" title="hcb.png" alt="hcb.png" /> +
-<img src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/hcb.png"
+title="/images/hcb.png" alt="/images/hcb.png" /><img
+src="/images/hcb.png" title="/images/hcb.png" alt="/images/hcb.png" /> +
+<img src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p>Choppe<br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>240<br />
@@ -164,9 +182,11 @@ alt="hcb.png" /><img src="hcb.png" title="hcb.png" alt="hcb.png" /> +
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Crazy Train</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
-<img src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/qcf.png" title="/images/qcf.png" alt="/images/qcf.png" /> +
+<img src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -182,10 +202,12 @@ alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Raiden Bomber</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
-<img src="Snkb.gif" title="Snkb.gif" alt="Snkb.gif" />+<img
-src="Snkd.gif" title="Snkd.gif" alt="Snkd.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/qcf.png" title="/images/qcf.png" alt="/images/qcf.png" /> +
+<img src="/images/Snkb.gif" title="/images/Snkb.gif"
+alt="/images/Snkb.gif" />+<img src="/images/Snkd.gif"
+title="/images/Snkd.gif" alt="/images/Snkd.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -196,13 +218,23 @@ src="Snkd.gif" title="Snkd.gif" alt="Snkd.gif" /></p></td>
 
 ## Couleurs disponibles
 
-Fichier:Raiden_1.png \| N° 1 Fichier:Raiden_2.png \| N° 2
-Fichier:Raiden_3.png \| N° 3 Fichier:Raiden_4.png \| N° 4
-Fichier:Raiden_5.png \| N° 5 Fichier:Raiden_6.png \| N° 6
-Fichier:Raiden_7.png \| N° 7 Fichier:Raiden_8.png \| N° 8
-Fichier:Raiden_9.png \| N° 9 Fichier:Raiden_10.png \| N° 10
-Fichier:Raiden_a1.png \| N° Alt 1 Fichier:Raiden_a2.png \| N° Alt 2
-Fichier:Raiden_a3.png \| N° Alt 3 Fichier:Raiden_a4.png \| N° Alt 4
-Fichier:Raiden_a5.png \| N° Alt 5 Fichier:Raiden_a6.png \| N° Alt 6
-Fichier:Raiden_a7.png \| N° Alt 7 Fichier:Raiden_a8.png \| N° Alt 8
-Fichier:Raiden_a9.png \| N° Alt 9 Fichier:Raiden_a10.png \| N° Alt 10
+![](/images/Raiden_1.png "/images/Raiden_1.png") \| N° 1
+![](/images/Raiden_2.png "/images/Raiden_2.png") \| N° 2
+![](/images/Raiden_3.png "/images/Raiden_3.png") \| N° 3
+![](/images/Raiden_4.png "/images/Raiden_4.png") \| N° 4
+![](/images/Raiden_5.png "/images/Raiden_5.png") \| N° 5
+![](/images/Raiden_6.png "/images/Raiden_6.png") \| N° 6
+![](/images/Raiden_7.png "/images/Raiden_7.png") \| N° 7
+![](/images/Raiden_8.png "/images/Raiden_8.png") \| N° 8
+![](/images/Raiden_9.png "/images/Raiden_9.png") \| N° 9
+![](/images/Raiden_10.png "/images/Raiden_10.png") \| N° 10
+![](/images/Raiden_a1.png "/images/Raiden_a1.png") \| N° Alt 1
+![](/images/Raiden_a2.png "/images/Raiden_a2.png") \| N° Alt 2
+![](/images/Raiden_a3.png "/images/Raiden_a3.png") \| N° Alt 3
+![](/images/Raiden_a4.png "/images/Raiden_a4.png") \| N° Alt 4
+![](/images/Raiden_a5.png "/images/Raiden_a5.png") \| N° Alt 5
+![](/images/Raiden_a6.png "/images/Raiden_a6.png") \| N° Alt 6
+![](/images/Raiden_a7.png "/images/Raiden_a7.png") \| N° Alt 7
+![](/images/Raiden_a8.png "/images/Raiden_a8.png") \| N° Alt 8
+![](/images/Raiden_a9.png "/images/Raiden_a9.png") \| N° Alt 9
+![](/images/Raiden_a10.png "/images/Raiden_a10.png") \| N° Alt 10

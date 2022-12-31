@@ -1,3 +1,5 @@
+# Ibuki (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -31,87 +33,87 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Kunai (En l'air)
 
-|           |                                                     |
-|-----------|-----------------------------------------------------|
-| **Kunai** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|           |                                                                                     |
+|-----------|-------------------------------------------------------------------------------------|
+| **Kunai** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Neck Breaker
 
-|           |                                                     |
-|-----------|-----------------------------------------------------|
-| **Kunai** | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png") |
+|           |                                                                                     |
+|-----------|-------------------------------------------------------------------------------------|
+| **Kunai** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Raida
 
-|           |                                                     |
-|-----------|-----------------------------------------------------|
-| **Kunai** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") |
+|           |                                                                                     |
+|-----------|-------------------------------------------------------------------------------------|
+| **Kunai** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Kazegiri
 
-|              |                                                 |
-|--------------|-------------------------------------------------|
-| **Kazegiri** | ![](dp.png "dp.png") + ![](Kick.png "Kick.png") |
+|              |                                                                                 |
+|--------------|---------------------------------------------------------------------------------|
+| **Kazegiri** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Tsumuji
 
-|             |                                                   |
-|-------------|---------------------------------------------------|
-| **Tsumuji** | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") |
+|             |                                                                                   |
+|-------------|-----------------------------------------------------------------------------------|
+| **Tsumuji** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ##### Follow Up Attack from Tsumuji
 
-|             |                                                                           |
-|-------------|---------------------------------------------------------------------------|
-| **Tsumuji** | ![](Kick.png "Kick.png") Ou ![](D.png "D.png") + ![](Kick.png "Kick.png") |
+|             |                                                                                                                           |
+|-------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Tsumuji** | ![](/images/Kick.png "/images/Kick.png") Ou ![](/images/D.png "/images/D.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Hien
 
-|          |                                                   |
-|----------|---------------------------------------------------|
-| **Hien** | ![](rdp.png "rdp.png") + ![](Kick.png "Kick.png") |
+|          |                                                                                   |
+|----------|-----------------------------------------------------------------------------------|
+| **Hien** | ![](/images/rdp.png "/images/rdp.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ##### Hien Followup Kunai
 
-|          |                            |
-|----------|----------------------------|
-| **Hien** | ![](Punch.png "Punch.png") |
+|          |                                            |
+|----------|--------------------------------------------|
+| **Hien** | ![](/images/Punch.png "/images/Punch.png") |
 
 #### High Jump
 
 #### Kazumi Gake(Dash special qui traverse tout)
 
-|          |                                                   |
-|----------|---------------------------------------------------|
-| **Hien** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|          |                                                                                   |
+|----------|-----------------------------------------------------------------------------------|
+| **Hien** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Tsugijoe (Jump Flip)
 
-|              |                                                   |
-|--------------|---------------------------------------------------|
-| **Tsugijoe** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|              |                                                                                   |
+|--------------|-----------------------------------------------------------------------------------|
+| **Tsugijoe** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Supers
 
 #### Kasumi Suzaku
 
-|          |                                                                            |
-|----------|----------------------------------------------------------------------------|
-| **Hien** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|          |                                                                                                                            |
+|----------|----------------------------------------------------------------------------------------------------------------------------|
+| **Hien** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultras
 
 #### Yoroitoshi(Ultra 1)
 
-|          |                                                                                |
-|----------|--------------------------------------------------------------------------------|
-| **Hien** | ![](hcb.png "hcb.png") ![](hcb.png "hcb.png") + ![](3xPunch.png "3xPunch.png") |
+|          |                                                                                                                                |
+|----------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Hien** | ![](/images/hcb.png "/images/hcb.png") ![](/images/hcb.png "/images/hcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Hashinsho(Ultra 2)
 
-|          |                                                                              |
-|----------|------------------------------------------------------------------------------|
-| **Hien** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") |
+|          |                                                                                                                              |
+|----------|------------------------------------------------------------------------------------------------------------------------------|
+| **Hien** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 5 Combos
 

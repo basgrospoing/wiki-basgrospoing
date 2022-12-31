@@ -1,3 +1,5 @@
+# Dhalsim (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -29,7 +31,7 @@ elle peut surprendre les adversaires si elle est bien effectuée.
 Anti-air très efficace car il a une zone de frappe qui ne peut pas être
 touchée par un coup. explication en image :
 
-![](st_b_hk.png "st_b_hk.png")
+![](/images/st_b_hk.png "/images/st_b_hk.png")
 
 Les zones jaunes pleines correspondent uniquement à des zones
 d'encaissement d'un coup.
@@ -54,7 +56,7 @@ faibles mais la zone d'attaque "safe" est différente et au-dessus de
 Dhalsim. Entre les deux, le choix pourra dépendre de la position de
 l'adversaire.
 
-![](st_b_mp.png "st_b_mp.png")
+![](/images/st_b_mp.png "/images/st_b_mp.png")
 
 Peut être cancelled vers un Yoga Fire pour qu'une fois le s.B+MP passé
 en anti-air, l'adversaire tombe sur le Yoga Fire (ce n'est pas un combo,
@@ -125,9 +127,9 @@ Techniques de Yoga Teleport).
 
 **Yoga Fire** : QCF+P
 
-|               |                                                     |
-|---------------|-----------------------------------------------------|
-| **Yoga Fire** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|               |                                                                                     |
+|---------------|-------------------------------------------------------------------------------------|
+| **Yoga Fire** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Projectile simple, le Yoga Fire est petit et lent, et ne parcourt pas la
 zone indéfiniment : avec LP, il est faible, lent et parcourt presque un
@@ -140,9 +142,9 @@ le stage.
 
 **Yoga Flame** : HCB+P
 
-|                |                                                     |
-|----------------|-----------------------------------------------------|
-| **Yoga Flame** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") |
+|                |                                                                                     |
+|----------------|-------------------------------------------------------------------------------------|
+| **Yoga Flame** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Une sorte de Yoga Fire mais qui n'avance pas, ce coup fait barrière en
 face de Dhalsim. La version MP passe en combo après un cancel d'un coup
@@ -153,9 +155,9 @@ rapidement.
 
 #### Yoga Blast
 
-|                |                                                   |
-|----------------|---------------------------------------------------|
-| **Yoga Blast** | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png") |
+|                |                                                                                   |
+|----------------|-----------------------------------------------------------------------------------|
+| **Yoga Blast** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 **Yoga Blast** : HCB+K
 
@@ -166,9 +168,9 @@ sa jauge pour la Super.
 
 #### Yoga Teleport
 
-|                   |                                                                                                                 |
-|-------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Yoga Teleport** | ![](dp.png "dp.png") ou ![](rdp.png "rdp.png") + ![](3xPunch.png "3xPunch.png") ou ![](3xKick.png "3xKick.png") |
+|                   |                                                                                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Yoga Teleport** | ![](/images/dp.png "/images/dp.png") ou ![](/images/rdp.png "/images/rdp.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
 
 **Note**: peut s'effectuer au sol comme au cours d'un saut
 
@@ -190,9 +192,9 @@ Yoga Teleport.
 
 #### Yoga Drill(Pendant un saut)
 
-|                |                                               |
-|----------------|-----------------------------------------------|
-| **Yoga Drill** | ![](D.png "D.png") + ![](Kick.png "Kick.png") |
+|                |                                                                               |
+|----------------|-------------------------------------------------------------------------------|
+| **Yoga Drill** | ![](/images/D.png "/images/D.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 **Yoga Drill** : D+K (au cours d'un saut)
 
@@ -208,9 +210,9 @@ L'angle de la chute dépend du bouton appuyé.
 
 #### Yoga Mummy (pendant un saut)
 
-|                |                                                 |
-|----------------|-------------------------------------------------|
-| **Yoga Mummy** | ![](D.png "D.png") + ![](Punch.png "Punch.png") |
+|                |                                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| **Yoga Mummy** | ![](/images/D.png "/images/D.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 **Yoga Mummy** : D+P (au cours d'un saut)
 
@@ -224,9 +226,9 @@ Ici aussi, l'angle de la chute dépend du bouton appuyé.
 
 #### Yoga Tower (Feinte de Corps)
 
-|                |                                                     |
-|----------------|-----------------------------------------------------|
-| **Yoga Tower** | ![](D.png "D.png") + ![](3xPunch.png "3xPunch.png") |
+|                |                                                                                     |
+|----------------|-------------------------------------------------------------------------------------|
+| **Yoga Tower** | ![](/images/D.png "/images/D.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 **Yoga Tower** : D+PPP
 
@@ -238,9 +240,9 @@ Evite certaines attaques dont les projectiles.
 
 ##### Yoga Inferno
 
-|                  |                                                                           |
-|------------------|---------------------------------------------------------------------------|
-| **Yoga Inferno** | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                  |                                                                                                                           |
+|------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Yoga Inferno** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 **Super : Yoga Inferno** : QCF, QCF+P
 
@@ -258,9 +260,9 @@ l'opposant ne saute pas de trop près.
 
 **Ultra I : Yoga Catastrophe** : QCF, QCF+PPP
 
-|                      |                                                                               |
-|----------------------|-------------------------------------------------------------------------------|
-| **Yoga Catastrophe** | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                      |                                                                                                                               |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Yoga Catastrophe** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Une boule de feu qui avance très lentement et disparaît après avoir
 parcouru environ un écran.
@@ -278,9 +280,9 @@ Voir les stratégies pour plus d'informations sur son utilisation.
 
 **Ultra II : Yoga Shangri-la** : QCF, QCF+PPP (au cours d'un saut)
 
-|                     |                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------|
-| **Yoga Shangri-La** | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") (pendant un saut) |
+|                     |                                                                                                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Yoga Shangri-La** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") (pendant un saut) |
 
 **Note**:Manipulation a faire pendant un saut vertical et pendant un
 saut en diagonale.

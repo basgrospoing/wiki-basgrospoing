@@ -1,5 +1,8 @@
-<img src="jaquette_windjammers.jpg" title="jaquette_windjammers.jpg"
-width="400" alt="jaquette_windjammers.jpg" />  
+# Windjammers
+
+<img src="/images/jaquette_windjammers.jpg"
+title="/images/jaquette_windjammers.jpg" width="400"
+alt="/images/jaquette_windjammers.jpg" />  
 == Présentation ==
 
 ### Informations générales
@@ -80,8 +83,8 @@ Bonus :
 - Le nombre de mètres effectués est multiplié par 100.  
 - Il existe un bonus appelé "technical point" lorsqu'on attrape bien le
 freesbee avec le chien. Ce bonus vaut 10000.  
-<img src="dog_distance_2.jpg" title="dog_distance_2.jpg" width="325"
-alt="dog_distance_2.jpg" />
+<img src="/images/dog_distance_2.jpg" title="/images/dog_distance_2.jpg"
+width="325" alt="/images/dog_distance_2.jpg" />
 
 **Flying Disc Bowling**  
 
@@ -99,9 +102,9 @@ Bonus :
 - Le nombre de spare est multiplié par 500.
 
 <figure>
-<img src="bowling.jpg" title="bowling.jpg" width="250"
-alt="bowling.jpg" />
-<figcaption aria-hidden="true">bowling.jpg</figcaption>
+<img src="/images/bowling.jpg" title="/images/bowling.jpg" width="250"
+alt="/images/bowling.jpg" />
+<figcaption aria-hidden="true">/images/bowling.jpg</figcaption>
 </figure>
 
 ### Controverse concernant les droits
@@ -163,7 +166,8 @@ niveau de jeu intermédiaire.
 - Wessel dit "for expert" est aussi un personnage qui s'adresse à des
 joueurs confirmés, mais qui peut être agréable à jouer presque dès le
 début, pour peu qu'on ait saisi même sommairement le système de dash.  
-<img src="screen.png" title="screen.png" width="250" alt="screen.png" />
+<img src="/images/screen.png" title="/images/screen.png" width="250"
+alt="/images/screen.png" />
 
 ### Caractéristiques détaillées
 
@@ -368,11 +372,12 @@ un format de terrain réduit et un format large.
 ### Tableau terrains / personnages
 
   
-<img src="tableau.jpg" title="tableau.jpg" width="600"
-alt="tableau.jpg" /> Ce tableau donne un aperçu des facultés de chaque
-personnage à exprimer ses qualités sur un terrain donné. Ces estimations
-sont faites à partir des capacités propres à chacun, et sont explicitées
-de façon détaillée dans la section réservée à chaque personnage.  
+<img src="/images/tableau.jpg" title="/images/tableau.jpg" width="600"
+alt="/images/tableau.jpg" /> Ce tableau donne un aperçu des facultés de
+chaque personnage à exprimer ses qualités sur un terrain donné. Ces
+estimations sont faites à partir des capacités propres à chacun, et sont
+explicitées de façon détaillée dans la section réservée à chaque
+personnage.  
 Notes moyennes de chaque personnage :  
 - Hiromi Mita : 7.3/10.  
 - Beeho Yoo : 7.3/10.  

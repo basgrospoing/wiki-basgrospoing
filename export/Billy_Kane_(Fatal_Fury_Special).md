@@ -1,4 +1,6 @@
-![](Ffspbilly.PNG)  
+# Billy Kane (Fatal Fury Special)
+
+![](/images/Ffspbilly.PNG)  
 
 ## Introduction
 

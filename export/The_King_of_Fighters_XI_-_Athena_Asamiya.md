@@ -1,4 +1,6 @@
-![](kofxi-athena-asamiya.jpg "kofxi-athena-asamiya.jpg")
+# The King of Fighters XI - Athena Asamiya
+
+![](/images/kofxi-athena-asamiya.jpg "/images/kofxi-athena-asamiya.jpg")
 
 ## Introduction
 

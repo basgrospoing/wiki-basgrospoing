@@ -1,3 +1,5 @@
+# P4A/Mécanismes avancés
+
 # Status spéciaux
 
 Dans **P4A**, certaines attaques ont pour conséquence d'affecter
@@ -10,7 +12,7 @@ l'adversaire d'une condition particulière parmi les suivantes.
 
 ***Poison***  
   
-![](Poison_p4.jpg "Poison_p4.jpg")
+![](/images/Poison_p4.jpg "/images/Poison_p4.jpg")
 
 </center>
 
@@ -24,7 +26,7 @@ expire ou qu'il parvienne à toucher l'adversaire.
 
 ***Panic***  
   
-![](Confuse_p4.jpg "Confuse_p4.jpg")
+![](/images/Confuse_p4.jpg "/images/Confuse_p4.jpg")
 
 </center>
 
@@ -41,7 +43,7 @@ touche l'adversaire.
 
 ***Shock***  
   
-![](Shock_p4.jpg "Shock_p4.jpg")
+![](/images/Shock_p4.jpg "/images/Shock_p4.jpg")
 
 </center>
 
@@ -57,7 +59,7 @@ lorsque le personnage touche l'adversaire.
 
 ***Fear***  
   
-![](Fear_p4.jpg "Fear_p4.jpg")
+![](/images/Fear_p4.jpg "/images/Fear_p4.jpg")
 
 </center>
 
@@ -75,7 +77,7 @@ touche l'adversaire.
 
 ***Rage***  
   
-![](Rage_p4.jpg "Rage_p4.jpg")
+![](/images/Rage_p4.jpg "/images/Rage_p4.jpg")
 
 </center>
 
@@ -89,7 +91,7 @@ personnage de 20%. Ne disparaît que au bout de la durée prévue.
 
 ***Mute***  
   
-![](Mute_p4.jpg "Mute_p4.jpg")
+![](/images/Mute_p4.jpg "/images/Mute_p4.jpg")
 
 </center>
 
@@ -107,7 +109,7 @@ touche l'adversaire.
 
 ***Charm***  
   
-![](Charm_p4.jpg "Charm_p4.jpg")
+![](/images/Charm_p4.jpg "/images/Charm_p4.jpg")
 
 </center>
 

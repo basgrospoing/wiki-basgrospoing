@@ -1,10 +1,12 @@
-[ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
+# Melty Blood/Shiki Tohno
+
+![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima
 (野島　健児)  —  **Type:**   Human, Demon-Hunter   —  **Gender:**   Male
 \<br\\\>\<br\\\> **Birthday:**   Oct 15
   —  **Height:**   169cm  —  **Weight:**   57kg \<br\\\>\<br\\\> **Eye
 Color:**   Black  —  **Hair Color:**   Black
-\|frame\|right](image:Shiki2.png "wikilink")
+\|frame\|right](/images/Shiki2.png " Name:   Shiki Tohno (遠野 志貴)  —  Nicknames:    Satsujinki <br\><br\> Voiced by:   Kenji Noshima (野島　健児)  —  Type:   Human, Demon-Hunter   —  Gender:   Male <br\><br\> Birthday:   Oct 15   —  Height:   169cm  —  Weight:   57kg <br\><br\> Eye Color:   Black  —  Hair Color:   Black |frame|right")
 
 # Introduction
 
@@ -54,7 +56,7 @@ distances ou un bon zoning
 
 # Palettes
 
-![](Shiki-colors.png "Shiki-colors.png")
+![](/images/Shiki-colors.png "/images/Shiki-colors.png")
 
 # Liste de joueurs
 

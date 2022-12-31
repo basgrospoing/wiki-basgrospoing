@@ -1,4 +1,6 @@
-![](kofxi-shen-woo.jpg "kofxi-shen-woo.jpg")
+# The King of Fighters XI - Shen Woo
+
+![](/images/kofxi-shen-woo.jpg "/images/kofxi-shen-woo.jpg")
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# Kyo Kusanagi (KoF '95) (98um)
+
 ## Introduction
 
 ## Liste des coups

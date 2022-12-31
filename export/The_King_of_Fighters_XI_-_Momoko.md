@@ -1,4 +1,6 @@
-![](kofxi-momoko.jpg "kofxi-momoko.jpg")
+# The King of Fighters XI - Momoko
+
+![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")
 
 ## Introduction
 

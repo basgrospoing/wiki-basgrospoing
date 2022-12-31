@@ -1,5 +1,7 @@
+# ChunLi (ST)
+
 <figure>
-<img src="ST_ChunLi_portrait.png" width="200" />
+<img src="/images/ST_ChunLi_portrait.png" width="200" />
 </figure>
 
 ## Introduction

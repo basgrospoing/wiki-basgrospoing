@@ -1,7 +1,11 @@
+# Carl Clover (BBCS)
+
 <figure>
-<img src="Bbcs_carl_artwork_01.png" title="Bbcs_carl_artwork_01.png"
-width="150" alt="Bbcs_carl_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_carl_artwork_01.png</figcaption>
+<img src="/images/Bbcs_carl_artwork_01.png"
+title="/images/Bbcs_carl_artwork_01.png" width="150"
+alt="/images/Bbcs_carl_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_carl_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -86,9 +90,11 @@ mots italiens non utilisés dans le jeu final : *"dolore"* (douleur),
 ## Couleurs
 
 <figure>
-<img src="Bbcs_carl_costumes.png" title="Bbcs_carl_costumes.png"
-width="600" alt="Bbcs_carl_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_carl_costumes.png</figcaption>
+<img src="/images/Bbcs_carl_costumes.png"
+title="/images/Bbcs_carl_costumes.png" width="600"
+alt="/images/Bbcs_carl_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_carl_costumes.png</figcaption>
 </figure>
 
 Couleurs "hommage" de la seconde palette :

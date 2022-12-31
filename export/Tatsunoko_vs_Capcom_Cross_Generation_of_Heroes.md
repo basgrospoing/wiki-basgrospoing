@@ -1,4 +1,6 @@
-![](cgoh.jpg "cgoh.jpg")
+# Tatsunoko vs Capcom Cross Generation of Heroes
+
+![](/images/cgoh.jpg "/images/cgoh.jpg")
 
 ## Infos
 

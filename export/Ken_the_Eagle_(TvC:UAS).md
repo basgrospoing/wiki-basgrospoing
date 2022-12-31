@@ -1,5 +1,7 @@
-<img src="Kentheeagle.jpg" title="Kentheeagle.jpg" width="300"
-alt="Kentheeagle.jpg" />  
+# Ken the Eagle (TvC:UAS)
+
+<img src="/images/Kentheeagle.jpg" title="/images/Kentheeagle.jpg"
+width="300" alt="/images/Kentheeagle.jpg" />  
 
 # Introduction
 

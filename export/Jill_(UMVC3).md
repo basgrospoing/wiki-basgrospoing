@@ -1,3 +1,5 @@
+# Jill (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Jill
 
-![](Umvc3_jill_face.jpg‎ "Umvc3_jill_face.jpg‎") TBW
+![](/images/Umvc3_jill_face.jpg‎ "/images/Umvc3_jill_face.jpg‎") TBW
 
 **In a nutshell** A completely different Jill than what was seen from
 Marvel Vs. Capcom 2, this Jill relies not on zombie traps but her pure,

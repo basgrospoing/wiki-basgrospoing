@@ -1,3 +1,5 @@
+# Zero (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,13 +8,13 @@
 
 ## Zero
 
-![](Umvc3_zero_face.jpg‎ "Umvc3_zero_face.jpg‎") Zero is a Maverick Hunter
-from the future, tasked with hunting down rebel robots and defending
-those around him. Armed with his Z-Saber and Buster arm, he is renowned
-as one of the finest robot soldiers ever produced. Interestingly enough,
-however, he was originally created by one of the greatest villains his
-world had ever seen - Dr. Wily - after accidentally creating a strong,
-but unruly, prototype robot named Bass.
+![](/images/Umvc3_zero_face.jpg‎ "/images/Umvc3_zero_face.jpg‎") Zero is a
+Maverick Hunter from the future, tasked with hunting down rebel robots
+and defending those around him. Armed with his Z-Saber and Buster arm,
+he is renowned as one of the finest robot soldiers ever produced.
+Interestingly enough, however, he was originally created by one of the
+greatest villains his world had ever seen - Dr. Wily - after
+accidentally creating a strong, but unruly, prototype robot named Bass.
 
 **In a nutshell** Zero is a character for any given situation - other
 than survival. He has an excellent rushdown game with large,

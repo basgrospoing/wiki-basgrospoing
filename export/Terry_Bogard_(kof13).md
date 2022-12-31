@@ -1,4 +1,7 @@
-![Terry Bogard](terrykof13.gif "Terry Bogard") [Retour à la fiche du
+# Terry Bogard (kof13)
+
+![Terry Bogard](/images/terrykof13.gif "Terry Bogard") [Retour à la
+fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 
 ## Introduction
@@ -31,10 +34,12 @@ jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Buster Throw</p></td>
-<td style="text-align: left;"><p><img src="b.png" title="b.png"
-alt="b.png" /> ou <img src="F.png" title="F.png" alt="F.png" /> + <img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /> ou <img src="Snkd.gif"
-title="Snkd.gif" alt="Snkd.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/b.png"
+title="/images/b.png" alt="/images/b.png" /> ou <img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snkc.gif" title="/images/Snkc.gif"
+alt="/images/Snkc.gif" /> ou <img src="/images/Snkd.gif"
+title="/images/Snkd.gif" alt="/images/Snkd.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -58,9 +63,10 @@ title="Snkd.gif" alt="Snkd.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Rising Upper</p></td>
-<td style="text-align: left;"><p><img src="df.png" title="df.png"
-alt="df.png" /> + <img src="Snkc.gif" title="Snkc.gif"
-alt="Snkc.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/df.png"
+title="/images/df.png" alt="/images/df.png" /> + <img
+src="/images/Snkc.gif" title="/images/Snkc.gif"
+alt="/images/Snkc.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -68,9 +74,10 @@ alt="Snkc.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Back Knuckle</p></td>
-<td style="text-align: left;"><p><img src="F.png" title="F.png"
-alt="F.png" /> + <img src="Snka.gif" title="Snka.gif"
-alt="Snka.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snka.gif" title="/images/Snka.gif"
+alt="/images/Snka.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -94,12 +101,13 @@ alt="Snka.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Burn Knuckle</p></td>
-<td style="text-align: left;"><p><img src="qcb.png" title="qcb.png"
-alt="qcb.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcb.png"
+title="/images/qcb.png" alt="/images/qcb.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><figure>
-<img src="ex.png" title="ex.png" alt="ex.png" />
-<figcaption aria-hidden="true">ex.png</figcaption>
+<img src="/images/ex.png" title="/images/ex.png" alt="/images/ex.png" />
+<figcaption aria-hidden="true">/images/ex.png</figcaption>
 </figure></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -108,11 +116,13 @@ alt="punch.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Crack Shoot</p></td>
-<td style="text-align: left;"><p><img src="qcb.png" title="qcb.png"
-alt="qcb.png" /> + <img src="kick.gif" title="kick.gif"
-alt="kick.gif" /></p></td>
-<td style="text-align: left;"><p><img src="ex.png" title="ex.png"
-alt="ex.png" /> La version EX fait Overhead.</p></td>
+<td style="text-align: left;"><p><img src="/images/qcb.png"
+title="/images/qcb.png" alt="/images/qcb.png" /> + <img
+src="/images/kick.gif" title="/images/kick.gif"
+alt="/images/kick.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/ex.png"
+title="/images/ex.png" alt="/images/ex.png" /> La version EX fait
+Overhead.</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>40(2 fois) / 40(4 fois)<br />
@@ -120,12 +130,13 @@ alt="ex.png" /> La version EX fait Overhead.</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Power Wave</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><figure>
-<img src="ex.png" title="ex.png" alt="ex.png" />
-<figcaption aria-hidden="true">ex.png</figcaption>
+<img src="/images/ex.png" title="/images/ex.png" alt="/images/ex.png" />
+<figcaption aria-hidden="true">/images/ex.png</figcaption>
 </figure></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -134,12 +145,14 @@ alt="punch.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Rising Tackle</p></td>
-<td style="text-align: left;"><p><img src="d.png" title="d.png"
-alt="d.png" />charge<img src="u.png" title="u.png" alt="u.png" /> + <img
-src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/d.png"
+title="/images/d.png" alt="/images/d.png" />charge<img
+src="/images/u.png" title="/images/u.png" alt="/images/u.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><figure>
-<img src="ex.png" title="ex.png" alt="ex.png" />
-<figcaption aria-hidden="true">ex.png</figcaption>
+<img src="/images/ex.png" title="/images/ex.png" alt="/images/ex.png" />
+<figcaption aria-hidden="true">/images/ex.png</figcaption>
 </figure></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -164,12 +177,14 @@ src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Buster Wolf</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
-<img src="kick.gif" title="kick.gif" alt="kick.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/qcf.png" title="/images/qcf.png" alt="/images/qcf.png" /> +
+<img src="/images/kick.gif" title="/images/kick.gif"
+alt="/images/kick.gif" /></p></td>
 <td style="text-align: left;"><figure>
-<img src="ex.png" title="ex.png" alt="ex.png" />
-<figcaption aria-hidden="true">ex.png</figcaption>
+<img src="/images/ex.png" title="/images/ex.png" alt="/images/ex.png" />
+<figcaption aria-hidden="true">/images/ex.png</figcaption>
 </figure></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -178,12 +193,14 @@ alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Power Geyser</p></td>
-<td style="text-align: left;"><p><img src="qcb.png" title="qcb.png"
-alt="qcb.png" /><img src="hcf.png" title="hcf.png" alt="hcf.png" /> +
-<img src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcb.png"
+title="/images/qcb.png" alt="/images/qcb.png" /><img
+src="/images/hcf.png" title="/images/hcf.png" alt="/images/hcf.png" /> +
+<img src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><figure>
-<img src="ex.png" title="ex.png" alt="ex.png" />
-<figcaption aria-hidden="true">ex.png</figcaption>
+<img src="/images/ex.png" title="/images/ex.png" alt="/images/ex.png" />
+<figcaption aria-hidden="true">/images/ex.png</figcaption>
 </figure></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -200,10 +217,12 @@ alt="qcb.png" /><img src="hcf.png" title="hcf.png" alt="hcf.png" /> +
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Trinity Geyser</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
-<img src="Snka.gif" title="Snka.gif" alt="Snka.gif" />+<img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/qcf.png" title="/images/qcf.png" alt="/images/qcf.png" /> +
+<img src="/images/Snka.gif" title="/images/Snka.gif"
+alt="/images/Snka.gif" />+<img src="/images/Snkc.gif"
+title="/images/Snkc.gif" alt="/images/Snkc.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -278,8 +297,13 @@ d\. B, d. A, df. C, qcb. A (DC), qcb hcf. AC (458Dmg)
 
 ## Couleurs disponibles
 
-Fichier:terry_1.png \| N° 1 Fichier:terry_2.png \| N° 2
-Fichier:terry_3.png \| N° 3 Fichier:terry_4.png \| N° 4
-Fichier:terry_5.png \| N° 5 Fichier:terry_6.png \| N° 6
-Fichier:terry_7.png \| N° 7 Fichier:terry_8.png \| N° 8
-Fichier:terry_9.png \| N° 9 Fichier:terry_10.png \| N° 10
+![](/images/terry_1.png "/images/terry_1.png") \| N° 1
+![](/images/terry_2.png "/images/terry_2.png") \| N° 2
+![](/images/terry_3.png "/images/terry_3.png") \| N° 3
+![](/images/terry_4.png "/images/terry_4.png") \| N° 4
+![](/images/terry_5.png "/images/terry_5.png") \| N° 5
+![](/images/terry_6.png "/images/terry_6.png") \| N° 6
+![](/images/terry_7.png "/images/terry_7.png") \| N° 7
+![](/images/terry_8.png "/images/terry_8.png") \| N° 8
+![](/images/terry_9.png "/images/terry_9.png") \| N° 9
+![](/images/terry_10.png "/images/terry_10.png") \| N° 10

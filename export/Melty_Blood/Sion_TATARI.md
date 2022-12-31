@@ -1,10 +1,12 @@
-[ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -
+# Melty Blood/Sion TATARI
+
+![ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹
 リオ)  —  **Type:**   Vampire, Magus  —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**   June 1  —  **Sizes:**   86 / 55 /
 83  —  **Height:**   161cm  —  **Weight:**   48kg \<br\\\>\<br\\\> **Eye
 Color:**   Red  —  **Hair Color:**   Purple
-\|frame\|right](image:vsion0.png "wikilink")
+\|frame\|right](/images/vsion0.png " Name:   Sion TATARI (シオン タタリ)  —  Nicknames:    - <br\><br\> Voiced by:   Natsuki Rio (夏樹 リオ)  —  Type:   Vampire, Magus  —  Gender:   Female <br\><br\> Birthday:   June 1  —  Sizes:   86 / 55 / 83  —  Height:   161cm  —  Weight:   48kg <br\><br\> Eye Color:   Red  —  Hair Color:   Purple |frame|right")
 
 # Introduction
 
@@ -27,7 +29,7 @@ Imma vampire
 
 # Palettes
 
-![](Vsion-colors.png "Vsion-colors.png")
+![](/images/Vsion-colors.png "/images/Vsion-colors.png")
 
 # Liste de joueurs
 

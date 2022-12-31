@@ -1,3 +1,5 @@
+# Billy Kane (Real Bout Fatal Fury version) (98um)
+
 ## Introduction
 
 ## Liste des coups

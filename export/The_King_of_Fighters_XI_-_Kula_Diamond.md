@@ -1,4 +1,6 @@
-![](kofxi-kula-diamond.jpg "kofxi-kula-diamond.jpg")
+# The King of Fighters XI - Kula Diamond
+
+![](/images/kofxi-kula-diamond.jpg "/images/kofxi-kula-diamond.jpg")
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# The King of Fighters '98: The Slugfest
+
 ATTENTION : CE WIKI EST UNE ÉBAUCHE A CORRIGER FAITE A PARTIR DE 98UM
 
 ## Personnages

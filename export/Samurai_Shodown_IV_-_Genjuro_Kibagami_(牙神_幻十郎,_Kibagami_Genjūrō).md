@@ -1,4 +1,6 @@
-![](ss4-Genjuro.gif "ss4-Genjuro.gif")
+# Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjūrō)
+
+![](/images/ss4-Genjuro.gif "/images/ss4-Genjuro.gif")
 
 ## Introduction
 

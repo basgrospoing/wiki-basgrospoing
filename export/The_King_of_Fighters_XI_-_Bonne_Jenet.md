@@ -1,4 +1,6 @@
-![](kofxi-bonne-jenet.jpg "kofxi-bonne-jenet.jpg")
+# The King of Fighters XI - Bonne Jenet
+
+![](/images/kofxi-bonne-jenet.jpg "/images/kofxi-bonne-jenet.jpg")
 
 ## Introduction
 

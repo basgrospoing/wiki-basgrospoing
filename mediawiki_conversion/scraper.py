@@ -190,9 +190,11 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    content = entry["content"].replace('\n-\n', '-')
+    content = "=" + entry["text"] + "=\n\n" + entry["content"].replace('\n-\n', '-')
     print(entry["src"])
     md = pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
     with open("../export/" + entry["src"] +".md", "w") as outfile:
         outfile.write(md)
+
+# subprocess.run('cp -R cleaned_data/images ../export/images ')

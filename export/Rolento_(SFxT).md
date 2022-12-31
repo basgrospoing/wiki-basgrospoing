@@ -1,3 +1,5 @@
+# Rolento (SFxT)
+
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 
 ## Vue d'ensemble
@@ -6,48 +8,48 @@
 
 ## Principaux normaux
 
-|               |                                         |
-|---------------|-----------------------------------------|
-| **Trick Rod** | ![](F.png "F.png")+![](MK.png "MK.png") |
+|               |                                                                         |
+|---------------|-------------------------------------------------------------------------|
+| **Trick Rod** | ![](/images/F.png "/images/F.png")+![](/images/MK.png "/images/MK.png") |
 
-|               |                                                 |
-|---------------|-------------------------------------------------|
-| **Spike Rod** | En l'air![](D.png "D.png")+![](MK.png "MK.png") |
+|               |                                                                                 |
+|---------------|---------------------------------------------------------------------------------|
+| **Spike Rod** | En l'air![](/images/D.png "/images/D.png")+![](/images/MK.png "/images/MK.png") |
 
-|                   |                                               |
-|-------------------|-----------------------------------------------|
-| **Trick Landing** | ![](3xKick.png "3xKick.png") à l'atterrissage |
+|                   |                                                               |
+|-------------------|---------------------------------------------------------------|
+| **Trick Landing** | ![](/images/3xKick.png "/images/3xKick.png") à l'atterrissage |
 
 ## Move list
 
 ### Coups spéciaux
 
-|             |                                                                            |
-|-------------|----------------------------------------------------------------------------|
-| **Stinger** | ![](dp.png "dp.png")+![](kick.png "kick.png") , ![](punch.png "punch.png") |
+|             |                                                                                                                            |
+|-------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Stinger** | ![](/images/dp.png "/images/dp.png")+![](/images/kick.png "/images/kick.png") , ![](/images/punch.png "/images/punch.png") |
 
-|                         |                                                                             |
-|-------------------------|-----------------------------------------------------------------------------|
-| **Mekong Delta Attack** | ![](3xPunch.png "3xPunch.png") , à l'atterissage ![](punch.png "punch.png") |
+|                         |                                                                                                             |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Mekong Delta Attack** | ![](/images/3xPunch.png "/images/3xPunch.png") , à l'atterissage ![](/images/punch.png "/images/punch.png") |
 
-|                           |                                                                                  |
-|---------------------------|----------------------------------------------------------------------------------|
-| **Mekong Delta Air Raid** | ![](qcb.png "qcb.png") + ![](punch.png "punch.png") , ![](punch.png "punch.png") |
+|                           |                                                                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Mekong Delta Air Raid** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/punch.png "/images/punch.png") , ![](/images/punch.png "/images/punch.png") |
 
-|                         |                                                                                                            |
-|-------------------------|------------------------------------------------------------------------------------------------------------|
-| **Mekong Delta Escape** | ![](qcb.png "qcb.png") + ![](kick.png "kick.png") , ![](punch.png "punch.png") ou ![](kick.png "kick.png") |
+|                         |                                                                                                                                                                            |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mekong Delta Escape** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/kick.png "/images/kick.png") , ![](/images/punch.png "/images/punch.png") ou ![](/images/kick.png "/images/kick.png") |
 
-|                    |                                                                                             |
-|--------------------|---------------------------------------------------------------------------------------------|
-| **Patriot Circle** | ![](qcf.png "qcf.png") + ![](punch.png "punch.png") peut être répété 2 fois supplémentaires |
+|                    |                                                                                                                             |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Patriot Circle** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.png "/images/punch.png") peut être répété 2 fois supplémentaires |
 
 **Super charge.**
 
 ### Super
 
-|                     |                                                         |
-|---------------------|---------------------------------------------------------|
-| **Patriot Sweeper** | ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                     |                                                                                         |
+|---------------------|-----------------------------------------------------------------------------------------|
+| **Patriot Sweeper** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## Combos

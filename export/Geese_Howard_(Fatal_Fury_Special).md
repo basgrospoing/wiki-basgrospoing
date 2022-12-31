@@ -1,4 +1,6 @@
-![](Ffspgeese.PNG)  
+# Geese Howard (Fatal Fury Special)
+
+![](/images/Ffspgeese.PNG)  
 
 ## Introduction
 

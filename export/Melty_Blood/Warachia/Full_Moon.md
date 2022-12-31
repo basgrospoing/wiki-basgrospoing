@@ -1,3 +1,5 @@
+# Melty Blood/Warachia/Full Moon
+
 # Combos
 
 **(jB) \> (2A) \> 5B(1) \> 2B(2) \> 2C(2) \> 6C \> jB \> jC \> djC \>
@@ -65,51 +67,11 @@ adversaire.
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width=""
-style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
+<td><p><strong>2A</strong></p>
 <p>Liste des coups par ordre de puissance.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2B</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5B</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">6C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JA</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">JB</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JC</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">J6C</font></strong> -</p></td>
+<td><p><strong>5A</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -119,8 +81,7 @@ style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Fumble Code 「ファンブルコード」 - 22ABC</font></strong></p>
+<td><p><strong>Fumble Code 「ファンブルコード」 - 22ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - La vrille.</li>
 <li><strong>(Version A, [A], B, [B])</strong> - Fait apparaître une
@@ -140,8 +101,8 @@ l'adversaire à garder et / ou pour brûler de la meter.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Virus Egg (Demagogue)
-「ウィルス・エッグ（デマゴギー）」 - 236ABC</font></strong></p>
+<td><p><strong>Virus Egg (Demagogue) 「ウィルス・エッグ（デマゴギー）」
+- 236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - La boule. Peut être utilisé en
 l'air. Disparaît si Warachia est touché.</li>
@@ -169,31 +130,28 @@ toujours EX guard ou shield.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Creature Channel (Conflict) 「クリーチャーチャンネル（コンフリクト）」 -
-623ABC</font></strong></p>
+<td><p><strong>Creature Channel (Conflict)
+「クリーチャーチャンネル（コンフリクト）」 - 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> 「」 -
-214ABC</font></strong></p>
+<td><p><strong>214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Creature Channel (Yes) 「クリーチャーチャンネル(エス)」 -
-421ABC</font></strong></p>
+<td><p><strong>Creature Channel (Yes) 「クリーチャーチャンネル(エス)」 -
+421ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Creature Channel (No Id)
-「クリーチャーチャンネル(ノイド)」 - J421ABC</font></strong></p>
+<td><p><strong>Creature Channel (No Id)
+「クリーチャーチャンネル(ノイド)」 - J421ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -　...</li>
 </ul></td>
@@ -206,9 +164,8 @@ Creature Channel (Yes) 「クリーチャーチャンネル(エス)」 -
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Night on the Blood Lair (Anzanti)
-「ナイトオンザブラッドライアー(アンザニティ) 」 </font></strong></p>
+<td><p><strong>Night on the Blood Lair (Anzanti)
+「ナイトオンザブラッドライアー(アンザニティ) 」</strong></p>
 <ul>
 <li><strong>(Description)</strong> - AD description</li>
 </ul></td>
@@ -221,9 +178,8 @@ Night on the Blood Lair (Anzanti)
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">Night on the Blood Lair (Inzanti)
-「ナイトオンザブラッドライアー(インザニティ)」 </font></strong></p>
+<td><p><strong>Night on the Blood Lair (Inzanti)
+「ナイトオンザブラッドライアー(インザニティ)」</strong></p>
 <ul>
 <li><strong>(Description)</strong> - AAD description</li>
 </ul></td>
@@ -236,9 +192,8 @@ Night on the Blood Lair (Anzanti)
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">Night Ruler the Blood Dealer
-「ナイトルーラーザブラッドディーラー」 </font></strong></p>
+<td><p><strong>Night Ruler the Blood Dealer
+「ナイトルーラーザブラッドディーラー」</strong></p>
 <ul>
 <li><strong>(Description)</strong> - LA description. Indiquer dans quel
 position il est activé.</li>

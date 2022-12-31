@@ -1,4 +1,6 @@
-![](Ffspmai.PNG)  
+# Mai Shiranui (Fatal Fury Special)
+
+![](/images/Ffspmai.PNG)  
 
 ## Introduction
 

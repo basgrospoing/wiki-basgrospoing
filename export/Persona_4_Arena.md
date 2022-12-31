@@ -1,4 +1,6 @@
-\[\[<File:P4U_affiche.jpg%7Cthumb%7C400px%7Cright>\|
+# Persona 4 Arena
+
+\[\[<File:/images/P4U_affiche.jpg%7Cthumb%7C400px%7Cright>\|
 
 <center>
 

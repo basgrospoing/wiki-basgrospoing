@@ -1,4 +1,6 @@
-![](Tvc-uas.jpg "Tvc-uas.jpg")
+# Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)
+
+![](/images/Tvc-uas.jpg "/images/Tvc-uas.jpg")
 
 ## Infos
 

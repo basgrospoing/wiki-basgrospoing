@@ -1,7 +1,9 @@
+# P4A/Chie Satonaka
+
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 
-![](Chie_big.jpg "Chie_big.jpg")
+![](/images/Chie_big.jpg "/images/Chie_big.jpg")
 
 </div>
 <div>

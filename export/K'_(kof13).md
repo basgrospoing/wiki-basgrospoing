@@ -1,34 +1,36 @@
-![K'](Kdash-kof13-stance.gif "K'") [Retour à la fiche du
+# K' (kof13)
+
+![K'](/images/Kdash-kof13-stance.gif "K'") [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 
 ## Introduction
 
 ## Moves List
 
-| Move Name              | Motion                                                                                           | Comment                     | Frame Data | Cancelable | Damage LOW/HIGH/EX                               |
-|:-----------------------|:-------------------------------------------------------------------------------------------------|:----------------------------|:-----------|:-----------|:-------------------------------------------------|
-| Throws                 |                                                                                                  |                             |            |            |                                                  |
-| Spot Pile              | ![](b.png "b.png") ou ![](F.png "F.png") + ![](Snkc.gif "Snkc.gif") ou ![](Snkd.gif "Snkd.gif")  |                             |            |            | 100                                              |
-|                        |                                                                                                  |                             |            |            |                                                  |
-| Command Normals        |                                                                                                  |                             |            |            |                                                  |
-| One Inch Punch         | ![](F.png "F.png") + ![](Snka.gif "Snka.gif")                                                    |                             |            | oui        | 75(60)                                           |
-|                        |                                                                                                  |                             |            |            |                                                  |
-| Desperation move       |                                                                                                  |                             |            |            |                                                  |
-| Ein Trigger            | ![](qcf.png "qcf.png") + ![](punch.gif "punch.gif")                                              |                             |            |            | 50/60                                            |
-| ↳ Second Shoot         | ![](F.png "F.png") + ![](Snkb.gif "Snkb.gif")                                                    | Après Ein Trigger           |            |            | 40/80                                            |
-| ↳ Second Shell         | ![](F.png "F.png") + ![](Snkd.gif "Snkd.gif")                                                    | Après Ein Trigger           |            |            | 40/25x2                                          |
-| ↳ Blackout             | ![](b.png "b.png") +![](kick.gif "kick.gif")                                                     | Après Ein Trigger           |            |            | 0                                                |
-| Blackout               | ![](qcf.png "qcf.png") + ![](kick.gif "kick.gif")                                                |                             |            |            | 0                                                |
-| Crow Bites             | ![](dp.png "dp.png") +![](punch.gif "punch.gif")                                                 |                             |            |            | 60+40/50+40+30/20x8+40x2+80                      |
-| ↳ Crow Bites Plus      | ![](F.png "F.png") → +![](kick.gif "kick.gif")                                                   | Après Crow Bites (C)        |            |            | 40                                               |
-| Minute Spike           | ![](qcb.png "qcb.png")+ ![](kick.gif "kick.gif")                                                 | possible en l'air           |            |            | 70/150                                           |
-| ↳ Narrow Spike         | ![](qcb.png "qcb.png") + ![](kick.gif "kick.gif")                                                | Après Minute Spike (au sol) |            |            | 60/130                                           |
-|                        |                                                                                                  |                             |            |            |                                                  |
-| Super Desperation move |                                                                                                  |                             |            |            |                                                  |
-| Chain Drive            | ![](qcf.png "qcf.png")![](hcb.png "hcb.png") +![](punch.gif "punch.gif")                         |                             |            |            | 25+0+10x3+15x6+70/25+0+10x3+12x6+10x3+12x7+40+80 |
-| Heat Drive             | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") + ![](punch.gif "punch.gif")                        | Peut se charger             |            |            | 200                                              |
-| Neomax                 |                                                                                                  |                             |            |            |                                                  |
-| Hyper Chain Drive      | ![](hcb.png "hcb.png")![](hcb.png "hcb.png") + ![](Snka.gif "Snka.gif")+![](Snkc.gif "Snkc.gif") |                             |            |            | 20x3+(20+0)x21                                   |
+| Move Name              | Motion                                                                                                                                                           | Comment                     | Frame Data | Cancelable | Damage LOW/HIGH/EX                               |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------|:-----------|:-----------|:-------------------------------------------------|
+| Throws                 |                                                                                                                                                                  |                             |            |            |                                                  |
+| Spot Pile              | ![](/images/b.png "/images/b.png") ou ![](/images/F.png "/images/F.png") + ![](/images/Snkc.gif "/images/Snkc.gif") ou ![](/images/Snkd.gif "/images/Snkd.gif")  |                             |            |            | 100                                              |
+|                        |                                                                                                                                                                  |                             |            |            |                                                  |
+| Command Normals        |                                                                                                                                                                  |                             |            |            |                                                  |
+| One Inch Punch         | ![](/images/F.png "/images/F.png") + ![](/images/Snka.gif "/images/Snka.gif")                                                                                    |                             |            | oui        | 75(60)                                           |
+|                        |                                                                                                                                                                  |                             |            |            |                                                  |
+| Desperation move       |                                                                                                                                                                  |                             |            |            |                                                  |
+| Ein Trigger            | ![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.gif "/images/punch.gif")                                                                              |                             |            |            | 50/60                                            |
+| ↳ Second Shoot         | ![](/images/F.png "/images/F.png") + ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                    | Après Ein Trigger           |            |            | 40/80                                            |
+| ↳ Second Shell         | ![](/images/F.png "/images/F.png") + ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                    | Après Ein Trigger           |            |            | 40/25x2                                          |
+| ↳ Blackout             | ![](/images/b.png "/images/b.png") +![](/images/kick.gif "/images/kick.gif")                                                                                     | Après Ein Trigger           |            |            | 0                                                |
+| Blackout               | ![](/images/qcf.png "/images/qcf.png") + ![](/images/kick.gif "/images/kick.gif")                                                                                |                             |            |            | 0                                                |
+| Crow Bites             | ![](/images/dp.png "/images/dp.png") +![](/images/punch.gif "/images/punch.gif")                                                                                 |                             |            |            | 60+40/50+40+30/20x8+40x2+80                      |
+| ↳ Crow Bites Plus      | ![](/images/F.png "/images/F.png") → +![](/images/kick.gif "/images/kick.gif")                                                                                   | Après Crow Bites (C)        |            |            | 40                                               |
+| Minute Spike           | ![](/images/qcb.png "/images/qcb.png")+ ![](/images/kick.gif "/images/kick.gif")                                                                                 | possible en l'air           |            |            | 70/150                                           |
+| ↳ Narrow Spike         | ![](/images/qcb.png "/images/qcb.png") + ![](/images/kick.gif "/images/kick.gif")                                                                                | Après Minute Spike (au sol) |            |            | 60/130                                           |
+|                        |                                                                                                                                                                  |                             |            |            |                                                  |
+| Super Desperation move |                                                                                                                                                                  |                             |            |            |                                                  |
+| Chain Drive            | ![](/images/qcf.png "/images/qcf.png")![](/images/hcb.png "/images/hcb.png") +![](/images/punch.gif "/images/punch.gif")                                         |                             |            |            | 25+0+10x3+15x6+70/25+0+10x3+12x6+10x3+12x7+40+80 |
+| Heat Drive             | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.gif "/images/punch.gif")                                        | Peut se charger             |            |            | 200                                              |
+| Neomax                 |                                                                                                                                                                  |                             |            |            |                                                  |
+| Hyper Chain Drive      | ![](/images/hcb.png "/images/hcb.png")![](/images/hcb.png "/images/hcb.png") + ![](/images/Snka.gif "/images/Snka.gif")+![](/images/Snkc.gif "/images/Snkc.gif") |                             |            |            | 20x3+(20+0)x21                                   |
 
 ## Combo
 
@@ -174,13 +176,23 @@ hcb. AC (873Dmg)
 
 ## Couleurs disponibles
 
-Fichier:kdash_1.png \| N° 1 Fichier:kdash_2.png \| N° 2
-Fichier:kdash_3.png \| N° 3 Fichier:kdash_4.png \| N° 4
-Fichier:kdash_5.png \| N° 5 Fichier:kdash_6.png \| N° 6
-Fichier:kdash_7.png \| N° 7 Fichier:kdash_8.png \| N° 8
-Fichier:kdash_9.png \| N° 9 Fichier:kdash_10.png \| N° 10
-Fichier:kdash_a1.png \| N° Alt 1 Fichier:kdash_a2.png \| N° Alt 2
-Fichier:kdash_a3.png \| N° Alt 3 Fichier:kdash_a4.png \| N° Alt 4
-Fichier:kdash_a5.png \| N° Alt 5 Fichier:kdash_a6.png \| N° Alt 6
-Fichier:kdash_a7.png \| N° Alt 7 Fichier:kdash_a8.png \| N° Alt 8
-Fichier:kdash_a9.png \| N° Alt 9 Fichier:kdash_a10.png \| N° Alt 10
+![](/images/kdash_1.png "/images/kdash_1.png") \| N° 1
+![](/images/kdash_2.png "/images/kdash_2.png") \| N° 2
+![](/images/kdash_3.png "/images/kdash_3.png") \| N° 3
+![](/images/kdash_4.png "/images/kdash_4.png") \| N° 4
+![](/images/kdash_5.png "/images/kdash_5.png") \| N° 5
+![](/images/kdash_6.png "/images/kdash_6.png") \| N° 6
+![](/images/kdash_7.png "/images/kdash_7.png") \| N° 7
+![](/images/kdash_8.png "/images/kdash_8.png") \| N° 8
+![](/images/kdash_9.png "/images/kdash_9.png") \| N° 9
+![](/images/kdash_10.png "/images/kdash_10.png") \| N° 10
+![](/images/kdash_a1.png "/images/kdash_a1.png") \| N° Alt 1
+![](/images/kdash_a2.png "/images/kdash_a2.png") \| N° Alt 2
+![](/images/kdash_a3.png "/images/kdash_a3.png") \| N° Alt 3
+![](/images/kdash_a4.png "/images/kdash_a4.png") \| N° Alt 4
+![](/images/kdash_a5.png "/images/kdash_a5.png") \| N° Alt 5
+![](/images/kdash_a6.png "/images/kdash_a6.png") \| N° Alt 6
+![](/images/kdash_a7.png "/images/kdash_a7.png") \| N° Alt 7
+![](/images/kdash_a8.png "/images/kdash_a8.png") \| N° Alt 8
+![](/images/kdash_a9.png "/images/kdash_a9.png") \| N° Alt 9
+![](/images/kdash_a10.png "/images/kdash_a10.png") \| N° Alt 10

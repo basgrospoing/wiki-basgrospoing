@@ -1,3 +1,5 @@
+# P4A/Mécanismes
+
 Cette page décrit les mécanismes de base d'un jeu de combat disponibles
 dans *[Persona 4 Arena](Persona_4_Arena "wikilink")*. Pour un aperçu des
 fonctionnalités spécifiques, consultez l'article [mécanismes
@@ -17,7 +19,7 @@ autres jeux Arcsys.
 
 **Marcher**  
   
-![](Marche.jpg "Marche.jpg")
+![](/images/Marche.jpg "/images/Marche.jpg")
 
 </center>
 
@@ -30,7 +32,7 @@ autres jeux Arcsys.
 
 **Courir/*dasher***  
   
-![](Cours.jpg "Cours.jpg")
+![](/images/Cours.jpg "/images/Cours.jpg")
 
 </center>
 
@@ -46,7 +48,7 @@ autres jeux Arcsys.
 
 **S'accroupir**  
   
-![](Accroupi.jpg "Accroupi.jpg")
+![](/images/Accroupi.jpg "/images/Accroupi.jpg")
 
 </center>
 
@@ -59,7 +61,7 @@ autres jeux Arcsys.
 
 **Backdash**  
   
-![](Backdash.jpg "Backdash.jpg")
+![](/images/Backdash.jpg "/images/Backdash.jpg")
 
 </center>
 
@@ -74,9 +76,10 @@ autres jeux Arcsys.
 
 **Sauter**  
   
-<img src="Saut.jpg" title="Saut.jpg" width="210" alt="Saut.jpg" />
-<img src="Double_saut.jpg" title="Double_saut.jpg" width="210"
-alt="Double_saut.jpg" />
+<img src="/images/Saut.jpg" title="/images/Saut.jpg" width="210"
+alt="/images/Saut.jpg" />
+<img src="/images/Double_saut.jpg" title="/images/Double_saut.jpg"
+width="210" alt="/images/Double_saut.jpg" />
 
 </center>
 
@@ -89,7 +92,7 @@ alt="Double_saut.jpg" />
 
 **Super saut/*high jump***  
   
-![](Super_saut.jpg "Super_saut.jpg")
+![](/images/Super_saut.jpg "/images/Super_saut.jpg")
 
 </center>
 
@@ -104,7 +107,7 @@ alt="Double_saut.jpg" />
 
 ***Airdash***  
   
-![](Airdash.jpg "Airdash.jpg")
+![](/images/Airdash.jpg "/images/Airdash.jpg")
 
 </center>
 
@@ -118,7 +121,7 @@ en l'air à une distance limitée.
 
 ***Airbackdash***  
   
-![](Airbackdash.jpg "Airbackdash.jpg")
+![](/images/Airbackdash.jpg "/images/Airbackdash.jpg")
 
 </center>
 
@@ -139,7 +142,7 @@ opposée.
 
 ***Quick escape***  
   
-![](Quick_escape.jpg "Quick_escape.jpg")
+![](/images/Quick_escape.jpg "/images/Quick_escape.jpg")
 
 </center>
 
@@ -154,7 +157,7 @@ récupération à la fin.
 
 ***Air turn***  
   
-![](Air_turn.jpg "Air_turn.jpg")
+![](/images/Air_turn.jpg "/images/Air_turn.jpg")
 
 </center>
 
@@ -170,7 +173,7 @@ et les attaques effectuées le seront donc dans l'autre direction.
 
 **Mini saut/*hop***  
   
-![](Mini_saut.jpg "Mini_saut.jpg")
+![](/images/Mini_saut.jpg "/images/Mini_saut.jpg")
 
 </center>
 
@@ -197,7 +200,7 @@ différente.
 
 **Coup faible**  
   
-![](Coup_faible.jpg "Coup_faible.jpg")
+![](/images/Coup_faible.jpg "/images/Coup_faible.jpg")
 
 </center>
 
@@ -212,7 +215,7 @@ donne lieu automatiquement à un combo simple et universel.
 
 **Persona faible**  
   
-![](Persona_faible.jpg "Persona_faible.jpg")
+![](/images/Persona_faible.jpg "/images/Persona_faible.jpg")
 
 </center>
 
@@ -227,7 +230,7 @@ donne lieu automatiquement à un combo simple et universel.
 
 **Coup fort**  
   
-![](Coup_fort.jpg "Coup_fort.jpg")
+![](/images/Coup_fort.jpg "/images/Coup_fort.jpg")
 
 </center>
 
@@ -240,7 +243,7 @@ donne lieu automatiquement à un combo simple et universel.
 
 **Persona fort**  
   
-![](Persona_fort.jpg "Persona_fort.jpg")
+![](/images/Persona_fort.jpg "/images/Persona_fort.jpg")
 
 </center>
 
@@ -261,7 +264,7 @@ Combiner une direction avec un des boutons peut changer le coup utilisé
 
 **Projection**  
   
-![](Projection.jpg "Projection.jpg")
+![](/images/Projection.jpg "/images/Projection.jpg")
 
 </center>
 
@@ -277,7 +280,7 @@ Combiner une direction avec un des boutons peut changer le coup utilisé
 
 **Coup spécial/*Skill***  
   
-![](Coup_spécial.jpg "Coup_spécial.jpg")
+![](/images/Coup_spécial.jpg "/images/Coup_spécial.jpg")
 
 </center>
 
@@ -296,7 +299,7 @@ SP.
 
 **Super/*SP Skill***  
   
-![](Sp_skill.jpg "Sp_skill.jpg")
+![](/images/Sp_skill.jpg "/images/Sp_skill.jpg")
 
 </center>
 
@@ -318,7 +321,7 @@ super au prix d'un ajout de barre bleue.
 
 **Balayette/*sweep***  
   
-![](Balayette.jpg "Balayette.jpg")
+![](/images/Balayette.jpg "/images/Balayette.jpg")
 
 </center>
 
@@ -331,7 +334,7 @@ Possibilité de combo après.
 
 ***All-out Attack***  
   
-![](All_out_attack.jpg "All_out_attack.jpg")
+![](/images/All_out_attack.jpg "/images/All_out_attack.jpg")
 
 </center>
 
@@ -348,7 +351,7 @@ Si un adversaire en l'air est touché, il rebondira sur le sol.
 
 ***All-out Rush***  
   
-![](All_out_rush.jpg "All_out_rush.jpg")
+![](/images/All_out_rush.jpg "/images/All_out_rush.jpg")
 
 </center>
 
@@ -362,7 +365,7 @@ l'All-out Attack. Fatal Counter après 15 hits.
 
 ***All-out Finish***  
   
-![](All_out_finish.jpg "All_out_finish.jpg")
+![](/images/All_out_finish.jpg "/images/All_out_finish.jpg")
 
 </center>
 
@@ -381,7 +384,7 @@ l'All-out Attack. Fatal Counter après 15 hits.
 
 ***One More Cancel***  
   
-![](1_more_cancel.jpg "1_more_cancel.jpg")
+![](/images/1_more_cancel.jpg "/images/1_more_cancel.jpg")
 
 </center>
 
@@ -394,7 +397,7 @@ personnage en situation neutre au prix de 50 SP.
 
 ***One More Burst***  
   
-![](1_more_burst.jpg "1_more_burst.jpg")
+![](/images/1_more_burst.jpg "/images/1_more_burst.jpg")
 
 </center>
 
@@ -418,7 +421,7 @@ pour la suite du combo.
 
 **Garde haute**  
   
-![](Garde_haute.jpg "Garde_haute.jpg")
+![](/images/Garde_haute.jpg "/images/Garde_haute.jpg")
 
 </center>
 
@@ -432,7 +435,7 @@ la propriété de toucher haut (*high*) ou mid.
 
 **Garde basse**  
   
-![](Garde_basse.jpg "Garde_basse.jpg")
+![](/images/Garde_basse.jpg "/images/Garde_basse.jpg")
 
 </center>
 
@@ -448,7 +451,7 @@ la propriété de toucher bas (*low*) ou mid.
 
 **Garde en l'air**  
   
-![](Garde_en_l'air.jpg "Garde_en_l'air.jpg")
+![](/images/Garde_en_l'air.jpg "/images/Garde_en_l'air.jpg")
 
 </center>
 
@@ -462,7 +465,7 @@ attaque* : permet de bloquer les attaques gardables en l'air.
 
 **Déchope**  
   
-![](Déchope.jpg "Déchope.jpg")
+![](/images/Déchope.jpg "/images/Déchope.jpg")
 
 </center>
 
@@ -478,7 +481,7 @@ projection.
 
 ***Ukemi***  
   
-![](Ukemi.jpg "Ukemi.jpg")
+![](/images/Ukemi.jpg "/images/Ukemi.jpg")
 
 </center>
 
@@ -491,7 +494,7 @@ projection.
 
 ***Air ukemi***  
   
-![](Air_ukemi.jpg "Air_ukemi.jpg")
+![](/images/Air_ukemi.jpg "/images/Air_ukemi.jpg")
 
 </center>
 
@@ -513,7 +516,7 @@ options de mouvement aérien sont de nouveau utilisables.
 
 ***Instant block***  
   
-![](Instant_block.jpg "Instant_block.jpg")
+![](/images/Instant_block.jpg "/images/Instant_block.jpg")
 
 </center>
 
@@ -527,7 +530,7 @@ blanc et diminue le temps passé à récupérer de la garde.
 
 **Contre-attaque**  
   
-![](Contre_attaque.jpg "Contre_attaque.jpg")
+![](/images/Contre_attaque.jpg "/images/Contre_attaque.jpg")
 
 </center>
 
@@ -543,7 +546,7 @@ blanc puis effectue une attaque capable d'absorber un coup.
 
 **Action furieuse/*le pif***  
   
-![](Pif.jpg "Pif.jpg")
+![](/images/Pif.jpg "/images/Pif.jpg")
 
 </center>
 
@@ -560,7 +563,7 @@ Utiliser l'action furieuse a un coût en barre bleue.
 
 ***Burst***  
   
-![](Burst.jpg "Burst.jpg")
+![](/images/Burst.jpg "/images/Burst.jpg")
 
 </center>
 
@@ -583,7 +586,7 @@ invincible puis produit une explosion qui rejette l'adversaire s'il est
 
 ***Max burst***  
   
-![](Max_burst.jpg "Max_burst.jpg")
+![](/images/Max_burst.jpg "/images/Max_burst.jpg")
 
 </center>
 
@@ -599,7 +602,7 @@ intégralement la barre de SP et la barre de Burst à 25%
 
 ***Awakening***  
   
-![](Awakening.jpg "Awakening.jpg")
+![](/images/Awakening.jpg "/images/Awakening.jpg")
 
 </center>
 

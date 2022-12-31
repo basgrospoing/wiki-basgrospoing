@@ -1,5 +1,8 @@
-![Character Select Portrait](Ken3sport.gif "Character Select Portrait")
-![Neutral Stance](Ken3s-stance.gif "Neutral Stance")
+# Ken (3S)
+
+![Character Select
+Portrait](/images/Ken3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Ken3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -11,50 +14,51 @@
 
 ## Couleurs
 
-|                            |                            |                            |                            |                            |                            |                                                              |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")       | ![](MP.png "MP.png")       | ![](HP.png "HP.png")       | ![](LK.png "LK.png")       | ![](MK.png "MK.png")       | ![](HK.png "HK.png")       | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Kenlp.gif "Kenlp.gif") | ![](Kenmp.gif "Kenmp.gif") | ![](Kenhp.gif "Kenhp.gif") | ![](Kenlk.gif "Kenlk.gif") | ![](Kenmk.gif "Kenmk.gif") | ![](Kenhk.gif "Kenhk.gif") | ![](Kenlpmkhp.gif "Kenlpmkhp.gif")                           |
-|                            |                            |                            |                            |                            |                            |                                                              |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")       | ![](/images/MP.png "/images/MP.png")       | ![](/images/HP.png "/images/HP.png")       | ![](/images/LK.png "/images/LK.png")       | ![](/images/MK.png "/images/MK.png")       | ![](/images/HK.png "/images/HK.png")       | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Kenlp.gif "/images/Kenlp.gif") | ![](/images/Kenmp.gif "/images/Kenmp.gif") | ![](/images/Kenhp.gif "/images/Kenhp.gif") | ![](/images/Kenlk.gif "/images/Kenlk.gif") | ![](/images/Kenmk.gif "/images/Kenmk.gif") | ![](/images/Kenhk.gif "/images/Kenhk.gif") | ![](/images/Kenlpmkhp.gif "/images/Kenlpmkhp.gif")                                                           |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
 
 ## Liste des coups
 
 #### Chopes
 
-|               |                                                                  |
-|---------------|------------------------------------------------------------------|
-| Hiza Geri     | ![](LP.png "LP.png") + ![](LK.png "LK.png")                      |
-| Seoi Nage     | ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-| Jigoku Guruma | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|               |                                                                                                                  |
+|---------------|------------------------------------------------------------------------------------------------------------------|
+| Hiza Geri     | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                      |
+| Seoi Nage     | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+| Jigoku Guruma | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Normaux
 
-|                      |                                                                                               |
-|----------------------|-----------------------------------------------------------------------------------------------|
-| Fumikomi Mae Geria   | ![](F.png "F.png") + ![](MK.png "MK.png")                                                     |
-| Inazuma Kakato Wari  | ![](B.png "B.png") + ![](MK.png "MK.png"), ou maintenir ![](MK.png "MK.png")                  |
-| Shiden Kakato Otoshi | ![](F.png "F.png") + ![](HK.png "HK.png") (maintenir ![](HK.png "HK.png") pour cancel attack) |
+|                      |                                                                                                                                               |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Fumikomi Mae Geria   | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")                                                                     |
+| Inazuma Kakato Wari  | ![](/images/B.png "/images/B.png") + ![](/images/MK.png "/images/MK.png"), ou maintenir ![](/images/MK.png "/images/MK.png")                  |
+| Shiden Kakato Otoshi | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") (maintenir ![](/images/HK.png "/images/HK.png") pour cancel attack) |
 
 #### Target Combos
 
-- Debout, proche, ![](MP.png "MP.png") -\> ![](HP.png "HP.png")
+- Debout, proche, ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 ### Coups Spéciaux
 
-|                              |                                                             |     |
-|------------------------------|-------------------------------------------------------------|-----|
-| Hadouken                     | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")         | EX  |
-| Shoryuken                    | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")           | EX  |
-| Tatsumaki Senpuu Kyaku       | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png")           | EX  |
-| Tatsumaki Senpuu Kyaku (Air) | **(Air)** ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") | EX  |
+|                              |                                                                                             |     |
+|------------------------------|---------------------------------------------------------------------------------------------|-----|
+| Hadouken                     | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")         | EX  |
+| Shoryuken                    | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")           | EX  |
+| Tatsumaki Senpuu Kyaku       | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png")           | EX  |
+| Tatsumaki Senpuu Kyaku (Air) | **(Air)** ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | EX  |
 
 ### Super Arts
 
-|     |                     |                                                                                                                      |          |
-|-----|---------------------|----------------------------------------------------------------------------------------------------------------------|----------|
-| I   | Shoryu-Reppa        | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                           | 2 stocks |
-| II  | Shinryu-Ken         | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") (Taper ![](Kick.png "Kick.png") rapidement) | 1 stock  |
-| III | Shippu-Jinrai-Kyaku | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")                                             | 3 stocks |
+|     |                     |                                                                                                                                                                                      |          |
+|-----|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Shoryu-Reppa        | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                           | 2 stocks |
+| II  | Shinryu-Ken         | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") (Taper ![](/images/Kick.png "/images/Kick.png") rapidement) | 1 stock  |
+| III | Shippu-Jinrai-Kyaku | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")                                                             | 3 stocks |
 
 ## Stratégie
 

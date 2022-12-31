@@ -1,3 +1,5 @@
+# Vergil (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,14 +8,14 @@
 
 ## Vergil
 
-![](Umvc3_vergil_face.jpg‎ "Umvc3_vergil_face.jpg‎") The second Son of
-Sparda, and Dante's older twin brother who was thought to be dead by him
-but in reality was merely separated after their mother's murder. Unlike
-Dante, who is cocky, hot-blooded, and carefree, Vergil is his polar
-opposite - cold, aloof, and power-hungry. Blaming himself for his
-mother's death, he adopted the philosophy that without power, no one can
-accomplish anything, and journeyed in search of more demonic power. In
-contrast to Dante, a gun-wielder, Vergil prefers his father's katana,
+![](/images/Umvc3_vergil_face.jpg‎ "/images/Umvc3_vergil_face.jpg‎") The
+second Son of Sparda, and Dante's older twin brother who was thought to
+be dead by him but in reality was merely separated after their mother's
+murder. Unlike Dante, who is cocky, hot-blooded, and carefree, Vergil is
+his polar opposite - cold, aloof, and power-hungry. Blaming himself for
+his mother's death, he adopted the philosophy that without power, no one
+can accomplish anything, and journeyed in search of more demonic power.
+In contrast to Dante, a gun-wielder, Vergil prefers his father's katana,
 Yamato, as well as a variety of bladed weapons. After briefly reuniting
 with Dante to defeat Arkham and clashing with Dante, he decided to stay
 in Hell to gain more power, but was unceremoniously ambushed by his

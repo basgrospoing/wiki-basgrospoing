@@ -1,4 +1,6 @@
-![](ss4-Rimururu.gif "ss4-Rimururu.gif")
+# Samurai Shodown IV - Rimururu (リムルル, Rimururu)
+
+![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")
 
 ## Introduction
 

@@ -1,10 +1,12 @@
-[ **Nom:**   Nuit de Wallachia (ワラキアの夜)  —  **Alias:**   Zepia
+# Melty Blood/Warachia
+
+![ **Nom:**   Nuit de Wallachia (ワラキアの夜)  —  **Alias:**   Zepia
 Eltnam Oberon\<br\\\>\<br\\\> **Doublé par:**   Yasunori Masutani (増谷
 康紀)  —  **Type:**   Phenomène   —  **Sexe:**   Male \<br\\\>\<br\\\>
 **Date de naissance:**   30 Mai
   —  **Taille:**   180cm  —  **Poids:**   67kg \<br\\\>\<br\\\>
 **Couleur des yeux:**   Rouge  —  **Couleur des cheveux:**   Blonds
-\|frame\|right](image:Warachia1.png "wikilink")
+\|frame\|right](/images/Warachia1.png " Nom:   Nuit de Wallachia (ワラキアの夜)  —  Alias:   Zepia Eltnam Oberon<br\><br\> Doublé par:   Yasunori Masutani (増谷 康紀)  —  Type:   Phenomène   —  Sexe:   Male <br\><br\> Date de naissance:   30 Mai   —  Taille:   180cm  —  Poids:   67kg <br\><br\> Couleur des yeux:   Rouge  —  Couleur des cheveux:   Blonds |frame|right")
 
 # Introduction
 
@@ -39,7 +41,7 @@ différentes facon.
 
 # Palettes
 
-![](Warachia-colors.png "Warachia-colors.png")
+![](/images/Warachia-colors.png "/images/Warachia-colors.png")
 
 # Liste des Styles
 

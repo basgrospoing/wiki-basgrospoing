@@ -1,4 +1,6 @@
-![](tvc-uas-logo.jpg "tvc-uas-logo.jpg")
+# Tatsunoko vs Capcom
+
+![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")
 
 ## Introduction
 

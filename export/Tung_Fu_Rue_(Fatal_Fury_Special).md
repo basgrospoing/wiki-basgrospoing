@@ -1,4 +1,6 @@
-![](Ffsptung.PNG)  
+# Tung Fu Rue (Fatal Fury Special)
+
+![](/images/Ffsptung.PNG)  
 
 ## Introduction
 

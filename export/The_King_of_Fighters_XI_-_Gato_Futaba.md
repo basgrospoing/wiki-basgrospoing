@@ -1,4 +1,6 @@
-![](kofxi-gato.jpg "kofxi-gato.jpg")
+# The King of Fighters XI - Gato Futaba
+
+![](/images/kofxi-gato.jpg "/images/kofxi-gato.jpg")
 
 ## Introduction
 

@@ -1,4 +1,6 @@
-![](ss4-Haohmaru.gif "ss4-Haohmaru.gif")
+# Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)
+
+![](/images/ss4-Haohmaru.gif "/images/ss4-Haohmaru.gif")
 
 ## Introduction
 

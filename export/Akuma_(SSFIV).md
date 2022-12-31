@@ -1,3 +1,5 @@
+# Akuma (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -43,13 +45,13 @@ Strike)
 
 #### Coups Uniques
 
-|                                                 |                                           |
-|-------------------------------------------------|-------------------------------------------|
-| **Zugai Hasatsu (Cassage de Briques Overhead)** | ![](F.png "F.png") + ![](HP.png "HP.png") |
+|                                                 |                                                                           |
+|-------------------------------------------------|---------------------------------------------------------------------------|
+| **Zugai Hasatsu (Cassage de Briques Overhead)** | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
 
-|                                                  |                                                      |
-|--------------------------------------------------|------------------------------------------------------|
-| **Tenmakujin Kyaku (Descente du pied manuelle)** | ![](D.png "D.png") + ![](LK.png "LK.png") (en l'air) |
+|                                                  |                                                                                      |
+|--------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Tenmakujin Kyaku (Descente du pied manuelle)** | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") (en l'air) |
 
 #### Chopes
 
@@ -57,9 +59,9 @@ Strike)
 
 #### Gohadoken
 
-|               |                                                     |                      |
-|---------------|-----------------------------------------------------|----------------------|
-| **Gohadoken** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|               |                                                                                     |                                      |
+|---------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Gohadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 **Gohadoken** : QCF+P (réalisable dans les airs)
 
@@ -74,17 +76,17 @@ Il faut savoir que plus le projectile est rapide plus le recover est
 
 #### Zankuu Hadoken (Air Hadoken)
 
-|                    |                                                                |                      |
-|--------------------|----------------------------------------------------------------|----------------------|
-| **Zankuu Hadoken** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") (en l'air) | ![](Ex.png "Ex.png") |
+|                    |                                                                                                |                                      |
+|--------------------|------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Zankuu Hadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (en l'air) | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Shakunetsu Hadoken
 
 **Shakunetsu** : HCB+P
 
-|                        |                                                     |                      |
-|------------------------|-----------------------------------------------------|----------------------|
-| **Shakunetsu Hadoken** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                        |                                                                                     |                                      |
+|------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Shakunetsu Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Même principe que pour le gohadoken sauf que celui-ci fait forcément
 tomber
@@ -101,9 +103,9 @@ Ex: même chose qu'avec la version HP avec plus de dégâts
 
 **Goshoryuken**: DP+P
 
-|                 |                                                   |                      |
-|-----------------|---------------------------------------------------|----------------------|
-| **Goshoryuken** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                 |                                                                                   |                                      |
+|-----------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Goshoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 LP: touche un hit
 
@@ -118,9 +120,9 @@ l'animation
 
 #### Tatsumaki Zankukyaku
 
-|                          |                                                   |                      |
-|--------------------------|---------------------------------------------------|----------------------|
-| **Tatsumaki Zankukyaku** | ![](rdp.png "rdp.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                          |                                                                                   |                                      |
+|--------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Tatsumaki Zankukyaku** | ![](/images/rdp.png "/images/rdp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 **Tatsumaki Zankukyaku**: QCB+K (réalisable dans les airs)
 
@@ -137,9 +139,9 @@ Le Tatsu aérien peut être utilisé en tant que cross up.
 
 #### Hiakkishu (Demon Flip)
 
-|                           |                                                 |
-|---------------------------|-------------------------------------------------|
-| **Hiakkishu(Demon Flip)** | ![](dp.png "dp.png") + ![](Kick.png "Kick.png") |
+|                           |                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|
+| **Hiakkishu(Demon Flip)** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 **Hyakkishu**(Demon Flip): DP+K
 
@@ -147,9 +149,9 @@ La puissance du K utilisée détermine la distance parcourue
 
 ##### Hyakki Gouzan(Demon Flip + Pas D'input)
 
-|                           |                                    |
-|---------------------------|------------------------------------|
-| **Hiakkishu(Demon Flip"** | ![](dp.png "dp.png") + Pas d'input |
+|                           |                                                    |
+|---------------------------|----------------------------------------------------|
+| **Hiakkishu(Demon Flip"** | ![](/images/dp.png "/images/dp.png") + Pas d'input |
 
 La Demon Flip Balayette de Gouki.
 
@@ -157,9 +159,9 @@ La Demon Flip Balayette de Gouki.
 
 *Hyakki Goshu*: P durant Hyakkishu
 
-|                  |                                                                             |
-|------------------|-----------------------------------------------------------------------------|
-| **Hiakki Goshu** | ![](dp.png "dp.png") ![](Kick.png "Kick.png") \> ![](Punch.png "Punch.png") |
+|                  |                                                                                                                             |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Hiakki Goshu** | ![](/images/dp.png "/images/dp.png") ![](/images/Kick.png "/images/Kick.png") \> ![](/images/Punch.png "/images/Punch.png") |
 
 Ce coup est **Armor Break** et fait overhead
 
@@ -167,25 +169,25 @@ Ce coup est **Armor Break** et fait overhead
 
 *Hyakki Gojin*: K durant Hyakkishu
 
-|                  |                                                                          |
-|------------------|--------------------------------------------------------------------------|
-| **Hiakki Goshu** | ![](dp.png "dp.png") ![](Kick.png "Kick.png") \>![](Kick.png "Kick.png") |
+|                  |                                                                                                                          |
+|------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Hiakki Goshu** | ![](/images/dp.png "/images/dp.png") ![](/images/Kick.png "/images/Kick.png") \>![](/images/Kick.png "/images/Kick.png") |
 
 ##### Hiakki Gosai (Demon Flip Followup Choppe)
 
 *Hyakki Gosai*: LP+LK durant Hyakkishu (choppe)
 
-|                  |                                                                                                  |
-|------------------|--------------------------------------------------------------------------------------------------|
-| **Hiakki Gosai** | ![](dp.png "dp.png") ![](Kick.png "Kick.png") + ( ![](LP.png "LP.png") \> ![](LK.png "LK.png") ) |
+|                  |                                                                                                                                                                  |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Hiakki Gosai** | ![](/images/dp.png "/images/dp.png") ![](/images/Kick.png "/images/Kick.png") + ( ![](/images/LP.png "/images/LP.png") \> ![](/images/LK.png "/images/LK.png") ) |
 
 #### Ashura Zenku (Téléport)
 
 **Ashura Senku**: DP/RDP+PPP/KKK
 
-|                  |                                                     |
-|------------------|-----------------------------------------------------|
-| **Ashura Zenku** | ![](dp.png "dp.png") + ![](3xKick.png "3xKick.png") |
+|                  |                                                                                     |
+|------------------|-------------------------------------------------------------------------------------|
+| **Ashura Zenku** | ![](/images/dp.png "/images/dp.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 C'est une téléportation qui peut faire cross up, il est invincible
 durant le début de l'animation.
@@ -196,9 +198,9 @@ durant le début de l'animation.
 
 **Raging Demon** : LP,LP,F.LK,HP
 
-|                  |                                                                                                              |
-|------------------|--------------------------------------------------------------------------------------------------------------|
-| **Raging Demon** | ![](LP.png "LP.png") ![](LP.png "LP.png") ![](F.png "F.png") + { ![](LK.png "LK.png") ![](HP.png "HP.png") } |
+|                  |                                                                                                                                                                                              |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Raging Demon** | ![](/images/LP.png "/images/LP.png") ![](/images/LP.png "/images/LP.png") ![](/images/F.png "/images/F.png") + { ![](/images/LK.png "/images/LK.png") ![](/images/HP.png "/images/HP.png") } |
 
 Une choppe qui parcourt une certain distance. Ce coup ne traverse pas
 les projectiles.
@@ -216,9 +218,9 @@ par rapport à l'ultra 1.
 
 **Wrath Of Raging Demon**(Ultra 1) : LP,LP,B.LK,HP
 
-|                           |                                                                                                            |
-|---------------------------|------------------------------------------------------------------------------------------------------------|
-| **Wrath Of Raging Demon** | ![](LP.png "LP.png") ![](LP.png "LP.png") ![](B.png "B.png") + {![](LK.png "LK.png") ![](HP.png "HP.png")} |
+|                           |                                                                                                                                                                                            |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Wrath Of Raging Demon** | ![](/images/LP.png "/images/LP.png") ![](/images/LP.png "/images/LP.png") ![](/images/B.png "/images/B.png") + {![](/images/LK.png "/images/LK.png") ![](/images/HP.png "/images/HP.png")} |
 
 Le plus gros avantage de l'Ultra 1 par rapport à la super est
 l'apparition de frame d'invincibilité dans les 1res frames
@@ -230,9 +232,9 @@ conséquents.
 
 **Demon Armageddon**(Ultra 2) : U,U KKK
 
-|                      |                                                                      |
-|----------------------|----------------------------------------------------------------------|
-| **Demon Armageddon** | ![](U.png "U.png") ![](U.png "U.png") + ![](3xKick.png "3xKick.png") |
+|                      |                                                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Demon Armageddon** | ![](/images/U.png "/images/U.png") ![](/images/U.png "/images/U.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Une Ultra assez particulière à placer dans le sens ou elle semble de
 premier abord n’être qu’utilisé qu'en combinaison avec la téléport.
@@ -273,49 +275,49 @@ Hyakki Gojin, HP x Goshoryuken
 
 ### Le tatsumaki sweep combo
 
-Les personnages avec qui le ![](LK.png "LK.png") tatsu balayette
-**marche** sont en **Gras**,ceux qui \*ne marche pas\* auront une
-astérisque(\*) :
+Les personnages avec qui le ![](/images/LK.png "/images/LK.png") tatsu
+balayette **marche** sont en **Gras**,ceux qui \*ne marche pas\* auront
+une astérisque(\*) :
 
-`   Abel`  
-`   `**`Adon`**  
-`   `**`Akuma`**  
-`   `**`Balrog (Boxer)`**  
-`   *Blanka*`  
-`   `**`Cammy`**  
-`   `**`Chun-Li`**  
-`   `**`Cody`**  
-`   `**`C. Viper`**  
-`   `**`Dan`**  
-`   `**`Dee Jay`**  
-`   `**`Dhalsim`**  
-`   *Dudley*`  
-`   `**`E. Honda`**  
-`   `**`El Fuerte`**  
-`   `**`Evil Ryu`**  
-`   `**`Fei Long`**  
-`   *Gen*`  
-`   `**`Gouken`**  
-`   `**`Guile`**  
-`   *Guy*`  
-`   `**`Hakan`**  
-`   `**`Ibuki`**  
-`   *Juri*`  
-`   *Ken*`  
-`   `**`Makoto`**  
-`   *M. Bison (Dictator)*`  
-`   `**`Oni`**  
-`   `**`Rose`**  
-`   *Rufus*`  
-`   `**`Ryu`**`'`  
-`   `**`Sagat`**  
-`   `**`Sakura`**  
-`   `**`Seth`**  
-`   `**`T. Hawk`**  
-`   `**`Vega (Claw)`**  
-`   `**`Yang`**  
-`   `**`Yun`**  
-`   `**`Zangief`**
+`Abel`  
+**`Adon`**  
+**`Akuma`**  
+**`Balrog (Boxer)`**  
+`*Blanka*`  
+**`Cammy`**  
+**`Chun-Li`**  
+**`Cody`**  
+**`C. Viper`**  
+**`Dan`**  
+**`Dee Jay`**  
+**`Dhalsim`**  
+`*Dudley*`  
+**`E. Honda`**  
+**`El Fuerte`**  
+**`Evil Ryu`**  
+**`Fei Long`**  
+`*Gen*`  
+**`Gouken`**  
+**`Guile`**  
+`*Guy*`  
+**`Hakan`**  
+**`Ibuki`**  
+`*Juri*`  
+`*Ken*`  
+**`Makoto`**  
+`*M. Bison (Dictator)*`  
+**`Oni`**  
+**`Rose`**  
+`*Rufus*`  
+**`Ryu`**`'`  
+**`Sagat`**  
+**`Sakura`**  
+**`Seth`**  
+**`T. Hawk`**  
+**`Vega (Claw)`**  
+**`Yang`**  
+**`Yun`**  
+**`Zangief`**
 
 Remarque importante:Quand vous faites un air tatsumaki et qu'il touche
 en en crossup et en l'air,vous pouvez suivre ce coup avec le combo

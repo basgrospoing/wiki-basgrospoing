@@ -1,11 +1,13 @@
-[ **Name:**   Riesbyfe Stridberg
+# Melty Blood/Riesbyfe Stridberg
+
+![ **Name:**   Riesbyfe Stridberg
 (リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the
 Holy Shield \<br\\\>\<br\\\> **Voiced by:**   Watanabe Akeno (渡辺
 明乃)  —  **Type:**   Human, Knight  —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**    ?   —  **Sizes:**    ? / ? / ?
   —  **Height:**   171cm  —  **Weight:**    ? \<br\\\>\<br\\\> **Eye
 Color:**   Silver  —  **Hair Color:**   Silver
-\|frame\|right](image:Ries.gif "wikilink")
+\|frame\|right](/images/Ries.gif " Name:   Riesbyfe Stridberg (リーズバイフェ・ストリンドヴァリ)  —  Nicknames:    Maiden of the Holy Shield <br\><br\> Voiced by:   Watanabe Akeno (渡辺 明乃)  —  Type:   Human, Knight  —  Gender:   Female <br\><br\> Birthday:    ?   —  Sizes:    ? / ? / ?   —  Height:   171cm  —  Weight:    ? <br\><br\> Eye Color:   Silver  —  Hair Color:   Silver |frame|right")
 
 # Introduction
 
@@ -31,7 +33,7 @@ s'approcher a mi-distance pour tuer l'adversaire très rapidement.
 
 # Palettes
 
-![](Riescolor2.PNG "Riescolor2.PNG")
+![](/images/Riescolor2.PNG "/images/Riescolor2.PNG")
 
 # Liste de joueurs
 

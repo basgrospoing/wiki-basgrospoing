@@ -1,7 +1,11 @@
+# Hazama (BBCS)
+
 <figure>
-<img src="Bbcs_hazama_artwork_01.png" title="Bbcs_hazama_artwork_01.png"
-width="150" alt="Bbcs_hazama_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_hazama_artwork_01.png</figcaption>
+<img src="/images/Bbcs_hazama_artwork_01.png"
+title="/images/Bbcs_hazama_artwork_01.png" width="150"
+alt="/images/Bbcs_hazama_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_hazama_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -41,9 +45,11 @@ n'est utilisée que lorsqu'il affronte
 ## Couleurs
 
 <figure>
-<img src="Bbcs_hazama_costumes.png" title="Bbcs_hazama_costumes.png"
-width="600" alt="Bbcs_hazama_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_hazama_costumes.png</figcaption>
+<img src="/images/Bbcs_hazama_costumes.png"
+title="/images/Bbcs_hazama_costumes.png" width="600"
+alt="/images/Bbcs_hazama_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_hazama_costumes.png</figcaption>
 </figure>
 
 Couleurs "hommage" de la seconde palette :

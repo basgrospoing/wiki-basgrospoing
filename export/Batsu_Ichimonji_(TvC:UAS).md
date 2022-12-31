@@ -1,5 +1,7 @@
-<img src="Tvc-batsu.jpg" title="Tvc-batsu.jpg" width="230"
-alt="Tvc-batsu.jpg" />  
+# Batsu Ichimonji (TvC:UAS)
+
+<img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"
+width="230" alt="/images/Tvc-batsu.jpg" />  
 
 # Introduction
 

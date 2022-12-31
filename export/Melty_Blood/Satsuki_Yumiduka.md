@@ -1,4 +1,6 @@
-\[\[image:Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚
+# Melty Blood/Satsuki Yumiduka
+
+\[\[Image:/images/Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚
 さつき)  —  **Nicknames:**    Sacchin \<br\\\>\<br\\\> **Voiced
 by:**   Omi Minami (南 央美)  —  **Type:**    Dead Apostle
 
@@ -44,7 +46,7 @@ adverse
 
 # Palettes
 
-![](Satsuki-colors.png "Satsuki-colors.png")
+![](/images/Satsuki-colors.png "/images/Satsuki-colors.png")
 
 # Liste de joueurs
 

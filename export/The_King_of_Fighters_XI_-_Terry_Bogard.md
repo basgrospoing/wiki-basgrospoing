@@ -1,4 +1,6 @@
-![](kofxi-terry-bogard.jpg "kofxi-terry-bogard.jpg")
+# The King of Fighters XI - Terry Bogard
+
+![](/images/kofxi-terry-bogard.jpg "/images/kofxi-terry-bogard.jpg")
 
 ## Introduction
 

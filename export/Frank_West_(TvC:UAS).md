@@ -1,5 +1,7 @@
-<img src="Frankwest.jpg" title="Frankwest.jpg" width="250"
-alt="Frankwest.jpg" />  
+# Frank West (TvC:UAS)
+
+<img src="/images/Frankwest.jpg" title="/images/Frankwest.jpg"
+width="250" alt="/images/Frankwest.jpg" />  
 
 # Introduction
 

@@ -1,3 +1,5 @@
+# Makoto (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -8,8 +10,8 @@ meilleur joueur de Makoto, loin de là !
 (UTC)
 
 <figure>
-<img src="Makoto_001_Artwork.jpg" title="Makoto la ouineuse" width="400"
-alt="Makoto la ouineuse" />
+<img src="/images/Makoto_001_Artwork.jpg" title="Makoto la ouineuse"
+width="400" alt="Makoto la ouineuse" />
 <figcaption aria-hidden="true">Makoto la ouineuse</figcaption>
 </figure>
 
@@ -38,7 +40,7 @@ matchups super cruels. Mais elle dispose également de sérieux atouts.
 
 ### 1.2 Couleurs
 
-![](Makoto_002_Couleurs&Alternatif.jpg "Makoto_002_Couleurs&Alternatif.jpg")
+![](/images/Makoto_002_Couleurs&Alternatif.jpg "/images/Makoto_002_Couleurs&Alternatif.jpg")
 
 ## Techniques
 

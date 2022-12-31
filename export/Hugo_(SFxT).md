@@ -1,3 +1,5 @@
+# Hugo (SFxT)
+
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 
 ## Vue d'ensemble
@@ -6,64 +8,64 @@
 
 ## Principaux normaux
 
-|                |                                                 |
-|----------------|-------------------------------------------------|
-| **Body Press** | En l'air![](D.png "D.png")+![](HP.png "HP.png") |
+|                |                                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| **Body Press** | En l'air![](/images/D.png "/images/D.png")+![](/images/HP.png "/images/HP.png") |
 
-|                 |                                         |
-|-----------------|-----------------------------------------|
-| **Hammer Hook** | ![](F.png "F.png")+![](HP.png "HP.png") |
+|                 |                                                                         |
+|-----------------|-------------------------------------------------------------------------|
+| **Hammer Hook** | ![](/images/F.png "/images/F.png")+![](/images/HP.png "/images/HP.png") |
 
 **Overhead.**
 
-|                 |                                                                               |
-|-----------------|-------------------------------------------------------------------------------|
-| **Leap Attack** | ![](D.png "D.png"),![](N.png "N.png"),![](D.png "D.png")+![](MK.png "MK.png") |
+|                 |                                                                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Leap Attack** | ![](/images/D.png "/images/D.png"),![](/images/N.png "/images/N.png"),![](/images/D.png "/images/D.png")+![](/images/MK.png "/images/MK.png") |
 
 ## Move list
 
 ### Coups spéciaux
 
-|                        |                                                   |
-|------------------------|---------------------------------------------------|
-| **Giant Palm Breaker** | ![](qcb.png "qcb.png")+![](punch.png "punch.png") |
+|                        |                                                                                   |
+|------------------------|-----------------------------------------------------------------------------------|
+| **Giant Palm Breaker** | ![](/images/qcb.png "/images/qcb.png")+![](/images/punch.png "/images/punch.png") |
 
-|                     |                                                   |
-|---------------------|---------------------------------------------------|
-| **Moonsault Press** | ![](360.png "360.png")+![](punch.png "punch.png") |
+|                     |                                                                                   |
+|---------------------|-----------------------------------------------------------------------------------|
+| **Moonsault Press** | ![](/images/360.png "/images/360.png")+![](/images/punch.png "/images/punch.png") |
 
 **Choppe.**
 
-|                           |                                               |
-|---------------------------|-----------------------------------------------|
-| **Shootdown Backbreaker** | ![](dp.png "dp.png")+![](kick.png "kick.png") |
+|                           |                                                                               |
+|---------------------------|-------------------------------------------------------------------------------|
+| **Shootdown Backbreaker** | ![](/images/dp.png "/images/dp.png")+![](/images/kick.png "/images/kick.png") |
 
 **Air choppe.**
 
-|                   |                                                 |
-|-------------------|-------------------------------------------------|
-| **Meat Squasher** | ![](360.png "360.png")+![](kick.png "kick.png") |
+|                   |                                                                                 |
+|-------------------|---------------------------------------------------------------------------------|
+| **Meat Squasher** | ![](/images/360.png "/images/360.png")+![](/images/kick.png "/images/kick.png") |
 
 **Choppe.**
 
-|                 |                                                 |
-|-----------------|-------------------------------------------------|
-| **Ultra Throw** | ![](hcb.png "hcb.png")+![](kick.png "kick.png") |
+|                 |                                                                                 |
+|-----------------|---------------------------------------------------------------------------------|
+| **Ultra Throw** | ![](/images/hcb.png "/images/hcb.png")+![](/images/kick.png "/images/kick.png") |
 
 **Choppe.**
 
-|                    |                                                 |
-|--------------------|-------------------------------------------------|
-| **Monster Lariat** | ![](qcf.png "qcf.png")+![](kick.png "kick.png") |
+|                    |                                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **Monster Lariat** | ![](/images/qcf.png "/images/qcf.png")+![](/images/kick.png "/images/kick.png") |
 
 **Super charge.**
 
 ### Super
 
-|                   |                                                     |
-|-------------------|-----------------------------------------------------|
-| **Gigas Breaker** | ![](qcf.png "qcf.png")+![](3xKick.png "3xKick.png") |
+|                   |                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------|
+| **Gigas Breaker** | ![](/images/qcf.png "/images/qcf.png")+![](/images/3xKick.png "/images/3xKick.png") |
 
-Maintenir ![](3xKick.png "3xKick.png") pour feinter.
+Maintenir ![](/images/3xKick.png "/images/3xKick.png") pour feinter.
 
 ## Combos

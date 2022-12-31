@@ -1,4 +1,6 @@
-![](Umvc3logo.png‎ "Umvc3logo.png‎")
+# Ultimate Marvel vs Capcom 3
+
+![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 ## Introduction
 
@@ -54,379 +56,431 @@ Joe</a></li>
 <tbody>
 <tr class="odd">
 <td><figure>
-<img src="umvc3_jill_face_small.jpg" title="umvc3_jill_face_small.jpg"
-alt="umvc3_jill_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_jill_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_shumagorath_face_small.jpg"
-title="umvc3_shumagorath_face_small.jpg"
-alt="umvc3_shumagorath_face_small.jpg" />
+<img src="/images/umvc3_jill_face_small.jpg"
+title="/images/umvc3_jill_face_small.jpg"
+alt="/images/umvc3_jill_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_shumagorath_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_jill_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_shumagorath_face_small.jpg"
+title="/images/umvc3_shumagorath_face_small.jpg"
+alt="/images/umvc3_shumagorath_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_shumagorath_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="umvc3_nemesis_face_small.jpg"
-title="umvc3_nemesis_face_small.jpg"
-alt="umvc3_nemesis_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_nemesis_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_firebrand_face_small.jpg"
-title="umvc3_firebrand_face_small.jpg"
-alt="umvc3_firebrand_face_small.jpg" />
+<img src="/images/umvc3_nemesis_face_small.jpg"
+title="/images/umvc3_nemesis_face_small.jpg"
+alt="/images/umvc3_nemesis_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_firebrand_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_nemesis_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_strider_face_small.jpg"
-title="umvc3_strider_face_small.jpg"
-alt="umvc3_strider_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_strider_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_phoenixwright_face_small.jpg"
-title="umvc3_phoenixwright_face_small.jpg"
-alt="umvc3_phoenixwright_face_small.jpg" />
+<img src="/images/umvc3_firebrand_face_small.jpg"
+title="/images/umvc3_firebrand_face_small.jpg"
+alt="/images/umvc3_firebrand_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_phoenixwright_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_firebrand_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_nova_face_small.jpg" title="umvc3_nova_face_small.jpg"
-alt="umvc3_nova_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_nova_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_ghostrider_face_small.jpg"
-title="umvc3_ghostrider_face_small.jpg"
-alt="umvc3_ghostrider_face_small.jpg" />
+<img src="/images/umvc3_strider_face_small.jpg"
+title="/images/umvc3_strider_face_small.jpg"
+alt="/images/umvc3_strider_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_ghostrider_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_strider_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_hawkeye_face_small.jpg"
-title="umvc3_hawkeye_face_small.jpg"
-alt="umvc3_hawkeye_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_hawkeye_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_doctorstrange_face_small.jpg"
-title="umvc3_doctorstrange_face_small.jpg"
-alt="umvc3_doctorstrange_face_small.jpg" />
+<img src="/images/umvc3_phoenixwright_face_small.jpg"
+title="/images/umvc3_phoenixwright_face_small.jpg"
+alt="/images/umvc3_phoenixwright_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_doctorstrange_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_phoenixwright_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_nova_face_small.jpg"
+title="/images/umvc3_nova_face_small.jpg"
+alt="/images/umvc3_nova_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_nova_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_ghostrider_face_small.jpg"
+title="/images/umvc3_ghostrider_face_small.jpg"
+alt="/images/umvc3_ghostrider_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_ghostrider_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_hawkeye_face_small.jpg"
+title="/images/umvc3_hawkeye_face_small.jpg"
+alt="/images/umvc3_hawkeye_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_hawkeye_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_doctorstrange_face_small.jpg"
+title="/images/umvc3_doctorstrange_face_small.jpg"
+alt="/images/umvc3_doctorstrange_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_doctorstrange_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="umvc3_chris_face_small.jpg" title="umvc3_chris_face_small.jpg"
-alt="umvc3_chris_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_chris_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_arthur_face_small.jpg"
-title="umvc3_arthur_face_small.jpg" alt="umvc3_arthur_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_arthur_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_frankwest_face_small.jpg"
-title="umvc3_frankwest_face_small.jpg"
-alt="umvc3_frankwest_face_small.jpg" />
+<img src="/images/umvc3_chris_face_small.jpg"
+title="/images/umvc3_chris_face_small.jpg"
+alt="/images/umvc3_chris_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_frankwest_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_chris_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_vergil_face_small.jpg"
-title="umvc3_vergil_face_small.jpg" alt="umvc3_vergil_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_vergil_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_ironfist_face_small.jpg"
-title="umvc3_ironfist_face_small.jpg"
-alt="umvc3_ironfist_face_small.jpg" />
+<img src="/images/umvc3_arthur_face_small.jpg"
+title="/images/umvc3_arthur_face_small.jpg"
+alt="/images/umvc3_arthur_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_ironfist_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_arthur_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_rocketracoon_face_small.jpg"
-title="umvc3_rocketracoon_face_small.jpg"
-alt="umvc3_rocketracoon_face_small.jpg" />
+<img src="/images/umvc3_frankwest_face_small.jpg"
+title="/images/umvc3_frankwest_face_small.jpg"
+alt="/images/umvc3_frankwest_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_rocketracoon_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_frankwest_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_captamerica_face_small.jpg"
-title="umvc3_captamerica_face_small.jpg"
-alt="umvc3_captamerica_face_small.jpg" />
+<img src="/images/umvc3_vergil_face_small.jpg"
+title="/images/umvc3_vergil_face_small.jpg"
+alt="/images/umvc3_vergil_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_captamerica_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_vergil_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_dormammu_face_small.jpg"
-title="umvc3_dormammu_face_small.jpg"
-alt="umvc3_dormammu_face_small.jpg" />
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_ironfist_face_small.jpg"
+title="/images/umvc3_ironfist_face_small.jpg"
+alt="/images/umvc3_ironfist_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_dormammu_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_ironfist_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_rocketracoon_face_small.jpg"
+title="/images/umvc3_rocketracoon_face_small.jpg"
+alt="/images/umvc3_rocketracoon_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_rocketracoon_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_captamerica_face_small.jpg"
+title="/images/umvc3_captamerica_face_small.jpg"
+alt="/images/umvc3_captamerica_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_captamerica_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_dormammu_face_small.jpg"
+title="/images/umvc3_dormammu_face_small.jpg"
+alt="/images/umvc3_dormammu_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_dormammu_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="umvc3_wesker_face_small.jpg"
-title="umvc3_wesker_face_small.jpg" alt="umvc3_wesker_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_wesker_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_zero_face_small.jpg" title="umvc3_zero_face_small.jpg"
-alt="umvc3_zero_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_zero_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_ryu_face_small.jpg" title="umvc3_ryu_face_small.jpg"
-alt="umvc3_ryu_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_ryu_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_dante_face_small.jpg" title="umvc3_dante_face_small.jpg"
-alt="umvc3_dante_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_dante_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_deadpool_face_small.jpg"
-title="umvc3_deadpool_face_small.jpg"
-alt="umvc3_deadpool_face_small.jpg" />
+<img src="/images/umvc3_wesker_face_small.jpg"
+title="/images/umvc3_wesker_face_small.jpg"
+alt="/images/umvc3_wesker_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_deadpool_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_wesker_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_wolverine_face_small.jpg"
-title="umvc3_wolverine_face_small.jpg"
-alt="umvc3_wolverine_face_small.jpg" />
+<img src="/images/umvc3_zero_face_small.jpg"
+title="/images/umvc3_zero_face_small.jpg"
+alt="/images/umvc3_zero_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_wolverine_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_zero_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_ironman_face_small.jpg"
-title="umvc3_ironman_face_small.jpg"
-alt="umvc3_ironman_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_ironman_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_doctordoom_face_small.jpg"
-title="umvc3_doctordoom_face_small.jpg"
-alt="umvc3_doctordoom_face_small.jpg" />
+<img src="/images/umvc3_ryu_face_small.jpg"
+title="/images/umvc3_ryu_face_small.jpg"
+alt="/images/umvc3_ryu_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_doctordoom_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_ryu_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_dante_face_small.jpg"
+title="/images/umvc3_dante_face_small.jpg"
+alt="/images/umvc3_dante_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_dante_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_deadpool_face_small.jpg"
+title="/images/umvc3_deadpool_face_small.jpg"
+alt="/images/umvc3_deadpool_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_deadpool_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_wolverine_face_small.jpg"
+title="/images/umvc3_wolverine_face_small.jpg"
+alt="/images/umvc3_wolverine_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_wolverine_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_ironman_face_small.jpg"
+title="/images/umvc3_ironman_face_small.jpg"
+alt="/images/umvc3_ironman_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_ironman_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_doctordoom_face_small.jpg"
+title="/images/umvc3_doctordoom_face_small.jpg"
+alt="/images/umvc3_doctordoom_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_doctordoom_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="umvc3_morrigan_face_small.jpg"
-title="umvc3_morrigan_face_small.jpg"
-alt="umvc3_morrigan_face_small.jpg" />
+<img src="/images/umvc3_morrigan_face_small.jpg"
+title="/images/umvc3_morrigan_face_small.jpg"
+alt="/images/umvc3_morrigan_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_morrigan_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_morrigan_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_tron_face_small.jpg" title="umvc3_tron_face_small.jpg"
-alt="umvc3_tron_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_tron_face_small.jpg</figcaption>
+<img src="/images/umvc3_tron_face_small.jpg"
+title="/images/umvc3_tron_face_small.jpg"
+alt="/images/umvc3_tron_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_tron_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_chunli_face_small.jpg"
-title="umvc3_chunli_face_small.jpg" alt="umvc3_chunli_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_chunli_face_small.jpg</figcaption>
+<img src="/images/umvc3_chunli_face_small.jpg"
+title="/images/umvc3_chunli_face_small.jpg"
+alt="/images/umvc3_chunli_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_chunli_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_trish_face_small.jpg" title="umvc3_trish_face_small.jpg"
-alt="umvc3_trish_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_trish_face_small.jpg</figcaption>
+<img src="/images/umvc3_trish_face_small.jpg"
+title="/images/umvc3_trish_face_small.jpg"
+alt="/images/umvc3_trish_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_trish_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_x23_face_small.jpg" title="umvc3_x23_face_small.jpg"
-alt="umvc3_x23_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_x23_face_small.jpg</figcaption>
+<img src="/images/umvc3_x23_face_small.jpg"
+title="/images/umvc3_x23_face_small.jpg"
+alt="/images/umvc3_x23_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_x23_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_storm_face_small.jpg" title="umvc3_storm_face_small.jpg"
-alt="umvc3_storm_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_storm_face_small.jpg</figcaption>
+<img src="/images/umvc3_storm_face_small.jpg"
+title="/images/umvc3_storm_face_small.jpg"
+alt="/images/umvc3_storm_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_storm_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_thor_face_small.jpg" title="umvc3_thor_face_small.jpg"
-alt="umvc3_thor_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_thor_face_small.jpg</figcaption>
+<img src="/images/umvc3_thor_face_small.jpg"
+title="/images/umvc3_thor_face_small.jpg"
+alt="/images/umvc3_thor_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_thor_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_modok_face_small.jpg" title="umvc3_modok_face_small.jpg"
-alt="umvc3_modok_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_modok_face_small.jpg</figcaption>
+<img src="/images/umvc3_modok_face_small.jpg"
+title="/images/umvc3_modok_face_small.jpg"
+alt="/images/umvc3_modok_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_modok_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="umvc3_felicia_face_small.jpg"
-title="umvc3_felicia_face_small.jpg"
-alt="umvc3_felicia_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_felicia_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_spencer_face_small.jpg"
-title="umvc3_spencer_face_small.jpg"
-alt="umvc3_spencer_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_spencer_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_akuma_face_small.jpg" title="umvc3_akuma_face_small.jpg"
-alt="umvc3_akuma_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_akuma_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_vjoe_face_small.jpg" title="umvc3_vjoe_face_small.jpg"
-alt="umvc3_vjoe_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_vjoe_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_spiderman_face_small.jpg"
-title="umvc3_spiderman_face_small.jpg"
-alt="umvc3_spiderman_face_small.jpg" />
+<img src="/images/umvc3_felicia_face_small.jpg"
+title="/images/umvc3_felicia_face_small.jpg"
+alt="/images/umvc3_felicia_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_spiderman_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_felicia_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_sentinel_face_small.jpg"
-title="umvc3_sentinel_face_small.jpg"
-alt="umvc3_sentinel_face_small.jpg" />
+<img src="/images/umvc3_spencer_face_small.jpg"
+title="/images/umvc3_spencer_face_small.jpg"
+alt="/images/umvc3_spencer_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_sentinel_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_spencer_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="umvc3_hulk_face_small.jpg" title="umvc3_hulk_face_small.jpg"
-alt="umvc3_hulk_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_hulk_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_superskrull_face_small.jpg"
-title="umvc3_superskrull_face_small.jpg"
-alt="umvc3_superskrull_face_small.jpg" />
+<img src="/images/umvc3_akuma_face_small.jpg"
+title="/images/umvc3_akuma_face_small.jpg"
+alt="/images/umvc3_akuma_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_superskrull_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_akuma_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_vjoe_face_small.jpg"
+title="/images/umvc3_vjoe_face_small.jpg"
+alt="/images/umvc3_vjoe_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_vjoe_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_spiderman_face_small.jpg"
+title="/images/umvc3_spiderman_face_small.jpg"
+alt="/images/umvc3_spiderman_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_spiderman_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_sentinel_face_small.jpg"
+title="/images/umvc3_sentinel_face_small.jpg"
+alt="/images/umvc3_sentinel_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_sentinel_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_hulk_face_small.jpg"
+title="/images/umvc3_hulk_face_small.jpg"
+alt="/images/umvc3_hulk_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_hulk_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_superskrull_face_small.jpg"
+title="/images/umvc3_superskrull_face_small.jpg"
+alt="/images/umvc3_superskrull_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_superskrull_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="umvc3_hsienko_face_small.jpg"
-title="umvc3_hsienko_face_small.jpg"
-alt="umvc3_hsienko_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_hsienko_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_haggar_face_small.jpg"
-title="umvc3_haggar_face_small.jpg" alt="umvc3_haggar_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_haggar_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_viper_face_small.jpg" title="umvc3_viper_face_small.jpg"
-alt="umvc3_viper_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_viper_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_amaterasu_face_small.jpg"
-title="umvc3_amaterasu_face_small.jpg"
-alt="umvc3_amaterasu_face_small.jpg" />
+<img src="/images/umvc3_hsienko_face_small.jpg"
+title="/images/umvc3_hsienko_face_small.jpg"
+alt="/images/umvc3_hsienko_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_amaterasu_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_hsienko_face_small.jpg</figcaption>
 </figure></td>
 <td><figure>
-<img src="emptyface_small.png" title="emptyface_small.png"
-alt="emptyface_small.png" />
-<figcaption aria-hidden="true">emptyface_small.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_phoenix_face_small.jpg"
-title="umvc3_phoenix_face_small.jpg"
-alt="umvc3_phoenix_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_phoenix_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_magneto_face_small.jpg"
-title="umvc3_magneto_face_small.jpg"
-alt="umvc3_magneto_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_magneto_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_shehulk_face_small.jpg"
-title="umvc3_shehulk_face_small.jpg"
-alt="umvc3_shehulk_face_small.jpg" />
-<figcaption aria-hidden="true">umvc3_shehulk_face_small.jpg</figcaption>
-</figure></td>
-<td><figure>
-<img src="umvc3_taskmaster_face_small.jpg"
-title="umvc3_taskmaster_face_small.jpg"
-alt="umvc3_taskmaster_face_small.jpg" />
+<img src="/images/umvc3_haggar_face_small.jpg"
+title="/images/umvc3_haggar_face_small.jpg"
+alt="/images/umvc3_haggar_face_small.jpg" />
 <figcaption
-aria-hidden="true">umvc3_taskmaster_face_small.jpg</figcaption>
+aria-hidden="true">/images/umvc3_haggar_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_viper_face_small.jpg"
+title="/images/umvc3_viper_face_small.jpg"
+alt="/images/umvc3_viper_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_viper_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_amaterasu_face_small.jpg"
+title="/images/umvc3_amaterasu_face_small.jpg"
+alt="/images/umvc3_amaterasu_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_amaterasu_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/emptyface_small.png"
+title="/images/emptyface_small.png" alt="/images/emptyface_small.png" />
+<figcaption aria-hidden="true">/images/emptyface_small.png</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_phoenix_face_small.jpg"
+title="/images/umvc3_phoenix_face_small.jpg"
+alt="/images/umvc3_phoenix_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_phoenix_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_magneto_face_small.jpg"
+title="/images/umvc3_magneto_face_small.jpg"
+alt="/images/umvc3_magneto_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_magneto_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_shehulk_face_small.jpg"
+title="/images/umvc3_shehulk_face_small.jpg"
+alt="/images/umvc3_shehulk_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_shehulk_face_small.jpg</figcaption>
+</figure></td>
+<td><figure>
+<img src="/images/umvc3_taskmaster_face_small.jpg"
+title="/images/umvc3_taskmaster_face_small.jpg"
+alt="/images/umvc3_taskmaster_face_small.jpg" />
+<figcaption
+aria-hidden="true">/images/umvc3_taskmaster_face_small.jpg</figcaption>
 </figure></td>
 </tr>
 </tbody>
@@ -475,33 +529,33 @@ title="wikilink">Super-Skrull</a></li>
 
 ### Notations des Directions
 
-- [image:f.png](image:f.png "wikilink") - **Forward/Avant** - Pencher le
+- ![](/images/f.png "/images/f.png") - **Forward/Avant** - Pencher le
   stick vers l'avant/vers l'adversaire. (axe-X)
-- [image:b.png](image:b.png "wikilink") - **Back/Arrière** - Pencher le
+- ![](/images/b.png "/images/b.png") - **Back/Arrière** - Pencher le
   stick vers l'arrière/à l'opposé de l'adversaire. (axe-X)
-- [image:u.png](image:u.png "wikilink") - **Up/Haut** - Pencher le stick
+- ![](/images/u.png "/images/u.png") - **Up/Haut** - Pencher le stick
   vers le haut. (axe-Y)
-- [image:d.png](image:d.png "wikilink") - **Down/Bas** - Pencher le
-  stick vers le bas. (axe-Y)
-- [image:qcf.png](image:qcf.png "wikilink") - **Quarter circle
+- ![](/images/d.png "/images/d.png") - **Down/Bas** - Pencher le stick
+  vers le bas. (axe-Y)
+- ![](/images/qcf.png "/images/qcf.png") - **Quarter circle
   forward/Quart de Cercle Avant** - Pencher le stick vers le bas, puis
   vers le bas et l'avant, puis vers l'avant. Communément utilisé pour
   les projectiles.
-- [image:qcb.png](image:qcb.png "wikilink") - **Quarter circle
+- ![](/images/qcb.png "/images/qcb.png") - **Quarter circle
   backward/Quart de Cercle Arrière** - Pencher le stick vers le bas,
   puis vers le bas et l'arrière, puis vers l'arrière.
-- [image:hcf.png](image:hcf.png "wikilink") - **Half circle
+- ![](/images/hcf.png "/images/hcf.png") - **Half circle
   forward/Demi-Tour Avant** - Pencher le stick vers l'arrière, puis vers
   l'arrière et le bas, puis vers le bas, puis vers le bas et l'avant,
   puis vers l'avant.
-- [image:hcb.png](image:hcb.png "wikilink") - **Half circle
+- ![](/images/hcb.png "/images/hcb.png") - **Half circle
   backward/Demi-Tour Arrière** - Pencher le stick vers l'avant, puis
   vers l'avant et le bas, puis vers le bas, puis vers le bas et
   l'arrière, puis vers l'arrière.
-- [image:dp.png](image:dp.png "wikilink") - **Dragon punch/Shoryuken** -
+- ![](/images/dp.png "/images/dp.png") - **Dragon punch/Shoryuken** -
   Pencher le stick vers l'avant, puis vers le bas, puis vers le bas et
   l'avant.
-- [image:rdp.png](image:rdp.png "wikilink") - **Reversed Dragon
+- ![](/images/rdp.png "/images/rdp.png") - **Reversed Dragon
   punch/Shoryuken** - Pencher le stick vers l'arrière, puis vers le bas,
   puis vers le bas et l'arrière.
 
@@ -509,15 +563,14 @@ title="wikilink">Super-Skrull</a></li>
 
 Exprimées comme telles : Notation - Mouvement
 
-- [image:Lumvc3.png](image:Lumvc3.png "wikilink") - Light Hit/Petit Coup
-- [image:Mumvc3.png](image:Mumvc3.png "wikilink") - Medium Hit/Moyen
-  Coup
-- [image:Humvc3.png](image:Humvc3.png "wikilink") - Heavy Hit/Gros Coup
-- [image:Sumvc3.png](image:Sumvc3.png "wikilink") - Spécial
-- [image:A1.png](image:A1.png "wikilink") - Assist 1
-- [image:A2.png](image:A2.png "wikilink") - Assist 2
-- [image:Atkumvc3.png](image:Atkumvc3.png "wikilink") - Any
-  Hit/N'importe quel coup
+- ![](/images/Lumvc3.png "/images/Lumvc3.png") - Light Hit/Petit Coup
+- ![](/images/Mumvc3.png "/images/Mumvc3.png") - Medium Hit/Moyen Coup
+- ![](/images/Humvc3.png "/images/Humvc3.png") - Heavy Hit/Gros Coup
+- ![](/images/Sumvc3.png "/images/Sumvc3.png") - Spécial
+- ![](/images/A1.png "/images/A1.png") - Assist 1
+- ![](/images/A2.png "/images/A2.png") - Assist 2
+- ![](/images/Atkumvc3.png "/images/Atkumvc3.png") - Any Hit/N'importe
+  quel coup
 
 Les gens utilisent parfois le mot "mouvement" en parlant d'une notation.
 

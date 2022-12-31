@@ -1,3 +1,5 @@
+# P4A/Interface et contrôle
+
 # Commandes
 
 Comme la plupart des autres jeux récemment développés par Arc System
@@ -5,7 +7,7 @@ Works, [Persona 4 Arena](Persona_4_Arena "wikilink") se joue avec 8
 directions et 4 boutons. Voici la disposition officielle des boutons sur
 la version arcade :
 
-![](P4A_Arcade_Layout.png "P4A_Arcade_Layout.png")
+![](/images/P4A_Arcade_Layout.png "/images/P4A_Arcade_Layout.png")
 
 Pour connaître l'effet des différentes touches et combinaisons,
 consultez l'article [mécanismes généraux](P4A/Mécanismes "wikilink").
@@ -15,11 +17,11 @@ consultez l'article [mécanismes généraux](P4A/Mécanismes "wikilink").
 Afin de comprendre quels sont les différents éléments de l'interface,
 étudions l'image suivante prise en jeu :  
   
-![](HUD.jpg "HUD.jpg")
+![](/images/HUD.jpg "/images/HUD.jpg")
 
 ## Santé
 
-![](Santé.jpg "Santé.jpg")
+![](/images/Santé.jpg "/images/Santé.jpg")
 
 - La donnée fondamentale dans tout jeu de combat. L'objectif est d'avoir
   plus de santé que l'adversaire à la fin du round.
@@ -31,11 +33,11 @@ Afin de comprendre quels sont les différents éléments de l'interface,
   bleue, le restant de barre bleue disparaîtra en plus des dégâts subis
   à cause de l'attaque les ayant provoqués.
 
-![](Santé_bleue.jpg "Santé_bleue.jpg")
+![](/images/Santé_bleue.jpg "/images/Santé_bleue.jpg")
 
 ## SP
 
-![](Sp.jpg "Sp.jpg")
+![](/images/Sp.jpg "/images/Sp.jpg")
 
 - Correspond au *meter*, dans le cas de tous les personnages (sauf
   Elizabeth), la barre se charge lorsque le personnage attaque ou bloque
@@ -50,7 +52,7 @@ Afin de comprendre quels sont les différents éléments de l'interface,
 
 ## Timer
 
-![](Timer.jpg "Timer.jpg")
+![](/images/Timer.jpg "/images/Timer.jpg")
 
 - Le compteur temporel qui indique le temps restant avant la fin du
   round dans le cas où aucun des deux adversaires n'est mis K.O. Si le
@@ -59,7 +61,7 @@ Afin de comprendre quels sont les différents éléments de l'interface,
 
 ## Round
 
-![](Round.jpg "Round.jpg")
+![](/images/Round.jpg "/images/Round.jpg")
 
 - Indique le nombre de rounds remportés par chaque personnage. Un carré
   jaune correspond à un round restant à remporter pour gagner le match,
@@ -67,7 +69,7 @@ Afin de comprendre quels sont les différents éléments de l'interface,
 
 ## Burst
 
-![](Burst_hud.jpg "Burst_hud.jpg")
+![](/images/Burst_hud.jpg "/images/Burst_hud.jpg")
 
 - Indique la disponibilité du Burst (++). Cette barre se remplit
   automatiquement au cours du round. Lorsqu'elle se charge, un simple B
@@ -77,11 +79,11 @@ Afin de comprendre quels sont les différents éléments de l'interface,
   est impossible d'exécuter un Burst. Cela est alors indiqué par un
   changement de l'affichage de la barre de Burst :
 
-![](No_burst.jpg "No_burst.jpg")
+![](/images/No_burst.jpg "/images/No_burst.jpg")
 
 ## Points Persona
 
-![](Points_Persona.jpg "Points_Persona.jpg")
+![](/images/Points_Persona.jpg "/images/Points_Persona.jpg")
 
 - À chaque fois que le Persona est touché, le joueur perd un point.
 - Lorsque le joueur n'a plus de point Persona, il ne peut plus exécuter

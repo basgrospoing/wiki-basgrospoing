@@ -1,10 +1,12 @@
-[ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red
+# Melty Blood/Akiha Vermillion
+
+![ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red
 \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Human, Half-Demon  —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**   Sept. 22  —  **Sizes:**   73 / 57 /
 79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
 Color:**   Blue  —  **Hair Color:**   Red
-\|frame\|right](image:vakiha0.png "wikilink")
+\|frame\|right](/images/vakiha0.png " Name:   Akiha Vermillion (紅赤朱 秋葉)  —  Nicknames:    Red <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Human, Half-Demon  —  Gender:   Female <br\><br\> Birthday:   Sept. 22  —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Red |frame|right")
 
 # Introduction
 
@@ -36,7 +38,7 @@ bonne priorité et bouge encore mieux que les autres.
 
 # Palettes
 
-![](Vakiha-colors.png "Vakiha-colors.png")
+![](/images/Vakiha-colors.png "/images/Vakiha-colors.png")
 
 # Liste de joueurs
 

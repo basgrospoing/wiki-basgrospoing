@@ -1,11 +1,13 @@
-[ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>
+# Melty Blood/White Len
+
+![ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>
 \<br\\\>\<br\\\> **Voiced by:**   Kaori Mizuhashi (水橋
 かおり)  —  **Type:**   Succubus familiar, TATARI
   —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   Sept 9
   —  **Sizes:**   B63 / W46 / H61  —  **Height:**   132
 cm  —  **Weight:**   33kg \<br\\\>\<br\\\> **Eye
 Color:**   Red  —  **Hair Color:**   Light Gray
-\|frame\|right](image:wren.png "wikilink")
+\|frame\|right](/images/wren.png " Name:   WHite Ren (白レン)  —  Nicknames:     <br\><br\> Voiced by:   Kaori Mizuhashi (水橋 かおり)  —  Type:   Succubus familiar, TATARI   —  Gender:   Female <br\><br\> Birthday:   Sept 9   —  Sizes:   B63 / W46 / H61  —  Height:   132 cm  —  Weight:   33kg <br\><br\> Eye Color:   Red  —  Hair Color:   Light Gray |frame|right")
 
 # Introduction
 
@@ -78,7 +80,7 @@ beaucoup d'execution.
 
 # Palettes
 
-![](Wlen-colors.png "Wlen-colors.png")
+![](/images/Wlen-colors.png "/images/Wlen-colors.png")
 
 # Liste de joueurs
 

@@ -1,3 +1,5 @@
+# Omega Rugal (98um)
+
 ## Introduction
 
 ## Liste des coups

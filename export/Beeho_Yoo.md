@@ -1,7 +1,9 @@
+# Beeho Yoo
+
 <figure>
-<img src="Beeho_Yoo.png" title="Beeho_Yoo.png" width="300"
-alt="Beeho_Yoo.png" />
-<figcaption aria-hidden="true">Beeho_Yoo.png</figcaption>
+<img src="/images/Beeho_Yoo.png" title="/images/Beeho_Yoo.png"
+width="300" alt="/images/Beeho_Yoo.png" />
+<figcaption aria-hidden="true">/images/Beeho_Yoo.png</figcaption>
 </figure>
 
 ## Caractéristiques et analyse
@@ -29,9 +31,9 @@ pour ne pas subir le jeu adverse.
 ### Super custom
 
 <figure>
-<img src="yoo_custom.png" title="yoo_custom.png" width="250"
-alt="yoo_custom.png" />
-<figcaption aria-hidden="true">yoo_custom.png</figcaption>
+<img src="/images/yoo_custom.png" title="/images/yoo_custom.png"
+width="250" alt="/images/yoo_custom.png" />
+<figcaption aria-hidden="true">/images/yoo_custom.png</figcaption>
 </figure>
 
 ### Super lob

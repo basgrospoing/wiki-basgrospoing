@@ -1,3 +1,5 @@
+# Chun Li (SFxT)
+
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 
 ## Vue d'ensemble
@@ -6,75 +8,75 @@
 
 ## Principaux normaux
 
-|                   |                                           |
-|-------------------|-------------------------------------------|
-| **Kakukyakuraku** | ![](df.png "df.png")+![](HK.png "HK.png") |
+|                   |                                                                           |
+|-------------------|---------------------------------------------------------------------------|
+| **Kakukyakuraku** | ![](/images/df.png "/images/df.png")+![](/images/HK.png "/images/HK.png") |
 
 **Overhead.**
 
-|                    |                                           |
-|--------------------|-------------------------------------------|
-| **Rear Spin Kick** | ![](df.png "df.png")+![](LK.png "LK.png") |
+|                    |                                                                           |
+|--------------------|---------------------------------------------------------------------------|
+| **Rear Spin Kick** | ![](/images/df.png "/images/df.png")+![](/images/LK.png "/images/LK.png") |
 
-|                |                                         |
-|----------------|-----------------------------------------|
-| **Kakusenshu** | ![](F.png "F.png")+![](MK.png "MK.png") |
+|                |                                                                         |
+|----------------|-------------------------------------------------------------------------|
+| **Kakusenshu** | ![](/images/F.png "/images/F.png")+![](/images/MK.png "/images/MK.png") |
 
-|                |                                         |
-|----------------|-----------------------------------------|
-| **Kintekishu** | ![](B.png "B.png")+![](MK.png "MK.png") |
+|                |                                                                         |
+|----------------|-------------------------------------------------------------------------|
+| **Kintekishu** | ![](/images/B.png "/images/B.png")+![](/images/MK.png "/images/MK.png") |
 
-|                |                                          |
-|----------------|------------------------------------------|
-| **Tenkukyaku** | Après un Kintekishu ![](MK.png "MK.png") |
+|                |                                                          |
+|----------------|----------------------------------------------------------|
+| **Tenkukyaku** | Après un Kintekishu ![](/images/MK.png "/images/MK.png") |
 
 **Jump cancelable.**
 
-|                 |                                                                                 |
-|-----------------|---------------------------------------------------------------------------------|
-| **Tenshokyaku** | Après un Tenkukyaku![](D.png "D.png"),![](U.png "U.png") + ![](MK.png "MK.png") |
+|                 |                                                                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Tenshokyaku** | Après un Tenkukyaku![](/images/D.png "/images/D.png"),![](/images/U.png "/images/U.png") + ![](/images/MK.png "/images/MK.png") |
 
-|               |                                                 |
-|---------------|-------------------------------------------------|
-| **Yosokyaku** | En l'air![](D.png "D.png")+![](MK.png "MK.png") |
+|               |                                                                                 |
+|---------------|---------------------------------------------------------------------------------|
+| **Yosokyaku** | En l'air![](/images/D.png "/images/D.png")+![](/images/MK.png "/images/MK.png") |
 
 **Cancelable par lui-même jusqu'à deux fois.**
 
-|               |                                                      |
-|---------------|------------------------------------------------------|
-| **Wall Jump** | En l'air![](Uf.png "Uf.png") près du bord de l'écran |
+|               |                                                                      |
+|---------------|----------------------------------------------------------------------|
+| **Wall Jump** | En l'air![](/images/Uf.png "/images/Uf.png") près du bord de l'écran |
 
-|                  |                                                                  |
-|------------------|------------------------------------------------------------------|
-| **Target Combo** | Saut avant ou arrière ![](HP.png "HP.png")\~![](HP.png "HP.png") |
+|                  |                                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------|
+| **Target Combo** | Saut avant ou arrière ![](/images/HP.png "/images/HP.png")\~![](/images/HP.png "/images/HP.png") |
 
 ## Move list
 
 ### Coups spéciaux
 
-|                |                                                    |
-|----------------|----------------------------------------------------|
-| **Ryuseiraku** | En l'air ![](LP.png "LP.png")+![](LK.png "LK.png") |
+|                |                                                                                    |
+|----------------|------------------------------------------------------------------------------------|
+| **Ryuseiraku** | En l'air ![](/images/LP.png "/images/LP.png")+![](/images/LK.png "/images/LK.png") |
 
 **Air choppe.**
 
-|             |                                                   |
-|-------------|---------------------------------------------------|
-| **Kikoken** | ![](hcf.png "hcf.png")+![](punch.png "punch.png") |
+|             |                                                                                   |
+|-------------|-----------------------------------------------------------------------------------|
+| **Kikoken** | ![](/images/hcf.png "/images/hcf.png")+![](/images/punch.png "/images/punch.png") |
 
-|              |                                                 |
-|--------------|-------------------------------------------------|
-| **Hazanshu** | ![](hcb.png "hcb.png")+![](kick.png "kick.png") |
+|              |                                                                                 |
+|--------------|---------------------------------------------------------------------------------|
+| **Hazanshu** | ![](/images/hcb.png "/images/hcb.png")+![](/images/kick.png "/images/kick.png") |
 
 **Overhead.**
 
-|                        |                                                                         |
-|------------------------|-------------------------------------------------------------------------|
-| **Spinning Bird Kick** | ![](D.png "D.png") (charge) ![](U.png "U.png")+![](kick.png "kick.png") |
+|                        |                                                                                                                         |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Spinning Bird Kick** | ![](/images/D.png "/images/D.png") (charge) ![](/images/U.png "/images/U.png")+![](/images/kick.png "/images/kick.png") |
 
-|                     |                                                 |
-|---------------------|-------------------------------------------------|
-| **Hyakuretsukyaku** | ![](hcf.png "hcf.png")+![](kick.png "kick.png") |
+|                     |                                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Hyakuretsukyaku** | ![](/images/hcf.png "/images/hcf.png")+![](/images/kick.png "/images/kick.png") |
 
 **Super charge.**
 
@@ -82,6 +84,6 @@
 
 ## Combos
 
-|                   |                                                     |
-|-------------------|-----------------------------------------------------|
-| **Senretsukyaku** | ![](hcf.png "hcf.png")+![](3xKick.png "3xKick.png") |
+|                   |                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------|
+| **Senretsukyaku** | ![](/images/hcf.png "/images/hcf.png")+![](/images/3xKick.png "/images/3xKick.png") |

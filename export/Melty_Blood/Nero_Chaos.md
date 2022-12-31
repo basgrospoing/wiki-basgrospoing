@@ -1,10 +1,12 @@
-[ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   
+# Melty Blood/Nero Chaos
+
+![ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   
 Professor Chaos \<br\\\>\<br\\\> **Voiced by:**   Joji Nakata (中田
 譲治)  —  **Type:**   Dead Apostle  —  **Gender:**   Male
 \<br\\\>\<br\\\> **Birthday:**   Feb
 13  —  **Height:**   188cm  —  **Weight:**   84kg \<br\\\>\<br\\\> **Eye
 Color:**   Gray  —  **Hair Color:**   Gray
-\|frame\|right](image:Nero0.png "wikilink")
+\|frame\|right](/images/Nero0.png " Name:   Nrvnqsr Chaos (ネロ・カオス)  —  Nicknames:    Professor Chaos <br\><br\> Voiced by:   Joji Nakata (中田 譲治)  —  Type:   Dead Apostle  —  Gender:   Male <br\><br\> Birthday:   Feb 13  —  Height:   188cm  —  Weight:   84kg <br\><br\> Eye Color:   Gray  —  Hair Color:   Gray |frame|right")
 
 # Introduction
 
@@ -27,7 +29,7 @@ Color:**   Gray  —  **Hair Color:**   Gray
 
 # Palettes
 
-![](Nero-colors.png "Nero-colors.png")
+![](/images/Nero-colors.png "/images/Nero-colors.png")
 
 # Liste de joueurs
 

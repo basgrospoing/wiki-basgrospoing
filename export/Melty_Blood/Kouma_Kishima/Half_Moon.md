@@ -1,3 +1,5 @@
+# Melty Blood/Kouma Kishima/Half Moon
+
 # Combos
 
 ## Débutant
@@ -58,51 +60,11 @@ High jump \> jC \> 22B \> airthrow(4931)**
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width=""
-style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
+<td><p><strong>2A</strong></p>
 <p>Liste des coups par ordre de puissance.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2B</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5B</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">6C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">#C</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JA</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">JB</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">JC</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">J6C</font></strong> -</p></td>
+<td><p><strong>5A</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -112,8 +74,7 @@ style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Name 「JP name」 - 22ABC</font></strong></p>
+<td><p><strong>Name 「JP name」 - 22ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Décrire à quoi sert le coup</li>
 <li><strong>(A version)</strong> - Description de la version A du
@@ -125,50 +86,43 @@ coup</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> 「」 -
-236ABC</font></strong></p>
+<td><p><strong>236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-「」 - 28ABC</font></strong></p>
+<td><p><strong>28ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> 　 「」 -
-623ABC</font></strong></p>
+<td><p><strong>　 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-「」 - 214ABC</font></strong></p>
+<td><p><strong>214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> 「」 -
-421ABC</font></strong></p>
+<td><p><strong>421ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-「」 - J22ABC</font></strong></p>
+<td><p><strong>J22ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -　...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> 「」 -
-426ABC</font></strong></p>
+<td><p><strong>426ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -　...</li>
 <li><strong>(A version)</strong> -</li>
@@ -177,8 +131,7 @@ coup</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-「」 - BC</font></strong></p>
+<td><p><strong>BC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -　...</li>
 <li><strong>(Standing)</strong> -</li>
@@ -194,8 +147,7 @@ coup</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-「」 </font></strong></p>
+<td><p><strong>「」</strong></p>
 <ul>
 <li><strong>(Description)</strong> - AD description</li>
 </ul></td>

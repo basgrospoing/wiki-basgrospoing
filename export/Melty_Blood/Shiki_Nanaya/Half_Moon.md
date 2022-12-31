@@ -1,3 +1,5 @@
+# Melty Blood/Shiki Nanaya/Half Moon
+
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.
@@ -108,49 +110,11 @@ Combo en corner.
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">2A
-[Low]</font></strong></p>
+<td><p><strong>2A [Low]</strong></p>
 <p>Liste des coups par ordre de puissance.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A [Mid]</font></strong>
--</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">5A-&gt;6A [Mid]</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5A-&gt;6A-&gt;6A
-[Mid]</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">2B
-[Low]</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5B [Mid]</font></strong>
--</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">2C
-[Low]</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">5C [Mid]</font></strong>
--</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j.A [Mid]</font></strong> -</p></td>
-</tr>
-<tr class="even">
-<td><p>width="" | <strong><font size = "3">j.B
-[Overhead]</font></strong> -</p></td>
-</tr>
-<tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j.C [Overhead]</font></strong> -</p></td>
+<td><p><strong>5A [Mid]</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -160,8 +124,7 @@ Combo en corner.
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Sensou・Suigetsu 「閃走・水月」 - 22ABC</font></strong></p>
+<td><p><strong>Sensou・Suigetsu 「閃走・水月」 - 22ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Téléportations non offensif.</li>
 <li><strong>(A version)</strong> - Après la stance, se téléporte en
@@ -178,8 +141,7 @@ en fin de compte ne fait rien. Ce coup est cancelable par n'importe quoi
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Sensa・Hattenshou
-「閃鞘・八点衝」 - 236ABC</font></strong></p>
+<td><p><strong>Sensa・Hattenshou 「閃鞘・八点衝」 - 236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya avance et éxécute une rafale
 de coup de couteau devant lui, mais comparer au 236 de crescent, il
@@ -197,8 +159,7 @@ press.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Sensou・Rikuto 「閃走・六兎」 - 623ABC</font></strong></p>
+<td><p><strong>Sensou・Rikuto 「閃走・六兎」 - 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya se propulse, en diagonal, en
 l'air, le pied en avant.</li>
@@ -212,8 +173,7 @@ air blocable. Permet de punir certains coups full screen.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Sensou・Ikka 「閃走・一鹿」
-- 214ABC</font></strong></p>
+<td><p><strong>Sensou・Ikka 「閃走・一鹿」 - 214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya se propulse,
 horizontalement, le pied en avant.</li>
@@ -229,8 +189,7 @@ knockdown.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Kyuukouka/Fastfall 「急降下」 - j.22</font></strong></p>
+<td><p><strong>Kyuukouka/Fastfall 「急降下」 - j.22</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Comme son nom l'indique, permet à
 Nanaya de stopper son momentum en l'air et de rapidement descendre au
@@ -238,8 +197,7 @@ sol.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Sensou・Ikka 「閃走・一鹿」
-- j.214ABC</font></strong></p>
+<td><p><strong>Sensou・Ikka 「閃走・一鹿」 - j.214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Nanaya se propulse,
 horizontalement, le pied en avant. Même animation que le 214.</li>
@@ -259,9 +217,8 @@ du sol.</li>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en HEAT
-</font></strong></p>
+<td><p><strong>Sensa・Meigokushamon 「閃鞘・迷獄沙門」 - 41236C en
+HEAT</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Le temps se ralentie et Nanaya fait
 un saut en arc. Les frames actives apparaissent à partir du moment où

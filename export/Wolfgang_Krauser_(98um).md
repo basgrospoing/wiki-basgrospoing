@@ -1,3 +1,5 @@
+# Wolfgang Krauser (98um)
+
 ## Introduction
 
 ## Liste des coups

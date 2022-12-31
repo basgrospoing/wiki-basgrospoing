@@ -1,3 +1,5 @@
+# Blue Mary (98um)
+
 ## Introduction
 
 ## Liste des coups

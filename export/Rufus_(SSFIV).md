@@ -1,3 +1,5 @@
+# Rufus (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -31,61 +33,61 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Messiah Kick
 
-|             |                                                   |
-|-------------|---------------------------------------------------|
-| **Messiah** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|             |                                                                                   |
+|-------------|-----------------------------------------------------------------------------------|
+| **Messiah** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
-##### Follow Up High Attack ![](LK.png "LK.png")
+##### Follow Up High Attack ![](/images/LK.png "/images/LK.png")
 
-|                                                 |                                                                           |
-|-------------------------------------------------|---------------------------------------------------------------------------|
-| **Messiah Kick Follow Up ![](LK.png "LK.png")** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") \> ![](LK.png "LK.png") |
+|                                                                 |                                                                                                                           |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Messiah Kick Follow Up ![](/images/LK.png "/images/LK.png")** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") \> ![](/images/LK.png "/images/LK.png") |
 
-##### Follow Up Low Attack ![](MK.png "MK.png")
+##### Follow Up Low Attack ![](/images/MK.png "/images/MK.png")
 
-|                                                 |                                                                           |
-|-------------------------------------------------|---------------------------------------------------------------------------|
-| **Messiah Kick Follow Up ![](MK.png "MK.png")** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") \> ![](MK.png "MK.png") |
+|                                                                 |                                                                                                                           |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Messiah Kick Follow Up ![](/images/MK.png "/images/MK.png")** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") \> ![](/images/MK.png "/images/MK.png") |
 
-##### Follow Up Mid High ![](HK.png "HK.png")
+##### Follow Up Mid High ![](/images/HK.png "/images/HK.png")
 
-|                                                 |                                                                           |
-|-------------------------------------------------|---------------------------------------------------------------------------|
-| **Messiah Kick Follow Up ![](MK.png "MK.png")** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") \> ![](HK.png "HK.png") |
+|                                                                 |                                                                                                                           |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Messiah Kick Follow Up ![](/images/MK.png "/images/MK.png")** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") \> ![](/images/HK.png "/images/HK.png") |
 
 #### Galactic Tornado
 
-|                      |                                                     |
-|----------------------|-----------------------------------------------------|
-| **Galactic Tornado** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                      |                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------|
+| **Galactic Tornado** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Snake Strike
 
-|                  |                                                   |
-|------------------|---------------------------------------------------|
-| **Snake Strike** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|                  |                                                                                   |
+|------------------|-----------------------------------------------------------------------------------|
+| **Snake Strike** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Super Combos
 
 #### Spectacle Romance
 
-|                       |                                                                            |
-|-----------------------|----------------------------------------------------------------------------|
-| **Spectacle Romance** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                       |                                                                                                                            |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Spectacle Romance** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultra Combos
 
 #### Space Opera Symphony (Ultra 1)
 
-|                                    |                                                                                |
-|------------------------------------|--------------------------------------------------------------------------------|
-| **Space Opera Symphony (Ultra 1)** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                                    |                                                                                                                                |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Space Opera Symphony (Ultra 1)** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Big Bang Typhoon (Ultra 2)
 
-|                                |                                                                              |
-|--------------------------------|------------------------------------------------------------------------------|
-| **Big Bang Typhoon (Ultra 2)** | ![](qcb.png "qcb.png") ![](qcb.png "qcb.png") + ![](3xKick.png "3xKick.png") |
+|                                |                                                                                                                              |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Big Bang Typhoon (Ultra 2)** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 3 Combos
 

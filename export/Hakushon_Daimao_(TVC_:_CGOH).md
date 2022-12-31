@@ -1,3 +1,5 @@
+# Hakushon Daimao (TVC : CGOH)
+
 # Introduction
 
 # Moves List

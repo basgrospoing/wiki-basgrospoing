@@ -1,3 +1,5 @@
+# Felicia (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Felicia
 
-![](Umvc3_felicia_face.jpg‎ "Umvc3_felicia_face.jpg‎") TBW
+![](/images/Umvc3_felicia_face.jpg‎ "/images/Umvc3_felicia_face.jpg‎") TBW
 
 **In a nutshell** TBW
 

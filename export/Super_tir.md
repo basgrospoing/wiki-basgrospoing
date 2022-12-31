@@ -1,3 +1,5 @@
+# Super tir
+
 ## Introduction
 
 Les super tirs sont indispensables pour tenter de clore un échange. On
@@ -34,9 +36,9 @@ négliger, particulièrement contre un adversaire au filet ou un
 personnage de constitution frêle (Mita, Yoo en particulier).
 
 <figure>
-<img src="lob_base.jpg" title="lob_base.jpg" width="300"
-alt="lob_base.jpg" />
-<figcaption aria-hidden="true">lob_base.jpg</figcaption>
+<img src="/images/lob_base.jpg" title="/images/lob_base.jpg" width="300"
+alt="/images/lob_base.jpg" />
+<figcaption aria-hidden="true">/images/lob_base.jpg</figcaption>
 </figure>
 
 Il existe un super lob (ceci marche également pour le lob de base
@@ -54,9 +56,9 @@ l'image suivante, le point horizontal extrême atteint lors d'un **super
 lob parfait** :
 
 <figure>
-<img src="lob_parfait.jpg" title="lob_parfait.jpg" width="300"
-alt="lob_parfait.jpg" />
-<figcaption aria-hidden="true">lob_parfait.jpg</figcaption>
+<img src="/images/lob_parfait.jpg" title="/images/lob_parfait.jpg"
+width="300" alt="/images/lob_parfait.jpg" />
+<figcaption aria-hidden="true">/images/lob_parfait.jpg</figcaption>
 </figure>
 
 Il existe peu de différences dans l'envoi de super lob entre les
@@ -66,26 +68,28 @@ avoir le meilleur de tous puisque son startup est le plus rapide.
 ## Super spin
 
 <figure>
-<img src="Spinhaut.jpg" title="Spinhaut.jpg" width="350"
-alt="Spinhaut.jpg" />
-<figcaption aria-hidden="true">Spinhaut.jpg</figcaption>
+<img src="/images/Spinhaut.jpg" title="/images/Spinhaut.jpg" width="350"
+alt="/images/Spinhaut.jpg" />
+<figcaption aria-hidden="true">/images/Spinhaut.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="Spinbas.jpg" title="Spinbas.jpg" width="350"
-alt="Spinbas.jpg" />
-<figcaption aria-hidden="true">Spinbas.jpg</figcaption>
+<img src="/images/Spinbas.jpg" title="/images/Spinbas.jpg" width="350"
+alt="/images/Spinbas.jpg" />
+<figcaption aria-hidden="true">/images/Spinbas.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="Spin2.jpg" title="Spin2.jpg" width="350" alt="Spin2.jpg" />
-<figcaption aria-hidden="true">Spin2.jpg</figcaption>
+<img src="/images/Spin2.jpg" title="/images/Spin2.jpg" width="350"
+alt="/images/Spin2.jpg" />
+<figcaption aria-hidden="true">/images/Spin2.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="mita_filet_spin.gif" title="mita_filet_spin.gif" width="300"
-alt="mita_filet_spin.gif" />
-<figcaption aria-hidden="true">mita_filet_spin.gif</figcaption>
+<img src="/images/mita_filet_spin.gif"
+title="/images/mita_filet_spin.gif" width="300"
+alt="/images/mita_filet_spin.gif" />
+<figcaption aria-hidden="true">/images/mita_filet_spin.gif</figcaption>
 </figure>
 
 ## Reversals

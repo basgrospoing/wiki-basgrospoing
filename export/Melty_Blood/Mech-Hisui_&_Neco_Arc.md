@@ -1,5 +1,7 @@
-[ **Team:**   Neco Arc & Mech Hisui
-\|frame\|right](image:Necomech0.png "wikilink")
+# Melty Blood/Mech-Hisui & Neco Arc
+
+![ **Team:**   Neco Arc & Mech Hisui
+\|frame\|right](/images/Necomech0.png " Team:   Neco Arc & Mech Hisui |frame|right")
 
 # Introduction
 
@@ -23,7 +25,7 @@
 
 # Palettes
 
-![](Necomech-colors.png "Necomech-colors.png")
+![](/images/Necomech-colors.png "/images/Necomech-colors.png")
 
 # Liste de joueurs
 

@@ -1,4 +1,6 @@
-![](ss4-Hanzo.gif "ss4-Hanzo.gif")
+# Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
+
+![](/images/ss4-Hanzo.gif "/images/ss4-Hanzo.gif")
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# Ryu (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,12 +8,12 @@
 
 ## Ryu
 
-![](Umvc3_ryu_face.jpg‎ "Umvc3_ryu_face.jpg‎") Ryu trained for years with
-his friend Ken under the Shotokan master Gouken. As the champion of the
-first Street Fighter tournament, defeating the Muay Thai king Sagat, Ryu
-is known as one of the most dedicated fighters. Since his victory Ryu
-has traveled the globe, participating in subsequent tournaments and
-continuing his quest to perfect his training.
+![](/images/Umvc3_ryu_face.jpg‎ "/images/Umvc3_ryu_face.jpg‎") Ryu trained
+for years with his friend Ken under the Shotokan master Gouken. As the
+champion of the first Street Fighter tournament, defeating the Muay Thai
+king Sagat, Ryu is known as one of the most dedicated fighters. Since
+his victory Ryu has traveled the globe, participating in subsequent
+tournaments and continuing his quest to perfect his training.
 
 **In a nutshell** As the quintessential Street Fighter, Ryu's game plan
 is focused on the ability to produce a variety of special moves to

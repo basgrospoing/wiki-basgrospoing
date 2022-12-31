@@ -1,5 +1,8 @@
-![Character Select Portrait](Hugo3sport.gif "Character Select Portrait")
-![Neutral Stance](Hugo3s-stance.gif "Neutral Stance")
+# Hugo (3S)
+
+![Character Select
+Portrait](/images/Hugo3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Hugo3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -20,52 +23,52 @@
 
 ## Couleurs
 
-|                              |                              |                              |                              |                              |                              |                                                              |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")         | ![](MP.png "MP.png")         | ![](HP.png "HP.png")         | ![](LK.png "LK.png")         | ![](MK.png "MK.png")         | ![](HK.png "HK.png")         | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Hugolp.gif "Hugolp.gif") | ![](Hugomp.gif "Hugomp.gif") | ![](Hugohp.gif "Hugohp.gif") | ![](Hugolk.gif "Hugolk.gif") | ![](Hugomk.gif "Hugomk.gif") | ![](Hugohk.gif "Hugohk.gif") | ![](Hugolpmkhp.gif "Hugolpmkhp.gif")                         |
-|                              |                              |                              |                              |                              |                              |                                                              |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")         | ![](/images/MP.png "/images/MP.png")         | ![](/images/HP.png "/images/HP.png")         | ![](/images/LK.png "/images/LK.png")         | ![](/images/MK.png "/images/MK.png")         | ![](/images/HK.png "/images/HK.png")         | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Hugolp.gif "/images/Hugolp.gif") | ![](/images/Hugomp.gif "/images/Hugomp.gif") | ![](/images/Hugohp.gif "/images/Hugohp.gif") | ![](/images/Hugolk.gif "/images/Hugolk.gif") | ![](/images/Hugomk.gif "/images/Hugomk.gif") | ![](/images/Hugohk.gif "/images/Hugohk.gif") | ![](/images/Hugolpmkhp.gif "/images/Hugolpmkhp.gif")                                                         |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
 
 ## Liste des coups
 
 #### Chopes
 
-|                    |                                                                                                                                      |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Neck Hanging Three | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                                                                          |
-| Body Slam          | ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") ou ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|                    |                                                                                                                                                                                                                                      |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neck Hanging Three | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                                                                                                          |
+| Body Slam          | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Normaux
 
-|                      |                                                     |
-|----------------------|-----------------------------------------------------|
-| Hammer Hook          | ![](F.png "F.png") + ![](HP.png "HP.png")           |
-| Crouching Jab        | ![](D.png "D.png") + ![](LP.png "LP.png")           |
-| Crouching Strong     | ![](D.png "D.png") + ![](MP.png "MP.png")           |
-| Crouching Fierce     | ![](D.png "D.png") + ![](HP.png "HP.png")           |
-| Crouching Short      | ![](D.png "D.png") + ![](LK.png "LK.png")           |
-| Crouching Forward    | ![](D.png "D.png") + ![](MK.png "MK.png")           |
-| Crouching Roundhouse | ![](D.png "D.png") + ![](HK.png "HK.png")           |
-| Body Press           | **(Air)** ![](D.png "D.png") + ![](HP.png "HP.png") |
+|                      |                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------|
+| Hammer Hook          | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png")           |
+| Crouching Jab        | ![](/images/D.png "/images/D.png") + ![](/images/LP.png "/images/LP.png")           |
+| Crouching Strong     | ![](/images/D.png "/images/D.png") + ![](/images/MP.png "/images/MP.png")           |
+| Crouching Fierce     | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png")           |
+| Crouching Short      | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png")           |
+| Crouching Forward    | ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png")           |
+| Crouching Roundhouse | ![](/images/D.png "/images/D.png") + ![](/images/HK.png "/images/HK.png")           |
+| Body Press           | **(Air)** ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") |
 
 ### Coups Spéciaux
 
-|                       |                                                     |      |
-|-----------------------|-----------------------------------------------------|------|
-| Giant Palm Bomber     | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") | (EX) |
-| Moonsault Press       | ![](360.png "360.png") + ![](Punch.png "Punch.png") |      |
-| Monster Lariat        | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")   | (EX) |
-| Shootdown Backbreaker | ![](dp.png "dp.png") + ![](Kick.png "Kick.png")     |      |
-| Meat Squasher         | ![](360.png "360.png") + ![](Kick.png "Kick.png")   |      |
-| Ultra Throw           | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")   |      |
+|                       |                                                                                     |      |
+|-----------------------|-------------------------------------------------------------------------------------|------|
+| Giant Palm Bomber     | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") | (EX) |
+| Moonsault Press       | ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |      |
+| Monster Lariat        | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")   | (EX) |
+| Shootdown Backbreaker | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png")     |      |
+| Meat Squasher         | ![](/images/360.png "/images/360.png") + ![](/images/Kick.png "/images/Kick.png")   |      |
+| Ultra Throw           | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")   |      |
 
 ### Super Arts
 
-|     |               |                                                                                                                                                 |          |
-|-----|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| I   | Gigas Breaker | ![](360.png "360.png") ![](360.png "360.png") + ![](Punch.png "Punch.png")                                                                      | 1 stock  |
-| II  | Megaton Press | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")                                                                        | 2 stocks |
-| III | Hammer Frenzy | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") (Garder ![](Punch.png "Punch.png") maintenu pour retarder l'attaque) | 2 stocks |
+|     |               |                                                                                                                                                                                                                 |          |
+|-----|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Gigas Breaker | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png")                                                                                      | 1 stock  |
+| II  | Megaton Press | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")                                                                                        | 2 stocks |
+| III | Hammer Frenzy | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (Garder ![](/images/Punch.png "/images/Punch.png") maintenu pour retarder l'attaque) | 2 stocks |
 
 ## Stratégie
 

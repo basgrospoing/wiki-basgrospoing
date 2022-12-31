@@ -1,3 +1,5 @@
+# Le pire de la baston
+
 \_\_NOTOC\_\_
 
 # La petite boutique des horreurs compilée par Haten-dan

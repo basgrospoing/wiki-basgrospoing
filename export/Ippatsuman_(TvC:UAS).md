@@ -1,5 +1,7 @@
-<img src="Ippatsuman.jpg" title="Ippatsuman.jpg" width="250"
-alt="Ippatsuman.jpg" />  
+# Ippatsuman (TvC:UAS)
+
+<img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"
+width="250" alt="/images/Ippatsuman.jpg" />  
 
 # Introduction
 

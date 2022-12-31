@@ -1,10 +1,12 @@
-[ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Petite
+# Melty Blood/Akiha Tohno
+
+![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Petite
 Soeur" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Humain, Demi-Démon   —  **Gender:**   Féminin
 \<br\\\>\<br\\\> **Birthday:**   22 Sept   —  **Sizes:**   73 / 57 /
 79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
 Color:**   Bleus  —  **Hair Color:**   Noir
-\|frame\|right](image:Akiha0.png "wikilink")
+\|frame\|right](/images/Akiha0.png " Name:   Akiha Tohno (遠野秋葉)  —  Nicknames:    "Petite Soeur" <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Humain, Demi-Démon   —  Gender:   Féminin <br\><br\> Birthday:   22 Sept   —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Bleus  —  Hair Color:   Noir |frame|right")
 
 # Introduction
 
@@ -84,7 +86,7 @@ adversaire en l'air sur toute la hauteur de l'écran.
 
 # Palettes
 
-![](Akiha-colors.png "Akiha-colors.png")
+![](/images/Akiha-colors.png "/images/Akiha-colors.png")
 
 # Liste de joueurs
 

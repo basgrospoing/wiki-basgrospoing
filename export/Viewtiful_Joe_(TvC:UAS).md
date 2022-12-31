@@ -1,5 +1,7 @@
-<img src="Viewtiful-joe.jpg" title="Viewtiful-joe.jpg" width="300"
-alt="Viewtiful-joe.jpg" />  
+# Viewtiful Joe (TvC:UAS)
+
+<img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"
+width="300" alt="/images/Viewtiful-joe.jpg" />  
 
 # Introduction
 

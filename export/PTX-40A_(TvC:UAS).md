@@ -1,5 +1,7 @@
-<img src="PTX-40A.jpg" title="PTX-40A.jpg" width="300"
-alt="PTX-40A.jpg" />  
+# PTX-40A (TvC:UAS)
+
+<img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"
+alt="/images/PTX-40A.jpg" />  
 
 # Introduction
 

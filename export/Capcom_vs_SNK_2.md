@@ -1,4 +1,6 @@
-![](Cvs2.jpg "Cvs2.jpg")
+# Capcom vs SNK 2
+
+![](/images/Cvs2.jpg "/images/Cvs2.jpg")
 
 ## Introduction
 
@@ -15,62 +17,62 @@ large sélection de personnages dans un format à base d'équipe.
 
 **Top Tier :**
 
-` A-Bison  `  
-` A-Blanka`  
-` A-Sakura  `  
-` C-Sagat`
+`A-Bison `  
+`A-Blanka`  
+`A-Sakura `  
+`C-Sagat`
 
 **High-Mid Tier :**
 
-` A-Vega`  
-` A-Hibiki `  
-` C-Ken`  
-` C-Rolento`  
-` C-Guile`  
-` C-Honda`  
-` K-Cammy`  
-` K-Geese`  
-` K-Rock`  
-` K-Kyo`  
-` N-Chun `  
-` N-Iori`
+`A-Vega`  
+`A-Hibiki `  
+`C-Ken`  
+`C-Rolento`  
+`C-Guile`  
+`C-Honda`  
+`K-Cammy`  
+`K-Geese`  
+`K-Rock`  
+`K-Kyo`  
+`N-Chun `  
+`N-Iori`
 
 **Mid Tier :**
 
-` A-Yun`  
-` A-Joe`  
-` A-Athena`  
-` A-Eagle`  
-` A-Todo`  
-` C-Yamazaki`  
-` C-Kim`  
-` C-Dhalsim`  
-` C-Ryu`  
-` C-Rugal`  
-` K-Nakoruru`  
-` K-Chang`  
-` N-Akuma`  
-` N-Mai`  
-` N-Morrigan `  
-` N-Maki`  
-` N-Vice`
+`A-Yun`  
+`A-Joe`  
+`A-Athena`  
+`A-Eagle`  
+`A-Todo`  
+`C-Yamazaki`  
+`C-Kim`  
+`C-Dhalsim`  
+`C-Ryu`  
+`C-Rugal`  
+`K-Nakoruru`  
+`K-Chang`  
+`N-Akuma`  
+`N-Mai`  
+`N-Morrigan `  
+`N-Maki`  
+`N-Vice`
 
 **Low-Mid Tier :**
 
-` A-Terry`  
-` A-Benimaru`  
-` A-Haohmaru`  
-` A-Yuri`  
-` C-Balrog`  
-` C-Kyosuke`  
-` K-Raiden`  
-` K-Zangief`  
-` K-Ryo`
+`A-Terry`  
+`A-Benimaru`  
+`A-Haohmaru`  
+`A-Yuri`  
+`C-Balrog`  
+`C-Kyosuke`  
+`K-Raiden`  
+`K-Zangief`  
+`K-Ryo`
 
 **Low Tier :**
 
-` A-Dan`  
-` N-King`
+`A-Dan`  
+`N-King`
 
 ### Roll Cancel
 

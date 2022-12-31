@@ -1,3 +1,5 @@
+# Blue Mary (RBFF version) (98um)
+
 ## Introduction
 
 ## Liste des coups

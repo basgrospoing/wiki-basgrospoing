@@ -1,10 +1,12 @@
-[ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red Arc　
-\<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木 涼香)  —  **Type
-:**   Originel  —  **Genre :**   Femelle \<br\\\>\<br\\\> **Anniversaire
-:**   Dec 25  —  **Mensurations :**   88 / 55 / 85  —  **Taille
-:**   167cm  —  **Masse :**   52kg \<br\\\>\<br\\\> **Yeux
-:**   Or  —  **Cheveux :**   Blonde
-\|frame\|right](image:warc0.png "wikilink")
+# Melty Blood/Red Arcueid
+
+![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red
+Arc　 \<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木
+涼香)  —  **Type :**   Originel  —  **Genre :**   Femelle
+\<br\\\>\<br\\\> **Anniversaire :**   Dec 25  —  **Mensurations :**   88
+/ 55 / 85  —  **Taille :**   167cm  —  **Masse :**   52kg
+\<br\\\>\<br\\\> **Yeux :**   Or  —  **Cheveux :**   Blonde
+\|frame\|right](/images/warc0.png " Nom :    Red Arcueid (ワルク)  —  Surnoms :    Warc, Red Arc　 <br\><br\> Doublé par :   Ryoka Yuzuki (柚木 涼香)  —  Type :   Originel  —  Genre :   Femelle <br\><br\> Anniversaire :   Dec 25  —  Mensurations :   88 / 55 / 85  —  Taille :   167cm  —  Masse :   52kg <br\><br\> Yeux :   Or  —  Cheveux :   Blonde |frame|right")
 
 # Introduction
 
@@ -49,7 +51,7 @@ air\>sol et sol\>air. Facile a prendre en main.
 
 # Palettes
 
-![](Warc-colors.png "Warc-colors.png")
+![](/images/Warc-colors.png "/images/Warc-colors.png")
 
 # Liste de joueurs
 

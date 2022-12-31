@@ -1,10 +1,12 @@
-[ **Name:**   Neco Arc Chaos
+# Melty Blood/Neco Arc Chaos
+
+![ **Name:**   Neco Arc Chaos
 (ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>
 **Voiced by:**   Joji Nakata (中田 譲治)  —  **Type:**    Neco
   —  **Gender:**   Male \<br\\\>\<br\\\>
 **Birthday:**   ...  —  **Height:**   ...  —  **Weight:**   ...
 \<br\\\>\<br\\\> **Eye Color:**   ...  —  **Hair Color:**   Gray
-\|frame\|right](image:Necochaos0.png "wikilink")
+\|frame\|right](/images/Necochaos0.png " Name:   Neco Arc Chaos (ネコ　アルク　カオス)  —  Nicknames:    Pachineko <br\><br\> Voiced by:   Joji Nakata (中田 譲治)  —  Type:    Neco   —  Gender:   Male <br\><br\> Birthday:   ...  —  Height:   ...  —  Weight:   ... <br\><br\> Eye Color:   ...  —  Hair Color:   Gray |frame|right")
 
 # Introduction
 
@@ -26,7 +28,7 @@
 
 # Palettes
 
-![](NecoChaos-colors.png "NecoChaos-colors.png")
+![](/images/NecoChaos-colors.png "/images/NecoChaos-colors.png")
 
 # Liste de joueurs
 

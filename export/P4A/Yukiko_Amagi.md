@@ -1,7 +1,9 @@
+# P4A/Yukiko Amagi
+
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 
-![](Yukiko_big.jpg "Yukiko_big.jpg")
+![](/images/Yukiko_big.jpg "/images/Yukiko_big.jpg")
 
 </div>
 <div>

@@ -1,10 +1,13 @@
-[ **Nom:**   Archetype:Earth (真祖アルクエイド)  —  **Surnoms:**   
+# Melty Blood/Archetype: Earth
+
+![ **Nom:**   Archetype:Earth (真祖アルクエイド)  —  **Surnoms:**   
 "Hime Arcueid" \<br\\\>\<br\\\> **Jouée par:**   Yuzuki Ryōka (柚木
 涼香)   —  **Type:**   Aristoteles  —  **Genre:**   Féminin
 \<br\\\>\<br\\\> **Date de naissance:**   25/12
   —  **Mensurations:**   88/55/85  —  **Taille:**   167cm  —  **Poids:**   52kg
 \<br\\\>\<br\\\> **Couleur des yeux:**   Rouge, doré  —  **Couleur de
-cheveux:**   Doré \|frame\|right](image:archetype.png "wikilink")
+cheveux:**   Doré
+\|frame\|right](/images/archetype.png " Nom:   Archetype:Earth (真祖アルクエイド)  —  Surnoms:    "Hime Arcueid" <br\><br\> Jouée par:   Yuzuki Ryōka (柚木 涼香)   —  Type:   Aristoteles  —  Genre:   Féminin <br\><br\> Date de naissance:   25/12   —  Mensurations:   88/55/85  —  Taille:   167cm  —  Poids:   52kg <br\><br\> Couleur des yeux:   Rouge, doré  —  Couleur de cheveux:   Doré |frame|right")
 
 # Introduction
 
@@ -28,7 +31,7 @@ Personnage longue distance
 
 # Palettes
 
-![](Archetype-colors.png "Archetype-colors.png")
+![](/images/Archetype-colors.png "/images/Archetype-colors.png")
 
 # Liste de joueurs
 

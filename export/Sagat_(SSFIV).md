@@ -1,9 +1,11 @@
+# Sagat (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 sagat africa attention les secousses !!!
 
-![](Ssf4-Sagat.png "Ssf4-Sagat.png")
+![](/images/Ssf4-Sagat.png "/images/Ssf4-Sagat.png")
 
 ## 1 Vue d'ensemble
 
@@ -35,15 +37,15 @@ sagat africa attention les secousses !!!
 
 ### Coups Uniques
 
-|                       |                                           |
-|-----------------------|-------------------------------------------|
-| **Heavy Tiger Elbow** | ![](F.png "F.png") + ![](HP.png "HP.png") |
+|                       |                                                                           |
+|-----------------------|---------------------------------------------------------------------------|
+| **Heavy Tiger Elbow** | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
 
 Overhead De Sagat.
 
-|                   |                                           |
-|-------------------|-------------------------------------------|
-| **Low Step Kick** | ![](F.png "F.png") + ![](LK.png "LK.png") |
+|                   |                                                                           |
+|-------------------|---------------------------------------------------------------------------|
+| **Low Step Kick** | ![](/images/F.png "/images/F.png") + ![](/images/LK.png "/images/LK.png") |
 
 Analyse:
 
@@ -54,13 +56,13 @@ Les premières frame de l'animation peuvent être cancellable en un Tiger
 Knee/Tiger Uppercut/Tiger Shot ce qui en fait une arme redoutable pour
 maintenir une pression au corps à corps.
 
-|                    |                                           |
-|--------------------|-------------------------------------------|
-| **High Step Kick** | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|                    |                                                                           |
+|--------------------|---------------------------------------------------------------------------|
+| **High Step Kick** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
-|               |                                                                          |
-|---------------|--------------------------------------------------------------------------|
-| **Fake Kick** | Appuyer immédiatement ![](HK.png "HK.png") après un ![](HK.png "HK.png") |
+|               |                                                                                                          |
+|---------------|----------------------------------------------------------------------------------------------------------|
+| **Fake Kick** | Appuyer immédiatement ![](/images/HK.png "/images/HK.png") après un ![](/images/HK.png "/images/HK.png") |
 
 ## Coups Uniques,Spéciaux, Super, Ultras
 
@@ -68,43 +70,43 @@ maintenir une pression au corps à corps.
 
 #### High Tiger Shot
 
-|                     |                                                      |
-|---------------------|------------------------------------------------------|
-| **High Tiger Shot** | ![](qcf.png "qcf.png") ou ![](Punch.png "Punch.png") |
+|                     |                                                                                      |
+|---------------------|--------------------------------------------------------------------------------------|
+| **High Tiger Shot** | ![](/images/qcf.png "/images/qcf.png") ou ![](/images/Punch.png "/images/Punch.png") |
 
 Explications détaillés du coup:
 
-![](LP.png "LP.png"):
+![](/images/LP.png "/images/LP.png"):
 
-![](MP.png "MP.png"),![](HP.png "HP.png"):
+![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png"):
 
-![](Ex.png "Ex.png"):
+![](/images/Ex.png "/images/Ex.png"):
 
 #### Low Tiger Shot
 
-|                    |                                                    |
-|--------------------|----------------------------------------------------|
-| **Low Tiger Shot** | ![](qcf.png "qcf.png") ou ![](Kick.png "Kick.png") |
+|                    |                                                                                    |
+|--------------------|------------------------------------------------------------------------------------|
+| **Low Tiger Shot** | ![](/images/qcf.png "/images/qcf.png") ou ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
-![](LP.png "LP.png"),![](MP.png "MP.png"),![](HP.png "HP.png"):
+![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png"):
 
-![](Ex.png "Ex.png"):
+![](/images/Ex.png "/images/Ex.png"):
 
 #### Tiger Uppercut
 
-|                    |                                                   |
-|--------------------|---------------------------------------------------|
-| **Tiger Uppercut** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|                    |                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------|
+| **Tiger Uppercut** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explications détaillés du coup:
 
 #### Tiger Knee Crush
 
-|                      |                                                 |
-|----------------------|-------------------------------------------------|
-| **Tiger Knee Crush** | ![](dp.png "dp.png") + ![](Kick.png "Kick.png") |
+|                      |                                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Tiger Knee Crush** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
@@ -115,19 +117,19 @@ LK Tiger Knee
 
 **Armor Break**
 
-![](Ex.png "Ex.png"):
+![](/images/Ex.png "/images/Ex.png"):
 
 #### Angry Charge
 
-|                  |                                                                          |
-|------------------|--------------------------------------------------------------------------|
-| **Angry Charge** | ![](qcb.png "qcb.png") ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") |
+|                  |                                                                                                                          |
+|------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Angry Charge** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
-**Utilise un carré de votre barre de Super,comme un ![](Ex.png "Ex.png")
-quoi.**.Ce coup augmentera la puissance du prochain Tiger Uppercut que
-vous exécuterez.
+**Utilise un carré de votre barre de Super,comme un
+![](/images/Ex.png "/images/Ex.png") quoi.**.Ce coup augmentera la
+puissance du prochain Tiger Uppercut que vous exécuterez.
 
 Merci SF4Answers pour l'idée du tableau...
 
@@ -143,9 +145,9 @@ Merci SF4Answers pour l'idée du tableau...
 
 #### Tiger Genocide
 
-|                    |                                                                          |
-|--------------------|--------------------------------------------------------------------------|
-| **Tiger Génocide** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|                    |                                                                                                                          |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Tiger Génocide** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
@@ -153,17 +155,17 @@ Explications détaillés du coup:
 
 #### Tiger Destruction (Ultra 1)
 
-|                       |                                                                              |
-|-----------------------|------------------------------------------------------------------------------|
-| **Tiger Destruction** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") |
+|                       |                                                                                                                              |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Tiger Destruction** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Explications détaillés du coup:
 
 #### Tiger Cannon (Ultra 2)
 
-|                  |                                                                                |
-|------------------|--------------------------------------------------------------------------------|
-| **Tiger Cannon** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                  |                                                                                                                                |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Tiger Cannon** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Note:
 

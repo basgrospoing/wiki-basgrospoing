@@ -1,3 +1,5 @@
+# Gen (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -23,135 +25,135 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Coups Uniques (Mantis Style)
 
-|                           |                              |
-|---------------------------|------------------------------|
-| **Change Style to Crane** | ![](3xKick.png "3xKick.png") |
+|                           |                                              |
+|---------------------------|----------------------------------------------|
+| **Change Style to Crane** | ![](/images/3xKick.png "/images/3xKick.png") |
 
 #### Choppes (Mantis)
 
-|             |                                                                                        |
-|-------------|----------------------------------------------------------------------------------------|
-| **Shuraku** | ![](F.png "F.png") ou ![](N.png "N.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|             |                                                                                                                                                        |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Shuraku** | ![](/images/F.png "/images/F.png") ou ![](/images/N.png "/images/N.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
-|           |                                                                  |
-|-----------|------------------------------------------------------------------|
-| **Hozen** | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|           |                                                                                                                  |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+| **Hozen** | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Coups spéciaux (Mantis)
 
-|                |                            |
-|----------------|----------------------------|
-| **Hyakurenko** | ![](Punch.png "Punch.png") |
+|                |                                            |
+|----------------|--------------------------------------------|
+| **Hyakurenko** | ![](/images/Punch.png "/images/Punch.png") |
 
-|                   |                                                     |
-|-------------------|-----------------------------------------------------|
-| **Gorai Hadoken** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") |
+|                   |                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------|
+| **Gorai Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
-|                 |                                                   |
-|-----------------|---------------------------------------------------|
-| **Goshoryuken** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|                 |                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------|
+| **Goshoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
-|               |                                                   |
-|---------------|---------------------------------------------------|
-| **Tatsumaki** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|               |                                                                                   |
+|---------------|-----------------------------------------------------------------------------------|
+| **Tatsumaki** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
 <Notes:Coup> **Armor Break**. Peut être fait en l'air.
 
 #### Super Combos (Mantis Style)
 
-|            |                                                                            |
-|------------|----------------------------------------------------------------------------|
-| **Zan'ei** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|            |                                                                                                                            |
+|------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Zan'ei** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 **Note**:Peut être fait en l'air et toucher les adversaires en en l'air.
 
 #### Ultra Combos (Mantis Style)
 
-|             |                                                                                  |
-|-------------|----------------------------------------------------------------------------------|
-| **Zetsuei** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") , |
+|             |                                                                                                                                  |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Zetsuei** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") , |
 
-|                 |                                                                                  |
-|-----------------|----------------------------------------------------------------------------------|
-| **Shitenketsu** | ![](qcb.png "qcb.png") , ![](qcb.png "qcb.png") + ![](3xPunch.png "3xPunch.png") |
+|                 |                                                                                                                                  |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Shitenketsu** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/qcb.png "/images/qcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ### \* Crane Style
 
 #### Coups Uniques (Crane Style)
 
-|                           |                              |
-|---------------------------|------------------------------|
-| **Change Style to Crane** | ![](3xKick.png "3xKick.png") |
+|                           |                                              |
+|---------------------------|----------------------------------------------|
+| **Change Style to Crane** | ![](/images/3xKick.png "/images/3xKick.png") |
 
-|              |                                                       |
-|--------------|-------------------------------------------------------|
-| **Shakudan** | (In Air) ![](HK.png "HK.png") \> ![](HK.png "HK.png") |
+|              |                                                                                       |
+|--------------|---------------------------------------------------------------------------------------|
+| **Shakudan** | (In Air) ![](/images/HK.png "/images/HK.png") \> ![](/images/HK.png "/images/HK.png") |
 
 #### Choppes (Crane Style)
 
-|             |                                                                                        |
-|-------------|----------------------------------------------------------------------------------------|
-| **Shuraku** | ![](F.png "F.png") ou ![](N.png "N.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|             |                                                                                                                                                        |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Shuraku** | ![](/images/F.png "/images/F.png") ou ![](/images/N.png "/images/N.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
-|           |                                                                  |
-|-----------|------------------------------------------------------------------|
-| **Hozen** | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|           |                                                                                                                  |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+| **Hozen** | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Coups spéciaux (Crane Style)
 
-|            |                                                                           |
-|------------|---------------------------------------------------------------------------|
-| **Jyasen** | ![](b.png "b.png") "Charge" ![](f.png "f.png") ![](Punch.png "Punch.png") |
+|            |                                                                                                                           |
+|------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Jyasen** | ![](/images/b.png "/images/b.png") "Charge" ![](/images/f.png "/images/f.png") ![](/images/Punch.png "/images/Punch.png") |
 
-|         |                                                                         |
-|---------|-------------------------------------------------------------------------|
-| **Oga** | ![](d.png "d.png") "Charge" ![](u.png "u.png") ![](Kick.png "Kick.png") |
+|         |                                                                                                                         |
+|---------|-------------------------------------------------------------------------------------------------------------------------|
+| **Oga** | ![](/images/d.png "/images/d.png") "Charge" ![](/images/u.png "/images/u.png") ![](/images/Kick.png "/images/Kick.png") |
 
-|                 |                                                   |
-|-----------------|---------------------------------------------------|
-| **Sudden Stop** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|                 |                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------|
+| **Sudden Stop** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
-|                |                                                   |
-|----------------|---------------------------------------------------|
-| **Close Kick** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|                |                                                                                   |
+|----------------|-----------------------------------------------------------------------------------|
+| **Close Kick** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
-|              |                                                   |
-|--------------|---------------------------------------------------|
-| **Far Kick** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|              |                                                                                   |
+|--------------|-----------------------------------------------------------------------------------|
+| **Far Kick** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
-|                  |                                                   |
-|------------------|---------------------------------------------------|
-| **Ceiling Jump** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|                  |                                                                                   |
+|------------------|-----------------------------------------------------------------------------------|
+| **Ceiling Jump** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
-|                  |                                                   |
-|------------------|---------------------------------------------------|
-| **Falling Kick** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|                  |                                                                                   |
+|------------------|-----------------------------------------------------------------------------------|
+| **Falling Kick** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
-|                            |                                                   |
-|----------------------------|---------------------------------------------------|
-| **Close Range Kick Right** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|                            |                                                                                   |
+|----------------------------|-----------------------------------------------------------------------------------|
+| **Close Range Kick Right** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
-|                           |                                                   |
-|---------------------------|---------------------------------------------------|
-| **Close Range Kick Left** | ![](qcb.png "qcb.png") , ![](Kick.png "Kick.png") |
+|                           |                                                                                   |
+|---------------------------|-----------------------------------------------------------------------------------|
+| **Close Range Kick Left** | ![](/images/qcb.png "/images/qcb.png") , ![](/images/Kick.png "/images/Kick.png") |
 
 #### Super Combos (Crane Style)
 
-|             |                                                                          |
-|-------------|--------------------------------------------------------------------------|
-| **Jyakoha** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|             |                                                                                                                          |
+|-------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Jyakoha** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 **Note**:Peut être fait en l'air et toucher les adversaires en en l'air.
 
 #### Ultra Combos (Crane Style)
 
-|             |                                                                                |
-|-------------|--------------------------------------------------------------------------------|
-| **Ryukoha** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") , |
+|             |                                                                                                                                |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Ryukoha** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") , |
 
-|           |                                                                                           |
-|-----------|-------------------------------------------------------------------------------------------|
-| **Teiga** | (en l'air) ![](qcf.png "qcf.png") , ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") |
+|           |                                                                                                                                           |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Teiga** | (en l'air) ![](/images/qcf.png "/images/qcf.png") , ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 3 Combos
 

@@ -1,4 +1,6 @@
-![](Ffspkim.PNG)  
+# Kim Kaphwan (Fatal Fury Special)
+
+![](/images/Ffspkim.PNG)  
 
 ## Introduction
 

@@ -1,8 +1,11 @@
+# Hakumen (BBCS)
+
 <figure>
-<img src="Bbcs_hakumen_artwork_01.png"
-title="Bbcs_hakumen_artwork_01.png" width="150"
-alt="Bbcs_hakumen_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_hakumen_artwork_01.png</figcaption>
+<img src="/images/Bbcs_hakumen_artwork_01.png"
+title="/images/Bbcs_hakumen_artwork_01.png" width="150"
+alt="/images/Bbcs_hakumen_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_hakumen_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -10,9 +13,11 @@ alt="Bbcs_hakumen_artwork_01.png" />
 ## Couleurs
 
 <figure>
-<img src="Bbcs_hakumen_costumes.png" title="Bbcs_hakumen_costumes.png"
-width="600" alt="Bbcs_hakumen_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_hakumen_costumes.png</figcaption>
+<img src="/images/Bbcs_hakumen_costumes.png"
+title="/images/Bbcs_hakumen_costumes.png" width="600"
+alt="/images/Bbcs_hakumen_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_hakumen_costumes.png</figcaption>
 </figure>
 
 ## Spéciaux

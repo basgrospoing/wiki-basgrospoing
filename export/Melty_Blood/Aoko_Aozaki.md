@@ -1,3 +1,5 @@
+# Melty Blood/Aoko Aozaki
+
 ![ **Name:**   Aozaki Aoko (蒼崎青子)  —  **Nicknames:**   Miss Blue,
 Magic Gunner, Witch of Destruction \<br\\\>\<br\\\> **Voiced
 by:**   Kotono Mitsuishi  —  **Type:**   Human,
@@ -5,7 +7,7 @@ Magus  —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   July
 7  —  **Sizes:**   88 / 56 /
 84  —  **Height:**   160cm  —  **Weight:**   50kg \<br\\\>\<br\\\> **Eye
 Color:**   Blue  —  **Hair Color:**   Brown (Originally) / Red (Dyed)
-\|frame\|right](Aoko0.png " Name:   Aozaki Aoko (蒼崎青子)  —  Nicknames:   Miss Blue, Magic Gunner, Witch of Destruction <br\><br\> Voiced by:   Kotono Mitsuishi  —  Type:   Human, Magus  —  Gender:   Female <br\><br\> Birthday:   July 7  —  Sizes:   88 / 56 / 84  —  Height:   160cm  —  Weight:   50kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Brown (Originally) / Red (Dyed) |frame|right")
+\|frame\|right](/images/Aoko0.png " Name:   Aozaki Aoko (蒼崎青子)  —  Nicknames:   Miss Blue, Magic Gunner, Witch of Destruction <br\><br\> Voiced by:   Kotono Mitsuishi  —  Type:   Human, Magus  —  Gender:   Female <br\><br\> Birthday:   July 7  —  Sizes:   88 / 56 / 84  —  Height:   160cm  —  Weight:   50kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Brown (Originally) / Red (Dyed) |frame|right")
 
 # Introduction
 
@@ -63,7 +65,7 @@ de polyvalence, manque d'allonge et de priorité en jeu neutral
 
 # Palettes
 
-![](Aoko-colors.png "Aoko-colors.png")
+![](/images/Aoko-colors.png "/images/Aoko-colors.png")
 
 # Liste de joueurs
 

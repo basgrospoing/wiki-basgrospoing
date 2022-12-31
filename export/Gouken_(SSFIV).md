@@ -1,9 +1,11 @@
+# Gouken (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 *You must defeat me to stand a chance !*
 
-![](ssf4-gouken.jpg "ssf4-gouken.jpg")
+![](/images/ssf4-gouken.jpg "/images/ssf4-gouken.jpg")
 
 # Vue d'ensemble
 
@@ -91,50 +93,50 @@ du suicide qu'autre chose.
 <td>
 
 <figure>
-<img src="Gouken_costume_colors_main.jpg"
-title="Gouken_costume_colors_main.jpg" width="150"
-alt="Gouken_costume_colors_main.jpg" />
+<img src="/images/Gouken_costume_colors_main.jpg"
+title="/images/Gouken_costume_colors_main.jpg" width="150"
+alt="/images/Gouken_costume_colors_main.jpg" />
 <figcaption
-aria-hidden="true">Gouken_costume_colors_main.jpg</figcaption>
+aria-hidden="true">/images/Gouken_costume_colors_main.jpg</figcaption>
 </figure>
 
 </td>
 <td>
 
 <figure>
-<img src="Gouken_costume_colors_alternative1.jpg"
-title="Gouken_costume_colors_alternative1.jpg" width="150"
-alt="Gouken_costume_colors_alternative1.jpg" />
+<img src="/images/Gouken_costume_colors_alternative1.jpg"
+title="/images/Gouken_costume_colors_alternative1.jpg" width="150"
+alt="/images/Gouken_costume_colors_alternative1.jpg" />
 <figcaption
-aria-hidden="true">Gouken_costume_colors_alternative1.jpg</figcaption>
+aria-hidden="true">/images/Gouken_costume_colors_alternative1.jpg</figcaption>
 </figure>
 
 </td>
 <td>
 
 <figure>
-<img src="Gouken_costume_colors_alternative2.jpg"
-title="Gouken_costume_colors_alternative2.jpg" width="150"
-alt="Gouken_costume_colors_alternative2.jpg" />
+<img src="/images/Gouken_costume_colors_alternative2.jpg"
+title="/images/Gouken_costume_colors_alternative2.jpg" width="150"
+alt="/images/Gouken_costume_colors_alternative2.jpg" />
 <figcaption
-aria-hidden="true">Gouken_costume_colors_alternative2.jpg</figcaption>
+aria-hidden="true">/images/Gouken_costume_colors_alternative2.jpg</figcaption>
 </figure>
 
 </td>
 <td>
 
-<img src="Gouken_alt_3-1.jpg" title="Gouken_alt_3-1.jpg" width="228"
-alt="Gouken_alt_3-1.jpg" />  
-<img src="Gouken_alt_3-2.jpg" title="Gouken_alt_3-2.jpg" width="228"
-alt="Gouken_alt_3-2.jpg" />  
-<img src="Gouken_alt_3-3.jpg" title="Gouken_alt_3-3.jpg" width="228"
-alt="Gouken_alt_3-3.jpg" />  
-<img src="Gouken_alt_3-4.jpg" title="Gouken_alt_3-4.jpg" width="228"
-alt="Gouken_alt_3-4.jpg" />  
-<img src="Gouken_alt_3-5.jpg" title="Gouken_alt_3-5.jpg" width="228"
-alt="Gouken_alt_3-5.jpg" />  
-<img src="Gouken_alt_3-6.jpg" title="Gouken_alt_3-6.jpg" width="228"
-alt="Gouken_alt_3-6.jpg" />
+<img src="/images/Gouken_alt_3-1.jpg" title="/images/Gouken_alt_3-1.jpg"
+width="228" alt="/images/Gouken_alt_3-1.jpg" />  
+<img src="/images/Gouken_alt_3-2.jpg" title="/images/Gouken_alt_3-2.jpg"
+width="228" alt="/images/Gouken_alt_3-2.jpg" />  
+<img src="/images/Gouken_alt_3-3.jpg" title="/images/Gouken_alt_3-3.jpg"
+width="228" alt="/images/Gouken_alt_3-3.jpg" />  
+<img src="/images/Gouken_alt_3-4.jpg" title="/images/Gouken_alt_3-4.jpg"
+width="228" alt="/images/Gouken_alt_3-4.jpg" />  
+<img src="/images/Gouken_alt_3-5.jpg" title="/images/Gouken_alt_3-5.jpg"
+width="228" alt="/images/Gouken_alt_3-5.jpg" />  
+<img src="/images/Gouken_alt_3-6.jpg" title="/images/Gouken_alt_3-6.jpg"
+width="228" alt="/images/Gouken_alt_3-6.jpg" />
 
 </td>
 </tr>
@@ -148,7 +150,7 @@ hitbox](Super_Street_Fighter_IV#Explications_sur_les_hitbox_data "wikilink")*
 
 ### Accroupi
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -163,12 +165,12 @@ du LK derrière.
 </td>
 <td width=203>
 
-![](ssf4-gouken-data-crlp.jpg "ssf4-gouken-data-crlp.jpg")
+![](/images/ssf4-gouken-data-crlp.jpg "/images/ssf4-gouken-data-crlp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -183,12 +185,12 @@ pour le Tatsumaki (à vérifier néanmoins pour la version HK)
 </td>
 <td width=231>
 
-![](ssf4-gouken-data-crmp.jpg "ssf4-gouken-data-crmp.jpg")
+![](/images/ssf4-gouken-data-crmp.jpg "/images/ssf4-gouken-data-crmp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -204,12 +206,12 @@ Peut être cancellé par la Super
 </td>
 <td width=446>
 
-![](ssf4-gouken-data-crhp.jpg "ssf4-gouken-data-crhp.jpg")
+![](/images/ssf4-gouken-data-crhp.jpg "/images/ssf4-gouken-data-crhp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -224,12 +226,12 @@ placer cr.LK xx LK Tatsu, mais le Tatsu a des chances de whiffer
 </td>
 <td width=259>
 
-![](ssf4-gouken-data-crlk.jpg "ssf4-gouken-data-crlk.jpg")
+![](/images/ssf4-gouken-data-crlk.jpg "/images/ssf4-gouken-data-crlk.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -243,12 +245,12 @@ adversaire au sol
 </td>
 <td width=225>
 
-![](ssf4-gouken-data-crmk.jpg "ssf4-gouken-data-crmk.jpg")
+![](/images/ssf4-gouken-data-crmk.jpg "/images/ssf4-gouken-data-crmk.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -261,7 +263,7 @@ l'adversaire. Très utile lors de frame traps et de jeux à la relevée.
 </td>
 <td width=225>
 
-![](ssf4-gouken-data-crhk.jpg "ssf4-gouken-data-crhk.jpg")
+![](/images/ssf4-gouken-data-crhk.jpg "/images/ssf4-gouken-data-crhk.jpg")
 
 </td>
 </tr>
@@ -269,7 +271,7 @@ l'adversaire. Très utile lors de frame traps et de jeux à la relevée.
 
 ### Debout (proche)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -283,12 +285,12 @@ utilisé car ne permet pas de combo intéressant dans sa version actuelle
 </td>
 <td width=205>
 
-![](ssf4-gouken-data-clmp.jpg "ssf4-gouken-data-clmp.jpg")
+![](/images/ssf4-gouken-data-clmp.jpg "/images/ssf4-gouken-data-clmp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -302,12 +304,12 @@ son startup plus rapide.
 </td>
 <td width=231>
 
-![](ssf4-gouken-data-clhp.jpg "ssf4-gouken-data-clhp.jpg")
+![](/images/ssf4-gouken-data-clhp.jpg "/images/ssf4-gouken-data-clhp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -322,7 +324,7 @@ cr.HP touchant plutôt vers l'avant)
 </td>
 <td width=481>
 
-![](ssf4-gouken-data-clhk.jpg "ssf4-gouken-data-clhk.jpg")
+![](/images/ssf4-gouken-data-clhk.jpg "/images/ssf4-gouken-data-clhk.jpg")
 
 </td>
 </tr>
@@ -330,7 +332,7 @@ cr.HP touchant plutôt vers l'avant)
 
 ### Debout (loin)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -344,12 +346,12 @@ le cancel par un coup spécial, rendant son usage assez limité.
 </td>
 <td width=207>
 
-![](ssf4-gouken-data-shp.jpg "ssf4-gouken-data-shp.jpg")
+![](/images/ssf4-gouken-data-shp.jpg "/images/ssf4-gouken-data-shp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -363,12 +365,12 @@ quoique ce soit.
 </td>
 <td width=225>
 
-![](ssf4-gouken-data-smk.jpg "ssf4-gouken-data-smk.jpg")
+![](/images/ssf4-gouken-data-smk.jpg "/images/ssf4-gouken-data-smk.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -384,7 +386,7 @@ dessus. Enfin, il est kara-cancelable !
 </td>
 <td width=218>
 
-![](ssf4-gouken-data-shk.jpg "ssf4-gouken-data-shk.jpg")
+![](/images/ssf4-gouken-data-shk.jpg "/images/ssf4-gouken-data-shk.jpg")
 
 </td>
 </tr>
@@ -392,7 +394,7 @@ dessus. Enfin, il est kara-cancelable !
 
 ### En l'air (adversaire dans les airs)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -404,12 +406,12 @@ anticipé, grâce à sa portée et à sa priorité.
 </td>
 <td width=480>
 
-![](ssf4-gouken-data-njhp.jpg "ssf4-gouken-data-njhp.jpg")
+![](/images/ssf4-gouken-data-njhp.jpg "/images/ssf4-gouken-data-njhp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -423,12 +425,12 @@ xx Demon Flip, la super ou l'ultra)
 </td>
 <td width=337>
 
-![](ssf4-gouken-data-jmp.jpg "ssf4-gouken-data-jmp.jpg")
+![](/images/ssf4-gouken-data-jmp.jpg "/images/ssf4-gouken-data-jmp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -440,7 +442,7 @@ adverses, à condition d'avoir le bon timing.
 </td>
 <td width=394>
 
-![](ssf4-gouken-data-jhk.jpg "ssf4-gouken-data-jhk.jpg")
+![](/images/ssf4-gouken-data-jhk.jpg "/images/ssf4-gouken-data-jhk.jpg")
 
 </td>
 </tr>
@@ -448,7 +450,7 @@ adverses, à condition d'avoir le bon timing.
 
 ### En l'air (adversaire au sol)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -461,12 +463,12 @@ avantageuse en air-sol.
 </td>
 <td width=186>
 
-![](ssf4-gouken-data-jhp.jpg "ssf4-gouken-data-jhp.jpg")
+![](/images/ssf4-gouken-data-jhp.jpg "/images/ssf4-gouken-data-jhp.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -477,12 +479,12 @@ Le coup à employer en cross-up.
 </td>
 <td width=207>
 
-![](ssf4-gouken-data-jmk.jpg "ssf4-gouken-data-jmk.jpg")
+![](/images/ssf4-gouken-data-jmk.jpg "/images/ssf4-gouken-data-jmk.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -495,7 +497,7 @@ de combo.
 </td>
 <td width=120>
 
-![](ssf4-gouken-data-jlk.jpg "ssf4-gouken-data-jlk.jpg")
+![](/images/ssf4-gouken-data-jlk.jpg "/images/ssf4-gouken-data-jlk.jpg")
 
 </td>
 </tr>
@@ -503,7 +505,7 @@ de combo.
 
 ### Coups uniques
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -518,12 +520,12 @@ startup qui limite son effet de surprise.
 </td>
 <td width=242>
 
-![](ssf4-gouken-data-overhead.jpg "ssf4-gouken-data-overhead.jpg")
+![](/images/ssf4-gouken-data-overhead.jpg "/images/ssf4-gouken-data-overhead.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -540,7 +542,7 @@ rendant son usage en tant que starter de combo vraiment limité.
 </td>
 <td width=187>
 
-![](ssf4-gouken-data-divekick.jpg "ssf4-gouken-data-divekick.jpg")
+![](/images/ssf4-gouken-data-divekick.jpg "/images/ssf4-gouken-data-divekick.jpg")
 
 </td>
 </tr>
@@ -548,7 +550,7 @@ rendant son usage en tant que starter de combo vraiment limité.
 
 ### Projections
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -569,7 +571,7 @@ d'enchaîner avec toutes sortes de vilaines choses.
 </td>
 <td width=194>
 
-![](ssf4-gouken-data-throw.jpg "ssf4-gouken-data-throw.jpg")
+![](/images/ssf4-gouken-data-throw.jpg "/images/ssf4-gouken-data-throw.jpg")
 
 </td>
 </tr>
@@ -597,7 +599,7 @@ Le projectile de Gouken sort assez vite et a un bon recovery, faisant de
 à peu près à un Hado MP d'un shoto. Si la boule touche un adversaire en
 l'air, celui-ci est mis dans un état de juggle.
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -629,7 +631,7 @@ Senkugoshoha EX).
 </td>
 <td width=376>
 
-![](ssf4-gouken-data-hadoex.jpg "ssf4-gouken-data-hadoex.jpg")
+![](/images/ssf4-gouken-data-hadoex.jpg "/images/ssf4-gouken-data-hadoex.jpg")
 
 </td>
 </tr>
@@ -652,7 +654,7 @@ lui permettant de surprendre l'adversaire pendant une fireball war (à
 rapide). Cette invincibilité se limite au milieu du dash, et ne marche
 donc ni pendant le startup, ni quand le coup touche.
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -668,12 +670,12 @@ avec la version HP du super).
 </td>
 <td width=236>
 
-![](ssf4-gouken-data-senku.jpg "ssf4-gouken-data-senku.jpg")
+![](/images/ssf4-gouken-data-senku.jpg "/images/ssf4-gouken-data-senku.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -688,7 +690,7 @@ modification.
 </td>
 <td width=429>
 
-![](ssf4-gouken-data-senkuex.jpg "ssf4-gouken-data-senkuex.jpg")
+![](/images/ssf4-gouken-data-senkuex.jpg "/images/ssf4-gouken-data-senkuex.jpg")
 
 </td>
 </tr>
@@ -713,7 +715,7 @@ punition qui s'en suit. A noter aussi que le premier hit (quelque soit
 la version du pied) met l'adversaire en état de juggle, lui permettant
 d'enchainer lors de sa chute, quand ça trade ou après un FADC.
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -726,12 +728,12 @@ donne théoriquement ses chances contre un jump in classique.
 </td>
 <td width=370>
 
-![](ssf4-gouken-data-tatsu.jpg "ssf4-gouken-data-tatsu.jpg")
+![](/images/ssf4-gouken-data-tatsu.jpg "/images/ssf4-gouken-data-tatsu.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -742,12 +744,12 @@ coup un bon reversal s'il touchait tous les personnages accroupis.
 </td>
 <td width=481>
 
-![](ssf4-gouken-data-tatsuex.jpg "ssf4-gouken-data-tatsuex.jpg")
+![](/images/ssf4-gouken-data-tatsuex.jpg "/images/ssf4-gouken-data-tatsuex.jpg")
 
 </td>
 </tr>
 </table>
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -765,7 +767,7 @@ mal dans la garde.
 </td>
 <td width=404>
 
-![](ssf4-gouken-data-airtatsu.jpg "ssf4-gouken-data-airtatsu.jpg")
+![](/images/ssf4-gouken-data-airtatsu.jpg "/images/ssf4-gouken-data-airtatsu.jpg")
 
 </td>
 </tr>
@@ -810,7 +812,7 @@ jusqu'au follow up.
 
 #### Hyakki Gozan (follow up neutre)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -823,7 +825,7 @@ recovery si bloqué.
 </td>
 <td width=450>
 
-![](ssf4-gouken-data-dfsweep.jpg "ssf4-gouken-data-dfsweep.jpg")
+![](/images/ssf4-gouken-data-dfsweep.jpg "/images/ssf4-gouken-data-dfsweep.jpg")
 
 </td>
 </tr>
@@ -831,7 +833,7 @@ recovery si bloqué.
 
 #### Hyakki Goheki (follow up avec poing)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -845,7 +847,7 @@ quand l'adversaire se relève, car ses reversals deviennent armor break.
 </td>
 <td width=158>
 
-![](ssf4-gouken-data-dffocus.jpg "ssf4-gouken-data-dffocus.jpg")
+![](/images/ssf4-gouken-data-dffocus.jpg "/images/ssf4-gouken-data-dffocus.jpg")
 
 </td>
 </tr>
@@ -853,7 +855,7 @@ quand l'adversaire se relève, car ses reversals deviennent armor break.
 
 #### Hyakki Gojin (follow up avec pied)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -865,7 +867,7 @@ propriété overhead, peut donc être bloqué accroupi.
 </td>
 <td width=187>
 
-![](ssf4-gouken-data-dfdivekick.jpg "ssf4-gouken-data-dfdivekick.jpg")
+![](/images/ssf4-gouken-data-dfdivekick.jpg "/images/ssf4-gouken-data-dfdivekick.jpg")
 
 </td>
 </tr>
@@ -873,7 +875,7 @@ propriété overhead, peut donc être bloqué accroupi.
 
 #### Hyakki Gosai (follow up Choppe)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -885,7 +887,7 @@ alternative quand l'adversaire attend un Divekick dans sa garde.
 </td>
 <td width=197>
 
-![](ssf4-gouken-data-dfthrow.jpg "ssf4-gouken-data-dfthrow.jpg")
+![](/images/ssf4-gouken-data-dfthrow.jpg "/images/ssf4-gouken-data-dfthrow.jpg")
 
 </td>
 </tr>
@@ -895,7 +897,7 @@ alternative quand l'adversaire attend un Divekick dans sa garde.
 
 → QCF x2 + poing, **Armor break**
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -912,7 +914,7 @@ touchant le plus loin.
 </td>
 <td width=444>
 
-![](ssf4-gouken-data-super.jpg "ssf4-gouken-data-super.jpg")
+![](/images/ssf4-gouken-data-super.jpg "/images/ssf4-gouken-data-super.jpg")
 
 </td>
 </tr>
@@ -922,7 +924,7 @@ touchant le plus loin.
 
 → QCF x2 + 3\*poing, **Armor Break**
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -938,7 +940,7 @@ Néanmoins, sa courbe de déplacement en fait un anti-air peu fiable
 </td>
 <td width=481>
 
-![](ssf4-gouken-data-ultra1.jpg "ssf4-gouken-data-ultra1.jpg")
+![](/images/ssf4-gouken-data-ultra1.jpg "/images/ssf4-gouken-data-ultra1.jpg")
 
 </td>
 </tr>
@@ -949,7 +951,7 @@ Néanmoins, sa courbe de déplacement en fait un anti-air peu fiable
 → QCF x2 + 3\*pied (possibilité de charger en maintenant 3\*pied pour
 passer de 4 à 8 hits)
 
-<table border="0" width="100%">
+<table border="0" >
 <tr>
 <td>
 
@@ -971,7 +973,7 @@ tant que ça touche) pour effectivement l'étourdir.
 </td>
 <td width=352>
 
-![](ssf4-gouken-data-ultra2.jpg "ssf4-gouken-data-ultra2.jpg")
+![](/images/ssf4-gouken-data-ultra2.jpg "/images/ssf4-gouken-data-ultra2.jpg")
 
 </td>
 </tr>

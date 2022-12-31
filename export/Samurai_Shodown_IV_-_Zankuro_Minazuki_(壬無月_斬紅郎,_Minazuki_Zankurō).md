@@ -1,4 +1,6 @@
-![](ss4-Zankuro.gif "ss4-Zankuro.gif")
+# Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)
+
+![](/images/ss4-Zankuro.gif "/images/ss4-Zankuro.gif")
 
 ## Introduction
 

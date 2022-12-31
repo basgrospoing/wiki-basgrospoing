@@ -1,3 +1,5 @@
+# Terry Bogard (Real Bout Fatal Fury version) (98um)
+
 ## Introduction
 
 ## Liste des coups

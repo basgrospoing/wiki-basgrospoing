@@ -1,3 +1,5 @@
+# Viewtiful Joe (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Viewtiful Joe
 
-![](Umvc3_vjoe_face.jpg‎ "Umvc3_vjoe_face.jpg‎") TBW
+![](/images/Umvc3_vjoe_face.jpg‎ "/images/Umvc3_vjoe_face.jpg‎") TBW
 
 **In a nutshell** TBW
 

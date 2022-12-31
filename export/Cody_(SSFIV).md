@@ -1,3 +1,5 @@
+# Cody (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -19,41 +21,41 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 ### Coups Uniques
 
-|                   |                                                     |
-|-------------------|-----------------------------------------------------|
-| **Pick Up Knife** | ![](D.png "D.png") + ![](3xPunch.png "3xPunch.png") |
+|                   |                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------|
+| **Pick Up Knife** | ![](/images/D.png "/images/D.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Explications détaillés du coup: Executé quand vous êtes au dessus de
 votre couteau.
 
-|                  |                            |
-|------------------|----------------------------|
-| **Knife Attack** | ![](Punch.png "Punch.png") |
+|                  |                                            |
+|------------------|--------------------------------------------|
+| **Knife Attack** | ![](/images/Punch.png "/images/Punch.png") |
 
 Explication détaillé du coup:
 
-|                  |                                           |
-|------------------|-------------------------------------------|
-| **Stomach Blow** | ![](F.png "F.png") + ![](MP.png "MP.png") |
+|                  |                                                                           |
+|------------------|---------------------------------------------------------------------------|
+| **Stomach Blow** | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
 
 Explication détaillé du coup:Cody avance en donnant un coup de poing
 rapide.
 
-|                |                                           |
-|----------------|-------------------------------------------|
-| **Crack Kick** | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|                |                                                                           |
+|----------------|---------------------------------------------------------------------------|
+| **Crack Kick** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 Explication détaillé du coup:
 
-|                 |                                           |
-|-----------------|-------------------------------------------|
-| **Jaw Crusher** | ![](B.png "B.png") + ![](MP.png "MP.png") |
+|                 |                                                                           |
+|-----------------|---------------------------------------------------------------------------|
+| **Jaw Crusher** | ![](/images/B.png "/images/B.png") + ![](/images/MP.png "/images/MP.png") |
 
 Explication détaillé du coup:
 
-|                 |                                           |
-|-----------------|-------------------------------------------|
-| **Hammer Hook** | ![](F.png "F.png") + ![](HP.png "HP.png") |
+|                 |                                                                           |
+|-----------------|---------------------------------------------------------------------------|
+| **Hammer Hook** | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
 
 Explication détaillé du coup:OverHead de Cody.
 
@@ -65,73 +67,73 @@ Explication détaillé du coup:OverHead de Cody.
 
 #### Bad Stone
 
-|               |                                                     |                      |
-|---------------|-----------------------------------------------------|----------------------|
-| **Bad Stone** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|               |                                                                                     |                                      |
+|---------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Bad Stone** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Criminal Upper
 
-|                    |                                                     |                      |
-|--------------------|-----------------------------------------------------|----------------------|
-| **Criminal Upper** | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                    |                                                                                     |                                      |
+|--------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Criminal Upper** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Ruffian Kick
 
-|                  |                                                   |                      |
-|------------------|---------------------------------------------------|----------------------|
-| **Ruffian Kick** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                  |                                                                                   |                                      |
+|------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Ruffian Kick** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Zonk Knuckle
 
-|                  |                                               |                      |
-|------------------|-----------------------------------------------|----------------------|
-| **Zonk Knuckle** | ![](Punch.png "Punch.png") Charger & Relacher | ![](Ex.png "Ex.png") |
+|                  |                                                               |                                      |
+|------------------|---------------------------------------------------------------|--------------------------------------|
+| **Zonk Knuckle** | ![](/images/Punch.png "/images/Punch.png") Charger & Relacher | ![](/images/Ex.png "/images/Ex.png") |
 
 **Armor Break**
 
 #### Knife Throw (avec le couteau dans les mains récupéré avec Pick UP Knife)
 
-|                 |                                                     |
-|-----------------|-----------------------------------------------------|
-| **Knife Throw** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                 |                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------|
+| **Knife Throw** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Bad Spray
 
-|               |                                                 |
-|---------------|-------------------------------------------------|
-| **Bad Spray** | ![](u.png "u.png") + ![](Punch.png "Punch.png") |
+|               |                                                                                 |
+|---------------|---------------------------------------------------------------------------------|
+| **Bad Spray** | ![](/images/u.png "/images/u.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 **Uniquement** fait quand vous touchez le sol durant un knockdown.
 
 #### Fake Bad Stone
 
-|                    |                                                                  |
-|--------------------|------------------------------------------------------------------|
-| **Fake Bad Stone** | ![](d.png "d.png") + ![](HP.png "HP.png") + ![](HK.png "HK.png") |
+|                    |                                                                                                                  |
+|--------------------|------------------------------------------------------------------------------------------------------------------|
+| **Fake Bad Stone** | ![](/images/d.png "/images/d.png") + ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Supers
 
 #### Dead End Irony
 
-|                    |                                                                          |
-|--------------------|--------------------------------------------------------------------------|
-| **Dead End Irony** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|                    |                                                                                                                          |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Dead End Irony** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Ultras
 
 #### Final Destruction(Ultra 1)
 
-|                       |                                                                                |
-|-----------------------|--------------------------------------------------------------------------------|
-| **Final Destruction** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                       |                                                                                                                                |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Final Destruction** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Les doigts arthrosés de Cody (Creak Crack) infusés de la magie de Storm.
 
 #### Last Dread Dust (Ultra 2)
 
-|                     |                                                                                |
-|---------------------|--------------------------------------------------------------------------------|
-| **Last Dread Dust** | ![](qcb.png "qcb.png") ![](qcb.png "qcb.png") + ![](3xPunch.png "3xPunch.png") |
+|                     |                                                                                                                                |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Last Dread Dust** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Description du coup:
 
@@ -157,7 +159,8 @@ Jump HK \> cr.LP \>cr.LP \> cr.LK \> Criminal Upper
 
 Zonk Knuckle \> FADC \> Final Destruction (Ultra 1)
 
-![](Ex.png "Ex.png") Zonk Knuckle \> FADC \> F+HK \> Criminal Upper
+![](/images/Ex.png "/images/Ex.png") Zonk Knuckle \> FADC \> F+HK \>
+Criminal Upper
 
 ## 6 Technologies diverses
 

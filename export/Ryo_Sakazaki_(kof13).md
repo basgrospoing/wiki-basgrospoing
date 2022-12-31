@@ -1,4 +1,6 @@
-![Ryo Sakazaki](Ryokof13.gif "Ryo Sakazaki")
+# Ryo Sakazaki (kof13)
+
+![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
@@ -33,10 +35,12 @@ jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Tomoe Nage</p></td>
-<td style="text-align: left;"><p><img src="b.png" title="b.png"
-alt="b.png" /> ou <img src="F.png" title="F.png" alt="F.png" /> + <img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /> ou <img src="Snkd.gif"
-title="Snkd.gif" alt="Snkd.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/b.png"
+title="/images/b.png" alt="/images/b.png" /> ou <img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snkc.gif" title="/images/Snkc.gif"
+alt="/images/Snkc.gif" /> ou <img src="/images/Snkd.gif"
+title="/images/Snkd.gif" alt="/images/Snkd.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -60,9 +64,10 @@ title="Snkd.gif" alt="Snkd.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Hyouchuu Wari</p></td>
-<td style="text-align: left;"><p><img src="F.png" title="F.png"
-alt="F.png" /> + <img src="Snka.gif" title="Snka.gif"
-alt="Snka.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snka.gif" title="/images/Snka.gif"
+alt="/images/Snka.gif" /></p></td>
 <td style="text-align: left;"><p>Overhead</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -70,9 +75,10 @@ alt="Snka.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Joudan Uke</p></td>
-<td style="text-align: left;"><p><img src="F.png" title="F.png"
-alt="F.png" /> + <img src="Snkb.gif" title="Snkb.gif"
-alt="Snkb.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/Snkb.gif" title="/images/Snkb.gif"
+alt="/images/Snkb.gif" /></p></td>
 <td style="text-align: left;"><p>Parade haute</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>non</p></td>
@@ -80,9 +86,10 @@ alt="Snkb.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Gedan Uke</p></td>
-<td style="text-align: left;"><p><img src="df.png" title="df.png"
-alt="df.png" /> + <img src="Snkb.gif" title="Snkb.gif"
-alt="Snkb.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/df.png"
+title="/images/df.png" alt="/images/df.png" /> + <img
+src="/images/Snkb.gif" title="/images/Snkb.gif"
+alt="/images/Snkb.gif" /></p></td>
 <td style="text-align: left;"><p>Parade basse</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>non</p></td>
@@ -106,11 +113,13 @@ alt="Snkb.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Ko Ou Ken</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p><br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>55 / 70<br />
@@ -118,11 +127,13 @@ alt="punch.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Kohou</p></td>
-<td style="text-align: left;"><p><img src="dp.png" title="dp.png"
-alt="dp.png" /> + <img src="punch.gif" title="punch.gif"
-alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/dp.png"
+title="/images/dp.png" alt="/images/dp.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p><br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>65 / 122<br />
@@ -130,11 +141,13 @@ alt="punch.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Hien Shippuu Kyaku</p></td>
-<td style="text-align: left;"><p><img src="hcb.png" title="hcb.png"
-alt="hcb.png" /> + <img src="kick.gif" title="kick.gif"
-alt="kick.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/hcb.png"
+title="/images/hcb.png" alt="/images/hcb.png" /> + <img
+src="/images/kick.gif" title="/images/kick.gif"
+alt="/images/kick.gif" /></p></td>
 <td style="text-align: left;"><p><br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>87 / 141<br />
@@ -142,12 +155,15 @@ alt="kick.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Zanretsuken</p></td>
-<td style="text-align: left;"><p><img src="F.png" title="F.png"
-alt="F.png" /> <img src="b.png" title="b.png" alt="b.png" /><img
-src="F.png" title="F.png" alt="F.png" /> + <img src="punch.gif"
-title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> <img src="/images/b.png"
+title="/images/b.png" alt="/images/b.png" /><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p><br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>120 / 108<br />
@@ -171,11 +187,14 @@ title="punch.gif" alt="punch.gif" /></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>Ryukohranbu</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="hcb.png" title="hcb.png" alt="hcb.png" /> +
-<img src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/hcb.png" title="/images/hcb.png" alt="/images/hcb.png" /> +
+<img src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
 <td style="text-align: left;"><p><br />
-<img src="ex.png" title="ex.png" alt="ex.png" /></p></td>
+<img src="/images/ex.png" title="/images/ex.png"
+alt="/images/ex.png" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>210<br />
@@ -183,12 +202,15 @@ alt="qcf.png" /><img src="hcb.png" title="hcb.png" alt="hcb.png" /> +
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Haohshokoken</p></td>
-<td style="text-align: left;"><p><img src="F.png" title="F.png"
-alt="F.png" /><img src="hcf.png" title="hcf.png" alt="hcf.png" /> + <img
-src="punch.gif" title="punch.gif" alt="punch.gif" /></p></td>
-<td style="text-align: left;"><p>La version<img src="Snka.gif"
-title="Snka.gif" alt="Snka.gif" />va moins vite que la version<img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/F.png"
+title="/images/F.png" alt="/images/F.png" /><img src="/images/hcf.png"
+title="/images/hcf.png" alt="/images/hcf.png" /> + <img
+src="/images/punch.gif" title="/images/punch.gif"
+alt="/images/punch.gif" /></p></td>
+<td style="text-align: left;"><p>La version<img src="/images/Snka.gif"
+title="/images/Snka.gif" alt="/images/Snka.gif" />va moins vite que la
+version<img src="/images/Snkc.gif" title="/images/Snkc.gif"
+alt="/images/Snkc.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>200</p></td>
@@ -203,10 +225,12 @@ src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>Shin Tenchi Haohken</p></td>
-<td style="text-align: left;"><p><img src="qcf.png" title="qcf.png"
-alt="qcf.png" /><img src="qcf.png" title="qcf.png" alt="qcf.png" /> +
-<img src="Snka.gif" title="Snka.gif" alt="Snka.gif" />+<img
-src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /></p></td>
+<td style="text-align: left;"><p><img src="/images/qcf.png"
+title="/images/qcf.png" alt="/images/qcf.png" /><img
+src="/images/qcf.png" title="/images/qcf.png" alt="/images/qcf.png" /> +
+<img src="/images/Snka.gif" title="/images/Snka.gif"
+alt="/images/Snka.gif" />+<img src="/images/Snkc.gif"
+title="/images/Snkc.gif" alt="/images/Snkc.gif" /></p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -217,7 +241,13 @@ src="Snkc.gif" title="Snkc.gif" alt="Snkc.gif" /></p></td>
 
 ## Couleurs disponibles
 
-Fichier:Ryo_1.png \| N° 1 Fichier:Ryo_2.png \| N° 2 Fichier:Ryo_3.png \|
-N° 3 Fichier:Ryo_4.png \| N° 4 Fichier:Ryo_5.png \| N° 5
-Fichier:Ryo_6.png \| N° 6 Fichier:Ryo_7.png \| N° 7 Fichier:Ryo_8.png \|
-N° 8 Fichier:Ryo_9.png \| N° 9 Fichier:Ryo_10.png \| N° 10
+![](/images/Ryo_1.png "/images/Ryo_1.png") \| N° 1
+![](/images/Ryo_2.png "/images/Ryo_2.png") \| N° 2
+![](/images/Ryo_3.png "/images/Ryo_3.png") \| N° 3
+![](/images/Ryo_4.png "/images/Ryo_4.png") \| N° 4
+![](/images/Ryo_5.png "/images/Ryo_5.png") \| N° 5
+![](/images/Ryo_6.png "/images/Ryo_6.png") \| N° 6
+![](/images/Ryo_7.png "/images/Ryo_7.png") \| N° 7
+![](/images/Ryo_8.png "/images/Ryo_8.png") \| N° 8
+![](/images/Ryo_9.png "/images/Ryo_9.png") \| N° 9
+![](/images/Ryo_10.png "/images/Ryo_10.png") \| N° 10

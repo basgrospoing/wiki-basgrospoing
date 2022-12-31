@@ -1,10 +1,12 @@
-[ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
+# Melty Blood/Powerd Ciel
+
+![ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
 Curry" \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間
 紅美)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>
 **Birthday:**   May 3   —  **Sizes:**   85 / 56 /
 88  —  **Height:**   165cm  —  **Weight:**   52kg \<br\\\>\<br\\\> **Eye
 Color:**   Blue  —  **Hair Color:**   Dark Blue
-\|frame\|right](image:pciel.png "wikilink")
+\|frame\|right](/images/pciel.png " Name:   Powerd Ciel (完全武装シエル)  —  Nicknames:    "Powrd Curry" <br\><br\> Voiced by:   Kumi Sakuma (佐久間 紅美)  —  Type:   Human   —  Gender:   Female <br\><br\> Birthday:   May 3   —  Sizes:   85 / 56 / 88  —  Height:   165cm  —  Weight:   52kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Dark Blue |frame|right")
 
 # Introduction
 
@@ -26,7 +28,7 @@ Color:**   Blue  —  **Hair Color:**   Dark Blue
 
 # Palettes
 
-![](PCiel-colors.png "PCiel-colors.png")
+![](/images/PCiel-colors.png "/images/PCiel-colors.png")
 
 # Liste de joueurs
 

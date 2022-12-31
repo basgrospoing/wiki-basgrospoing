@@ -1,4 +1,7 @@
+# Clay
+
 <figure>
-<img src="_clay.png" title="_clay.png" width="250" alt="_clay.png" />
-<figcaption aria-hidden="true">_clay.png</figcaption>
+<img src="/images/_clay.png" title="/images/_clay.png" width="250"
+alt="/images/_clay.png" />
+<figcaption aria-hidden="true">/images/_clay.png</figcaption>
 </figure>

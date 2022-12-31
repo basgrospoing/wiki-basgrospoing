@@ -1,4 +1,6 @@
-![](ss4-Nakoruru.gif "ss4-Nakoruru.gif")
+# Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)
+
+![](/images/ss4-Nakoruru.gif "/images/ss4-Nakoruru.gif")
 
 ## Introduction
 

@@ -1,6 +1,8 @@
+# Elena (3S)
+
 ![Character Select
-Portrait](Elena3sport.gif "Character Select Portrait") ![Neutral
-Stance](Elena3s-stance.gif "Neutral Stance")
+Portrait](/images/Elena3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Elena3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -12,67 +14,73 @@ Stance](Elena3s-stance.gif "Neutral Stance")
 
 ## Couleurs
 
-|                                |                                |                                |                                                              |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")           | ![](MP.png "MP.png")           | ![](HP.png "HP.png")           | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Elenalp.gif "Elenalp.gif") | ![](Elenamp.gif "Elenamp.gif") | ![](Elenahp.gif "Elenahp.gif") | ![](Elenalpmkhp.gif "Elenalpmkhp.gif")                       |
-| ![](LK.png "LK.png")           | ![](MK.png "MK.png")           | ![](HK.png "HK.png")           |                                                              |
-| ![](Elenalk.gif "Elenalk.gif") | ![](Elenamk.gif "Elenamk.gif") | ![](Elenahk.gif "Elenahk.gif") |                                                              |
+|                                                |                                                |                                                |                                                                                                              |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")           | ![](/images/MP.png "/images/MP.png")           | ![](/images/HP.png "/images/HP.png")           | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Elenalp.gif "/images/Elenalp.gif") | ![](/images/Elenamp.gif "/images/Elenamp.gif") | ![](/images/Elenahp.gif "/images/Elenahp.gif") | ![](/images/Elenalpmkhp.gif "/images/Elenalpmkhp.gif")                                                       |
+| ![](/images/LK.png "/images/LK.png")           | ![](/images/MK.png "/images/MK.png")           | ![](/images/HK.png "/images/HK.png")           |                                                                                                              |
+| ![](/images/Elenalk.gif "/images/Elenalk.gif") | ![](/images/Elenamk.gif "/images/Elenamk.gif") | ![](/images/Elenahk.gif "/images/Elenahk.gif") |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|                |                                             |
-|----------------|---------------------------------------------|
-| Leg Lift Throw | ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-|                |                                             |
+|                |                                                                             |
+|----------------|-----------------------------------------------------------------------------|
+| Leg Lift Throw | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+|                |                                                                             |
 
-- Kara-Throw avec ![](F.png "F.png") + ![](MK.png "MK.png")
+- Kara-Throw avec ![](/images/F.png "/images/F.png") +
+  ![](/images/MK.png "/images/MK.png")
 
 ### Normaux
 
-|                           |                                             |
-|---------------------------|---------------------------------------------|
-| Handstand Kick (Overhead) | ![](F.png "F.png") + ![](MP.png "MP.png")   |
-| Handstand Whip (Overhead) | ![](F.png "F.png") + ![](MK.png "MK.png")   |
-| Round Arch                | ![](B.png "B.png") + ![](HK.png "HK.png")   |
-| Sliding (Sweep)           | ![](DF.png "DF.png") + ![](HK.png "HK.png") |
+|                           |                                                                             |
+|---------------------------|-----------------------------------------------------------------------------|
+| Handstand Kick (Overhead) | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png")   |
+| Handstand Whip (Overhead) | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")   |
+| Round Arch                | ![](/images/B.png "/images/B.png") + ![](/images/HK.png "/images/HK.png")   |
+| Sliding (Sweep)           | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Target Combos
 
-- En l'air, ![](LP.png "LP.png") -\> ![](MK.png "MK.png")
+- En l'air, ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- En l'air, ![](MP.png "MP.png") -\> ![](HP.png "HP.png")
+- En l'air, ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](HP.png "HP.png") -\> ![](HK.png "HK.png")
+- ![](/images/HP.png "/images/HP.png") -\>
+  ![](/images/HK.png "/images/HK.png")
 
 <!-- -->
 
-- ![](MK.png "MK.png") -\> ![](D.png "D.png") + ![](HP.png "HP.png")
+- ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/D.png "/images/D.png") +
+  ![](/images/HP.png "/images/HP.png")
 
 ### Coups Spéciaux
 
-|               |                                                                                                      |      |
-|---------------|------------------------------------------------------------------------------------------------------|------|
-| Spin Scythe   | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") (peut Qcb+K une seconde fois pour l'extra attacks) | (EX) |
-| Rhino Horn    | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png")                                                    | (EX) |
-| Scratch Wheel | ![](dp.png "dp.png") + ![](Kick.png "Kick.png")                                                      | (EX) |
-| Mallet Smash  | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png")                                                  | (EX) |
-| Lynx Tail     | ![](rdp.png "rdp.png") + ![](Kick.png "Kick.png")                                                    | (EX) |
+|               |                                                                                                                                      |      |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------|------|
+| Spin Scythe   | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") (peut Qcb+K une seconde fois pour l'extra attacks) | (EX) |
+| Rhino Horn    | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png")                                                    | (EX) |
+| Scratch Wheel | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png")                                                      | (EX) |
+| Mallet Smash  | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png")                                                  | (EX) |
+| Lynx Tail     | ![](/images/rdp.png "/images/rdp.png") + ![](/images/Kick.png "/images/Kick.png")                                                    | (EX) |
 
 ### Super Arts
 
-|       |               |                                                                                      |          |
-|-------|---------------|--------------------------------------------------------------------------------------|----------|
-| I     | Spinning Beat | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")             | 3 stocks |
-| II    | Brave Dance   | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")             | 2 stocks |
-| III   | Healing       | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")           | 1 stock  |
-| III\. | \(1\) Healing | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + maintenir ![](Punch.png "Punch.png") |          |
+|       |               |                                                                                                                                      |          |
+|-------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I     | Spinning Beat | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")             | 3 stocks |
+| II    | Brave Dance   | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")             | 2 stocks |
+| III   | Healing       | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")           | 1 stock  |
+| III\. | \(1\) Healing | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + maintenir ![](/images/Punch.png "/images/Punch.png") |          |
 
 ## Stratégie
 

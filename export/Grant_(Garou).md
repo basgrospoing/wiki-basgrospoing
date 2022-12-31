@@ -1,4 +1,6 @@
-![](vignette.png "vignette.png")
+# Grant (Garou)
+
+![](/images/vignette.png "/images/vignette.png")
 
 ## Introduction
 
@@ -55,7 +57,7 @@ Même si je pense Grant a la choppe avec le moins de range du jeu.
 
 **Close A**
 
-![](Close_A.gif‎ "Close_A.gif‎")
+![](/images/Close_A.gif‎ "/images/Close_A.gif‎")
 
 Seul coup vous permettant de mettre un de vos spéciaux en combos : Le dp
 C (et uniquement le C qui a 5 frames de start up contre 7 pour le A).
@@ -71,7 +73,7 @@ deux juggles soit un gros tier de la barre).
 
 **Stand B**
 
-![](Stand_B.gif‎ "Stand_B.gif‎")
+![](/images/Stand_B.gif‎ "/images/Stand_B.gif‎")
 
 Bon poke, rapide (6 frames mais vu la range ...), avec une range assez
 ouffissime, si vous êtes assez près vous pouvez confirm par un bas A
@@ -84,7 +86,7 @@ utiliser le bas A, qui en plus force l'adversaire a garder bas, même si
 il sort en 4. De plus le bas A a une hitbox très bonne, la portée étant
 proche de celle du far A ou du bas B :
 
-![](Comparaison_Far,Bas_A,Bas_B.gif "Comparaison_Far,Bas_A,Bas_B.gif")
+![](/images/Comparaison_Far,Bas_A,Bas_B.gif "/images/Comparaison_Far,Bas_A,Bas_B.gif")
 
 Mais le principal avantage du Bas A c'est le fait qu'il soit a +5 on hit
 et donc permette de confirmer beaucoup plus facilement vos furies, de
@@ -98,14 +100,14 @@ lui.
 Les deux normaux anti airs, le premier pour les jumps in longue distance
 (voir pour poke), a une très bonne hitbox et des dégâts qui font PAF.
 
-![](Lc9-13.gif‎ "Lc9-13.gif‎")
+![](/images/Lc9-13.gif‎ "/images/Lc9-13.gif‎")
 
 **Close C:**
 
 Le deuxième plus pour les cross ups ou a la relevée après un saut
 vertical, trade souvent.
 
-![](C9-10.gif‎ "C9-10.gif‎")
+![](/images/C9-10.gif‎ "/images/C9-10.gif‎")
 
 **Bas C**
 
@@ -116,7 +118,7 @@ attendrait pas. Seul normal frappant deux hits, si vous êtes
 suffisamment près et du coup il n'a plus trop d'intérêt, peut permettre
 d'empêcher le jd. Le moins bon des normaux de Grant assurément.
 
-![](Bas_C_(2).gif‎ "Bas_C_(2).gif‎")
+![](/images/Bas_C_(2).gif‎ "/images/Bas_C_(2).gif‎")
 
 **Far D:**
 
@@ -125,7 +127,7 @@ dans le coin, il est totalement punissable mais sa hitbox fait qu'il
 trade sur les jumps in et sa portée empêche le plus souvent d'être puni
 si fait a portée maximale.
 
-![](ld14-18.gif‎ "ld14-18.gif‎")
+![](/images/ld14-18.gif‎ "/images/ld14-18.gif‎")
 
 **Bas D:**
 
@@ -133,7 +135,7 @@ Le sweep de grant, le bas D a une excellente range (Je me demande si ce
 n'est pas celle qui a le plus de range du jeu d'ailleurs), sort plutôt
 vite mais est aisément punissable en garde ou par un hop.
 
-![](2d8-11.gif‎ "2d8-11.gif‎")
+![](/images/2d8-11.gif‎ "/images/2d8-11.gif‎")
 
 **Close D:**
 
@@ -144,7 +146,7 @@ de 9 frames, il faut donc que votre adversaire utilise un coup ayant un
 start up inférieur a 4 frames ou a start up invincible, si il tente quoi
 que ce soit d'autre counter \> gros dommages assurés.
 
-![](Close_D.gif‎ "Close_D.gif‎")
+![](/images/Close_D.gif‎ "/images/Close_D.gif‎")
 
 #### Aerial Normals
 
@@ -158,13 +160,13 @@ Bon ce coup fait le café, range ENORMISSIME. Dégâts non négligeables
 up, de faire anti air (jump vertical D ou jump arrière D pour permet de
 battre la quasi intégralité des jumps in du jeu si fait a temps).
 
-![](Jd6-11.gif "Jd6-11.gif")
+![](/images/Jd6-11.gif "/images/Jd6-11.gif")
 
 **Le j.C:**
 
 Très bon air to air, bonne range. A utilisé en combat "frontal".
 
-![](Hop_C.gif‎ "Hop_C.gif‎")
+![](/images/Hop_C.gif‎ "/images/Hop_C.gif‎")
 
 **Le j.B**
 
@@ -175,7 +177,7 @@ juggle ma heki passe toujours en corner) en cross up ONLY un close a qui
 ouvre sur un dp br dangai (si vous ne faites pas cross up le dp va
 whiffer).
 
-![](Hop_B.gif‎ "Hop_B.gif‎")
+![](/images/Hop_B.gif‎ "/images/Hop_B.gif‎")
 
 **Le j.A**
 
@@ -184,7 +186,7 @@ bas que votre adversaire vous avez de bonnes chances de gagner
 systématiquement le combat aérien, permet de contrer les sauts verticaux
 a la relevée.
 
-![](Hop_A.gif‎ "Hop_A.gif‎")
+![](/images/Hop_A.gif‎ "/images/Hop_A.gif‎")
 
 **LA DK (Dive Kick) 2+B/D**
 
@@ -217,7 +219,7 @@ arrive, après un dp de fuir a l'autre bout de l'écran, de mixer après un
 saut, de vous faire punir 70% de barre après avoir été JD car trop
 facilement lisible.
 
-![](82B.gif‎ "82B.gif‎")
+![](/images/82B.gif‎ "/images/82B.gif‎")
 
 #### Command Normals
 
@@ -232,7 +234,7 @@ l'animation du startup par une dive kick.
 
 Sur un counter hit permet de finir un adversaire de façon super classe.
 
-![](AB_(overhead).gif‎ "AB_(overhead).gif‎")
+![](/images/AB_(overhead).gif‎ "/images/AB_(overhead).gif‎")
 
 **2AB, le bas AB**
 
@@ -264,7 +266,7 @@ seule la C passe. Exemple vidéo :
 
 Ou comment revenir sur une erreur bête de l'adversaire ...
 
-![](3C.gif‎ "3C.gif‎")
+![](/images/3C.gif‎ "/images/3C.gif‎")
 
 ### Special Moves
 
@@ -371,7 +373,7 @@ Explications sur les frames data (avec l'exemple de sf4) :
 | Majin Haten Dan C          | ↓ ↘ → ↓ ↘ → C    | 9        | 3                         | -11            | KD                  | Feint ↓ A+C                       | 0-11                                 |
 | Majin Engetsu Rin D        | ↓ ↘ → ↓ ↘ → D    | 0        | 1/3/3/5/3/3/1/3/3/5/3/2/1 | -2             | KD                  | N                                 | 0-4                                  |
 
-![](Grant_portraitpied.jpg "Grant_portraitpied.jpg")
+![](/images/Grant_portraitpied.jpg "/images/Grant_portraitpied.jpg")
 
 ## Combos
 
@@ -384,8 +386,8 @@ A maitriser (dans l'ordre) :
 - Close A, Dp C Br!, Follow up
 - -Bas AB xx Furie A/C (si ça touche avec l'ennemi en l'air)
 
-` -Bas AB xx Dangai (La même sur terre)`  
-` -Le Bas AB xx Furie B, est moyennement rentable (10 Dégâts de plus qu'un Dangai contre une barre de furie)`
+`-Bas AB xx Dangai (La même sur terre)`  
+`-Le Bas AB xx Furie B, est moyennement rentable (10 Dégâts de plus qu'un Dangai contre une barre de furie)`
 
 - Saut B/D,Close A,Dp C Br!, Follow up (Globalement Close A Dp C Br!,
   qui permet de confirmer énormément de dégâts sur un simple light qui
@@ -395,58 +397,58 @@ A maitriser (dans l'ordre) :
 
 ### Rock Howard
 
-![](Rock.png‎ "Rock.png‎")
+![](/images/Rock.png‎ "/images/Rock.png‎")
 
 ### Kim Donw Hwan
 
-![](Donghwan.png‎ "Donghwan.png‎")
+![](/images/Donghwan.png‎ "/images/Donghwan.png‎")
 
 ### Hotaru Futaba
 
-![](Hotaru.png‎ "Hotaru.png‎")
+![](/images/Hotaru.png‎ "/images/Hotaru.png‎")
 
 ### Marco Rodriguez
 
-![](Khushnood.png‎ "Khushnood.png‎")
+![](/images/Khushnood.png‎ "/images/Khushnood.png‎")
 
 ### Hokutomaru
 
-![](Hokutomaru.png "Hokutomaru.png")
+![](/images/Hokutomaru.png "/images/Hokutomaru.png")
 
 ### Kevin
 
-![](Kevin.png‎ "Kevin.png‎")
+![](/images/Kevin.png‎ "/images/Kevin.png‎")
 
 ### Freeman
 
-![](Freeman.png‎ "Freeman.png‎")
+![](/images/Freeman.png‎ "/images/Freeman.png‎")
 
 ### Tizoc
 
-![](Tizoc.png‎ "Tizoc.png‎")
+![](/images/Tizoc.png‎ "/images/Tizoc.png‎")
 
 ### B.Jenet
 
-![](Bjenet.png‎ "Bjenet.png‎")
+![](/images/Bjenet.png‎ "/images/Bjenet.png‎")
 
 ### Gato
 
-![](Gato.png‎ "Gato.png‎")
+![](/images/Gato.png‎ "/images/Gato.png‎")
 
 ### Jaehoon
 
-![](Jaehoon.png‎ "Jaehoon.png‎")
+![](/images/Jaehoon.png‎ "/images/Jaehoon.png‎")
 
 ### Terry Bogard
 
-![](Garou-terry.png‎ "Garou-terry.png‎")
+![](/images/Garou-terry.png‎ "/images/Garou-terry.png‎")
 
 ### Grant
 
-![](vignette.png "vignette.png")
+![](/images/vignette.png "/images/vignette.png")
 
 ### Kain.R.Heilein
 
-![](Kain.png‎ "Kain.png‎")
+![](/images/Kain.png‎ "/images/Kain.png‎")
 
 ## Divers

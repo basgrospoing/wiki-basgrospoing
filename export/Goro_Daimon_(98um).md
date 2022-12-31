@@ -1,3 +1,5 @@
+# Goro Daimon (98um)
+
 ## Introduction
 
 ## Liste des coups

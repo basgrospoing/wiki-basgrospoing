@@ -1,3 +1,5 @@
+# C. Viper (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,15 +8,16 @@
 
 ## Crimson Viper
 
-![](Umvc3_viper_face.jpg‎ "Umvc3_viper_face.jpg‎") The woman codenamed
-Crimson Viper is a secret agent working for the C.I.A. Her latest
-assignment from her superiors was to infiltrate the S.I.N. organization
-headed by Seth in order to gather information on the BLECE Project.
-Outfitted with a special suit armed with all sorts of gadgets and
-weapons, including afterburners and tasers, she successfully gains favor
-with Seth and, for the time being, works with him. When on duty, she is
-known as Ms. Perfect for how seriously and efficiently she gets the job
-done. Outside of work, however, she is a loving and caring mother.
+![](/images/Umvc3_viper_face.jpg‎ "/images/Umvc3_viper_face.jpg‎") The
+woman codenamed Crimson Viper is a secret agent working for the C.I.A.
+Her latest assignment from her superiors was to infiltrate the S.I.N.
+organization headed by Seth in order to gather information on the BLECE
+Project. Outfitted with a special suit armed with all sorts of gadgets
+and weapons, including afterburners and tasers, she successfully gains
+favor with Seth and, for the time being, works with him. When on duty,
+she is known as Ms. Perfect for how seriously and efficiently she gets
+the job done. Outside of work, however, she is a loving and caring
+mother.
 
 **In a nutshell** Fans have always likened C. Viper's style to that of
 former veteran Captain Commando, so it made perfect sense to include her

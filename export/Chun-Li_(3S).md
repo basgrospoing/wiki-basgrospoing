@@ -1,6 +1,8 @@
+# Chun-Li (3S)
+
 ![Character Select
-Portrait](Chunli3sport.gif "Character Select Portrait") ![Neutral
-Stance](Chun-li-3sstance.gif "Neutral Stance")
+Portrait](/images/Chunli3sport.gif "Character Select Portrait")
+![Neutral Stance](/images/Chun-li-3sstance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -21,56 +23,58 @@ Stance](Chun-li-3sstance.gif "Neutral Stance")
 
 ## Couleurs
 
-|                              |                              |                              |                              |                              |                              |                                                              |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")         | ![](MP.png "MP.png")         | ![](HP.png "HP.png")         | ![](LK.png "LK.png")         | ![](MK.png "MK.png")         | ![](HK.png "HK.png")         | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Chunlp.gif "Chunlp.gif") | ![](Chunmp.gif "Chunmp.gif") | ![](Chunhp.gif "Chunhp.gif") | ![](Chunlk.gif "Chunlk.gif") | ![](Chunmk.gif "Chunmk.gif") | ![](Chunhk.gif "Chunhk.gif") | ![](Chunlpmkhp.gif "Chunlpmkhp.gif")                         |
-|                              |                              |                              |                              |                              |                              |                                                              |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")         | ![](/images/MP.png "/images/MP.png")         | ![](/images/HP.png "/images/HP.png")         | ![](/images/LK.png "/images/LK.png")         | ![](/images/MK.png "/images/MK.png")         | ![](/images/HK.png "/images/HK.png")         | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Chunlp.gif "/images/Chunlp.gif") | ![](/images/Chunmp.gif "/images/Chunmp.gif") | ![](/images/Chunhp.gif "/images/Chunhp.gif") | ![](/images/Chunlk.gif "/images/Chunlk.gif") | ![](/images/Chunmk.gif "/images/Chunmk.gif") | ![](/images/Chunhk.gif "/images/Chunhk.gif") | ![](/images/Chunlpmkhp.gif "/images/Chunlpmkhp.gif")                                                         |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
 
 ## Liste des coups
 
 #### Chopes
 
-|              |                                                       |
-|--------------|-------------------------------------------------------|
-| Koshuu Tou   | ![](LP.png "LP.png") + ![](LK.png "LK.png")           |
-| Ryuusei Raku | En l'air, ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|              |                                                                                       |
+|--------------|---------------------------------------------------------------------------------------|
+| Koshuu Tou   | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")           |
+| Ryuusei Raku | En l'air, ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Normaux
 
-|                    |                                                     |
-|--------------------|-----------------------------------------------------|
-| Souren Shou        | ![](B.png "B.png") + ![](MP.png "MP.png")           |
-| Hakkei             | ![](B.png "B.png") + ![](HP.png "HP.png")           |
-| Senjou Shuu        | ![](F.png "F.png") + ![](MK.png "MK.png")           |
-| Kakushu Raku Kyaku | Proche, maintenir ![](MK.png "MK.png")              |
-| Yoku Sen Kyaku     | ![](F.png "F.png") + ![](HK.png "HK.png")           |
-| Tenshin Shuu Kyaku | ![](DF.png "DF.png") + ![](HK.png "HK.png")         |
-| Sankaku Tobi       | Près du mur, UB, UF                                 |
-| Yousou Kyaku       | En L'air, ![](D.png "D.png") + ![](MK.png "MK.png") |
-| Yousou Suitotsu Da | En l'air, ![](D.png "D.png") + ![](HP.png "HP.png") |
+|                    |                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------|
+| Souren Shou        | ![](/images/B.png "/images/B.png") + ![](/images/MP.png "/images/MP.png")           |
+| Hakkei             | ![](/images/B.png "/images/B.png") + ![](/images/HP.png "/images/HP.png")           |
+| Senjou Shuu        | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")           |
+| Kakushu Raku Kyaku | Proche, maintenir ![](/images/MK.png "/images/MK.png")                              |
+| Yoku Sen Kyaku     | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png")           |
+| Tenshin Shuu Kyaku | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png")         |
+| Sankaku Tobi       | Près du mur, UB, UF                                                                 |
+| Yousou Kyaku       | En L'air, ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") |
+| Yousou Suitotsu Da | En l'air, ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") |
 
 #### Target Combos
 
-- ![](Uf.png "Uf.png") ou ![](UB.png "UB.png") + ![](HP.png "HP.png")
-  -\> ![](HP.png "HP.png") (Air chain)
+- ![](/images/Uf.png "/images/Uf.png") ou
+  ![](/images/UB.png "/images/UB.png") +
+  ![](/images/HP.png "/images/HP.png") -\>
+  ![](/images/HP.png "/images/HP.png") (Air chain)
 
 ### Coups Spéciaux
 
-|                    |                                                                         |      |
-|--------------------|-------------------------------------------------------------------------|------|
-| Kikouken           | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png")                     | (EX) |
-| Hyakuretsu Kyaku   | Taper ![](Kick.png "Kick.png") rapidement                               | (EX) |
-| Hazan Shuu         | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")                       | (EX) |
-| Spinning Bird Kick | ![](D.png "D.png") Charge ![](U.png "U.png") + ![](Kick.png "Kick.png") | (EX) |
+|                    |                                                                                                                         |      |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------|------|
+| Kikouken           | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png")                                     | (EX) |
+| Hyakuretsu Kyaku   | Taper ![](/images/Kick.png "/images/Kick.png") rapidement                                                               | (EX) |
+| Hazan Shuu         | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")                                       | (EX) |
+| Spinning Bird Kick | ![](/images/D.png "/images/D.png") Charge ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") | (EX) |
 
 ### Super Arts
 
-|     |              |                                                                            |                   |
-|-----|--------------|----------------------------------------------------------------------------|-------------------|
-| I   | Kikou-Shou   | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock (2.2 ex)  |
-| II  | Houyoku-Sen  | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")   | 2 stocks (5.2 ex) |
-| III | Tensei-Ranka | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png")   | 3 stocks (5.4 ex) |
+|     |              |                                                                                                                            |                   |
+|-----|--------------|----------------------------------------------------------------------------------------------------------------------------|-------------------|
+| I   | Kikou-Shou   | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock (2.2 ex)  |
+| II  | Houyoku-Sen  | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")   | 2 stocks (5.2 ex) |
+| III | Tensei-Ranka | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png")   | 3 stocks (5.4 ex) |
 
 ## Stratégie
 

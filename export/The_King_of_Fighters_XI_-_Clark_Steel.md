@@ -1,4 +1,6 @@
-![](kofxi-clark-steel.jpg "kofxi-clark-steel.jpg")
+# The King of Fighters XI - Clark Steel
+
+![](/images/kofxi-clark-steel.jpg "/images/kofxi-clark-steel.jpg")
 
 ## Introduction
 

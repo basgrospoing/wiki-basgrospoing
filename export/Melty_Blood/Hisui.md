@@ -1,10 +1,12 @@
-[ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
+# Melty Blood/Hisui
+
+![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
 \<br\\\>\<br\\\> **Voiced by:**   Matsuki Miyu (松来
 未祐)  —  **Type:**   Human, Maid Synchronizer  —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**    March 12   —  **Sizes:**   
 B76/W58/H82   —  **Height:**    156cm   —  **Weight:**    43kg
 \<br\\\>\<br\\\> **Eye Color:**   Jade  —  **Hair Color:**   Pink
-\|frame\|right](image:Hisui1.png "wikilink")
+\|frame\|right](/images/Hisui1.png " Name:   Hisui (翡翠)  —  Nicknames:    Brainwasher Detective <br\><br\> Voiced by:   Matsuki Miyu (松来 未祐)  —  Type:   Human, Maid Synchronizer  —  Gender:   Female <br\><br\> Birthday:    March 12   —  Sizes:    B76/W58/H82   —  Height:    156cm   —  Weight:    43kg <br\><br\> Eye Color:   Jade  —  Hair Color:   Pink |frame|right")
 
 # Introduction
 
@@ -31,7 +33,7 @@ en jeu de combat.
 
 # Palettes
 
-![](Hisui-colors.png "Hisui-colors.png")
+![](/images/Hisui-colors.png "/images/Hisui-colors.png")
 
 # Liste de joueurs
 

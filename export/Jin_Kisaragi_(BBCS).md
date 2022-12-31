@@ -1,7 +1,11 @@
+# Jin Kisaragi (BBCS)
+
 <figure>
-<img src="Bbcs_jin_artwork_01.png" title="Bbcs_jin_artwork_01.png"
-width="150" alt="Bbcs_jin_artwork_01.png" />
-<figcaption aria-hidden="true">Bbcs_jin_artwork_01.png</figcaption>
+<img src="/images/Bbcs_jin_artwork_01.png"
+title="/images/Bbcs_jin_artwork_01.png" width="150"
+alt="/images/Bbcs_jin_artwork_01.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_jin_artwork_01.png</figcaption>
 </figure>
 
 ## Description
@@ -56,9 +60,11 @@ utilisé de façon offensive
 ## Couleurs
 
 <figure>
-<img src="Bbcs_jin_costumes.png" title="Bbcs_jin_costumes.png"
-width="600" alt="Bbcs_jin_costumes.png" />
-<figcaption aria-hidden="true">Bbcs_jin_costumes.png</figcaption>
+<img src="/images/Bbcs_jin_costumes.png"
+title="/images/Bbcs_jin_costumes.png" width="600"
+alt="/images/Bbcs_jin_costumes.png" />
+<figcaption
+aria-hidden="true">/images/Bbcs_jin_costumes.png</figcaption>
 </figure>
 
 Couleurs "hommage" de la deuxième palette :

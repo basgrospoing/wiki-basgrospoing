@@ -1,4 +1,8 @@
-\_\_TOC\_\_ [thumb\|400px\|right](image:ah3logo.jpg "wikilink")
+# Arcana Heart 3
+
+\_\_TOC\_\_
+<img src="/images/ah3logo.jpg" title="/images/ah3logo.jpg" width="400"
+alt="/images/ah3logo.jpg" />
 
 ## Introduction
 

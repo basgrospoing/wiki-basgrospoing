@@ -1,11 +1,13 @@
-[ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
+# Melty Blood/Shiki Ryougi
+
+![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
 Male)  —  **Nicknames:**    "That woman" "Neko Shiki" \<br\\\>\<br\\\>
 **Voiced by:**   Maaya Sakamoto (坂本真綾)  —  **Type:**   Human, Demon
 Hunter  —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   October
 3rd  —  **Sizes:**   ? / ? /
 ?  —  **Height:**   160cm  —  **Weight:**   47kg \<br\\\>\<br\\\> **Eye
 Color:**   Grey  —  **Hair Color:**   Brown
-\|frame\|right](image:Ryougi0.png "wikilink")
+\|frame\|right](/images/Ryougi0.png " Name:   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織 Male)  —  Nicknames:    "That woman" "Neko Shiki" <br\><br\> Voiced by:   Maaya Sakamoto (坂本真綾)  —  Type:   Human, Demon Hunter  —  Gender:   Female <br\><br\> Birthday:   October 3rd  —  Sizes:   ? / ? / ?  —  Height:   160cm  —  Weight:   47kg <br\><br\> Eye Color:   Grey  —  Hair Color:   Brown |frame|right")
 
 # Introduction
 
@@ -27,7 +29,7 @@ Color:**   Grey  —  **Hair Color:**   Brown
 
 # Palettes
 
-![](Ryougi_Colors.PNG "Ryougi_Colors.PNG")
+![](/images/Ryougi_Colors.PNG "/images/Ryougi_Colors.PNG")
 
 # Liste de joueurs
 

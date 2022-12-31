@@ -1,3 +1,5 @@
+# Rugal Bernstein (98um)
+
 ## Introduction
 
 ## Liste des coups

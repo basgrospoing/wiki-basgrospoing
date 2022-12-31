@@ -1,7 +1,9 @@
+# P4A/Kanji Tatsumi
+
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 
-![](Kanji_big.jpg "Kanji_big.jpg")
+![](/images/Kanji_big.jpg "/images/Kanji_big.jpg")
 
 </div>
 <div>

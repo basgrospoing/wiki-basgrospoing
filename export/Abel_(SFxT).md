@@ -1,3 +1,5 @@
+# Abel (SFxT)
+
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 
 ## Vue d'ensemble
@@ -6,9 +8,9 @@
 
 ## Principaux normaux
 
-|                  |                                         |
-|------------------|-----------------------------------------|
-| **Forwark Kick** | ![](F.png "F.png")+![](MK.png "MK.png") |
+|                  |                                                                         |
+|------------------|-------------------------------------------------------------------------|
+| **Forwark Kick** | ![](/images/F.png "/images/F.png")+![](/images/MK.png "/images/MK.png") |
 
 Peut être cancelé par un dash avant.
 
@@ -16,65 +18,66 @@ Peut être cancelé par un dash avant.
 
 ### Coups spéciaux
 
-|                         |                                                   |
-|-------------------------|---------------------------------------------------|
-| **Change of Direction** | ![](qcf.png "qcf.png")+![](punch.png "punch.png") |
+|                         |                                                                                   |
+|-------------------------|-----------------------------------------------------------------------------------|
+| **Change of Direction** | ![](/images/qcf.png "/images/qcf.png")+![](/images/punch.png "/images/punch.png") |
 
-|                |                                                                         |
-|----------------|-------------------------------------------------------------------------|
-| **Second Mid** | Après Change of Direction ![](F.png "F.png")+![](punch.png "punch.png") |
-
-**Overhead.**
-
-|                |                                                                       |
-|----------------|-----------------------------------------------------------------------|
-| **Second Low** | Après Change of Direction ![](F.png "F.png")+![](kick.png "kick.png") |
-
-**Low.**
-
-|                |                                                                              |
-|----------------|------------------------------------------------------------------------------|
-| **Finish Mid** | Après Second Mid ou Second Low ![](F.png "F.png")+![](punch.png "punch.png") |
+|                |                                                                                                         |
+|----------------|---------------------------------------------------------------------------------------------------------|
+| **Second Mid** | Après Change of Direction ![](/images/F.png "/images/F.png")+![](/images/punch.png "/images/punch.png") |
 
 **Overhead.**
 
-|                |                                                                            |
-|----------------|----------------------------------------------------------------------------|
-| **Finish Low** | Après Second Mid ou Second Low ![](F.png "F.png")+![](kick.png "kick.png") |
+|                |                                                                                                       |
+|----------------|-------------------------------------------------------------------------------------------------------|
+| **Second Low** | Après Change of Direction ![](/images/F.png "/images/F.png")+![](/images/kick.png "/images/kick.png") |
 
 **Low.**
 
-|                |                                                 |
-|----------------|-------------------------------------------------|
-| **Wheel Kick** | ![](qcb.png "qcb.png")+![](kick.png "kick.png") |
+|                |                                                                                                              |
+|----------------|--------------------------------------------------------------------------------------------------------------|
+| **Finish Mid** | Après Second Mid ou Second Low ![](/images/F.png "/images/F.png")+![](/images/punch.png "/images/punch.png") |
 
-|                     |                                                 |
-|---------------------|-------------------------------------------------|
-| **Marseilles Roll** | ![](qcf.png "qcf.png")+![](kick.png "kick.png") |
+**Overhead.**
 
-|                 |                                                 |
-|-----------------|-------------------------------------------------|
-| **Falling Sky** | ![](dp.png "dp.png")+![](punch.png "punch.png") |
+|                |                                                                                                            |
+|----------------|------------------------------------------------------------------------------------------------------------|
+| **Finish Low** | Après Second Mid ou Second Low ![](/images/F.png "/images/F.png")+![](/images/kick.png "/images/kick.png") |
 
-|                   |                                                   |
-|-------------------|---------------------------------------------------|
-| **Tornado Throw** | ![](hcb.png "hcb.png")+![](punch.png "punch.png") |
+**Low.**
+
+|                |                                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| **Wheel Kick** | ![](/images/qcb.png "/images/qcb.png")+![](/images/kick.png "/images/kick.png") |
+
+|                     |                                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Marseilles Roll** | ![](/images/qcf.png "/images/qcf.png")+![](/images/kick.png "/images/kick.png") |
+
+|                 |                                                                                 |
+|-----------------|---------------------------------------------------------------------------------|
+| **Falling Sky** | ![](/images/dp.png "/images/dp.png")+![](/images/punch.png "/images/punch.png") |
+
+|                   |                                                                                   |
+|-------------------|-----------------------------------------------------------------------------------|
+| **Tornado Throw** | ![](/images/hcb.png "/images/hcb.png")+![](/images/punch.png "/images/punch.png") |
 
 **Choppe.**
 
-|                     |                                                                           |
-|---------------------|---------------------------------------------------------------------------|
-| **Shoulder Tackle** | ![](B.png "B.png") (charge) ![](F.png "F.png")+![](punch.png "punch.png") |
+|                     |                                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Shoulder Tackle** | ![](/images/B.png "/images/B.png") (charge) ![](/images/F.png "/images/F.png")+![](/images/punch.png "/images/punch.png") |
 
 **Super charge.**
 
 ### Super
 
-|                |                                                                               |
-|----------------|-------------------------------------------------------------------------------|
-| **Breathless** | ![](B.png "B.png") (charge) ![](F.png "F.png")+![](3xPunch.png "3xPunch.png") |
+|                |                                                                                                                               |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Breathless** | ![](/images/B.png "/images/B.png") (charge) ![](/images/F.png "/images/F.png")+![](/images/3xPunch.png "/images/3xPunch.png") |
 
-**Choppe.** Maintenir ![](punch.png "punch.png") pour décaler le timing
-du coup, appuyer sur ![](kick.png "kick.png") pour annuler.
+**Choppe.** Maintenir ![](/images/punch.png "/images/punch.png") pour
+décaler le timing du coup, appuyer sur
+![](/images/kick.png "/images/kick.png") pour annuler.
 
 ## Combos

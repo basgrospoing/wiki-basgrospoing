@@ -1,3 +1,5 @@
+# Joe Higashi (98um)
+
 ## Introduction
 
 ## Liste des coups

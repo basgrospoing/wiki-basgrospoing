@@ -1,3 +1,5 @@
+# Deejay (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -15,9 +17,9 @@ super avec son Ultra 1.
 
 #### Dee Jay Slide
 
-|                   |                                           |
-|-------------------|-------------------------------------------|
-| **Dee Jay Slide** | ![](D.png "D.png") + ![](HK.png "HK.png") |
+|                   |                                                                           |
+|-------------------|---------------------------------------------------------------------------|
+| **Dee Jay Slide** | ![](/images/D.png "/images/D.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Debout (proche)
 
@@ -31,9 +33,9 @@ super avec son Ultra 1.
 
 #### Knee Shot (pendant un saut en avant)
 
-|               |                                           |
-|---------------|-------------------------------------------|
-| **Knee Shot** | ![](D.png "D.png") + ![](LK.png "LK.png") |
+|               |                                                                           |
+|---------------|---------------------------------------------------------------------------|
+| **Knee Shot** | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Choppes
 
@@ -43,33 +45,33 @@ super avec son Ultra 1.
 
 #### Air Slasher
 
-|                 |                                                                             |                      |
-|-----------------|-----------------------------------------------------------------------------|----------------------|
-| **Air Slasher** | ![](B.png "B.png") (Charge) ![](F.png "F.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                 |                                                                                                                             |                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Air Slasher** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Double Rolling Sobat
 
-|                          |                                                                           |                      |
-|--------------------------|---------------------------------------------------------------------------|----------------------|
-| **Double Rolling Sobat** | ![](B.png "B.png") (Charge) ![](F.png "F.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                          |                                                                                                                           |                                      |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Double Rolling Sobat** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup: Deejay envoie un coup de pied retourné vers l'avant
 et le suit avec un deuxième.Bizarrement,le LK est un Sobat tout court.
 
 #### Jackknife Maximum
 
-|                       |                                                                           |                      |
-|-----------------------|---------------------------------------------------------------------------|----------------------|
-| **Jackknife Maximum** | ![](D.png "D.png") (Charge) ![](U.png "U.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                       |                                                                                                                           |                                      |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Jackknife Maximum** | ![](/images/D.png "/images/D.png") (Charge) ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup: Deejay fait un combo de coups de pieds sauté vers
 l'avant.
 
 #### Machine Gun Upper
 
-|                       |                                                                                        |                      |
-|-----------------------|----------------------------------------------------------------------------------------|----------------------|
-| **Machine Gun Upper** | ![](D.png "D.png") (Charge) ![](U.png "U.png") + ![](Punch.png "Punch.png") **(Mash)** | ![](Ex.png "Ex.png") |
+|                       |                                                                                                                                        |                                      |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Machine Gun Upper** | ![](/images/D.png "/images/D.png") (Charge) ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") **(Mash)** | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup: Deejay fait un uppercut au sol qui peut faire très
 mal.
@@ -78,9 +80,9 @@ mal.
 
 #### Sobat Carnival
 
-|                    |                                                                                                                 |
-|--------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Sobat Carnival** | ![](B.png "B.png") (Charge) ![](F.png "F.png") ![](B.png "B.png") ![](F.png "F.png") + ![](Kick.png "Kick.png") |
+|                    |                                                                                                                                                                                                 |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sobat Carnival** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Description du coup: Deejay fait un danse du pied sur la tête de
 l'adversaire.
@@ -89,18 +91,18 @@ l'adversaire.
 
 #### Sobat Festival(Ultra 1)
 
-|                    |                                                                                                                     |
-|--------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Sobat Festival** | ![](B.png "B.png") (Charge) ![](F.png "F.png") ![](B.png "B.png") ![](F.png "F.png") + ![](3xKick.png "3xKick.png") |
+|                    |                                                                                                                                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sobat Festival** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Description du coup: Deejay fait un danse du pied sur la tête de
 l'adversaire et finit par un bon gros uppercut.
 
 #### Climax Beat(Ultra 2)
 
-|                 |                                                                                                            |
-|-----------------|------------------------------------------------------------------------------------------------------------|
-| **Climax Beat** | ![](Db.png "Db.png") "Charge" ![](Hcb.png "Hcb.png") ![](Uf.png "Uf.png") + ![](3xPunch.png "3xPunch.png") |
+|                 |                                                                                                                                                                            |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Climax Beat** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Hcb.png "/images/Hcb.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Description du coup: Deejay envoie son adversaire en l'air et fait un
 true Hyakuretsuken de l'école shinken(pas comme Feinte Long qui nous
@@ -118,7 +120,7 @@ st.MK \> cr.LP \> cr.LK
 
 ### Confirms
 
-![](Ex.png "Ex.png") Machine Gun Upper \> Climax Beat
+![](/images/Ex.png "/images/Ex.png") Machine Gun Upper \> Climax Beat
 
 ### Super/Ultra Cancel Combos
 

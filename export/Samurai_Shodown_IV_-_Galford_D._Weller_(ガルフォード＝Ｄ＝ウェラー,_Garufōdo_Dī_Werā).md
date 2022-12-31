@@ -1,4 +1,6 @@
-![](ss4-Galford.gif "ss4-Galford.gif")
+# Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)
+
+![](/images/ss4-Galford.gif "/images/ss4-Galford.gif")
 
 ## Introduction
 

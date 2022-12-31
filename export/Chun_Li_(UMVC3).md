@@ -1,3 +1,5 @@
+# Chun Li (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Chun Li
 
-![](Umvc3_chunli_face.jpg‎ "Umvc3_chunli_face.jpg‎") TBW
+![](/images/Umvc3_chunli_face.jpg‎ "/images/Umvc3_chunli_face.jpg‎") TBW
 
 **In a nutshell** TBW
 

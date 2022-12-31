@@ -1,10 +1,12 @@
-[ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little
+# Melty Blood/Akiha Tohno (Seifuku)
+
+![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little
 sister" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Human, Half-Demon   —  **Gender:**   Female
 \<br\\\>\<br\\\> **Birthday:**   Sept 22   —  **Sizes:**   73 / 57 /
 79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
 Color:**   Blue  —  **Hair Color:**   Black
-\|frame\|right](image:sakiha1.png "wikilink")
+\|frame\|right](/images/sakiha1.png " Name:   Akiha Tohno (遠野秋葉)  —  Nicknames:    "Little sister" <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Human, Half-Demon   —  Gender:   Female <br\><br\> Birthday:   Sept 22   —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Black |frame|right")
 
 # Introduction
 
@@ -33,7 +35,7 @@ Très bon contrôle de terrain et okizeme/mixups très safe.
 
 # Palettes
 
-![](Sakiha-colors.png "Sakiha-colors.png")
+![](/images/Sakiha-colors.png "/images/Sakiha-colors.png")
 
 # Liste de joueurs
 

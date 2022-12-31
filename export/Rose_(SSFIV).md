@@ -1,3 +1,5 @@
+# Rose (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -23,13 +25,13 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Coups uniques
 
-|           |                                             |
-|-----------|---------------------------------------------|
-| **Slide** | ![](Df.png "Df.png") + ![](MK.png "MK.png") |
+|           |                                                                             |
+|-----------|-----------------------------------------------------------------------------|
+| **Slide** | ![](/images/Df.png "/images/Df.png") + ![](/images/MK.png "/images/MK.png") |
 
-|                |                                           |
-|----------------|-------------------------------------------|
-| **Soul Piede** | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|                |                                                                           |
+|----------------|---------------------------------------------------------------------------|
+| **Soul Piede** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 #### Choppes
 

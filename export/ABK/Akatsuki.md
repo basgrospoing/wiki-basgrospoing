@@ -1,4 +1,6 @@
-![](Akatsuki_ABK.jpg "Akatsuki_ABK.jpg")
+# ABK/Akatsuki
+
+![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")
 
 # Combos
 
@@ -74,87 +76,78 @@ Dégâts très importants en corner. Utiliser j.C 5C à la place de (jumpin)
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width=""
-style="background:#E8E8E8;"|<strong><font size = "3">2A</font></strong></p>
+<td><p><strong>2A</strong></p>
 <p>Bon poke rapide qui se cancel en n'importe quoi.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5A</font></strong></p>
+<td><p><strong>5A</strong></p>
 <p>La même chose que 2A mais debout et faisant plus de dégâts.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">2B</font></strong></p>
+<td><p><strong>2B</strong></p>
 <p>Assez rapide et va relativement loin en plus de toucher low. Se
 cancel en 5B.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5B</font></strong></p>
+<td><p><strong>5B</strong></p>
 <p>Coup de pied horizontal avec bonne portée.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">5B
-(proche)</font></strong></p>
+<td><p><strong>5B (proche)</strong></p>
 <p>Un uppercut qui ressemble au s.HP proche de certains shotos dans les
 jeux Campcom. Utilisé dans la plupart des combos dans le coin.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">2C</font></strong></p>
+<td><p><strong>2C</strong></p>
 <p>Une balayette standard qui peut faire whiffer certains
 coups.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">5C</font></strong></p>
+<td><p><strong>5C</strong></p>
 <p>Un coup de pied partant vers le haut qui peut servir d'anti-air
 lorsqu'il est utilisé assez tôt.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">5C
-(proche)</font></strong></p>
+<td><p><strong>5C (proche)</strong></p>
 <p>Coup de genoux utilisé en juggle dans le coin
 essentiellement.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j.A</font></strong></p>
+<td><p><strong>j.A</strong></p>
 <p>Un coup de genoux aérien utilisé dans les juggle. Déconseillé en
 neutral à cause de sa portée.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">j8.B</font></strong></p>
+<td><p><strong>j8.B</strong></p>
 <p>Un coup vertical frappant du bas vers le haut.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j7/j9.B</font></strong></p>
+<td><p><strong>j7/j9.B</strong></p>
 <p>Un bon jump-in pouvant crossup.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">j8.C</font></strong></p>
+<td><p><strong>j8.C</strong></p>
 <p>Un coup de pied aérien qui fait wallbounce l'adversaire s'il le
 touche. Utilisable pour certains combos dans le coin.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">j7/j9.C</font></strong></p>
+<td><p><strong>j7/j9.C</strong></p>
 <p>Un coup de pied allant du haut vers le bas qui knockdown un
 adversaire touché en l'air.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">6B</font></strong></p>
+<td><p><strong>6B</strong></p>
 <p>Un overhead après lequel Akatsuki peut combo facilement avec
 2A.</p></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|
-<strong><font size = "3">6C</font></strong></p>
+<td><p><strong>6C</strong></p>
 <p>Le Launcher du Mal, malgré le fait que l'animation fasse avancer
 Akatsuki, il whiffera tout de même dans les combos si vous êtes trop
 loin.</p></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3">j.2C</font></strong></p>
+<td><p><strong>j.2C</strong></p>
 <p>Un dive punch vertical qui peut cancel les normaux aériens.</p></td>
 </tr>
 </tbody>
@@ -165,8 +158,7 @@ loin.</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"|<strong><font size = "3">
-Denkoudan 「電光弾」 - (j.)236A/B/C/B+C</font></strong></p>
+<td><p><strong>Denkoudan 「電光弾」 - (j.)236A/B/C/B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Une boule de feu standard. Notez
 que dans ce jeu, elles ne sont pas aussi efficaces qu'on pourrait le
@@ -181,8 +173,7 @@ combo.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>width="" | <strong><font size = "3"> Tekkoukyaku 「徹甲脚」 -
-(j.)214A/B/C/B+C</font></strong></p>
+<td><p><strong>Tekkoukyaku 「徹甲脚」 - (j.)214A/B/C/B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Un espèce de Tatsumaki à la Dan.
 Passe au dessus des coups low. Les versions aériennes font moins de
@@ -194,8 +185,7 @@ dégâts et peut se combo après A, B ou C (jusqu'au deuxième coup).</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Ningen Hakubou 「人間迫砲」 - 22A/B/C/B+C</font></strong></p>
+<td><p><strong>Ningen Hakubou 「人間迫砲」 - 22A/B/C/B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Aussi connu sous le nom de
 "Shoryuken" en référence au coup très célèbre de Street Fighter.
@@ -219,8 +209,7 @@ utilisé ainsi, c'est une version qui fait beaucoup de dégâts. Wallbounce
 <table>
 <tbody>
 <tr class="odd">
-<td><p>width="" style="background:#E8E8E8;"| <strong><font size = "3">
-Kamikaze 「神風」 A+B+C </font></strong></p>
+<td><p><strong>Kamikaze 「神風」 A+B+C</strong></p>
 <ul>
 <li><strong>(Description)</strong> - Le pif ultime, il n'y a pas
 d'invulnérabilité sur la super mais elle est relativement safe on block.

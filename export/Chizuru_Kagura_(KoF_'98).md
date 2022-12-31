@@ -1,3 +1,5 @@
+# Chizuru Kagura (KoF '98)
+
 ## Introduction
 
 ## Liste des coups

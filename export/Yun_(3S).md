@@ -1,5 +1,8 @@
-![Character Select Portrait](Yun3sport.gif "Character Select Portrait")
-![Neutral Stance](Yun3s-stance-short.gif "Neutral Stance")
+# Yun (3S)
+
+![Character Select
+Portrait](/images/Yun3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Yun3s-stance-short.gif "Neutral Stance")
 
 ## Introduction
 
@@ -16,57 +19,68 @@
 
 ## Couleurs
 
-|                            |                            |                            |                            |                            |                            |                                                              |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")       | ![](MP.png "MP.png")       | ![](HP.png "HP.png")       | ![](LK.png "LK.png")       | ![](MK.png "MK.png")       | ![](HK.png "HK.png")       | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Yunlp.gif "Yunlp.gif") | ![](Yunmp.gif "Yunmp.gif") | ![](Yunhp.gif "Yunhp.gif") | ![](Yunlk.gif "Yunlk.gif") | ![](Yunmk.gif "Yunmk.gif") | ![](Yunhk.gif "Yunhk.gif") | ![](yunlpmkhp.gif "yunlpmkhp.gif")                           |
-|                            |                            |                            |                            |                            |                            |                                                              |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")       | ![](/images/MP.png "/images/MP.png")       | ![](/images/HP.png "/images/HP.png")       | ![](/images/LK.png "/images/LK.png")       | ![](/images/MK.png "/images/MK.png")       | ![](/images/HK.png "/images/HK.png")       | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Yunlp.gif "/images/Yunlp.gif") | ![](/images/Yunmp.gif "/images/Yunmp.gif") | ![](/images/Yunhp.gif "/images/Yunhp.gif") | ![](/images/Yunlk.gif "/images/Yunlk.gif") | ![](/images/Yunmk.gif "/images/Yunmk.gif") | ![](/images/Yunhk.gif "/images/Yunhk.gif") | ![](/images/yunlpmkhp.gif "/images/yunlpmkhp.gif")                                                           |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
 
 ## Liste des coups
 
 #### Chopes
 
-|             |                                                                                        |
-|-------------|----------------------------------------------------------------------------------------|
-| Hiza Geri   | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                            |
-| Monkey Flip | ![](B.png "B.png") ou ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|             |                                                                                                                                                        |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hiza Geri   | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                            |
+| Monkey Flip | ![](/images/B.png "/images/B.png") ou ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Normaux
 
-|              |                                                                                          |
-|--------------|------------------------------------------------------------------------------------------|
-| Raigeki Shuu | ![](DF.png "DF.png") + ![](Kick.png "Kick.png") pendant un saut vertical ou vers l'avant |
-| Senpuu Kyaku | ![](F.png "F.png") + ![](MK.png "MK.png")                                                |
-| Dakai        | ![](F.png "F.png") + ![](HP.png "HP.png")                                                |
+|              |                                                                                                                          |
+|--------------|--------------------------------------------------------------------------------------------------------------------------|
+| Raigeki Shuu | ![](/images/DF.png "/images/DF.png") + ![](/images/Kick.png "/images/Kick.png") pendant un saut vertical ou vers l'avant |
+| Senpuu Kyaku | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png")                                                |
+| Dakai        | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png")                                                |
 
 #### Target Combos
 
-- **(Air)** ![](LP.png "LP.png") -\> ![](HP.png "HP.png")
-- proche ![](LP.png "LP.png") -\> ![](LP.png "LP.png") -\>
-  ![](LK.png "LK.png") loin ![](MP.png "MP.png")
-- ![](MP.png "MP.png") -\> ![](HP.png "HP.png") -\> ![](B.png "B.png") +
-  ![](HP.png "HP.png")
-- ![](D.png "D.png") + ![](HK.png "HK.png") -\> ![](HK.png "HK.png")
-- ![](D.png "D.png") + ![](MP.png "MP.png") -\> ![](HP.png "HP.png")
-- ![](D.png "D.png") + ![](LK.png "LK.png") -\> ![](MK.png "MK.png")
+- **(Air)** ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/HP.png "/images/HP.png")
+- proche ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/LK.png "/images/LK.png") loin
+  ![](/images/MP.png "/images/MP.png")
+- ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HP.png "/images/HP.png") -\>
+  ![](/images/B.png "/images/B.png") +
+  ![](/images/HP.png "/images/HP.png")
+- ![](/images/D.png "/images/D.png") +
+  ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/HK.png "/images/HK.png")
+- ![](/images/D.png "/images/D.png") +
+  ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HP.png "/images/HP.png")
+- ![](/images/D.png "/images/D.png") +
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 ### Coups Spéciaux
 
-|                |                                                                                                   |     |
-|----------------|---------------------------------------------------------------------------------------------------|-----|
-| Tetuzankou     | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")                                                 | EX  |
-| Zesshou-Hohou  | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                               | EX  |
-| Nishou-Kyaku   | ![](dp.png "dp.png") + ![](Kick.png "Kick.png")                                                   | EX  |
-| Kobokushi      | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") (![](2xPunch.png "2xPunch.png") pour feinter) |     |
-| Zenpou-Tenshin | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") (proche)                                        |     |
+|                |                                                                                                                                                   |     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Tetuzankou     | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")                                                                 | EX  |
+| Zesshou-Hohou  | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                               | EX  |
+| Nishou-Kyaku   | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png")                                                                   | EX  |
+| Kobokushi      | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") (![](/images/2xPunch.png "/images/2xPunch.png") pour feinter) |     |
+| Zenpou-Tenshin | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") (proche)                                                        |     |
 
 ### Super Arts
 
-|     |                |                                                                            |          |
-|-----|----------------|----------------------------------------------------------------------------|----------|
-| I   | You-Hou        | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
-| II  | Sourai-Rengeki | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 3 stocks |
-| III | Genei-Jin      | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
+|     |                |                                                                                                                            |          |
+|-----|----------------|----------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | You-Hou        | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
+| II  | Sourai-Rengeki | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 3 stocks |
+| III | Genei-Jin      | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
 
 ## Stratégie
 

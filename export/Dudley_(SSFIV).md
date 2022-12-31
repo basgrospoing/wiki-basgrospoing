@@ -1,3 +1,5 @@
+# Dudley (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -21,29 +23,29 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 ### Coups Uniques
 
-|                  |                                           |
-|------------------|-------------------------------------------|
-| **Slipping Jab** | ![](F.png "F.png") + ![](LP.png "LP.png") |
+|                  |                                                                           |
+|------------------|---------------------------------------------------------------------------|
+| **Slipping Jab** | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") |
 
-|                  |                                           |
-|------------------|-------------------------------------------|
-| **Stomach Blow** | ![](F.png "F.png") + ![](MP.png "MP.png") |
+|                  |                                                                           |
+|------------------|---------------------------------------------------------------------------|
+| **Stomach Blow** | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
 
-|                   |                                           |
-|-------------------|-------------------------------------------|
-| **Step Straight** | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|                   |                                                                           |
+|-------------------|---------------------------------------------------------------------------|
+| **Step Straight** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
-|               |                                           |
-|---------------|-------------------------------------------|
-| **Dart Shot** | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|               |                                                                           |
+|---------------|---------------------------------------------------------------------------|
+| **Dart Shot** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
-|                  |                                           |
-|------------------|-------------------------------------------|
-| **Slipping Jab** | ![](F.png "F.png") + ![](LP.png "LP.png") |
+|                  |                                                                           |
+|------------------|---------------------------------------------------------------------------|
+| **Slipping Jab** | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") |
 
-|                  |                                                                  |
-|------------------|------------------------------------------------------------------|
-| **Victory Rose** | ![](D.png "D.png") + ![](HP.png "HP.png") + ![](HK.png "HK.png") |
+|                  |                                                                                                                  |
+|------------------|------------------------------------------------------------------------------------------------------------------|
+| **Victory Rose** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") |
 
 Note trivia: La victory Rose est la taunt basique de Dudley dans 3.3
 .(L'envoi de la rose)
@@ -52,41 +54,41 @@ Note trivia: La victory Rose est la taunt basique de Dudley dans 3.3
 
 ## 4 Target Combos
 
-|                    |                                                                   |
-|--------------------|-------------------------------------------------------------------|
-| **Target Combo 1** | ![](F.png "F.png") + ![](LP.png "LP.png") \> ![](MP.png "MP.png") |
+|                    |                                                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 1** | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") \> ![](/images/MP.png "/images/MP.png") |
 
-|                    |                                                                   |
-|--------------------|-------------------------------------------------------------------|
-| **Target Combo 2** | ![](D.png "D.png") + ![](LK.png "LK.png") \> ![](MK.png "MK.png") |
+|                    |                                                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 2** | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") \> ![](/images/MK.png "/images/MK.png") |
 
-Note:le premier ![](LK.png "LK.png") touche low
+Note:le premier ![](/images/LK.png "/images/LK.png") touche low
 
-|                    |                                                                   |
-|--------------------|-------------------------------------------------------------------|
-| **Target Combo 3** | ![](F.png "F.png") + ![](HK.png "HK.png") \> ![](MP.png "MP.png") |
+|                    |                                                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 3** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") \> ![](/images/MP.png "/images/MP.png") |
 
-Note:le premier ![](HK.png "HK.png") touche high
-
-|                    |                                                                     |
-|--------------------|---------------------------------------------------------------------|
-| **Target Combo 4** | ![](LP.png "LP.png") + ![](MP.png "MP.png") \> ![](MK.png "MK.png") |
+Note:le premier ![](/images/HK.png "/images/HK.png") touche high
 
 |                    |                                                                                                                     |
 |--------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Target Combo 5** | ![](MP.png "MP.png") soit ![](F.png "F.png") + ![](MK.png "MK.png") \> ![](MK.png "MK.png") \> ![](HP.png "HP.png") |
+| **Target Combo 4** | ![](/images/LP.png "/images/LP.png") + ![](/images/MP.png "/images/MP.png") \> ![](/images/MK.png "/images/MK.png") |
 
-|                    |                                                                                                                                     |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| **Target Combo 6** | ![](D.png "D.png") + ![](LP.png "LP.png") \> ![](D.png "D.png") + ![](MK.png "MK.png") \> ![](D.png "D.png") + ![](HP.png "HP.png") |
+|                    |                                                                                                                                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 5** | ![](/images/MP.png "/images/MP.png") soit ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") \> ![](/images/MK.png "/images/MK.png") \> ![](/images/HP.png "/images/HP.png") |
 
-|                    |                                                                      |
-|--------------------|----------------------------------------------------------------------|
-| **Target Combo 7** | ![](MK.png "MK.png") \> ![](HK.png "HK.png") \> ![](HP.png "HP.png") |
+|                    |                                                                                                                                                                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 6** | ![](/images/D.png "/images/D.png") + ![](/images/LP.png "/images/LP.png") \> ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") \> ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") |
 
-|                    |                                                                                              |
-|--------------------|----------------------------------------------------------------------------------------------|
-| **Target Combo 8** | ![](LP.png "LP.png") \> ![](MK.png "MK.png") \> ![](MP.png "MP.png") \> ![](HP.png "HP.png") |
+|                    |                                                                                                                      |
+|--------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 7** | ![](/images/MK.png "/images/MK.png") \> ![](/images/HK.png "/images/HK.png") \> ![](/images/HP.png "/images/HP.png") |
+
+|                    |                                                                                                                                                              |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Combo 8** | ![](/images/LP.png "/images/LP.png") \> ![](/images/MK.png "/images/MK.png") \> ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") |
 
 ## 5 Coups spéciaux, super, ultras
 
@@ -94,75 +96,75 @@ Note:le premier ![](HK.png "HK.png") touche high
 
 #### Jet Upper
 
-|               |                                                   |
-|---------------|---------------------------------------------------|
-| **Jet Upper** | ![](dp.png "dp.png") + ![](Punch.png "Punch.png") |
+|               |                                                                                   |
+|---------------|-----------------------------------------------------------------------------------|
+| **Jet Upper** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Machine Gun Blow
 
-|                      |                                                     |
-|----------------------|-----------------------------------------------------|
-| **Machine Gun Blow** | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png") |
+|                      |                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------|
+| **Machine Gun Blow** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Cross Counter
 
-|                   |                                                     |
-|-------------------|-----------------------------------------------------|
-| **Cross Counter** | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") |
+|                   |                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------|
+| **Cross Counter** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Short Swing Blow
 
-|                      |                                                   |
-|----------------------|---------------------------------------------------|
-| **Short Swing Blow** | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png") |
+|                      |                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------|
+| **Short Swing Blow** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Duck
 
-|          |                                                   |
-|----------|---------------------------------------------------|
-| **Duck** | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png") |
+|          |                                                                                   |
+|----------|-----------------------------------------------------------------------------------|
+| **Duck** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ##### Ducking Straight (Duck Followup)
 
-|                   |                                                                                 |
-|-------------------|---------------------------------------------------------------------------------|
-| **Duck Straight** | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png") \> ![](Punch.png "Punch.png") |
+|                   |                                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Duck Straight** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") \> ![](/images/Punch.png "/images/Punch.png") |
 
 **Armor Break**
 
 ##### Ducking Upper (Duck Followup)
 
-|                   |                                                                               |
-|-------------------|-------------------------------------------------------------------------------|
-| **Ducking Upper** | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png") \> ![](Kick.png "Kick.png") |
+|                   |                                                                                                                               |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Ducking Upper** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") \> ![](/images/Kick.png "/images/Kick.png") |
 
 #### Thunder Bolt
 
-|                  |                                                                           |
-|------------------|---------------------------------------------------------------------------|
-| **Thunder Bolt** | ![](u.png "u.png") + ![](d.png "d.png") (charge) ![](Kick.png "Kick.png") |
+|                  |                                                                                                                           |
+|------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Thunder Bolt** | ![](/images/u.png "/images/u.png") + ![](/images/d.png "/images/d.png") (charge) ![](/images/Kick.png "/images/Kick.png") |
 
 ### Super Combo
 
 #### Rocket Upper
 
-|                  |                                                                            |
-|------------------|----------------------------------------------------------------------------|
-| **Rocket Upper** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                  |                                                                                                                            |
+|------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Rocket Upper** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultra Combos
 
 #### Rolling Thunder (Ultra 1)
 
-|                     |                                                                              |
-|---------------------|------------------------------------------------------------------------------|
-| **Rolling Thunder** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xKick.png "3xKick.png") |
+|                     |                                                                                                                              |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Rolling Thunder** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 #### Corkscrew Cross (Ultra 2)
 
-|                     |                                                                                |
-|---------------------|--------------------------------------------------------------------------------|
-| **Corkscrew Cross** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") |
+|                     |                                                                                                                                |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Corkscrew Cross** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## 6 Combos
 

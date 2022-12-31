@@ -1,4 +1,6 @@
-![](Ffspduck.PNG)  
+# Duck King (Fatal Fury Special)
+
+![](/images/Ffspduck.PNG)  
 
 ## Introduction
 

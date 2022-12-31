@@ -1,3 +1,5 @@
+# Défense
+
 ## Introduction
 
 Il faut avoir à l'esprit que tous les tirs et super tirs sont
@@ -99,8 +101,8 @@ défense conseillées (voir les fiches des personnages), 3/ réagir aux
 super lobs (par dash + HAUT ou BAS) et super lobs parfaits par un dash
 plus HAUT/ARRIERE ou BAS/ARRIERE *ou* déplacement arrière et dash + HAUT
 ou BAS.  
-<img src="sweet_spot.jpg" title="sweet_spot.jpg" width="250"
-alt="sweet_spot.jpg" />
+<img src="/images/sweet_spot.jpg" title="/images/sweet_spot.jpg"
+width="250" alt="/images/sweet_spot.jpg" />
 
 Note (avancée) :  
 -Dans ce dernier cas le sweet spot n'est plus tenu et donc il y a risque

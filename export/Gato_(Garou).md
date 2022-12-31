@@ -1,12 +1,14 @@
+# Gato (Garou)
+
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=Garou_:_Mark_of_the_Wolves)
-![](Gato.png‎ "Gato.png‎")
+![](/images/Gato.png‎ "/images/Gato.png‎")
 
 ## Introduction
 
 ### Couleurs
 
-![](Gatocolors.JPG "Gatocolors.JPG")
+![](/images/Gatocolors.JPG "/images/Gatocolors.JPG")
 
 ### Profil
 
@@ -156,7 +158,7 @@ pas tech roll sur une projection.
 
 #### Dai-en Shin (chope C)
 
-![](Gato_chopeC.png "Gato_chopeC.png")  
+![](/images/Gato_chopeC.png "/images/Gato_chopeC.png")  
 *Startup: 2F*  
 *Basic damage= 14*
 
@@ -174,7 +176,7 @@ personnages, listés
 
 #### Dan-Zetsu Tai (chope D)
 
-![](Gato_chopeD.png "Gato_chopeD.png")  
+![](/images/Gato_chopeD.png "/images/Gato_chopeD.png")  
 *Startup: 2F*  
 *Basic damage= 15*
 
@@ -196,7 +198,7 @@ clair, hors du coin, pensez chope D !
 
 #### Close A
 
-![](Gato_closeA.gif "Gato_closeA.gif")  
+![](/images/Gato_closeA.gif "/images/Gato_closeA.gif")  
 *Startup: 3F - Active: 1F*  
 *Frame Advantage Hit & Block: 6F*  
 *Basic damage= 4*  
@@ -209,7 +211,7 @@ Rei-Ga (aka Zero Kiba). Il peut être linké avec un close C ou un close D
 
 #### Close B
 
-![](Gato_closeB.gif "Gato_closeB.gif")  
+![](/images/Gato_closeB.gif "/images/Gato_closeB.gif")  
 *Startup: 5F - Active: 2F*  
 *Frame Advantage Hit & Block: 6F*  
 *Basic damage= 6*  
@@ -221,7 +223,7 @@ permet de l'intégrer facilement dans les blockstring. Se cancel
 
 #### Close C
 
-![](Gato_closeC.gif "Gato_closeC.gif")  
+![](/images/Gato_closeC.gif "/images/Gato_closeC.gif")  
 *Startup: 5F - Active: 3F*  
 *Frame Advantage Hit & Block: 3F*  
 *Basic damage= 10*  
@@ -233,7 +235,7 @@ hit sans causer autant de recul qu'un close D et ses 2 hits par exemple.
 
 #### Close D
 
-![](Gato_closeD1.gif "Gato_closeD1.gif")![](Gato_closeD2.gif "Gato_closeD2.gif")  
+![](/images/Gato_closeD1.gif "/images/Gato_closeD1.gif")![](/images/Gato_closeD2.gif "/images/Gato_closeD2.gif")  
 *Startup: 3F puis 5F - Active: 5F*  
 *Frame Advantage Hit & Block: 5F*  
 *Basic damage= 6+6*  
@@ -248,7 +250,7 @@ met à bonne distance pour tenter un saut crossup.
 
 #### Far A
 
-![](Gato_farA.gif "Gato_farA.gif")  
+![](/images/Gato_farA.gif "/images/Gato_farA.gif")  
 *Startup: 3F - Active: 2F*  
 *Frame Advantage Hit & Block: 1F*  
 *Basic damage= 5*  
@@ -259,7 +261,7 @@ A. Peut servir d'anti air tardif.
 
 #### Far B
 
-![](Gato_farB.gif "Gato_farB.gif")  
+![](/images/Gato_farB.gif "/images/Gato_farB.gif")  
 *Startup: 6F - Active: 2F*  
 *Frame Advantage Hit & Block: -3F*  
 *Basic damage= 7*  
@@ -273,7 +275,7 @@ place).
 
 #### Far C
 
-![](Gato_farC.gif "Gato_farC.gif")  
+![](/images/Gato_farC.gif "/images/Gato_farC.gif")  
 *Startup: 10F - Active: 3F*  
 *Frame Advantage Hit & Block: -4F*  
 *Basic damage= 14*
@@ -286,7 +288,7 @@ et far C étant parfois peu évidente !
 
 #### Far D
 
-![](Gato_farD.gif "Gato_farD.gif")  
+![](/images/Gato_farD.gif "/images/Gato_farD.gif")  
 *Startup: 13F - Active: 2F*  
 *Frame Advantage Hit & Block: -1F*  
 *Basic damage= 14*  
@@ -301,7 +303,7 @@ par course vers l'avant et reprise du pressing.
 
 #### Crouch A
 
-![](Gato_crA.gif "Gato_crA.gif")  
+![](/images/Gato_crA.gif "/images/Gato_crA.gif")  
 *Startup: 4F - Active: 2F*  
 *Frame Advantage Hit & Block: 6F*  
 *Basic damage= 4*  
@@ -313,7 +315,7 @@ un close A.
 
 #### Crouch B
 
-![](Gato_crB.gif "Gato_crB.gif")  
+![](/images/Gato_crB.gif "/images/Gato_crB.gif")  
 *Startup: 4F - Active: 3F*  
 *Frame Advantage Hit & Block: 4F* *Basic damage= 6*
 
@@ -325,7 +327,7 @@ just frame, pour ceux que cela intéresse (intérêt limité cependant).
 
 #### Crouch C
 
-![](Gato_crC.gif "Gato_crC.gif")  
+![](/images/Gato_crC.gif "/images/Gato_crC.gif")  
 *Startup: 7F - Active: 3F*  
 *Frame Advantage Hit & Block: -1F*  
 *Basic damage= 10*  
@@ -337,7 +339,7 @@ close C.
 
 #### Crouch D
 
-![](Gato_crD.gif "Gato_crD.gif")  
+![](/images/Gato_crD.gif "/images/Gato_crD.gif")  
 *Startup: 8F - Active: 2F*  
 *Met au sol, sinon Frame Advantage Block: -10F*  
 *Basic damage= 10*
@@ -347,7 +349,7 @@ la moyenne des balayettes des autres personnages.
 
 #### Jump A
 
-![](Gato_jA.gif "Gato_jA.gif")  
+![](/images/Gato_jA.gif "/images/Gato_jA.gif")  
 *Startup: 4F - Active: 9F*  
 *Frame Advantage Hit & Block: N.C*  
 *Basic damage= 5*
@@ -359,7 +361,7 @@ starter de combo.
 
 #### Jump B
 
-![](Gato_jB.gif "Gato_jB.gif")  
+![](/images/Gato_jB.gif "/images/Gato_jB.gif")  
 *Startup: 6F - Active: 7F*  
 *Frame Advantage Hit & Block: N.C*  
 *Basic damage= 5*
@@ -377,7 +379,7 @@ avec la commande air C+D dans toutes les situations.
 
 #### Jump C
 
-![](Gato_jC.gif "Gato_jC.gif")  
+![](/images/Gato_jC.gif "/images/Gato_jC.gif")  
 *Startup: 7F - Active: 5F*  
 *Frame Advantage Hit & Block: N.C*  
 *Basic damage= 10*
@@ -391,7 +393,7 @@ figure.
 
 #### Jump D
 
-![](Gato_jD.gif "Gato_jD.gif")  
+![](/images/Gato_jD.gif "/images/Gato_jD.gif")  
 *Startup: 10F - Active: 4F*  
 *Frame Advantage Hit & Block: N.C*  
 *Basic damage= 10*
@@ -408,7 +410,7 @@ l'orientation de sa hitbox.
 
 #### Sai Gaku (Avant A)
 
-![](Gato_6A.gif "Gato_6A.gif")  
+![](/images/Gato_6A.gif "/images/Gato_6A.gif")  
 *Startup: 19F - Active: 3F*  
 *Frame Advantage Hit & Block: 1F*  
 *Basic damage= 10*
@@ -431,7 +433,7 @@ des setups de 6A \> Zero Kiba (détaillées ailleurs).
 
 #### Mu-ran-Geri (Avant B)
 
-![](Gato_6B.gif "Gato_6B.gif")  
+![](/images/Gato_6B.gif "/images/Gato_6B.gif")  
 *Startup: 13F - Active: 4F*  
 *Frame Advantage Hit & Block: 1F*  
 *Basic damage= 11*
@@ -446,7 +448,7 @@ Rock par exemple. Le coup peut se linker avec la furie Zero Kiba si fait
 
 #### Kuuchuu Furi-Muki (C+D en l'air)
 
-![](Gato_airCD.png "Gato_airCD.png")  
+![](/images/Gato_airCD.png "/images/Gato_airCD.png")  
 Cette combinaison de boutons permet à Gato de faire un demi tour en
 l'air. Le timing dépend uniquement du moment où l'on appuie sur les
 boutons, et l'on est libre de mettre un coup en l'air derrière, ce qui
@@ -464,7 +466,7 @@ atout dans le jeu aérien de Gato.
 
 #### A+B (LEM)
 
-![](Gato_AB1.gif "Gato_AB1.gif")![](Gato_AB2.gif "Gato_AB2.gif")  
+![](/images/Gato_AB1.gif "/images/Gato_AB1.gif")![](/images/Gato_AB2.gif "/images/Gato_AB2.gif")  
 *Startup: 8F puis 11F - Active: 2F sur le 2e hit*  
 *Frame Advantage Hit : -6F puis -3F, Block: 3F sur le 2e hit*  
 *Invincible aux coups low sur le 1er hit: de 0 à 10F*  
@@ -482,7 +484,7 @@ en combo, si le recul n'est pas trop important.
 
 #### ↓ A+B (HEM)
 
-![](Gato_2AB.gif "Gato_2AB.gif")  
+![](/images/Gato_2AB.gif "/images/Gato_2AB.gif")  
 *Startup: 8F - Active: 2F*  
 *Frame Advantage Hit : -5F, Block: 1F*  
 *Invincible aux coups mid: de 0 à 6F*  
@@ -503,7 +505,7 @@ pressings de dash feint cancel.
 
 #### T.O.P Attack (Mou-Ko Kou Hazan )
 
-![](Gato_TOP.gif "Gato_TOP.gif")  
+![](/images/Gato_TOP.gif "/images/Gato_TOP.gif")  
 *Startup: 21F - Active: 3F*  
 *Met au sol, sinon Frame Advantage Block: -19F*  
 *Basic damage= 17 mais n'étant disponible qu'en T.O.P mode, les dommages
@@ -518,7 +520,7 @@ dégâts en garde ou pour viser le Guard Crush, à condition de l'utiliser
 
 #### Shin Ga (↓ ↘ → A) \>\>\> Tsuika Kougeki (→ → A)
 
-![](Gato_qcfA.gif "Gato_qcfA.gif")![](Gato_qcfAfu.gif "Gato_qcfAfu.gif")  
+![](/images/Gato_qcfA.gif "/images/Gato_qcfA.gif")![](/images/Gato_qcfAfu.gif "/images/Gato_qcfAfu.gif")  
 *Startup: 7F - Active: 2F sur le Shin Ga, 2F sur le Tsuika Kougeki*  
 ***Shin Ga**: Frame Advantage Hit : -1F, Block: -1F*  
 ***Tsuika Kougeki**: Met au sol, sinon Frame Advantage Block: -9F*  
@@ -534,7 +536,7 @@ ressentir. Le Shin Ga peut également servir en Guard Cancel.
 
 #### Shin Ga (↓ ↘ → C) \>\>\> Tsuika Kougeki (→ → C)
 
-![](Gato_qcfC.gif "Gato_qcfC.gif")![](Gato_qcfCfu.gif "Gato_qcfCfu.gif")  
+![](/images/Gato_qcfC.gif "/images/Gato_qcfC.gif")![](/images/Gato_qcfCfu.gif "/images/Gato_qcfCfu.gif")  
 *Startup: 16F - Active: 2F sur le Shin Ga, 2F sur le Tsuika Kougeki*  
 ***Shin Ga**: Frame Advantage Hit : -5F, Block: -5F*  
 ***Tsuika Kougeki**: Met au sol, sinon Frame Advantage Block: -11F*  
@@ -547,7 +549,7 @@ screenshots), les propriétés restent les mêmes que pour la version A.
 
 #### Rai-Ga ( → ↓ ↘ B)
 
-![](Gato_dpB1&BR.gif "Gato_dpB1&BR.gif")![](Gato_dpB2.gif "Gato_dpB2.gif")![](Gato_dpB3.gif "Gato_dpB3.gif")![](Gato_dpB4.gif "Gato_dpB4.gif")![](Gato_dpB5.gif "Gato_dpB5.gif")  
+![](/images/Gato_dpB1&BR.gif "/images/Gato_dpB1&BR.gif")![](/images/Gato_dpB2.gif "/images/Gato_dpB2.gif")![](/images/Gato_dpB3.gif "/images/Gato_dpB3.gif")![](/images/Gato_dpB4.gif "/images/Gato_dpB4.gif")![](/images/Gato_dpB5.gif "/images/Gato_dpB5.gif")  
 *Startup cumulé: 1er hit= 3F, 2e hit= 10F, 3e hit= 15F, 4e hit= 20F, 5e
 hit= 25F*  
 *Active: 1F sur le 1er hit, 3F sur le 5e hit*  
@@ -572,7 +574,7 @@ combos).
 
 #### Rai-Ga ( → ↓ ↘ D)
 
-![](Gato_dpB1&BR.gif "Gato_dpB1&BR.gif")![](Gato_dpB2.gif "Gato_dpB2.gif")![](Gato_dpB3.gif "Gato_dpB3.gif")![](Gato_dpB4.gif "Gato_dpB4.gif")![](Gato_dpB5.gif "Gato_dpB5.gif")![](Gato_dpD6.gif "Gato_dpD6.gif")![](Gato_dpD7.gif "Gato_dpD7.gif")  
+![](/images/Gato_dpB1&BR.gif "/images/Gato_dpB1&BR.gif")![](/images/Gato_dpB2.gif "/images/Gato_dpB2.gif")![](/images/Gato_dpB3.gif "/images/Gato_dpB3.gif")![](/images/Gato_dpB4.gif "/images/Gato_dpB4.gif")![](/images/Gato_dpB5.gif "/images/Gato_dpB5.gif")![](/images/Gato_dpD6.gif "/images/Gato_dpD6.gif")![](/images/Gato_dpD7.gif "/images/Gato_dpD7.gif")  
 *Startup cumulé: 1er hit= 3F, 2e hit= 10F, 3e hit= 15F, 4e hit= 20F, 5e
 hit= 25F, 6e hit= 31F et 32F*  
 *Active: 1F sur le 1er hit, 2F sur le dernier hit*  
@@ -589,7 +591,7 @@ il est soumis aux mêmes propriétés que la version B.
 
 #### Rai-Ga !BR
 
-![](Gato_dpB1&BR.gif "Gato_dpB1&BR.gif")  
+![](/images/Gato_dpB1&BR.gif "/images/Gato_dpB1&BR.gif")  
 *Startup: 3F - Active: 1F*  
 *Met au sol, sinon Frame Advantage Block: 6F*  
 *Basic damage= 5*
@@ -607,7 +609,7 @@ laisse à +6F d'avantage, ce qui rend le pressing totalement safe.
 
 #### Fuu-Ga (↓ ↙ ← B)
 
-![](Gato_qcbB.gif "Gato_qcbB.gif")  
+![](/images/Gato_qcbB.gif "/images/Gato_qcbB.gif")  
 *Startup: 6F - Active: 1F*  
 *Frame Advantage Hit & Block: -11F*  
 *Basic damage= 10*
@@ -634,7 +636,7 @@ détaillés plus bas.
 
 #### Fuu-Ga (↓ ↙ ← D)
 
-![](Gato_qcbD.gif "Gato_qcbD.gif")  
+![](/images/Gato_qcbD.gif "/images/Gato_qcbD.gif")  
 *Startup: 7F - Active: 1F*  
 *Met au sol, sinon Frame Advantage Block: -19F*  
 *Basic damage= 10*
@@ -659,7 +661,7 @@ Kiba est absolument primordial !
 
 #### Kou-Ga (Fuu-Ga, A)
 
-![](Gato_qcb_A.gif "Gato_qcb_A.gif")  
+![](/images/Gato_qcb_A.gif "/images/Gato_qcb_A.gif")  
 *Active: 11F*  
 *Frame Advantage Hit & Block: 4F*  
 *Basic damage= 15*
@@ -683,7 +685,7 @@ quelques secondes.
 
 #### Sen-Ga (Fuu-Ga, B)
 
-![](Gato_qcb_B.gif "Gato_qcb_B.gif")  
+![](/images/Gato_qcb_B.gif "/images/Gato_qcb_B.gif")  
 *Active: 3F*  
 *Frame Advantage Block: -3F*  
 *Basic damage= 12*
@@ -708,7 +710,7 @@ retomberez bien après votre adversaire.
 
 #### Kyuu-Ga (Fuu-Ga, C)
 
-![](Gato_qcb_C.gif "Gato_qcb_C.gif")  
+![](/images/Gato_qcb_C.gif "/images/Gato_qcb_C.gif")  
 *Active: jusqu'à l'atterrissage*  
 *Frame Advantage Hit: 8F Block: jusqu'à 4F*  
 *Basic damage= 13*
@@ -732,7 +734,7 @@ les setups d'imblocables par exemple.
 
 #### Katsu-Ga (Fuu-Ga, D)
 
-![](Gato_qcb_D.gif "Gato_qcb_D.gif")  
+![](/images/Gato_qcb_D.gif "/images/Gato_qcb_D.gif")  
 *Active: 10F*  
 *Met au sol, sinon Frame Advantage Block: -9F*  
 *Basic damage= 15*
@@ -748,7 +750,7 @@ retenez bien que le mauvais choix vous laissera en grand danger.
 
 #### Hou-zan Sai Heki-Ga (⬇ ↑ C)
 
-![](Gato_duC1.gif "Gato_duC1.gif")![](Gato_duC2.gif "Gato_duC2.gif")  
+![](/images/Gato_duC1.gif "/images/Gato_duC1.gif")![](/images/Gato_duC2.gif "/images/Gato_duC2.gif")  
 *Startup: 5F - Active: 11F*  
 *Si connecte, Active: 4F*  
 *Met au sol, sinon Frame Advantage Block: -6F*  
@@ -773,7 +775,7 @@ limitée, donc.
 
 #### Rei-Ga (↓ ↘ → ↓ ↘ → A)
 
-![](Gato_spowA.gif "Gato_spowA.gif")  
+![](/images/Gato_spowA.gif "/images/Gato_spowA.gif")  
 *Startup: 0F - Active: 1F*  
 *Met au sol, sinon Frame Advantage Block: -8F*  
 *Basic damage= 10+28*  
@@ -795,7 +797,7 @@ connecte).
 
 #### Ryuu-Ga (↓ ↘ → ↓ ↘ → B)
 
-![](Gato_spowB1.gif "Gato_spowB1.gif")![](Gato_spowB2.gif "Gato_spowB2.gif")  
+![](/images/Gato_spowB1.gif "/images/Gato_spowB1.gif")![](/images/Gato_spowB2.gif "/images/Gato_spowB2.gif")  
 *Startup: 3F - Active: 1F sur le 1er hit, jusqu'à 28F sur les 7 hits*  
 *Met au sol, sinon Frame Advantage Block: -55F*  
 *Basic damage= 7+6+6+6+6+6+6*  
@@ -816,7 +818,7 @@ combo.
 
 #### Rei-Ga (↓ ↘ → ↓ ↘ → C)
 
-![](Gato_ppowC.gif "Gato_ppowC.gif")  
+![](/images/Gato_ppowC.gif "/images/Gato_ppowC.gif")  
 *Startup: 0F - Active: 1F*  
 *Met au sol, sinon Frame Advantage Block: -8F*  
 *Basic damage= 10+20+25*  
@@ -830,7 +832,7 @@ pour mettre K.O l'adversaire
 
 #### Ryuu-Ga (↓ ↘ → ↓ ↘ → D)
 
-![](Gato_ppowD1.gif "Gato_ppowD1.gif")![](Gato_ppowD2.gif "Gato_ppowD2.gif")  
+![](/images/Gato_ppowD1.gif "/images/Gato_ppowD1.gif")![](/images/Gato_ppowD2.gif "/images/Gato_ppowD2.gif")  
 *Startup: 3F - Active: 1F sur le 1er hit, jusqu'à 28F sur les 7 hits*  
 *Met au sol, sinon Frame Advantage Block: -79F*  
 *Basic damage= 7+7+7+7+7+7+7+7+7*  
@@ -1041,7 +1043,7 @@ La seul exigence de cette technique est le timing, qui demande d'appuyer
 sur le bouton A à un moment précis, à savoir lorsque Gato écarte les
 bras juste avant de sauter. Le timing est détaillé dans le gif ci
 dessous:  
-![](Fuuga2.gif "Fuuga2.gif")  
+![](/images/Fuuga2.gif "/images/Fuuga2.gif")  
 La technique fonctionne que vous utilisiez le Fuu-Ga B ou D. Sa vitesse
 d'exécution fait qu'on peut le faire plusieurs fois à distance sans être
 punissable (au moins 2 fois avant d'être menacé par un projectile en
@@ -1154,81 +1156,81 @@ milieu, si vous êtes prudent et que vous jouez sur les deux tableaux.
 
 ### Rock Howard
 
-|     |                          |                                                                                                                                                                                                                                                                                            |
-|-----|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Rock.png‎ "Rock.png‎") | Matchup assez simple pour Gato, faites attention aux pokes de loin qui vous empêcheront d'avancer, ainsi qu'au Rising Tackle lors de vos rushes à base de small jumps. Au corps à corps pensez garde basse tout en vous méfiant des jump in bien sûr, mais aussi des setups de chope 360°. |
+|     |                                          |                                                                                                                                                                                                                                                                                            |
+|-----|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Rock.png‎ "/images/Rock.png‎") | Matchup assez simple pour Gato, faites attention aux pokes de loin qui vous empêcheront d'avancer, ainsi qu'au Rising Tackle lors de vos rushes à base de small jumps. Au corps à corps pensez garde basse tout en vous méfiant des jump in bien sûr, mais aussi des setups de chope 360°. |
 
 ### Kim Dong Hwan
 
-|     |                                  |                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-----|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Donghwan.png‎ "Donghwan.png‎") | Matchup équilibré, Dong a de très bons moyens de presser Gato, que ce soit par les airs ou le sol (quand il ne vous chope pas), son jeu de mixup étant très développé. La tendance s'inverse lorsque Gato a une Zero Kiba en stock, puisque la majorité des coups de Dong sont unsafe même en hit, punissez en réflexe et ce dernier aura beaucoup plus de difficultés à vous approcher. Attention à sa zéro frame en l'air ! |
+|     |                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Donghwan.png‎ "/images/Donghwan.png‎") | Matchup équilibré, Dong a de très bons moyens de presser Gato, que ce soit par les airs ou le sol (quand il ne vous chope pas), son jeu de mixup étant très développé. La tendance s'inverse lorsque Gato a une Zero Kiba en stock, puisque la majorité des coups de Dong sont unsafe même en hit, punissez en réflexe et ce dernier aura beaucoup plus de difficultés à vous approcher. Attention à sa zéro frame en l'air ! |
 
 ### Hotaru Futaba
 
-|     |                              |                                                                                                                                                                                                                                                                                                         |
-|-----|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Hotaru.png‎ "Hotaru.png‎") | Matchup légèrement en faveur de Gato du fait de la faible résistance de Hotaru face aux puissantes attaques de son frangin. N'essayez pas la voie des airs sauf en rush de small jumps, car elle possède un des meilleurs, sinon le meilleur jeu air to air du jeu. Attention à sa zéro frame anti air. |
+|     |                                              |                                                                                                                                                                                                                                                                                                         |
+|-----|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Hotaru.png‎ "/images/Hotaru.png‎") | Matchup légèrement en faveur de Gato du fait de la faible résistance de Hotaru face aux puissantes attaques de son frangin. N'essayez pas la voie des airs sauf en rush de small jumps, car elle possède un des meilleurs, sinon le meilleur jeu air to air du jeu. Attention à sa zéro frame anti air. |
 
 ### Marco Rodriguez
 
-|     |                                    |                                                                                                                                                                                                                                                                                                                                                                                         |
-|-----|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Khushnood.png‎ "Khushnood.png‎") | Matchup plutôt en faveur de Gato, un bon Marco ne se laissera pas approcher facilement; en fait c'est plutôt lui qui vous foncera dessus. Maîtrisez bien votre jeu de Guard Cancel (par exemple Fuu-Ga sur le 2e ou 3e hit d'un blockstring) pour renverser la vapeur, car une fois au sol, si vous réussissez à déjouer les dragon punch, vous aurez la voie libre pour le mettre K.O. |
+|     |                                                    |                                                                                                                                                                                                                                                                                                                                                                                         |
+|-----|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Khushnood.png‎ "/images/Khushnood.png‎") | Matchup plutôt en faveur de Gato, un bon Marco ne se laissera pas approcher facilement; en fait c'est plutôt lui qui vous foncera dessus. Maîtrisez bien votre jeu de Guard Cancel (par exemple Fuu-Ga sur le 2e ou 3e hit d'un blockstring) pour renverser la vapeur, car une fois au sol, si vous réussissez à déjouer les dragon punch, vous aurez la voie libre pour le mettre K.O. |
 
 ### Hokutomaru
 
-|     |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-----|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Hokutomaru.png‎ "Hokutomaru.png‎") | Matchup en faveur de Gato, là aussi la résistance d'Hokutomaru lui fera défaut. Attention cependant aux capacités de pressing quasi-infinies du personnage, notamment par les airs avec son double saut et ses nombreux targets. Sa course très rapide risque également de vous poser des problèmes de placement, Hokutomaru pouvant trouver le cross-down aussi aisément que le cross-up. En clair, essayez de l'attaquer avant d'être submergé |
+|     |                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Hokutomaru.png‎ "/images/Hokutomaru.png‎") | Matchup en faveur de Gato, là aussi la résistance d'Hokutomaru lui fera défaut. Attention cependant aux capacités de pressing quasi-infinies du personnage, notamment par les airs avec son double saut et ses nombreux targets. Sa course très rapide risque également de vous poser des problèmes de placement, Hokutomaru pouvant trouver le cross-down aussi aisément que le cross-up. En clair, essayez de l'attaquer avant d'être submergé |
 
 ### Kevin Rian
 
-|     |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-----|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Kevin.png‎ "Kevin.png‎") | Matchup peu évident, Kevin est une vraie machine de guerre qui peut presser très aisément et indéfiniment. La Zero Kiba vous sera plus que jamais utile, il faudra la placer à la moindre opportunité, et charger la barre dès que possible. Là encore, avoir un jeu de Guard Cancel avancé permettra de renverser la vapeur. Enfin, à partir du moment où Kevin a sa P Power de chargée, sachez que la moindre erreur pourra vous coûter plus de 50% de barre de vie. Alors, méfiance... |
+|     |                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-----|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Kevin.png‎ "/images/Kevin.png‎") | Matchup peu évident, Kevin est une vraie machine de guerre qui peut presser très aisément et indéfiniment. La Zero Kiba vous sera plus que jamais utile, il faudra la placer à la moindre opportunité, et charger la barre dès que possible. Là encore, avoir un jeu de Guard Cancel avancé permettra de renverser la vapeur. Enfin, à partir du moment où Kevin a sa P Power de chargée, sachez que la moindre erreur pourra vous coûter plus de 50% de barre de vie. Alors, méfiance... |
 
 ### Freeman
 
-|     |                                |                                                                                                                                                                                                                                                        |
-|-----|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Freeman.png‎ "Freeman.png‎") | Matchup simple, Freeman n'ayant aucun atout défensif majeur à part ses Guard Cancel. Attaquez tout en décalant et mixant vos coups pour le rendre chèvre. Attention néanmoins à son zoning de loin et ses cancels de light qui peuvent faire très mal. |
+|     |                                                |                                                                                                                                                                                                                                                        |
+|-----|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Freeman.png‎ "/images/Freeman.png‎") | Matchup simple, Freeman n'ayant aucun atout défensif majeur à part ses Guard Cancel. Attaquez tout en décalant et mixant vos coups pour le rendre chèvre. Attention néanmoins à son zoning de loin et ses cancels de light qui peuvent faire très mal. |
 
 ### The Griffon
 
-|     |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-----|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Tizoc.png‎ "Tizoc.png‎") | Matchup plutôt en faveur de Gato, mais pas forcément évident, car un bon Griffon vous donnera toutes les peines du monde à l'approcher, et une fois au corps à corps, usera de son bas A+B et de sa feinte avant pour vous contrer et vous choper. Utilisez les air target, le saut C+D et les combos/blockstrings à base de light pour le forcer dans le coin où il est plus vulnérable. Punissez ses jump-ins par des Guard Cancel de Fuu-Ga. |
+|     |                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-----|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Tizoc.png‎ "/images/Tizoc.png‎") | Matchup plutôt en faveur de Gato, mais pas forcément évident, car un bon Griffon vous donnera toutes les peines du monde à l'approcher, et une fois au corps à corps, usera de son bas A+B et de sa feinte avant pour vous contrer et vous choper. Utilisez les air target, le saut C+D et les combos/blockstrings à base de light pour le forcer dans le coin où il est plus vulnérable. Punissez ses jump-ins par des Guard Cancel de Fuu-Ga. |
 
 ### B.Jenet
 
-|     |                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-----|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Bjenet.png‎ "Bjenet.png‎") | Matchup compliqué, Jenet a la capacité d'arriver sur Gato tellement vite à l'aide de son dive kick, pour enchaîner sur des blockstrings ou des dash feintes, qu'une fois le pressing commencé vous aurez toutes les peines du monde à vous en extirper. Guettez l'erreur ou le trou dans le timing et placez un bas A+B ou fuyez tout simplement. Mais attention à sa air chope en vous échappant ! Dans l'autre sens, Jenet est très difficile à atteindre, toujours avec ses dive kick en cancel de backdash notamment. En revanche elle est un peu plus vulnérable aux small jumps et confirms de Rai-Ga/Zero Kiba, et surtout elle encaisse comme une fille... Comment ? Ah oui, c'est une fille. |
+|     |                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-----|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Bjenet.png‎ "/images/Bjenet.png‎") | Matchup compliqué, Jenet a la capacité d'arriver sur Gato tellement vite à l'aide de son dive kick, pour enchaîner sur des blockstrings ou des dash feintes, qu'une fois le pressing commencé vous aurez toutes les peines du monde à vous en extirper. Guettez l'erreur ou le trou dans le timing et placez un bas A+B ou fuyez tout simplement. Mais attention à sa air chope en vous échappant ! Dans l'autre sens, Jenet est très difficile à atteindre, toujours avec ses dive kick en cancel de backdash notamment. En revanche elle est un peu plus vulnérable aux small jumps et confirms de Rai-Ga/Zero Kiba, et surtout elle encaisse comme une fille... Comment ? Ah oui, c'est une fille. |
 
 ### Kim Jae Hoon
 
-|     |                                |                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-----|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Jaehoon.png‎ "Jaehoon.png‎") | Matchup équilibré mais délicat, Jae Hoon comme son frère possède d'excellents outils de zoning et de poking, mais il a l'avantage de faire énormément de dégâts à la moindre ouverture de garde (en T.O.P in, n'en parlons pas...), qui se trouve facilement sur un stand A ou un small jump A. Attention donc à la garde dans ce versus, utilisez vos Guard Cancels, votre bas A+B est également des plus utiles pour contrer ses pressings. |
+|     |                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Jaehoon.png‎ "/images/Jaehoon.png‎") | Matchup équilibré mais délicat, Jae Hoon comme son frère possède d'excellents outils de zoning et de poking, mais il a l'avantage de faire énormément de dégâts à la moindre ouverture de garde (en T.O.P in, n'en parlons pas...), qui se trouve facilement sur un stand A ou un small jump A. Attention donc à la garde dans ce versus, utilisez vos Guard Cancels, votre bas A+B est également des plus utiles pour contrer ses pressings. |
 
 ### Terry Bogard
 
-|     |                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-----|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Garou-terry.png‎ "Garou-terry.png‎") | Matchup équilibré, légèrement en faveur de Gato. Un Terry qui a commencé son pressing devient difficile à repousser, et Gato a un zoning de loin assez limité; aussi il faut réagir en réflexe à ses mouvements par les coups adéquats (close D anti air, bas AB anti mid, etc...). Attention également aux dégâts, Terry fait plutôt mal. En attaque, méfiez vous du Power Dunk (son dragon break anti air), amenez le dans le coin et il sera beaucoup plus limité face à vos attaques. |
+|     |                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-----|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Garou-terry.png‎ "/images/Garou-terry.png‎") | Matchup équilibré, légèrement en faveur de Gato. Un Terry qui a commencé son pressing devient difficile à repousser, et Gato a un zoning de loin assez limité; aussi il faut réagir en réflexe à ses mouvements par les coups adéquats (close D anti air, bas AB anti mid, etc...). Attention également aux dégâts, Terry fait plutôt mal. En attaque, méfiez vous du Power Dunk (son dragon break anti air), amenez le dans le coin et il sera beaucoup plus limité face à vos attaques. |
 
 ### Grant
 
-|     |                                  |                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-----|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](vignette.png‎ "vignette.png‎") | Matchup difficile pour Gato, comme pour tout personnage du jeu, Grant ayant à la fois d'excellentes force de frappe et résistance. Comme dans tout matchup difficile, votre Zero Kiba et vos capacités de Guard Cancel vous sauveront la mise. Travaillez bien la garde contre les pressings de lights, les blockstrings, les crossups, les coups air to air, etc... Bref de la pratique surtout ! |
+|     |                                                  |                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-----|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/vignette.png‎ "/images/vignette.png‎") | Matchup difficile pour Gato, comme pour tout personnage du jeu, Grant ayant à la fois d'excellentes force de frappe et résistance. Comme dans tout matchup difficile, votre Zero Kiba et vos capacités de Guard Cancel vous sauveront la mise. Travaillez bien la garde contre les pressings de lights, les blockstrings, les crossups, les coups air to air, etc... Bref de la pratique surtout ! |
 
 ### Kain.R.Heinlein
 
-|     |                          |                                                                                                                                                                                                                                                                                                                                |
-|-----|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | ![](Kain.png‎ "Kain.png‎") | Matchup équilibré mais délicat, Kain ayant à la fois les capacités de pressing et Guard Crush, mais aussi une défense difficile à passer avec son redoutable Schwarz Lance. Là encore, chargez la barre, utilisez vos Guard Cancel, surprenez avec les small jumps to confirm. Oubliez les jolis combos, contrez et punissez ! |
+|     |                                          |                                                                                                                                                                                                                                                                                                                                |
+|-----|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | ![](/images/Kain.png‎ "/images/Kain.png‎") | Matchup équilibré mais délicat, Kain ayant à la fois les capacités de pressing et Guard Crush, mais aussi une défense difficile à passer avec son redoutable Schwarz Lance. Là encore, chargez la barre, utilisez vos Guard Cancel, surprenez avec les small jumps to confirm. Oubliez les jolis combos, contrez et punissez ! |
 
 ## Tableaux récapitulatifs
 
@@ -1236,54 +1238,54 @@ milieu, si vous êtes prudent et que vous jouez sur les deux tableaux.
 
 ### Coups spéciaux
 
-|                                                                                    |                        |                   |                 |
-|------------------------------------------------------------------------------------|------------------------|-------------------|-----------------|
-| **Commande**                                                                       | **Coup**               | **Dégâts faible** | **Dégâts fort** |
-| ![](qcf.gif "qcf.gif") + ![](punch.gif "punch.gif")                                | **Shin-ga**            | 10                | 12              |
-| ---![](f.gif "f.gif"), ![](f.gif "f.gif") + ![](punch.gif "punch.gif")             | **Shin-ga**            | 10                | 11              |
-| ![](qcb.gif "qcb.gif") + ![](kick.gif "kick.gif")                                  | **Fuu-ga**             | 10                | 10              |
-| ---![](Snka.gif "Snka.gif")                                                        | **Kou-Ga**             | 15                | NA              |
-| ---![](Snkb.gif "Snkb.gif")                                                        | **Sen-Ga**             | 12                | NA              |
-| ---![](Snkc.gif "Snkc.gif")                                                        | **Kyuu-Ga**            | NA                | 13              |
-| ---![](Snkd.gif "Snkd.gif")                                                        | **Katsu-Ga**           | NA                | 15              |
-| ![](dp.gif "dp.gif") + ![](kick.gif "kick.gif")                                    | **Rai-ga**             | 16                | 20              |
-| ![](dp.gif "dp.gif") + ![](kick.gif "kick.gif") (Break)                            | **Rai-ga**             | 5                 | 5               |
-| charge ![](down.gif "down.gif"), ![](up1.gif "up1.gif") + ![](snkc.gif "snkc.gif") | **Houzan Sai Heki-ga** | NA                | 20              |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](punch.gif "punch.gif")        | **Rei-Ga**             | 35                | 48              |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](kick.gif "kick.gif")          | **Ryuu-Ga**'           | 32                | 43              |
-| ![](dp.gif "dp.gif") + ![](Snka.gif "Snka.gif")![](Snkb.gif "Snkb.gif")            | **Tenryuu Retsu-Ga**   | NA                | 14              |
-| ---![](dp.gif "dp.gif") + ![](Snka.gif "Snka.gif")![](Snkb.gif "Snkb.gif")         | **Tenryuu Retsu-Ga**   | NA                | 17              |
-| -----![](dp.gif "dp.gif") + ![](Snka.gif "Snka.gif")![](Snkb.gif "Snkb.gif")       | **Tenryuu Retsu-Ga**   | NA                | 32              |
+|                                                                                                                                    |                        |                   |                 |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------|-----------------|
+| **Commande**                                                                                                                       | **Coup**               | **Dégâts faible** | **Dégâts fort** |
+| ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/punch.gif "/images/punch.gif")                                                | **Shin-ga**            | 10                | 12              |
+| ---![](/images/f.gif "/images/f.gif"), ![](/images/f.gif "/images/f.gif") + ![](/images/punch.gif "/images/punch.gif")             | **Shin-ga**            | 10                | 11              |
+| ![](/images/qcb.gif "/images/qcb.gif") + ![](/images/kick.gif "/images/kick.gif")                                                  | **Fuu-ga**             | 10                | 10              |
+| ---![](/images/Snka.gif "/images/Snka.gif")                                                                                        | **Kou-Ga**             | 15                | NA              |
+| ---![](/images/Snkb.gif "/images/Snkb.gif")                                                                                        | **Sen-Ga**             | 12                | NA              |
+| ---![](/images/Snkc.gif "/images/Snkc.gif")                                                                                        | **Kyuu-Ga**            | NA                | 13              |
+| ---![](/images/Snkd.gif "/images/Snkd.gif")                                                                                        | **Katsu-Ga**           | NA                | 15              |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/kick.gif "/images/kick.gif")                                                    | **Rai-ga**             | 16                | 20              |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/kick.gif "/images/kick.gif") (Break)                                            | **Rai-ga**             | 5                 | 5               |
+| charge ![](/images/down.gif "/images/down.gif"), ![](/images/up1.gif "/images/up1.gif") + ![](/images/snkc.gif "/images/snkc.gif") | **Houzan Sai Heki-ga** | NA                | 20              |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/punch.gif "/images/punch.gif")        | **Rei-Ga**             | 35                | 48              |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/kick.gif "/images/kick.gif")          | **Ryuu-Ga**'           | 32                | 43              |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/Snka.gif "/images/Snka.gif")![](/images/Snkb.gif "/images/Snkb.gif")            | **Tenryuu Retsu-Ga**   | NA                | 14              |
+| ---![](/images/dp.gif "/images/dp.gif") + ![](/images/Snka.gif "/images/Snka.gif")![](/images/Snkb.gif "/images/Snkb.gif")         | **Tenryuu Retsu-Ga**   | NA                | 17              |
+| -----![](/images/dp.gif "/images/dp.gif") + ![](/images/Snka.gif "/images/Snka.gif")![](/images/Snkb.gif "/images/Snkb.gif")       | **Tenryuu Retsu-Ga**   | NA                | 32              |
 
 ### Propriétés des coups
 
-|                                                                                |                   |                     |                  |
-|--------------------------------------------------------------------------------|-------------------|---------------------|------------------|
-| **Commande**                                                                   | **Cancel en Hit** | **Cancel en Block** | **Feint Cancel** |
-| Far ![](Snka.gif "Snka.gif")                                                   | O                 | O                   | O                |
-| Far ![](Snkb.gif "Snkb.gif")                                                   | O                 | O                   | O                |
-| Far ![](Snkc.gif "Snkc.gif")                                                   | X                 | X                   | X                |
-| Far ![](Snkd.gif "Snkd.gif")                                                   | X                 | O                   | O (on block)     |
-| Close ![](Snka.gif "Snka.gif")                                                 | O                 | O                   | O                |
-| Close ![](Snkb.gif "Snkb.gif")                                                 | O                 | O                   | O                |
-| Close ![](Snkc.gif "Snkc.gif")                                                 | O                 | O                   | O                |
-| Close ![](Snkd.gif "Snkd.gif")                                                 | O(1st hit)        | O(1st hit)          | O (1st hit)      |
-| ![](down.gif "down.gif") ![](Snka.gif "Snka.gif")                              | O                 | O                   | O                |
-| ![](down.gif "down.gif") ![](Snkb.gif "Snkb.gif")                              | X                 | X                   | X                |
-| ![](down.gif "down.gif") ![](Snkc.gif "Snkc.gif")                              | O                 | O                   | O                |
-| ![](down.gif "down.gif") ![](Snkd.gif "Snkd.gif")                              | X                 | X                   | X                |
-| jump ![](Snka.gif "Snka.gif")                                                  | NA                | NA                  | NA               |
-| jump ![](Snkb.gif "Snkb.gif")                                                  | NA                | NA                  | NA               |
-| jump ![](Snkc.gif "Snkc.gif")                                                  | NA                | NA                  | NA               |
-| jump ![](Snkd.gif "Snkd.gif")                                                  | NA                | NA                  | NA               |
-| hop ![](Snka.gif "Snka.gif")                                                   | NA                | NA                  | NA               |
-| hop ![](Snkb.gif "Snkb.gif")                                                   | NA                | NA                  | NA               |
-| hop ![](Snkc.gif "Snkc.gif")                                                   | NA                | NA                  | NA               |
-| hop ![](Snkd.gif "Snkd.gif")                                                   | NA                | NA                  | NA               |
-| ![](Snka.gif "Snka.gif") + ![](Snkb.gif "Snkb.gif")                            | NA                | NA                  | NA               |
-| ![](down.gif "down.gif") + ![](Snka.gif "Snka.gif") + ![](Snkb.gif "Snkb.gif") | O                 | X                   | O                |
-| ![](f.gif "f.gif") + ![](Snka.gif "Snka.gif")                                  | X                 | X                   | X                |
-| ![](f.gif "f.gif") + ![](Snkb.gif "Snkb.gif")                                  | X                 | X                   | X                |
+|                                                                                                                                |                   |                     |                  |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------|---------------------|------------------|
+| **Commande**                                                                                                                   | **Cancel en Hit** | **Cancel en Block** | **Feint Cancel** |
+| Far ![](/images/Snka.gif "/images/Snka.gif")                                                                                   | O                 | O                   | O                |
+| Far ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                   | O                 | O                   | O                |
+| Far ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                   | X                 | X                   | X                |
+| Far ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                   | X                 | O                   | O (on block)     |
+| Close ![](/images/Snka.gif "/images/Snka.gif")                                                                                 | O                 | O                   | O                |
+| Close ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                 | O                 | O                   | O                |
+| Close ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                 | O                 | O                   | O                |
+| Close ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                 | O(1st hit)        | O(1st hit)          | O (1st hit)      |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snka.gif "/images/Snka.gif")                                              | O                 | O                   | O                |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkb.gif "/images/Snkb.gif")                                              | X                 | X                   | X                |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkc.gif "/images/Snkc.gif")                                              | O                 | O                   | O                |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkd.gif "/images/Snkd.gif")                                              | X                 | X                   | X                |
+| jump ![](/images/Snka.gif "/images/Snka.gif")                                                                                  | NA                | NA                  | NA               |
+| jump ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                  | NA                | NA                  | NA               |
+| jump ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                  | NA                | NA                  | NA               |
+| jump ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                  | NA                | NA                  | NA               |
+| hop ![](/images/Snka.gif "/images/Snka.gif")                                                                                   | NA                | NA                  | NA               |
+| hop ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                   | NA                | NA                  | NA               |
+| hop ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                   | NA                | NA                  | NA               |
+| hop ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                   | NA                | NA                  | NA               |
+| ![](/images/Snka.gif "/images/Snka.gif") + ![](/images/Snkb.gif "/images/Snkb.gif")                                            | NA                | NA                  | NA               |
+| ![](/images/down.gif "/images/down.gif") + ![](/images/Snka.gif "/images/Snka.gif") + ![](/images/Snkb.gif "/images/Snkb.gif") | O                 | X                   | O                |
+| ![](/images/f.gif "/images/f.gif") + ![](/images/Snka.gif "/images/Snka.gif")                                                  | X                 | X                   | X                |
+| ![](/images/f.gif "/images/f.gif") + ![](/images/Snkb.gif "/images/Snkb.gif")                                                  | X                 | X                   | X                |
 
 ### Frame Data
 
@@ -1296,48 +1298,48 @@ Legende :
 **-** représente le nombre de frames de désavantage qu'a l'attaquant.  
 **KD** signifie que l'attaque met l'adversaire au sol.
 
-|                                                                                 |              |         |           |
-|---------------------------------------------------------------------------------|--------------|---------|-----------|
-| **Command**                                                                     | **Start Up** | **Hit** | **Garde** |
-| Close ![](Snka.gif "Snka.gif")                                                  | **3**        | **+6**  | **+6**    |
-| Close ![](Snkb.gif "Snkb.gif")                                                  | **5**        | **+6**  | **+6**    |
-| Close ![](Snkc.gif "Snkc.gif")                                                  | **5**        | **+3**  | **+3**    |
-| Close ![](Snkd.gif "Snkd.gif")                                                  | **3**        | **+5**  | **+5**    |
-| Far ![](Snka.gif "Snka.gif")                                                    | **3**        | **+1**  | **+1**    |
-| Far ![](Snkb.gif "Snkb.gif")                                                    | **6**        | **-3**  | **-3**    |
-| Far ![](Snkc.gif "Snkc.gif")                                                    | **10**       | **-4**  | **-4**    |
-| Far ![](Snkd.gif "Snkd.gif")                                                    | **13**       | **-1**  | **-1**    |
-| ![](down.gif "down.gif") ![](Snka.gif "Snka.gif")                               | **4**        | **+6**  | **+6**    |
-| ![](down.gif "down.gif") ![](Snkb.gif "Snkb.gif")                               | **4**        | **+4**  | **+4**    |
-| ![](down.gif "down.gif") ![](Snkc.gif "Snkc.gif")                               | **7**        | **-1**  | **-1**    |
-| ![](down.gif "down.gif") ![](Snkd.gif "Snkd.gif")                               | **8**        | **KD**  | **-10**   |
-| ![](Snka.gif "Snka.gif") + ![](Snkb.gif "Snkb.gif")                             | **8**        | **-1**  | **+3**    |
-| ![](down.gif "down.gif") + ![](Snka.gif "Snka.gif") + ![](Snkb.gif "Snkb.gif")  | **9**        | **-5**  | **-1**    |
-| ![](f.gif "f.gif") + ![](Snka.gif "Snka.gif")                                   | **19**       | **+1**  | **+1**    |
-| ![](f.gif "f.gif") + ![](Snkb.gif "Snkb.gif")                                   | **13**       | **+1**  | **+1**    |
-| ![](qcf.gif "qcf.gif") + ![](snka.gif "snka.gif")                               | **7**        | **-1**  | **-1**    |
-| ![](f.gif "f.gif"), ![](f.gif "f.gif") + ![](punch.gif "punch.gif")             | **NA**       | **KD**  | **-9**    |
-| ![](qcf.gif "qcf.gif") + ![](snkc.gif "snkc.gif")                               | **16**       | **-5**  | **-5**    |
-| ![](f.gif "f.gif"), ![](f.gif "f.gif") + ![](punch.gif "punch.gif")             | **NA**       | **KD**  | **-11**   |
-| ![](dp.gif "dp.gif") + ![](snkb.gif "snkb.gif")                                 | **3**        | **KD**  | **-37**   |
-| ![](dp.gif "dp.gif") + ![](snkb.gif "snkb.gif") (Break)                         | **3**        | **KD**  | **+6**    |
-| ![](dp.gif "dp.gif") + ![](snkd.gif "snkd.gif")                                 | **3**        | **KD**  | **-38**   |
-| ![](dp.gif "dp.gif") + ![](snkd.gif "snkd.gif") (Break)                         | **3**        | **KD**  | **+6**    |
-| ![](qcb.gif "qcb.gif") + ![](snkb.gif "snkb.gif")                               | **6**        | **-11** | **-11**   |
-| ![](qcb.gif "qcb.gif") + ![](snkd.gif "snkd.gif")                               | **7**        | **KD**  | **-19**   |
-| ----![](snka.gif "snka.gif")                                                    | **11**       | **NA**  |           |
-| ----![](snkb.gif "snkb.gif")                                                    | **4**        | **KD**  |           |
-| ----![](snkc.gif "snkc.gif")                                                    | **9**        | **NA**  |           |
-| ----![](snkd.gif "snkd.gif")                                                    | **7**        | **KD**  |           |
-| ![](snkc.gif "snkc.gif")![](snkd.gif "snkd.gif")                                | **21**       | **KD**  | **-19**   |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](snka.gif "snka.gif")       | **0**        | **KD**  | **-8**    |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](snkc.gif "snkc.gif")       | **0**        | **KD**  | **-8**    |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](snkb.gif "snkb.gif")       | **4**        | **KD**  | **-55**   |
-| ![](qcf.gif "qcf.gif"), ![](qcf.gif "qcf.gif") + ![](snkd.gif "snkd.gif")       | **4**        | **KD**  | **-79**   |
-| ![](dp.gif "dp.gif") + ![](snka.gif "snka.gif") + ![](snkb.gif "snkb.gif")      | **11**       | **-9**  | **-9**    |
-| ---![](dp.gif "dp.gif") + ![](snka.gif "snka.gif") + ![](snkb.gif "snkb.gif")   |              | **-14** | **-14**   |
-| -----![](dp.gif "dp.gif") + ![](snka.gif "snka.gif") + ![](snkb.gif "snkb.gif") |              | **KD**  | **-21**   |
-|                                                                                 |              |         |           |
+|                                                                                                                                 |              |         |           |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------|---------|-----------|
+| **Command**                                                                                                                     | **Start Up** | **Hit** | **Garde** |
+| Close ![](/images/Snka.gif "/images/Snka.gif")                                                                                  | **3**        | **+6**  | **+6**    |
+| Close ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                  | **5**        | **+6**  | **+6**    |
+| Close ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                  | **5**        | **+3**  | **+3**    |
+| Close ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                  | **3**        | **+5**  | **+5**    |
+| Far ![](/images/Snka.gif "/images/Snka.gif")                                                                                    | **3**        | **+1**  | **+1**    |
+| Far ![](/images/Snkb.gif "/images/Snkb.gif")                                                                                    | **6**        | **-3**  | **-3**    |
+| Far ![](/images/Snkc.gif "/images/Snkc.gif")                                                                                    | **10**       | **-4**  | **-4**    |
+| Far ![](/images/Snkd.gif "/images/Snkd.gif")                                                                                    | **13**       | **-1**  | **-1**    |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snka.gif "/images/Snka.gif")                                               | **4**        | **+6**  | **+6**    |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkb.gif "/images/Snkb.gif")                                               | **4**        | **+4**  | **+4**    |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkc.gif "/images/Snkc.gif")                                               | **7**        | **-1**  | **-1**    |
+| ![](/images/down.gif "/images/down.gif") ![](/images/Snkd.gif "/images/Snkd.gif")                                               | **8**        | **KD**  | **-10**   |
+| ![](/images/Snka.gif "/images/Snka.gif") + ![](/images/Snkb.gif "/images/Snkb.gif")                                             | **8**        | **-1**  | **+3**    |
+| ![](/images/down.gif "/images/down.gif") + ![](/images/Snka.gif "/images/Snka.gif") + ![](/images/Snkb.gif "/images/Snkb.gif")  | **9**        | **-5**  | **-1**    |
+| ![](/images/f.gif "/images/f.gif") + ![](/images/Snka.gif "/images/Snka.gif")                                                   | **19**       | **+1**  | **+1**    |
+| ![](/images/f.gif "/images/f.gif") + ![](/images/Snkb.gif "/images/Snkb.gif")                                                   | **13**       | **+1**  | **+1**    |
+| ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snka.gif "/images/snka.gif")                                               | **7**        | **-1**  | **-1**    |
+| ![](/images/f.gif "/images/f.gif"), ![](/images/f.gif "/images/f.gif") + ![](/images/punch.gif "/images/punch.gif")             | **NA**       | **KD**  | **-9**    |
+| ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snkc.gif "/images/snkc.gif")                                               | **16**       | **-5**  | **-5**    |
+| ![](/images/f.gif "/images/f.gif"), ![](/images/f.gif "/images/f.gif") + ![](/images/punch.gif "/images/punch.gif")             | **NA**       | **KD**  | **-11**   |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/snkb.gif "/images/snkb.gif")                                                 | **3**        | **KD**  | **-37**   |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/snkb.gif "/images/snkb.gif") (Break)                                         | **3**        | **KD**  | **+6**    |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/snkd.gif "/images/snkd.gif")                                                 | **3**        | **KD**  | **-38**   |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/snkd.gif "/images/snkd.gif") (Break)                                         | **3**        | **KD**  | **+6**    |
+| ![](/images/qcb.gif "/images/qcb.gif") + ![](/images/snkb.gif "/images/snkb.gif")                                               | **6**        | **-11** | **-11**   |
+| ![](/images/qcb.gif "/images/qcb.gif") + ![](/images/snkd.gif "/images/snkd.gif")                                               | **7**        | **KD**  | **-19**   |
+| ----![](/images/snka.gif "/images/snka.gif")                                                                                    | **11**       | **NA**  |           |
+| ----![](/images/snkb.gif "/images/snkb.gif")                                                                                    | **4**        | **KD**  |           |
+| ----![](/images/snkc.gif "/images/snkc.gif")                                                                                    | **9**        | **NA**  |           |
+| ----![](/images/snkd.gif "/images/snkd.gif")                                                                                    | **7**        | **KD**  |           |
+| ![](/images/snkc.gif "/images/snkc.gif")![](/images/snkd.gif "/images/snkd.gif")                                                | **21**       | **KD**  | **-19**   |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snka.gif "/images/snka.gif")       | **0**        | **KD**  | **-8**    |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snkc.gif "/images/snkc.gif")       | **0**        | **KD**  | **-8**    |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snkb.gif "/images/snkb.gif")       | **4**        | **KD**  | **-55**   |
+| ![](/images/qcf.gif "/images/qcf.gif"), ![](/images/qcf.gif "/images/qcf.gif") + ![](/images/snkd.gif "/images/snkd.gif")       | **4**        | **KD**  | **-79**   |
+| ![](/images/dp.gif "/images/dp.gif") + ![](/images/snka.gif "/images/snka.gif") + ![](/images/snkb.gif "/images/snkb.gif")      | **11**       | **-9**  | **-9**    |
+| ---![](/images/dp.gif "/images/dp.gif") + ![](/images/snka.gif "/images/snka.gif") + ![](/images/snkb.gif "/images/snkb.gif")   |              | **-14** | **-14**   |
+| -----![](/images/dp.gif "/images/dp.gif") + ![](/images/snka.gif "/images/snka.gif") + ![](/images/snkb.gif "/images/snkb.gif") |              | **KD**  | **-21**   |
+|                                                                                                                                 |              |         |           |
 
 Données provenant de [Howard's
 Arena](http://www14.ocn.ne.jp/~yosimizu/garoumowgato.htm)

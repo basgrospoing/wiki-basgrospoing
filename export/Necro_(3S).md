@@ -1,6 +1,8 @@
+# Necro (3S)
+
 ![Character Select
-Portrait](Necro3sport.gif "Character Select Portrait") ![Neutral
-Stance](Necro3s-stance.gif "Neutral Stance")
+Portrait](/images/Necro3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Necro3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -42,57 +44,59 @@ utiliser de manière safe.
 
 ## Couleurs
 
-|                                |                                |                                |                                |                                |                                |                                                              |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")           | ![](MP.png "MP.png")           | ![](HP.png "HP.png")           | ![](LK.png "LK.png")           | ![](MK.png "MK.png")           | ![](HK.png "HK.png")           | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Necrolp.gif "Necrolp.gif") | ![](Necromp.gif "Necromp.gif") | ![](Necrohp.gif "Necrohp.gif") | ![](Necrolk.gif "Necrolk.gif") | ![](Necromk.gif "Necromk.gif") | ![](Necrohk.gif "Necrohk.gif") | ![](Necrolpmkhp.gif "Necrolpmkhp.gif")                       |
-|                                |                                |                                |                                |                                |                                |                                                              |
+|                                                |                                                |                                                |                                                |                                                |                                                |                                                                                                              |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")           | ![](/images/MP.png "/images/MP.png")           | ![](/images/HP.png "/images/HP.png")           | ![](/images/LK.png "/images/LK.png")           | ![](/images/MK.png "/images/MK.png")           | ![](/images/HK.png "/images/HK.png")           | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Necrolp.gif "/images/Necrolp.gif") | ![](/images/Necromp.gif "/images/Necromp.gif") | ![](/images/Necrohp.gif "/images/Necrohp.gif") | ![](/images/Necrolk.gif "/images/Necrolk.gif") | ![](/images/Necromk.gif "/images/Necromk.gif") | ![](/images/Necrohk.gif "/images/Necrohk.gif") | ![](/images/Necrolpmkhp.gif "/images/Necrolpmkhp.gif")                                                       |
+|                                                |                                                |                                                |                                                |                                                |                                                |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|                 |                                                                                                                    |
-|-----------------|--------------------------------------------------------------------------------------------------------------------|
-| Shoulder Attack | Neutre ou ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png")                                         |
-| Frankensteiner  | ![](B.png "B.png") ![](LP.png "LP.png") + ![](LK.png "LK.png")                                                     |
-| German Suplex   | (Dans le dos de l'adversaire) ![](F.png "F.png") ou ![](B.png "B.png") ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|                 |                                                                                                                                                                                    |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Shoulder Attack | Neutre ou ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                         |
+| Frankensteiner  | ![](/images/B.png "/images/B.png") ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                     |
+| German Suplex   | (Dans le dos de l'adversaire) ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|              |                                                         |
-|--------------|---------------------------------------------------------|
-| Elbow Jab    | ![](B.png "B.png") + ![](LP.png "LP.png")               |
-| Elbow Strike | ![](B.png "B.png") + ![](MP.png "MP.png")               |
-| Skyhook      | ![](B.png "B.png") + ![](HP.png "HP.png")               |
-| Elbow Cannon | ![](Db.png "Db.png") + ![](HP.png "HP.png")             |
-| Knee Tap     | ![](B.png "B.png") + ![](LK.png "LK.png")               |
-| Knee Strike  | ![](B.png "B.png") + ![](MK.png "MK.png")               |
-| Knee Cannon  | ![](B.png "B.png") + ![](HK.png "HK.png")               |
-| Drill Kick   | **(Air)** ![](D.png "D.png") + ![](Kick.png "Kick.png") |
+|              |                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------|
+| Elbow Jab    | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png")               |
+| Elbow Strike | ![](/images/B.png "/images/B.png") + ![](/images/MP.png "/images/MP.png")               |
+| Skyhook      | ![](/images/B.png "/images/B.png") + ![](/images/HP.png "/images/HP.png")               |
+| Elbow Cannon | ![](/images/Db.png "/images/Db.png") + ![](/images/HP.png "/images/HP.png")             |
+| Knee Tap     | ![](/images/B.png "/images/B.png") + ![](/images/LK.png "/images/LK.png")               |
+| Knee Strike  | ![](/images/B.png "/images/B.png") + ![](/images/MK.png "/images/MK.png")               |
+| Knee Cannon  | ![](/images/B.png "/images/B.png") + ![](/images/HK.png "/images/HK.png")               |
+| Drill Kick   | **(Air)** ![](/images/D.png "/images/D.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Target Combo
 
-- ![](B.png "B.png") ![](LK.png "LK.png") -\> ![](MP.png "MP.png")
+- ![](/images/B.png "/images/B.png")
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MP.png "/images/MP.png")
 
 ### Coups Spéciaux
 
-|              |                                                         |     |
-|--------------|---------------------------------------------------------|-----|
-| Denpa blast  | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")       |     |
-| Tornado Hook | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png")     | EX  |
-| Flying Viper | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png")     | EX  |
-| Snake Fang   | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png")       |     |
-| Rising Cobra | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png")       | EX  |
-| Winding Horn | **(Air)** ![](D.png "D.png") + ![](Kick.png "Kick.png") | EX  |
+|              |                                                                                         |     |
+|--------------|-----------------------------------------------------------------------------------------|-----|
+| Denpa blast  | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")       |     |
+| Tornado Hook | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png")     | EX  |
+| Flying Viper | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png")     | EX  |
+| Snake Fang   | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png")       |     |
+| Rising Cobra | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png")       | EX  |
+| Winding Horn | **(Air)** ![](/images/D.png "/images/D.png") + ![](/images/Kick.png "/images/Kick.png") | EX  |
 
 ### Super Arts
 
-|     |                |                                                                                           |          |
-|-----|----------------|-------------------------------------------------------------------------------------------|----------|
-| I   | Magnetic Storm | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") en répétitions | 1 stock  |
-| II  | Slam Dance     | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") (proche)       | 1 stock  |
-| III | Electric Snake | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                | 3 stocks |
+|     |                |                                                                                                                                           |          |
+|-----|----------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Magnetic Storm | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") en répétitions | 1 stock  |
+| II  | Slam Dance     | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (proche)       | 1 stock  |
+| III | Electric Snake | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                | 3 stocks |
 
 ## Stratégie
 

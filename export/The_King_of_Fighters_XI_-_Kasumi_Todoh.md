@@ -1,4 +1,6 @@
-![](kofxi-kasumi-todoh.jpg "kofxi-kasumi-todoh.jpg")
+# The King of Fighters XI - Kasumi Todoh
+
+![](/images/kofxi-kasumi-todoh.jpg "/images/kofxi-kasumi-todoh.jpg")
 
 ## Introduction
 

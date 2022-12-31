@@ -1,4 +1,6 @@
-![Takuma Sakazaki](Takumakof13.gif "Takuma Sakazaki")  
+# Takuma Sakazaki (kof13)
+
+![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 
@@ -31,36 +33,46 @@ version D, sa NeoMAX marche très bien en anti-air.
 
 ## Moves List
 
-| Move Name                 | Motion                                                                                          | Comment | Frame Data | Cancelable | Damage LOW/HIGH/EX |
-|:--------------------------|:------------------------------------------------------------------------------------------------|:--------|:-----------|:-----------|:-------------------|
-| Throws                    |                                                                                                 |         |            |            |                    |
-| Ippon Seoi                | ![](b.png "b.png") ou ![](F.png "F.png") + ![](Snkc.gif "Snkc.gif") ou ![](Snkd.gif "Snkd.gif") |         | Soon       |            | 100                |
-|                           |                                                                                                 |         |            |            |                    |
-| Command Normals           |                                                                                                 |         |            |            |                    |
-| Ashitou Kyaku             | ![](F.png "F.png") + ![](Snka.gif "Snka.gif")                                                   | Soon    | Soon       | oui        | 50                 |
-|                           |                                                                                                 |         |            |            |                    |
-| Desperation Move          |                                                                                                 |         |            |            |                    |
-| Ko Ou Ken                 | ![](qcf.png "qcf.png") + ![](punch.gif "punch.gif")                                             | Soon    | Soon       | SC         | 60/120             |
-| Kyoukugen Hou Ken(choppe) | ![](hcb.png "hcb.png") + ![](kick.gif "kick.gif")                                               | Soon    | ?/?/1      | non        | 0                  |
-| Hien Shippuu Kyaku        | ![](db.png "db.png")charge ![](F.png "F.png") + ![](kick.gif "kick.gif")                        | Soon    | Soon       | SC+DC(B)   | 70/50+70/60+80     |
-| Kyokugen Torakou          | ![](qcf.png "qcf.png") + ![](kick.gif "kick.gif")                                               | Soon    | Soon       | SC+DC      | 70/80/140          |
-| Zanretsuken               | ![](F.png "F.png")![](b.png "b.png")![](F.png "F.png") +![](punch.gif "punch.gif")              | Soon    | Soon       | SC+DC      | 0+20x6/0+18x14     |
-|                           |                                                                                                 |         |            |            |                    |
-| Super Desperation move    |                                                                                                 |         |            |            |                    |
-| Haohshokoken              | ![](F.png "F.png") ![](hcf.png "hcf.png") + ![](punch.gif "punch.gif")                          |         |            | non        | 200/120x3          |
-| Ryuuko Ranbu              | ![](qcf.png "qcf.png") ![](hcb.png "hcb.png") +![](punch.gif "punch.gif")                       |         |            | MC         | 0+10x11+30+100     |
-| Neomax                    |                                                                                                 |         |            |            |                    |
-| Built Upper               | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") ![](Snka.gif "Snka.gif")+![](Snkc.gif "Snkc.gif")  |         |            | non        | 0+450              |
+| Move Name                 | Motion                                                                                                                                                          | Comment | Frame Data | Cancelable | Damage LOW/HIGH/EX |
+|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-----------|:-----------|:-------------------|
+| Throws                    |                                                                                                                                                                 |         |            |            |                    |
+| Ippon Seoi                | ![](/images/b.png "/images/b.png") ou ![](/images/F.png "/images/F.png") + ![](/images/Snkc.gif "/images/Snkc.gif") ou ![](/images/Snkd.gif "/images/Snkd.gif") |         | Soon       |            | 100                |
+|                           |                                                                                                                                                                 |         |            |            |                    |
+| Command Normals           |                                                                                                                                                                 |         |            |            |                    |
+| Ashitou Kyaku             | ![](/images/F.png "/images/F.png") + ![](/images/Snka.gif "/images/Snka.gif")                                                                                   | Soon    | Soon       | oui        | 50                 |
+|                           |                                                                                                                                                                 |         |            |            |                    |
+| Desperation Move          |                                                                                                                                                                 |         |            |            |                    |
+| Ko Ou Ken                 | ![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.gif "/images/punch.gif")                                                                             | Soon    | Soon       | SC         | 60/120             |
+| Kyoukugen Hou Ken(choppe) | ![](/images/hcb.png "/images/hcb.png") + ![](/images/kick.gif "/images/kick.gif")                                                                               | Soon    | ?/?/1      | non        | 0                  |
+| Hien Shippuu Kyaku        | ![](/images/db.png "/images/db.png")charge ![](/images/F.png "/images/F.png") + ![](/images/kick.gif "/images/kick.gif")                                        | Soon    | Soon       | SC+DC(B)   | 70/50+70/60+80     |
+| Kyokugen Torakou          | ![](/images/qcf.png "/images/qcf.png") + ![](/images/kick.gif "/images/kick.gif")                                                                               | Soon    | Soon       | SC+DC      | 70/80/140          |
+| Zanretsuken               | ![](/images/F.png "/images/F.png")![](/images/b.png "/images/b.png")![](/images/F.png "/images/F.png") +![](/images/punch.gif "/images/punch.gif")              | Soon    | Soon       | SC+DC      | 0+20x6/0+18x14     |
+|                           |                                                                                                                                                                 |         |            |            |                    |
+| Super Desperation move    |                                                                                                                                                                 |         |            |            |                    |
+| Haohshokoken              | ![](/images/F.png "/images/F.png") ![](/images/hcf.png "/images/hcf.png") + ![](/images/punch.gif "/images/punch.gif")                                          |         |            | non        | 200/120x3          |
+| Ryuuko Ranbu              | ![](/images/qcf.png "/images/qcf.png") ![](/images/hcb.png "/images/hcb.png") +![](/images/punch.gif "/images/punch.gif")                                       |         |            | MC         | 0+10x11+30+100     |
+| Neomax                    |                                                                                                                                                                 |         |            |            |                    |
+| Built Upper               | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") ![](/images/Snka.gif "/images/Snka.gif")+![](/images/Snkc.gif "/images/Snkc.gif")  |         |            | non        | 0+450              |
 
 ## Couleurs disponibles
 
-Fichier:takuma_1.png \| N° 1 Fichier:takuma_2.png \| N° 2
-Fichier:takuma_3.png \| N° 3 Fichier:takuma_4.png \| N° 4
-Fichier:takuma_5.png \| N° 5 Fichier:takuma_6.png \| N° 6
-Fichier:takuma_7.png \| N° 7 Fichier:takuma_8.png \| N° 8
-Fichier:takuma_9.png \| N° 9 Fichier:takuma_10.png \| N° 10
-Fichier:takuma_a1.png \| N° Alt 1 Fichier:takuma_a2.png \| N° Alt 2
-Fichier:takuma_a3.png \| N° Alt 3 Fichier:takuma_a4.png \| N° Alt 4
-Fichier:takuma_a5.png \| N° Alt 5 Fichier:takuma_a6.png \| N° Alt 6
-Fichier:takuma_a7.png \| N° Alt 7 Fichier:takuma_a8.png \| N° Alt 8
-Fichier:takuma_a9.png \| N° Alt 9 Fichier:takuma_a10.png \| N° Alt 10
+![](/images/takuma_1.png "/images/takuma_1.png") \| N° 1
+![](/images/takuma_2.png "/images/takuma_2.png") \| N° 2
+![](/images/takuma_3.png "/images/takuma_3.png") \| N° 3
+![](/images/takuma_4.png "/images/takuma_4.png") \| N° 4
+![](/images/takuma_5.png "/images/takuma_5.png") \| N° 5
+![](/images/takuma_6.png "/images/takuma_6.png") \| N° 6
+![](/images/takuma_7.png "/images/takuma_7.png") \| N° 7
+![](/images/takuma_8.png "/images/takuma_8.png") \| N° 8
+![](/images/takuma_9.png "/images/takuma_9.png") \| N° 9
+![](/images/takuma_10.png "/images/takuma_10.png") \| N° 10
+![](/images/takuma_a1.png "/images/takuma_a1.png") \| N° Alt 1
+![](/images/takuma_a2.png "/images/takuma_a2.png") \| N° Alt 2
+![](/images/takuma_a3.png "/images/takuma_a3.png") \| N° Alt 3
+![](/images/takuma_a4.png "/images/takuma_a4.png") \| N° Alt 4
+![](/images/takuma_a5.png "/images/takuma_a5.png") \| N° Alt 5
+![](/images/takuma_a6.png "/images/takuma_a6.png") \| N° Alt 6
+![](/images/takuma_a7.png "/images/takuma_a7.png") \| N° Alt 7
+![](/images/takuma_a8.png "/images/takuma_a8.png") \| N° Alt 8
+![](/images/takuma_a9.png "/images/takuma_a9.png") \| N° Alt 9
+![](/images/takuma_a10.png "/images/takuma_a10.png") \| N° Alt 10

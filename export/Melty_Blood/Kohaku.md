@@ -1,11 +1,13 @@
-[ **Name:**   Kohaku (琥珀)  —  **Nicknames:**    Magical Amber,
+# Melty Blood/Kohaku
+
+![ **Name:**   Kohaku (琥珀)  —  **Nicknames:**    Magical Amber,
 Apronned Devil, Mister Chin, Thieving Cat \<br\\\>\<br\\\> **Voiced
 by:**   Takano Naoko （高野　直子）  —  **Type:**   Human Maid,
 Synchronizer   —  **Gender:**   Female \<br\\\>\<br\\\>
 **Birthday:**   March 12  —  **Sizes:**   78 / 58 /
 80  —  **Height:**   156cm  —  **Weight:**   43kg \<br\\\>\<br\\\> **Eye
 Color:**   Amber  —  **Hair Color:**   Pink
-\|frame\|right](image:Kohaku0.png‎ "wikilink")
+\|frame\|right](/images/Kohaku0.png‎ " Name:   Kohaku (琥珀)  —  Nicknames:    Magical Amber, Apronned Devil, Mister Chin, Thieving Cat <br\><br\> Voiced by:   Takano Naoko （高野　直子）  —  Type:   Human Maid, Synchronizer   —  Gender:   Female <br\><br\> Birthday:   March 12  —  Sizes:   78 / 58 / 80  —  Height:   156cm  —  Weight:   43kg <br\><br\> Eye Color:   Amber  —  Hair Color:   Pink |frame|right")
 
 # Introduction
 
@@ -57,7 +59,7 @@ plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**
 
 # Palettes
 
-![](Kohaku.PNG "Kohaku.PNG")
+![](/images/Kohaku.PNG "/images/Kohaku.PNG")
 
 # Liste de joueurs
 

@@ -1,10 +1,12 @@
-[ **Name:**   Arima Miyako (有間 都古)  —  **Nicknames:**   China Girl
+# Melty Blood/Miyako Arima
+
+![ **Name:**   Arima Miyako (有間 都古)  —  **Nicknames:**   China Girl
 \<br\\\>\<br\\\> **Voiced by:**   Kouzuki Miwa (倖月
 美和)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>
 **Birthday:**   May 4  —  **Sizes:**   60 / 46 /
 62  —  **Height:**   131cm  —  **Weight:**   35kg \<br\\\>\<br\\\> **Eye
 Color:**   Green  —  **Hair Color:**   Brown
-\|frame\|right](image:Miyako0.png "wikilink")
+\|frame\|right](/images/Miyako0.png " Name:   Arima Miyako (有間 都古)  —  Nicknames:   China Girl <br\><br\> Voiced by:   Kouzuki Miwa (倖月 美和)  —  Type:   Human   —  Gender:   Female <br\><br\> Birthday:   May 4  —  Sizes:   60 / 46 / 62  —  Height:   131cm  —  Weight:   35kg <br\><br\> Eye Color:   Green  —  Hair Color:   Brown |frame|right")
 
 # Introduction
 
@@ -39,7 +41,7 @@ s'inscrit donc au tournoi Melty Blood sachant qu'elle n'a aucune chance.
 
 # Palettes
 
-![](Miyakocolors.png "Miyakocolors.png")
+![](/images/Miyakocolors.png "/images/Miyakocolors.png")
 
 # Liste de joueurs
 

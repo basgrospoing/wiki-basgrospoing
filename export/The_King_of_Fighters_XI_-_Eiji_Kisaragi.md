@@ -1,4 +1,6 @@
-![](kofxi-eiji-kisaragi.jpg "kofxi-eiji-kisaragi.jpg")
+# The King of Fighters XI - Eiji Kisaragi
+
+![](/images/kofxi-eiji-kisaragi.jpg "/images/kofxi-eiji-kisaragi.jpg")
 
 ## Introduction
 

@@ -1,4 +1,6 @@
-![](kofxi-iori-yagami.jpg "kofxi-iori-yagami.jpg")
+# The King of Fighters XI - Iori Yagami
+
+![](/images/kofxi-iori-yagami.jpg "/images/kofxi-iori-yagami.jpg")
 
 ## Introduction
 

@@ -1,5 +1,8 @@
-![Character Select Portrait](Ryu3sport.gif "Character Select Portrait")
-![Neutral Stance](Ryu3s-stance.gif "Neutral Stance")
+# Ryu (3S)
+
+![Character Select
+Portrait](/images/Ryu3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Ryu3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -12,54 +15,55 @@
 
 ## Couleurs
 
-|                            |                            |                            |                            |                            |                            |                                                              |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")       | ![](MP.png "MP.png")       | ![](HP.png "HP.png")       | ![](LK.png "LK.png")       | ![](MK.png "MK.png")       | ![](HK.png "HK.png")       | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Ryulp.gif "Ryulp.gif") | ![](Ryump.gif "Ryump.gif") | ![](Ryuhp.gif "Ryuhp.gif") | ![](Ryulk.gif "Ryulk.gif") | ![](Ryumk.gif "Ryumk.gif") | ![](Ryuhk.gif "Ryuhk.gif") | ![](Ryulpmkhp.gif "Ryulpmkhp.gif")                           |
-|                            |                            |                            |                            |                            |                            |                                                              |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")       | ![](/images/MP.png "/images/MP.png")       | ![](/images/HP.png "/images/HP.png")       | ![](/images/LK.png "/images/LK.png")       | ![](/images/MK.png "/images/MK.png")       | ![](/images/HK.png "/images/HK.png")       | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Ryulp.gif "/images/Ryulp.gif") | ![](/images/Ryump.gif "/images/Ryump.gif") | ![](/images/Ryuhp.gif "/images/Ryuhp.gif") | ![](/images/Ryulk.gif "/images/Ryulk.gif") | ![](/images/Ryumk.gif "/images/Ryumk.gif") | ![](/images/Ryuhk.gif "/images/Ryuhk.gif") | ![](/images/Ryulpmkhp.gif "/images/Ryulpmkhp.gif")                                                           |
+|                                            |                                            |                                            |                                            |                                            |                                            |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|            |                                                                                                                 |
-|------------|-----------------------------------------------------------------------------------------------------------------|
-| Seoi Nage  | ![](LP.png "LP.png") + ![](LK.png "LK.png") ou ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
-| Tomoe Nage | ![](B.png "B.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png")                                                |
-|            |                                                                                                                 |
+|            |                                                                                                                                                                                                 |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Seoi Nage  | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") ou ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+| Tomoe Nage | ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                                |
+|            |                                                                                                                                                                                                 |
 
 ### Normaux
 
-|               |                                           |
-|---------------|-------------------------------------------|
-| Sakotsu Wari  | ![](F.png "F.png") + ![](MP.png "MP.png") |
-| Kyuubi Kudaki | ![](F.png "F.png") + ![](HP.png "HP.png") |
-|               |                                           |
+|               |                                                                           |
+|---------------|---------------------------------------------------------------------------|
+| Sakotsu Wari  | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
+| Kyuubi Kudaki | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
+|               |                                                                           |
 
 ### Target Combos
 
-Debout, éloigner ![](HP.png "HP.png") -\> ![](HK.png "HK.png")
+Debout, éloigner ![](/images/HP.png "/images/HP.png") -\>
+![](/images/HK.png "/images/HK.png")
 
 ### Coups Spéciaux
 
-|                              |                                                             |     |
-|------------------------------|-------------------------------------------------------------|-----|
-| Hadouken                     | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")         | EX  |
-| Shoryuken                    | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")           | EX  |
-| Tatsumaki Senpuu Kyaku       | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png")           | EX  |
-| Tatsumaki Senpuu Kyaku (Air) | **(Air)** ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") | EX  |
-| Joudan Sokutou Geri          | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png")           | EX  |
+|                              |                                                                                             |     |
+|------------------------------|---------------------------------------------------------------------------------------------|-----|
+| Hadouken                     | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")         | EX  |
+| Shoryuken                    | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")           | EX  |
+| Tatsumaki Senpuu Kyaku       | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png")           | EX  |
+| Tatsumaki Senpuu Kyaku (Air) | **(Air)** ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | EX  |
+| Joudan Sokutou Geri          | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png")           | EX  |
 
 ### Super Arts
 
-|     |                    |                                                                            |          |
-|-----|--------------------|----------------------------------------------------------------------------|----------|
-| I   | Shinkuu Hadouken   | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 2 stocks |
-| II  | Shin Shoryuken     | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
-| III | Denjin Hadouken \* | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | 1 stock  |
+|     |                    |                                                                                                                            |          |
+|-----|--------------------|----------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Shinkuu Hadouken   | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 2 stocks |
+| II  | Shin Shoryuken     | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
+| III | Denjin Hadouken \* | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | 1 stock  |
 
-\* (Maintenir ![](Punch.png "Punch.png") pour charger, répété des 360
-avec le stick pour charger plus rapidement)
+\* (Maintenir ![](/images/Punch.png "/images/Punch.png") pour charger,
+répété des 360 avec le stick pour charger plus rapidement)
 
 ## Stratégie
 

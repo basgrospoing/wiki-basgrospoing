@@ -1,4 +1,6 @@
-![](Umvc3logo.png‎ "Umvc3logo.png‎")
+# Glossaire UMVC3
+
+![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 <center>
 
@@ -19,214 +21,219 @@ rest of the guide will make more sense.
 
 ### Cancel and Movement Properties
 
-- ![](rpdfire.png "rpdfire.png") \| A few characters have Light Attacks
-  that can actually chain into themselves. For example, with Akuma, his
-  Standing and Crouching Light Attacks can combo into themselves to
-  allow for some easy hit confirms. Not every character has this, in
-  fact more seem to not have this ability than those who do.
-- ![](airok.png "airok.png") \| These are Special Moves or Hyper Combos
-  that can be performed on the ground and in the air.
-- ![](aironly.png "aironly.png") \| These are Special Moves or Hyper
-  Combos that can only be performed in the air.
-- ![](jcancel.png "jcancel.png") \| Some Normal Moves can be canceled
-  into a Jump. Storm's Standing Medium Attack and Crouching Hard Attack
-  are two examples of this. In the air, a Jump Cancelable Normal Move
-  only works for those who have Double Jumps.
-- ![](djcancel.png "djcancel.png") \| Same as a Jump Cancelable Normal
-  Move, but for Normal Moves performed while airborne that can be
-  canceled into a Double Jump.
-- ![](dashcancel.png "dashcancel.png") \| A few rare Normal Moves can be
-  canceled into ground Dashes. In fact, they almost all seem to be
-  possessed by Doctor Doom. Pretty much every single one of his ground
-  moves can be canceled into a Ground Dash, either forward or back.
-- ![](airdashcancel.png "airdashcancel.png") \| Only certain Normal
-  Moves in the air can be canceled into Air Dashes. In general, only a
-  few characters are actually able to cancel their air Normal Moves into
-  Air Dashes, Storm, Magneto, Iron Man, and Doctor Doom being the main
-  ones.
-- ![](nocancel.png "nocancel.png") \| This isn't really a property. This
-  actually means it just lacks every single property imaginable. But the
-  reason it's listed as a property is because it also carries the
-  distinction that it can't even be Chained into any other Normal Move.
-  Wolverine's Slide (Down/Toward + Medium Attack) is an example of a
-  move that has No Cancel properties.
+- ![](/images/rpdfire.png "/images/rpdfire.png") \| A few characters
+  have Light Attacks that can actually chain into themselves. For
+  example, with Akuma, his Standing and Crouching Light Attacks can
+  combo into themselves to allow for some easy hit confirms. Not every
+  character has this, in fact more seem to not have this ability than
+  those who do.
+- ![](/images/airok.png "/images/airok.png") \| These are Special Moves
+  or Hyper Combos that can be performed on the ground and in the air.
+- ![](/images/aironly.png "/images/aironly.png") \| These are Special
+  Moves or Hyper Combos that can only be performed in the air.
+- ![](/images/jcancel.png "/images/jcancel.png") \| Some Normal Moves
+  can be canceled into a Jump. Storm's Standing Medium Attack and
+  Crouching Hard Attack are two examples of this. In the air, a Jump
+  Cancelable Normal Move only works for those who have Double Jumps.
+- ![](/images/djcancel.png "/images/djcancel.png") \| Same as a Jump
+  Cancelable Normal Move, but for Normal Moves performed while airborne
+  that can be canceled into a Double Jump.
+- ![](/images/dashcancel.png "/images/dashcancel.png") \| A few rare
+  Normal Moves can be canceled into ground Dashes. In fact, they almost
+  all seem to be possessed by Doctor Doom. Pretty much every single one
+  of his ground moves can be canceled into a Ground Dash, either forward
+  or back.
+- ![](/images/airdashcancel.png "/images/airdashcancel.png") \| Only
+  certain Normal Moves in the air can be canceled into Air Dashes. In
+  general, only a few characters are actually able to cancel their air
+  Normal Moves into Air Dashes, Storm, Magneto, Iron Man, and Doctor
+  Doom being the main ones.
+- ![](/images/nocancel.png "/images/nocancel.png") \| This isn't really
+  a property. This actually means it just lacks every single property
+  imaginable. But the reason it's listed as a property is because it
+  also carries the distinction that it can't even be Chained into any
+  other Normal Move. Wolverine's Slide (Down/Toward + Medium Attack) is
+  an example of a move that has No Cancel properties.
 
 ### Hit Properties
 
-- ![](low.png "low.png") \| These are Normal Moves or Special Moves or
-  even Hyper Combos that must be blocked while crouching. You can always
-  Air Block these moves, however.
-- ![](high.png "high.png") \| These are Normal Moves or Special Moves or
-  Hyper Combos that must be blocked while standing. You can always Air
-  Block these moves, however.
-- ![](unblockable.png "unblockable.png") \| These are moves that cannot
-  be blocked at all. These moves are very, very rare. Taskmaster's
-  follow-ups to a blocked Sword Master, X-23's Silent Kill, and C.
-  Viper's Level 3 Focus Attack are some of the only examples in the
-  game.
-- ![](chipdamage.png "chipdamage.png") \| Interestingly enough, some
-  Normal Moves actually do Chip Damage even though they are Normal
-  Moves. Doctor Doom's Hidden Missiles, Sentinel's Standing and
+- ![](/images/low.png "/images/low.png") \| These are Normal Moves or
+  Special Moves or even Hyper Combos that must be blocked while
+  crouching. You can always Air Block these moves, however.
+- ![](/images/high.png "/images/high.png") \| These are Normal Moves or
+  Special Moves or Hyper Combos that must be blocked while standing. You
+  can always Air Block these moves, however.
+- ![](/images/unblockable.png "/images/unblockable.png") \| These are
+  moves that cannot be blocked at all. These moves are very, very rare.
+  Taskmaster's follow-ups to a blocked Sword Master, X-23's Silent Kill,
+  and C. Viper's Level 3 Focus Attack are some of the only examples in
+  the game.
+- ![](/images/chipdamage.png "/images/chipdamage.png") \| Interestingly
+  enough, some Normal Moves actually do Chip Damage even though they are
+  Normal Moves. Doctor Doom's Hidden Missiles, Sentinel's Standing and
   Crouching Hard Attacks, and Wesker's Toward + Hard Attack are just a
   few examples.
-- ![](throw.png "throw.png") \| Ground Throws cannot be blocked. Ground
-  Throws only connect on grounded opponents who are not in Hit Stun or
-  Block Stun. All instances of being Dizzied or Staggered or Crumpled
-  count as being in Hit Stun, so Throws will not connect on opponents in
-  those states.
-- ![](airthrow.png "airthrow.png") \| Air Throws only connect on
-  opponents in the air and also cannot be blocked. They cannot connect
-  on opponents in Hit Stun or Block Stun. Character who are falling from
-  a Knock-Down attack are considered to be in a Hit Reel state, so Air
-  Throws cannot juggle opponents.
+- ![](/images/throw.png "/images/throw.png") \| Ground Throws cannot be
+  blocked. Ground Throws only connect on grounded opponents who are not
+  in Hit Stun or Block Stun. All instances of being Dizzied or Staggered
+  or Crumpled count as being in Hit Stun, so Throws will not connect on
+  opponents in those states.
+- ![](/images/airthrow.png "/images/airthrow.png") \| Air Throws only
+  connect on opponents in the air and also cannot be blocked. They
+  cannot connect on opponents in Hit Stun or Block Stun. Character who
+  are falling from a Knock-Down attack are considered to be in a Hit
+  Reel state, so Air Throws cannot juggle opponents.
 
 ### Hit Effects
 
-- ![](launch.png "launch.png") \| Launchers are moves that can be
-  canceled into Super Jumps. Launchers, as mentioned before, cause
-  special properties that allow for Air Combo Finishers and Aerial
+- ![](/images/launch.png "/images/launch.png") \| Launchers are moves
+  that can be canceled into Super Jumps. Launchers, as mentioned before,
+  cause special properties that allow for Air Combo Finishers and Aerial
   Exchanges. All characters obviously have Launchers when pressing the
   Special Button while on the ground, but there are a few other
   Launchers in the game, such as Doctor Doom's Doom Kick (Toward + Hard
   Attack on the ground), Haggar's Hoodlum Launcher, and Chun Li's
   Hoyokusen.
-- ![](aircombofinisher.png "aircombofinisher.png") \| Air Combo
-  Finishers are moves that will cause The Flying Screen when used during
-  an Air Combo performed after a Launcher. All characters have Air Combo
-  Finishers when pressing the Special Button in the air after a
-  Launcher, but there are a few other Launchers in the game, such as
-  X-23's Light Attack Talon Attack.
-- ![](strk.png "strk.png") \| Strikes are moves that, when connecting
-  against an opponent that is standing / crouching on the ground, will
-  pop them into the air but does not cause any fixed reaction, such as a
-  Soft Knockdown or a Wall Bounce.
-- ![](otg.png "otg.png") \| Off-The-Ground: These are Normal Moves or
-  Special Moves or Hyper Combos that can hit the opponent in a Floored
-  State. These moves are few and far between, but very useful for
-  extending combos after Hard Knock-Downs.
-- ![](hardknockdown.png "hardknockdown.png") \| Attacks that cause a
-  Hard Knock-Down will put the enemy into a Floored State where they can
-  be struck only by moves with OTG property. Hard Knock-Downs ignore Hit
-  Stun Deterioration and, before the opponent hits the floor, they can
-  actually be juggled. When they touch the floor, however, only OTG
-  moves can hit the enemy before they can roll in either direction.
-- ![](softknockdown.png "softknockdown.png") \| Attacks that cause a
-  Soft Knock-Down will put the enemy into a Floored State, but the
-  opponent can immediately roll upon touching the ground. Therefore,
-  there is no period of time where the character can be hit by an OTG
-  move. Soft Knock-Downs ignore Hit Stun Deterioration and, before the
-  opponent hits the floor, they can actually be juggled. When they touch
-  the floor, however, the enemy will instantly roll and be safe from
-  further hits.
-- ![](forcedtechroll.png "forcedtechroll.png") \| Attacks that cause a
-  Forced Tech Roll behave exactly like a Soft Knock-Down move, except
-  that when the enemy hits the floor, they will instantly perform a very
-  short backwards roll as if getting up without rolling and have no
-  option to perform an actual roll.
-- ![](groundbounce.png "groundbounce.png") \| Certain Normal Moves or
-  Special Moves will cause a Ground Bounce on the opponent when they
-  hit. Ground Bounces can only occur once per combo, however, so a
-  second move with Ground Bounce property connecting in a combo will
-  just cause a Soft Knock-Down instead.
-- ![](forcedgroundbounce.png "forcedgroundbounce.png") \| Some moves
-  that cause a Ground Bounce actually reset the Ground Bounce state when
-  the move connects. Essentially what this means is that the a move with
-  Forced Ground Bounce property will cause a Ground Bounce regardless if
-  there was a Ground Bounce earlier in the combo.
-- ![](wallbounce.png "wallbounce.png") \| Certain Normal Moves or
-  Special Moves will cause a Wall Bounce on the opponent when they hit.
-  Wall Bounces can only occur once per combo, however, so a second move
-  with Wall Bounce property connecting in a combo will just cause a Soft
-  Knock-Down instead. The opponent won't even touch the wall at all.
-- ![](crumple.png "crumple.png") \| Some moves, when they connect, cause
-  the opponent to slowly crumple to the floor. When this occurs, they
-  are freely comboable up until they hit the ground, but they are
-  considered airborne. Thus the first hit that connects on them will pop
-  them into the air. When they finish the crumple and hit the ground,
-  they are considered in Floored State for about half a second before
-  they can escape with a Roll. But even when it looks like they are
-  fully Floored, you can actually hit them with any move that reaches
-  them and it'll pop them off the ground. It's only for that very brief
-  half of a second that you need to hit them with an OTG.
-- ![](stagger.png "stagger.png") \| This is a property where the
-  opponent staggers backwards and are vulnerable to attacks, but they
-  don't stagger for very long, especially compared to Crumples which
-  last very long. But any hit on the opponent keeps them grounded,
+- ![](/images/aircombofinisher.png "/images/aircombofinisher.png") \|
+  Air Combo Finishers are moves that will cause The Flying Screen when
+  used during an Air Combo performed after a Launcher. All characters
+  have Air Combo Finishers when pressing the Special Button in the air
+  after a Launcher, but there are a few other Launchers in the game,
+  such as X-23's Light Attack Talon Attack.
+- ![](/images/strk.png "/images/strk.png") \| Strikes are moves that,
+  when connecting against an opponent that is standing / crouching on
+  the ground, will pop them into the air but does not cause any fixed
+  reaction, such as a Soft Knockdown or a Wall Bounce.
+- ![](/images/otg.png "/images/otg.png") \| Off-The-Ground: These are
+  Normal Moves or Special Moves or Hyper Combos that can hit the
+  opponent in a Floored State. These moves are few and far between, but
+  very useful for extending combos after Hard Knock-Downs.
+- ![](/images/hardknockdown.png "/images/hardknockdown.png") \| Attacks
+  that cause a Hard Knock-Down will put the enemy into a Floored State
+  where they can be struck only by moves with OTG property. Hard
+  Knock-Downs ignore Hit Stun Deterioration and, before the opponent
+  hits the floor, they can actually be juggled. When they touch the
+  floor, however, only OTG moves can hit the enemy before they can roll
+  in either direction.
+- ![](/images/softknockdown.png "/images/softknockdown.png") \| Attacks
+  that cause a Soft Knock-Down will put the enemy into a Floored State,
+  but the opponent can immediately roll upon touching the ground.
+  Therefore, there is no period of time where the character can be hit
+  by an OTG move. Soft Knock-Downs ignore Hit Stun Deterioration and,
+  before the opponent hits the floor, they can actually be juggled. When
+  they touch the floor, however, the enemy will instantly roll and be
+  safe from further hits.
+- ![](/images/forcedtechroll.png "/images/forcedtechroll.png") \|
+  Attacks that cause a Forced Tech Roll behave exactly like a Soft
+  Knock-Down move, except that when the enemy hits the floor, they will
+  instantly perform a very short backwards roll as if getting up without
+  rolling and have no option to perform an actual roll.
+- ![](/images/groundbounce.png "/images/groundbounce.png") \| Certain
+  Normal Moves or Special Moves will cause a Ground Bounce on the
+  opponent when they hit. Ground Bounces can only occur once per combo,
+  however, so a second move with Ground Bounce property connecting in a
+  combo will just cause a Soft Knock-Down instead.
+- ![](/images/forcedgroundbounce.png "/images/forcedgroundbounce.png")
+  \| Some moves that cause a Ground Bounce actually reset the Ground
+  Bounce state when the move connects. Essentially what this means is
+  that the a move with Forced Ground Bounce property will cause a Ground
+  Bounce regardless if there was a Ground Bounce earlier in the combo.
+- ![](/images/wallbounce.png "/images/wallbounce.png") \| Certain Normal
+  Moves or Special Moves will cause a Wall Bounce on the opponent when
+  they hit. Wall Bounces can only occur once per combo, however, so a
+  second move with Wall Bounce property connecting in a combo will just
+  cause a Soft Knock-Down instead. The opponent won't even touch the
+  wall at all.
+- ![](/images/crumple.png "/images/crumple.png") \| Some moves, when
+  they connect, cause the opponent to slowly crumple to the floor. When
+  this occurs, they are freely comboable up until they hit the ground,
+  but they are considered airborne. Thus the first hit that connects on
+  them will pop them into the air. When they finish the crumple and hit
+  the ground, they are considered in Floored State for about half a
+  second before they can escape with a Roll. But even when it looks like
+  they are fully Floored, you can actually hit them with any move that
+  reaches them and it'll pop them off the ground. It's only for that
+  very brief half of a second that you need to hit them with an OTG.
+- ![](/images/stagger.png "/images/stagger.png") \| This is a property
+  where the opponent staggers backwards and are vulnerable to attacks,
+  but they don't stagger for very long, especially compared to Crumples
+  which last very long. But any hit on the opponent keeps them grounded,
   unlike Crumples, so you can perform whichever ground combo on the
   opponent you want.
-- ![](dzzy.png "dzzy.png") \| These are attacks that will cause the
-  opponent to become dizzy. Unlike Dizzies in other Fighting Games, you
-  cannot shake out of these dizzies. Hsien-Ko sometimes throws item with
-  her Anki Hon that have Dizzy Property. She-Hulk's Heaven Strike is
-  another move with Dizzy Property. Also, Haggar's Headbutt (Up + Hard
-  Attack in the air), will cause dizzy only on Counterhit, which may be
-  the only move that has a different behavior on Counter Hit in the
-  game.
-- ![](cptr.png "cptr.png") \| Some moves will cause abnormal "hit stuns"
-  that leave the opponent in a captured state. This can either be
-  something such as Hawkeye's ice arrows, which freezes the opponent for
-  a spell, or Rocket Raccoon's net trap, which hangs the opponent into
-  the sky for a while, or Spiderman's Web Ball, which captures the
-  opponent in a blanket of webbing. Note that moves with the
-  ![](cptr.png "cptr.png") property IGNORE ARMOR on
-  ![](armored.png "armored.png") moves!
-- ![](armored.png "armored.png") \| Some moves are Armored and can
-  absorb one hit without stopping. Hulk's Standing Heavy and Sentinel's
-  Launcher, for example, can pass through one hit from the opponent.
-  However, if you can manage to hit those moves twice before they hit
-  you, you can break through the armor.
-- ![](counter.png "counter.png") \| These are moves that will trigger
-  attacks only when struck by the opponent. A lot of Counters counter
-  only moves of a specific height, such as the Light and Medium versions
-  of Amaterasu's Solar Flare (Light counters high and mid attacks,
-  Medium counters mid and low attacks). Some Counters will counter any
-  height, such as Taskmaster's Aegis Counter.
-- ![](projcounter.png "projcounter.png") \| These are moves that will
-  trigger attacks only when struck by the opponent's Projectiles.
-- ![](proj.png "proj.png") \| Many, many moves in UMvC3 are qualified as
-  a "Projectile". This is very important, as Projectiles have a very
-  complex system by which they interact with each other, and there are
-  many moves in the game that can counter Projectiles or nullify
-  Projectiles. Knowing what moves count as a Projectile can make a huge
-  difference in a match.
-- ![](projectilereflect.png "projectilereflect.png") \| There are some
-  moves that are Projectile Reflectors. Whenever a Projectile strikes
-  these moves, they are bounced back at the opponent. These moves,
-  however, do not work on beams.
-- ![](projnull.png "projnull.png") \| Though very rare, there are some
-  moves that are tagged with a Projectile Nullifying property. Sentinel
-  has a bunch of Normal Moves, for example, that can just nullify
-  Projectiles if he punches them.
+- ![](/images/dzzy.png "/images/dzzy.png") \| These are attacks that
+  will cause the opponent to become dizzy. Unlike Dizzies in other
+  Fighting Games, you cannot shake out of these dizzies. Hsien-Ko
+  sometimes throws item with her Anki Hon that have Dizzy Property.
+  She-Hulk's Heaven Strike is another move with Dizzy Property. Also,
+  Haggar's Headbutt (Up + Hard Attack in the air), will cause dizzy only
+  on Counterhit, which may be the only move that has a different
+  behavior on Counter Hit in the game.
+- ![](/images/cptr.png "/images/cptr.png") \| Some moves will cause
+  abnormal "hit stuns" that leave the opponent in a captured state. This
+  can either be something such as Hawkeye's ice arrows, which freezes
+  the opponent for a spell, or Rocket Raccoon's net trap, which hangs
+  the opponent into the sky for a while, or Spiderman's Web Ball, which
+  captures the opponent in a blanket of webbing. Note that moves with
+  the ![](/images/cptr.png "/images/cptr.png") property IGNORE ARMOR on
+  ![](/images/armored.png "/images/armored.png") moves!
+- ![](/images/armored.png "/images/armored.png") \| Some moves are
+  Armored and can absorb one hit without stopping. Hulk's Standing Heavy
+  and Sentinel's Launcher, for example, can pass through one hit from
+  the opponent. However, if you can manage to hit those moves twice
+  before they hit you, you can break through the armor.
+- ![](/images/counter.png "/images/counter.png") \| These are moves that
+  will trigger attacks only when struck by the opponent. A lot of
+  Counters counter only moves of a specific height, such as the Light
+  and Medium versions of Amaterasu's Solar Flare (Light counters high
+  and mid attacks, Medium counters mid and low attacks). Some Counters
+  will counter any height, such as Taskmaster's Aegis Counter.
+- ![](/images/projcounter.png "/images/projcounter.png") \| These are
+  moves that will trigger attacks only when struck by the opponent's
+  Projectiles.
+- ![](/images/proj.png "/images/proj.png") \| Many, many moves in UMvC3
+  are qualified as a "Projectile". This is very important, as
+  Projectiles have a very complex system by which they interact with
+  each other, and there are many moves in the game that can counter
+  Projectiles or nullify Projectiles. Knowing what moves count as a
+  Projectile can make a huge difference in a match.
+- ![](/images/projectilereflect.png "/images/projectilereflect.png") \|
+  There are some moves that are Projectile Reflectors. Whenever a
+  Projectile strikes these moves, they are bounced back at the opponent.
+  These moves, however, do not work on beams.
+- ![](/images/projnull.png "/images/projnull.png") \| Though very rare,
+  there are some moves that are tagged with a Projectile Nullifying
+  property. Sentinel has a bunch of Normal Moves, for example, that can
+  just nullify Projectiles if he punches them.
 
 ## Controller Motion Terminology
 
-- [image:f.png](image:f.png "wikilink") - **Forward/Avant** - Pencher le
+- ![](/images/f.png "/images/f.png") - **Forward/Avant** - Pencher le
   stick vers l'avant/vers l'adversaire. (axe-X)
-- [image:b.png](image:b.png "wikilink") - **Back/Arrière** - Pencher le
+- ![](/images/b.png "/images/b.png") - **Back/Arrière** - Pencher le
   stick vers l'arrière/à l'opposé de l'adversaire. (axe-X)
-- [image:u.png](image:u.png "wikilink") - **Up/Haut** - Pencher le stick
+- ![](/images/u.png "/images/u.png") - **Up/Haut** - Pencher le stick
   vers le haut. (axe-Y)
-- [image:d.png](image:d.png "wikilink") - **Down/Bas** - Pencher le
-  stick vers le bas. (axe-Y)
-- [image:qcf.png](image:qcf.png "wikilink") - **Quarter circle
+- ![](/images/d.png "/images/d.png") - **Down/Bas** - Pencher le stick
+  vers le bas. (axe-Y)
+- ![](/images/qcf.png "/images/qcf.png") - **Quarter circle
   forward/Quart de Cercle Avant** - Pencher le stick vers le bas, puis
   vers le bas et l'avant, puis vers l'avant. Communément utilisé pour
   les projectiles.
-- [image:qcb.png](image:qcb.png "wikilink") - **Quarter circle
+- ![](/images/qcb.png "/images/qcb.png") - **Quarter circle
   backward/Quart de Cercle Arrière** - Pencher le stick vers le bas,
   puis vers le bas et l'arrière, puis vers l'arrière.
-- [image:hcf.png](image:hcf.png "wikilink") - **Half circle
+- ![](/images/hcf.png "/images/hcf.png") - **Half circle
   forward/Demi-Tour Avant** - Pencher le stick vers l'arrière, puis vers
   l'arrière et le bas, puis vers le bas, puis vers le bas et l'avant,
   puis vers l'avant.
-- [image:hcb.png](image:hcb.png "wikilink") - **Half circle
+- ![](/images/hcb.png "/images/hcb.png") - **Half circle
   backward/Demi-Tour Arrière** - Pencher le stick vers l'avant, puis
   vers l'avant et le bas, puis vers le bas, puis vers le bas et
   l'arrière, puis vers l'arrière.
-- [image:dp.png](image:dp.png "wikilink") - **Dragon punch/Shoryuken** -
+- ![](/images/dp.png "/images/dp.png") - **Dragon punch/Shoryuken** -
   Pencher le stick vers l'avant, puis vers le bas, puis vers le bas et
   l'avant.
-- [image:rdp.png](image:rdp.png "wikilink") - **Reversed Dragon
+- ![](/images/rdp.png "/images/rdp.png") - **Reversed Dragon
   punch/Shoryuken** - Pencher le stick vers l'arrière, puis vers le bas,
   puis vers le bas et l'arrière.
 
@@ -245,12 +252,12 @@ ability to chain all 6 different forms of attacks (L, M, and H while
 standing and L, M, and H while crouching) into each other. The order
 which you can perform your moves is as follows:
 
-1.  Standing [image:Lumvc3.png](image:Lumvc3.png "wikilink")
-2.  Crouching [image:Lumvc3.png](image:Lumvc3.png "wikilink")
-3.  Standing [image:Mumvc3.png](image:Mumvc3.png "wikilink")
-4.  Crouching [image:Mumvc3.png](image:Mumvc3.png "wikilink")
-5.  Standing [image:Humvc3.png](image:Humvc3.png "wikilink")
-6.  Crouching [image:Humvc3.png](image:Humvc3.png "wikilink")
+1.  Standing ![](/images/Lumvc3.png "/images/Lumvc3.png")
+2.  Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
+3.  Standing ![](/images/Mumvc3.png "/images/Mumvc3.png")
+4.  Crouching ![](/images/Mumvc3.png "/images/Mumvc3.png")
+5.  Standing ![](/images/Humvc3.png "/images/Humvc3.png")
+6.  Crouching ![](/images/Humvc3.png "/images/Humvc3.png")
 
 ### Stronger Magic Series
 
@@ -258,12 +265,9 @@ In the Stronger Magic Series, you can typically only chain into a
 stronger attack. The order which you can perform you moves is as
 follows:
 
-1.  Standing or Crouching
-    [image:Lumvc3.png](image:Lumvc3.png "wikilink")
-2.  Standing or Crouching
-    [image:Mumvc3.png](image:Mumvc3.png "wikilink")
-3.  Standing or Crouching
-    [image:Humvc3.png](image:Humvc3.png "wikilink")
+1.  Standing or Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
+2.  Standing or Crouching ![](/images/Mumvc3.png "/images/Mumvc3.png")
+3.  Standing or Crouching ![](/images/Humvc3.png "/images/Humvc3.png")
 
 ### Stronger+ Magic Series
 
@@ -273,15 +277,11 @@ as one is standing and the other is crouching, into each other before
 needing to move to a stronger button. The order which you can perform
 you moves is as follows:
 
-1.  Standing or Crouching
-    [image:Lumvc3.png](image:Lumvc3.png "wikilink")
-2.  Standing or Crouching
-    [image:Lumvc3.png](image:Lumvc3.png "wikilink") (in the opposite
-    state from previous attack)
-3.  Standing or Crouching
-    [image:Mumvc3.png](image:Mumvc3.png "wikilink")
-4.  Standing or Crouching
-    [image:Humvc3.png](image:Humvc3.png "wikilink")
+1.  Standing or Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
+2.  Standing or Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
+    (in the opposite state from previous attack)
+3.  Standing or Crouching ![](/images/Mumvc3.png "/images/Mumvc3.png")
+4.  Standing or Crouching ![](/images/Humvc3.png "/images/Humvc3.png")
 
 ### Light Start Magic Series
 
@@ -291,11 +291,10 @@ Attack and chain into any of the four stronger buttons (standing or
 crouching m and standing or crouching h). But that's the end of it from
 there. The order, thusly, is:
 
-1.  Standing or Crouching
-    [image:Lumvc3.png](image:Lumvc3.png "wikilink")
-2.  Standing or Crouching
-    [image:Mumvc3.png](image:Mumvc3.png "wikilink") or Standing or
-    Crouching [image:Humvc3.png](image:Humvc3.png "wikilink")
+1.  Standing or Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
+2.  Standing or Crouching ![](/images/Mumvc3.png "/images/Mumvc3.png")
+    or Standing or Crouching
+    ![](/images/Humvc3.png "/images/Humvc3.png")
 
   
 If a Magic Series is more than two buttons long, you can skip any of the

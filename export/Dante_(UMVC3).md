@@ -1,3 +1,5 @@
+# Dante (UMVC3)
+
 <center>
 
 **EN TRAVAUX**
@@ -6,7 +8,7 @@
 
 ## Dante
 
-![](Umvc3_dante_face.jpg‎ "Umvc3_dante_face.jpg‎") TBW
+![](/images/Umvc3_dante_face.jpg‎ "/images/Umvc3_dante_face.jpg‎") TBW
 
 **In a nutshell** TBW
 

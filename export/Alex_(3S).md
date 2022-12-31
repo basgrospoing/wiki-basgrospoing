@@ -1,5 +1,8 @@
-![Character Select Portrait](Alex3sport.gif "Character Select Portrait")
-![Neutral Stance](Alex3s-stance.gif "Neutral Stance")
+# Alex (3S)
+
+![Character Select
+Portrait](/images/Alex3sport.gif "Character Select Portrait") ![Neutral
+Stance](/images/Alex3s-stance.gif "Neutral Stance")
 
 ## Introduction
 
@@ -19,30 +22,30 @@
 
 ## Couleurs
 
-|                              |                              |                              |                              |                              |                              |                                                              |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")         | ![](MP.png "MP.png")         | ![](HP.png "HP.png")         | ![](LK.png "LK.png")         | ![](MK.png "MK.png")         | ![](HK.png "HK.png")         | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Alexlp.gif "Alexlp.gif") | ![](Alexmp.gif "Alexmp.gif") | ![](Alexhp.gif "Alexhp.gif") | ![](Alexlk.gif "Alexlk.gif") | ![](Alexmk.gif "Alexmk.gif") | ![](Alexhk.gif "Alexhk.gif") | ![](Alexlpmkhp.gif "Alexlpmkhp.gif")                         |
-|                              |                              |                              |                              |                              |                              |                                                              |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")         | ![](/images/MP.png "/images/MP.png")         | ![](/images/HP.png "/images/HP.png")         | ![](/images/LK.png "/images/LK.png")         | ![](/images/MK.png "/images/MK.png")         | ![](/images/HK.png "/images/HK.png")         | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Alexlp.gif "/images/Alexlp.gif") | ![](/images/Alexmp.gif "/images/Alexmp.gif") | ![](/images/Alexhp.gif "/images/Alexhp.gif") | ![](/images/Alexlk.gif "/images/Alexlk.gif") | ![](/images/Alexmk.gif "/images/Alexmk.gif") | ![](/images/Alexhk.gif "/images/Alexhk.gif") | ![](/images/Alexlpmkhp.gif "/images/Alexlpmkhp.gif")                                                         |
+|                                              |                                              |                                              |                                              |                                              |                                              |                                                                                                              |
 
 ## Liste des coups
 
 ### Chopes
 
-|           |                                                                                                  |
-|-----------|--------------------------------------------------------------------------------------------------|
-| Body Slam | ![](F.png "F.png") ou ![](B.png "B.png") ou Neutre + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|           |                                                                                                                                                                  |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Body Slam | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") ou Neutre + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ### Normaux
 
-|                   |                                                                  |
-|-------------------|------------------------------------------------------------------|
-| Chop              | ![](F.png "F.png") ![](MP.png "MP.png")                          |
-| Lariat            | ![](F.png "F.png") ![](HP.png "HP.png")                          |
-| Head Butt         | ![](b.png "b.png") ![](HP.png "HP.png") \*                       |
-| Sleeper Hold      | ![](b.png "b.png") ![](HP.png "HP.png") (adversaire retourné) \* |
-| Flying Cross Chop | ![](d.png "d.png") j.![](HP.png "HP.png")                        |
-| Overhead          | ![](HP.png "HP.png")                                             |
+|                   |                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| Chop              | ![](/images/F.png "/images/F.png") ![](/images/MP.png "/images/MP.png")                          |
+| Lariat            | ![](/images/F.png "/images/F.png") ![](/images/HP.png "/images/HP.png")                          |
+| Head Butt         | ![](/images/b.png "/images/b.png") ![](/images/HP.png "/images/HP.png") \*                       |
+| Sleeper Hold      | ![](/images/b.png "/images/b.png") ![](/images/HP.png "/images/HP.png") (adversaire retourné) \* |
+| Flying Cross Chop | ![](/images/d.png "/images/d.png") j.![](/images/HP.png "/images/HP.png")                        |
+| Overhead          | ![](/images/HP.png "/images/HP.png")                                                             |
 
 <sub>\* Sleeper Hold est exécuté si l'adversaire a été choppé par
 derrière. Appuyez sur HP à plusieurs reprises pour des dommages
@@ -50,35 +53,39 @@ supplémentaires..</sub>
 
 ### Target Combos
 
-- ![](d.png "d.png") ![](LK.png "LK.png") -\> ![](d.png "d.png")
-  ![](MK.png "MK.png")
+- ![](/images/d.png "/images/d.png")
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/d.png "/images/d.png")
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- ![](d.png "d.png") ![](LK.png "LK.png") -\> ![](d.png "d.png")
-  ![](HK.png "HK.png")
+- ![](/images/d.png "/images/d.png")
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/d.png "/images/d.png")
+  ![](/images/HK.png "/images/HK.png")
 
 ### Coups Spéciaux
 
-|                      |                                                                         |      |
-|----------------------|-------------------------------------------------------------------------|------|
-| Flash Chop           | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                     | (EX) |
-| Power Bomb/Back Drop | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png") \*                  |      |
-| Spiral D.D.T.        | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")                       |      |
-| Air Knee Smash       | ![](dp.png "dp.png") + ![](Kick.png "Kick.png")                         | (EX) |
-| Slash Elbow          | ![](b.png "b.png") Charge ![](F.png "F.png") + ![](Kick.png "Kick.png") | (EX) |
-| Air Stampede         | ![](d.png "d.png") Charge ![](u.png "u.png") + ![](Kick.png "Kick.png") | (EX) |
+|                      |                                                                                                                         |      |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------|------|
+| Flash Chop           | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                     | (EX) |
+| Power Bomb/Back Drop | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") \*                                  |      |
+| Spiral D.D.T.        | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")                                       |      |
+| Air Knee Smash       | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png")                                         | (EX) |
+| Slash Elbow          | ![](/images/b.png "/images/b.png") Charge ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | (EX) |
+| Air Stampede         | ![](/images/d.png "/images/d.png") Charge ![](/images/u.png "/images/u.png") + ![](/images/Kick.png "/images/Kick.png") | (EX) |
 
 <sub>\*Retour Drop est exécuté si l'adversaire a été choppé par
 derrière</sub>
 
 ### Super Arts
 
-|     |                    |                                                                         |                   |
-|-----|--------------------|-------------------------------------------------------------------------|-------------------|
-| I   | Hyper Bomb         | ![](360.png "360.png") ![](Punch.png "Punch.png")                       | 1 stock (3.2 ex)  |
-| II  | Boomerang Raid     | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") ![](Punch.png "Punch.png") | 2 stocks (4.8 ex) |
-| III | Stun Gun Head Butt | ![](qcf.png "qcf.png")![](qcf.png "qcf.png") ![](Punch.png "Punch.png") | 1 stock (2.0 ex)  |
+|     |                    |                                                                                                                         |                   |
+|-----|--------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------|
+| I   | Hyper Bomb         | ![](/images/360.png "/images/360.png") ![](/images/Punch.png "/images/Punch.png")                                       | 1 stock (3.2 ex)  |
+| II  | Boomerang Raid     | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") ![](/images/Punch.png "/images/Punch.png") | 2 stocks (4.8 ex) |
+| III | Stun Gun Head Butt | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") ![](/images/Punch.png "/images/Punch.png") | 1 stock (2.0 ex)  |
 
 ## Stratégie
 

@@ -1,6 +1,8 @@
+# Dudley (3S)
+
 ![Character Select
-Portrait](Dudley3sport.gif "Character Select Portrait") ![Neutral
-Stance](Dudley3s-stance-short.gif "Neutral Stance")
+Portrait](/images/Dudley3sport.gif "Character Select Portrait")
+![Neutral Stance](/images/Dudley3s-stance-short.gif "Neutral Stance")
 
 ## Introduction
 
@@ -15,88 +17,108 @@ Stance](Dudley3s-stance-short.gif "Neutral Stance")
 
 ## Couleurs
 
-|                                  |                                  |                                  |                                  |                                  |                                  |                                                              |
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--------------------------------------------------------------|
-| ![](LP.png "LP.png")             | ![](MP.png "MP.png")             | ![](HP.png "HP.png")             | ![](LK.png "LK.png")             | ![](MK.png "MK.png")             | ![](HK.png "HK.png")             | ![](LP.png "LP.png")![](MK.png "MK.png")![](HP.png "HP.png") |
-| ![](Dudleylp.gif "Dudleylp.gif") | ![](Dudleymp.gif "Dudleymp.gif") | ![](Dudleyhp.gif "Dudleyhp.gif") | ![](Dudleylk.gif "Dudleylk.gif") | ![](Dudleymk.gif "Dudleymk.gif") | ![](Dudleyhk.gif "Dudleyhk.gif") | ![](Dudleylpmkhp.gif "Dudleylpmkhp.gif")                     |
-|                                  |                                  |                                  |                                  |                                  |                                  |                                                              |
+|                                                  |                                                  |                                                  |                                                  |                                                  |                                                  |                                                                                                              |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![](/images/LP.png "/images/LP.png")             | ![](/images/MP.png "/images/MP.png")             | ![](/images/HP.png "/images/HP.png")             | ![](/images/LK.png "/images/LK.png")             | ![](/images/MK.png "/images/MK.png")             | ![](/images/HK.png "/images/HK.png")             | ![](/images/LP.png "/images/LP.png")![](/images/MK.png "/images/MK.png")![](/images/HP.png "/images/HP.png") |
+| ![](/images/Dudleylp.gif "/images/Dudleylp.gif") | ![](/images/Dudleymp.gif "/images/Dudleymp.gif") | ![](/images/Dudleyhp.gif "/images/Dudleyhp.gif") | ![](/images/Dudleylk.gif "/images/Dudleylk.gif") | ![](/images/Dudleymk.gif "/images/Dudleymk.gif") | ![](/images/Dudleyhk.gif "/images/Dudleyhk.gif") | ![](/images/Dudleylpmkhp.gif "/images/Dudleylpmkhp.gif")                                                     |
+|                                                  |                                                  |                                                  |                                                  |                                                  |                                                  |                                                                                                              |
 
 #### Chopes
 
-|                |                                                                                        |
-|----------------|----------------------------------------------------------------------------------------|
-| Liver Crusher  | ![](LP.png "LP.png") + ![](LK.png "LK.png")                                            |
-| Dynamite Throw | ![](B.png "B.png") ou ![](F.png "F.png") + ![](LP.png "LP.png") + ![](LK.png "LK.png") |
+|                |                                                                                                                                                        |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Liver Crusher  | ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png")                                                                            |
+| Dynamite Throw | ![](/images/B.png "/images/B.png") ou ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Normaux
 
-|               |                                           |
-|---------------|-------------------------------------------|
-| Slipping Jab  | ![](F.png "F.png") + ![](LP.png "LP.png") |
-| Stomach Blow  | ![](F.png "F.png") + ![](MP.png "MP.png") |
-| Liver Blow    | ![](F.png "F.png") + ![](MK.png "MK.png") |
-| Step Straight | ![](F.png "F.png") + ![](HP.png "HP.png") |
-| Dart Shot     | ![](F.png "F.png") + ![](HK.png "HK.png") |
+|               |                                                                           |
+|---------------|---------------------------------------------------------------------------|
+| Slipping Jab  | ![](/images/F.png "/images/F.png") + ![](/images/LP.png "/images/LP.png") |
+| Stomach Blow  | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
+| Liver Blow    | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
+| Step Straight | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
+| Dart Shot     | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 #### Target Combos
 
-- ![](LP.png "LP.png") -\> ![](MP.png "MP.png") -\> ![](MK.png "MK.png")
+- ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- ![](F.png "F.png") + ![](LP.png "LP.png") -\> ![](MP.png "MP.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/MP.png "/images/MP.png")
 
 <!-- -->
 
-- ![](D.png "D.png") + ![](LK.png "LK.png") \> ![](MK.png "MK.png")
+- ![](/images/D.png "/images/D.png") +
+  ![](/images/LK.png "/images/LK.png") \>
+  ![](/images/MK.png "/images/MK.png")
 
 <!-- -->
 
-- ![](MK.png "MK.png") -\> ![](HK.png "HK.png") -\> ![](HP.png "HP.png")
+- ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](LK.png "LK.png") -\> ![](MK.png "MK.png") -\> ![](MP.png "MP.png")
-  -\> ![](HP.png "HP.png")
+- ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](F.png "F.png") + ![](MK.png "MK.png") -\> ![](MK.png "MK.png") -\>
-  ![](HP.png "HP.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](D.png "D.png") + ![](LK.png "LK.png") -\> ![](D.png "D.png") +
-  ![](MP.png "MP.png") -\> ![](D.png "D.png") + ![](HP.png "HP.png")
+- ![](/images/D.png "/images/D.png") +
+  ![](/images/LK.png "/images/LK.png") -\>
+  ![](/images/D.png "/images/D.png") +
+  ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/D.png "/images/D.png") +
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](MP.png "MP.png") -\> ![](MK.png "MK.png") -\> ![](HP.png "HP.png")
+- ![](/images/MP.png "/images/MP.png") -\>
+  ![](/images/MK.png "/images/MK.png") -\>
+  ![](/images/HP.png "/images/HP.png")
 
 <!-- -->
 
-- ![](F.png "F.png") + ![](HK.png "HK.png") -\> ![](MK.png "MK.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/MK.png "/images/MK.png")
 
 ### Coups Spéciaux
 
-|                   |                                                                        |      |
-|-------------------|------------------------------------------------------------------------|------|
-| Cross Counter     | ![](hcb.png "hcb.png") + ![](Punch.png "Punch.png")                    | (EX) |
-| Punch & Counter   | ![](hcb.png "hcb.png") ![](F.png "F.png") + ![](Punch.png "Punch.png") | (EX) |
-| Machine Gun Blow  | ![](hcf.png "hcf.png") + ![](Punch.png "Punch.png")                    | (EX) |
-| Jet Upper         | ![](dp.png "dp.png") + ![](Punch.png "Punch.png")                      | (EX) |
-| Short Swing Blow  | ![](hcb.png "hcb.png") + ![](Kick.png "Kick.png")                      | (EX) |
-| Duck              | ![](hcf.png "hcf.png") + ![](Kick.png "Kick.png")                      |      |
-| -\> Duck Straight | Durant Duck, ![](Punch.png "Punch.png")                                |      |
-| -\> Duck Upper    | Durant Duck, ![](Kick.png "Kick.png")                                  |      |
+|                   |                                                                                                                        |      |
+|-------------------|------------------------------------------------------------------------------------------------------------------------|------|
+| Cross Counter     | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png")                                    | (EX) |
+| Punch & Counter   | ![](/images/hcb.png "/images/hcb.png") ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | (EX) |
+| Machine Gun Blow  | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png")                                    | (EX) |
+| Jet Upper         | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png")                                      | (EX) |
+| Short Swing Blow  | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png")                                      | (EX) |
+| Duck              | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png")                                      |      |
+| -\> Duck Straight | Durant Duck, ![](/images/Punch.png "/images/Punch.png")                                                                |      |
+| -\> Duck Upper    | Durant Duck, ![](/images/Kick.png "/images/Kick.png")                                                                  |      |
 
 ### Super Arts
 
-|     |                 |                                                                                                                                |          |
-|-----|-----------------|--------------------------------------------------------------------------------------------------------------------------------|----------|
-| I   | Rocket Upper    | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                                     | 2 stocks |
-| II  | Rolling Thunder | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") (appuyer sur ![](Punch.png "Punch.png") rapidement) | 1 stock  |
-| III | Corkscrew Blow  | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png")                                                     | 3 stocks |
+|     |                 |                                                                                                                                                                                                |          |
+|-----|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| I   | Rocket Upper    | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                                     | 2 stocks |
+| II  | Rolling Thunder | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (appuyer sur ![](/images/Punch.png "/images/Punch.png") rapidement) | 1 stock  |
+| III | Corkscrew Blow  | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png")                                                                     | 3 stocks |
 
 ### Combos
 
@@ -105,133 +127,217 @@ la plupart des combos de Dudley sont character specific.
 
 #### Combos basique
 
-- ![](HK.png "HK.png") XX ![](hcf.png "hcf.png") + ![](LP.png "LP.png")
-- c.![](LK.png "LK.png") XX ![](dp.png "dp.png") +
-  ![](2xPunch.png "2xPunch.png")
-- c.![](LP.png "LP.png") XX ![](dp.png "dp.png") +
-  ![](2xPunch.png "2xPunch.png")
-- ![](HK.png "HK.png") XX ![](hcf.png "hcf.png") +
-  ![](Kick.png "Kick.png") ![](Kick.png "Kick.png") (Makoto seulement)
-- ![](MP.png "MP.png") XX ![](dp.png "dp.png") +
-  ![](2xPunch.png "2xPunch.png")
-- ![](F.png "F.png") + ![](MK.png "MK.png") XX ![](dp.png "dp.png") +
-  ![](2xPunch.png "2xPunch.png")
-- ![](HP.png "HP.png") XX Super (Le super cancel ne marche seulement si
-  entré avant le hit du HP)
+- ![](/images/HK.png "/images/HK.png") XX
+  ![](/images/hcf.png "/images/hcf.png") +
+  ![](/images/LP.png "/images/LP.png")
+- c.![](/images/LK.png "/images/LK.png") XX
+  ![](/images/dp.png "/images/dp.png") +
+  ![](/images/2xPunch.png "/images/2xPunch.png")
+- c.![](/images/LP.png "/images/LP.png") XX
+  ![](/images/dp.png "/images/dp.png") +
+  ![](/images/2xPunch.png "/images/2xPunch.png")
+- ![](/images/HK.png "/images/HK.png") XX
+  ![](/images/hcf.png "/images/hcf.png") +
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png") (Makoto seulement)
+- ![](/images/MP.png "/images/MP.png") XX
+  ![](/images/dp.png "/images/dp.png") +
+  ![](/images/2xPunch.png "/images/2xPunch.png")
+- ![](/images/F.png "/images/F.png") +
+  ![](/images/MK.png "/images/MK.png") XX
+  ![](/images/dp.png "/images/dp.png") +
+  ![](/images/2xPunch.png "/images/2xPunch.png")
+- ![](/images/HP.png "/images/HP.png") XX Super (Le super cancel ne
+  marche seulement si entré avant le hit du HP)
 
 #### Combos avancé : Midscreen
 
 **Shotos, Urien, Hugo, Twelve, Yun & Yang**
 
-- ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png") -\>
-  ![](MK.png "MK.png") x ![](dp.png "dp.png") ![](HP.png "HP.png")
-- ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](hcf.png "hcf.png")
-  ![](MK.png "MK.png") ![](Kick.png "Kick.png") ou
-  ![](Punch.png "Punch.png")
-- c.![](HK.png "HK.png") -\> ![](hcf.png "hcf.png") ![](MK.png "MK.png")
-  ![](Kick.png "Kick.png") ou ![](Punch.png "Punch.png") (le Duck
-  Straight avec la super inflige plus de dégât que le Duck Upper)
+- ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png") -\>
+  ![](/images/MK.png "/images/MK.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/MK.png "/images/MK.png")
+  ![](/images/Kick.png "/images/Kick.png") ou
+  ![](/images/Punch.png "/images/Punch.png")
+- c.![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/MK.png "/images/MK.png")
+  ![](/images/Kick.png "/images/Kick.png") ou
+  ![](/images/Punch.png "/images/Punch.png") (le Duck Straight avec la
+  super inflige plus de dégât que le Duck Upper)
 
 <!-- -->
 
-- c.![](HK.png "HK.png") -\> ![](F.png "F.png") -\> ![](MK.png "MK.png")
-  x ![](dp.png "dp.png") ![](HP.png "HP.png")
-- c.![](HK.png "HK.png") -\> ![](hcf.png "hcf.png") ![](LP.png "LP.png")
-  -\> ![](hcf.png "hcf.png") ![](MK.png "MK.png")
-  ![](Kick.png "Kick.png")
+- c.![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/F.png "/images/F.png") -\>
+  ![](/images/MK.png "/images/MK.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- c.![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/MK.png "/images/MK.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Chun-Li**
 
-- ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> c.![](HK.png "HK.png") -\>
-  ![](hcf.png "hcf.png") ![](MK.png "MK.png") ![](Kick.png "Kick.png")
-- c.![](HK.png "HK.png") x2 -\> ![](hcf.png "hcf.png")
-  ![](MK.png "MK.png") ![](Kick.png "Kick.png")
+- ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  c.![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/MK.png "/images/MK.png")
+  ![](/images/Kick.png "/images/Kick.png")
+- c.![](/images/HK.png "/images/HK.png") x2 -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/MK.png "/images/MK.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Elena**
 
-- ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> c.![](HK.png "HK.png") -\> Dash -\>
-  c.![](MP.png "MP.png") x ![](dp.png "dp.png") ![](HP.png "HP.png")
-- c.![](HK.png "HK.png") x2 -\> dash -\> c. ![](MP.png "MP.png") x
-  ![](dp.png "dp.png") ![](HP.png "HP.png")
+- ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  c.![](/images/HK.png "/images/HK.png") -\> Dash -\>
+  c.![](/images/MP.png "/images/MP.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- c.![](/images/HK.png "/images/HK.png") x2 -\> dash -\> c.
+  ![](/images/MP.png "/images/MP.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
 
 **Makoto**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png") x
-  ![](dp.png "dp.png") ![](HP.png "HP.png")
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png"),
-  ![](Kick.png "Kick.png") ou ![](Punch.png "Punch.png")
-- c\. ![](HK.png "HK.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png"),
-  ![](Kick.png "Kick.png") ou ![](Punch.png "Punch.png")
-- c\. ![](HK.png "HK.png") -\> ![](hcf.png "hcf.png")
-  ![](LP.png "LP.png") -\> c. ![](HK.png "HK.png") -\>
-  ![](F.png "F.png"), ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png"),
+  ![](/images/Kick.png "/images/Kick.png") ou
+  ![](/images/Punch.png "/images/Punch.png")
+- c\. ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png"),
+  ![](/images/Kick.png "/images/Kick.png") ou
+  ![](/images/Punch.png "/images/Punch.png")
+- c\. ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/LP.png "/images/LP.png") -\> c.
+  ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Dudley**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png"),
-  ![](Kick.png "Kick.png")
-- c\. ![](HK.png "HK.png") x2 -\> dash -\> ![](dp.png "dp.png")
-  ![](HP.png "HP.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png"),
+  ![](/images/Kick.png "/images/Kick.png")
+- c\. ![](/images/HK.png "/images/HK.png") x2 -\> dash -\>
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
 
 **Q**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](hcf.png "hcf.png")
-  ![](LP.png "LP.png") -\> ![](hcb.png "hcb.png") ![](LK.png "LK.png")
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](hcf.png "hcf.png")
-  ![](LP.png "LP.png") -\> ![](F.png "F.png") x ![](dp.png "dp.png")
-  ![](HP.png "HP.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/hcb.png "/images/hcb.png")
+  ![](/images/LK.png "/images/LK.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/LP.png "/images/LP.png") -\>
+  ![](/images/F.png "/images/F.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
 
 **Remy**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Necro**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png") x
-  ![](dp.png "dp.png") ![](HP.png "HP.png")
-- c\. ![](HK.png "HK.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- c\. ![](/images/HK.png "/images/HK.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Alex**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png") x
-  ![](dp.png "dp.png") ![](HP.png "HP.png")
-- c\. ![](HK.png "HK.png") x2 -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png") x
+  ![](/images/dp.png "/images/dp.png")
+  ![](/images/HP.png "/images/HP.png")
+- c\. ![](/images/HK.png "/images/HK.png") x2 -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 **Oro**
 
-- s\. ![](HK.png "HK.png") x ![](hcf.png "hcf.png")
-  ![](2xPunch.png "2xPunch.png") -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
-- c\. ![](HK.png "HK.png") x2 -\> ![](F.png "F.png"),
-  ![](hcf.png "hcf.png") ![](Kick.png "Kick.png")
-  ![](Kick.png "Kick.png")
+- s\. ![](/images/HK.png "/images/HK.png") x
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/2xPunch.png "/images/2xPunch.png") -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
+- c\. ![](/images/HK.png "/images/HK.png") x2 -\>
+  ![](/images/F.png "/images/F.png"),
+  ![](/images/hcf.png "/images/hcf.png")
+  ![](/images/Kick.png "/images/Kick.png")
+  ![](/images/Kick.png "/images/Kick.png")
 
 ## Stratégie
 

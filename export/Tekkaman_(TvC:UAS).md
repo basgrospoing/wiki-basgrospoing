@@ -1,5 +1,7 @@
-<img src="Tekkaman.jpg" title="Tekkaman.jpg" width="200"
-alt="Tekkaman.jpg" />  
+# Tekkaman (TvC:UAS)
+
+<img src="/images/Tekkaman.jpg" title="/images/Tekkaman.jpg" width="200"
+alt="/images/Tekkaman.jpg" />  
 
 # Introduction
 

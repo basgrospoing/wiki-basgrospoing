@@ -1,3 +1,5 @@
+# Guy (SSFIV)
+
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
@@ -23,41 +25,41 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 ### Elbow Drop (en l'air)
 
-|                |                                           |
-|----------------|-------------------------------------------|
-| **Elbow Drop** | ![](d.png "d.png") + ![](MP.png "MP.png") |
+|                |                                                                           |
+|----------------|---------------------------------------------------------------------------|
+| **Elbow Drop** | ![](/images/d.png "/images/d.png") + ![](/images/MP.png "/images/MP.png") |
 
 ### Ninja Sickle
 
-|                  |                                             |
-|------------------|---------------------------------------------|
-| **Ninja Sickle** | ![](df.png "df.png") + ![](HK.png "HK.png") |
+|                  |                                                                             |
+|------------------|-----------------------------------------------------------------------------|
+| **Ninja Sickle** | ![](/images/df.png "/images/df.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Neck Breaker
 
 ### Bushin Gokusaken (Target Combo Variation stand Kick)
 
-|                      |                                                                                              |
-|----------------------|----------------------------------------------------------------------------------------------|
-| **Bushin Gokusaken** | ![](LP.png "LP.png") \> ![](MP.png "MP.png") \> ![](HP.png "HP.png") \> ![](HK.png "HK.png") |
+|                      |                                                                                                                                                              |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bushin Gokusaken** | ![](/images/LP.png "/images/LP.png") \> ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") \> ![](/images/HK.png "/images/HK.png") |
 
 ### Bushin Gokusaken (End Variation Bas Kick)
 
-|                                     |                                                                                                                   |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Bushin Gokusaken Variation Kick** | ![](LP.png "LP.png") \> ![](MP.png "MP.png") \> ![](HP.png "HP.png") \> ![](d.png "d.png") + ![](HK.png "HK.png") |
+|                                     |                                                                                                                                                                                                   |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bushin Gokusaken Variation Kick** | ![](/images/LP.png "/images/LP.png") \> ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") \> ![](/images/d.png "/images/d.png") + ![](/images/HK.png "/images/HK.png") |
 
 ### Jump Target Combo (MP to HP)
 
-|                                  |                                              |
-|----------------------------------|----------------------------------------------|
-| **Jump Target Combo (MP to HP)** | ![](MP.png "MP.png") \> ![](HP.png "HP.png") |
+|                                  |                                                                              |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Jump Target Combo (MP to HP)** | ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") |
 
 ### Wall Jump
 
-|               |                                                                      |
-|---------------|----------------------------------------------------------------------|
-| **Wall Jump** | ![](f.png "f.png") ou ![](uf.png "uf.png") quand vous touchez un mur |
+|               |                                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------|
+| **Wall Jump** | ![](/images/f.png "/images/f.png") ou ![](/images/uf.png "/images/uf.png") quand vous touchez un mur |
 
 ## Coups spéciaux, super, ultras
 
@@ -65,27 +67,27 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Hozanto
 
-|             |                                                     |                      |                 |
-|-------------|-----------------------------------------------------|----------------------|-----------------|
-| **Hozanto** | ![](qcb.png "qcb.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") | **Armor Break** |
+|             |                                                                                     |                                      |                 |
+|-------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| **Hozanto** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 #### Bushin Senpukyaku
 
-|                       |                                                   |                      |
-|-----------------------|---------------------------------------------------|----------------------|
-| **Bushin Senpukyaku** | ![](qcb.png "qcb.png") + ![](Kick.png "Kick.png") | ![](Ex.png "Ex.png") |
+|                       |                                                                                   |                                      |
+|-----------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| **Bushin Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Bushin Izuna Otoshi
 
-|                         |                                                     |                      |
-|-------------------------|-----------------------------------------------------|----------------------|
-| **Bushin Izuna Otoshi** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") | ![](Ex.png "Ex.png") |
+|                         |                                                                                     |                                      |
+|-------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| **Bushin Izuna Otoshi** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Run
 
-|         |                                                   |
-|---------|---------------------------------------------------|
-| **Run** | ![](qcf.png "qcf.png") + ![](Kick.png "Kick.png") |
+|         |                                                                                   |
+|---------|-----------------------------------------------------------------------------------|
+| **Run** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ##### Sudden Stop (Followup LK)
 
@@ -95,31 +97,31 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Kaiten Izuna Otoshi (Choppe en l'air)
 
-|                         |                                                     |
-|-------------------------|-----------------------------------------------------|
-| **Kaizen Izuna Otoshi** | ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                         |                                                                                     |
+|-------------------------|-------------------------------------------------------------------------------------|
+| **Kaizen Izuna Otoshi** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Supers
 
 #### Bushin Hasoken
 
-|                    |                                                                            |
-|--------------------|----------------------------------------------------------------------------|
-| **Bushin Hasoken** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](Punch.png "Punch.png") |
+|                    |                                                                                                                            |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Bushin Hasoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultras
 
 #### Bushin Goraisenpujin(Ultra 1)
 
-|                          |                                                                                |                 |
-|--------------------------|--------------------------------------------------------------------------------|-----------------|
-| **Bushin Goraisenpujin** | ![](qcf.png "qcf.png") ![](qcf.png "qcf.png") + ![](3xPunch.png "3xPunch.png") | **Armor Break** |
+|                          |                                                                                                                                |                 |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| **Bushin Goraisenpujin** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 #### Bushin Muso Renge(Ultra 2)
 
-|                       |                                                                                |
-|-----------------------|--------------------------------------------------------------------------------|
-| **Bushin Muso Renge** | ![](hcb.png "hcb.png") ![](hcb.png "hcb.png") + ![](3xPunch.png "3xPunch.png") |
+|                       |                                                                                                                                |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Bushin Muso Renge** | ![](/images/hcb.png "/images/hcb.png") ![](/images/hcb.png "/images/hcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## 5 Combos
 
