@@ -178,6 +178,9 @@ cache_content = json.loads(cache_text)
 cache_file.close()
 
 create_folder("../export")
+
+
+
 for entry in cache_content:
     # # Writing to sample.json
     src = entry["src"].split("/")
@@ -190,9 +193,19 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    content = "=" + entry["text"] + "=\n\n" + "Original author: " +  entry["author"] + ".\n\n" + entry["content"].replace('\n-\n', '-')
+    frontmatter = "---\ntitle: " + entry["text"] + "\nslug: " + entry["src"] + "\nid: " + entry["id"] + "\nauthor: " + entry["author"] + "\n"
+    
+    if "old_src" in entry:
+        frontmatter += "redirect: "  + entry["old_src"] + "\n"
+    
+    if "old_id" in entry:
+        frontmatter += "old_id: "  + entry["old_id"] + "\n"
+        
+    frontmatter += "---\n\n"
+
+    content = "=" + entry["text"] + "=\n\n" + ".\n\n" + entry["content"].replace('\n-\n', '-')
     print(entry["src"])
-    md = pypandoc.convert_text(content, 'gfm', format='mediawiki')
+    md = frontmatter + pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
     with open("../export/" + entry["src"] +".md", "w") as outfile:
         outfile.write(md)
