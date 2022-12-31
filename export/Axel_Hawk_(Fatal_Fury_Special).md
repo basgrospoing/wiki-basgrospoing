@@ -1,5 +1,7 @@
 # Axel Hawk (Fatal Fury Special)
 
+Original author: Atomskyu690.
+
 ![](/images/Axel.PNG)  
 
 ## Introduction

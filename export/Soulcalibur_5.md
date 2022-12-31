@@ -1,5 +1,7 @@
 # Soulcalibur 5
 
+Original author: Admin.
+
 <figure>
 <img src="/images/Soulcalibur5_Logo.png" title="Logo" width="400"
 alt="Logo" />

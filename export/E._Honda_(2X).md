@@ -1,5 +1,7 @@
 # E. Honda (2X)
 
+Original author: 93.1.10.245.
+
 ## Introduction
 
 E.Honda est un personnage que l'on peut considérer comme facile à manier

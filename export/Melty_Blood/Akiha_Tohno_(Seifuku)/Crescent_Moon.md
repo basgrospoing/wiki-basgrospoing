@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
 
+Original author: Naast.
+
 # Combos
 
 **Combos Midscreen**

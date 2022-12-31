@@ -1,5 +1,7 @@
 # Melty Blood/Satsuki Yumiduka/Half Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB**

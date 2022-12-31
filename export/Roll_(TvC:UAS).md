@@ -1,5 +1,7 @@
 # Roll (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Roll.jpg" title="/images/Roll.jpg" width="250"
 alt="/images/Roll.jpg" />  
 

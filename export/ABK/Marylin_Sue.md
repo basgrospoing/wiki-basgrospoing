@@ -1,5 +1,7 @@
 # ABK/Marylin Sue
 
+Original author: Kabai.
+
 ![](/images/Marylin_Sue_ABK.jpg "/images/Marylin_Sue_ABK.jpg")
 
 # Combos

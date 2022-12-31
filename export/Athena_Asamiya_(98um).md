@@ -1,5 +1,7 @@
 # Athena Asamiya (98um)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

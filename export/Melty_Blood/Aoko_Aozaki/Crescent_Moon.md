@@ -1,5 +1,7 @@
 # Melty Blood/Aoko Aozaki/Crescent Moon
 
+Original author: Toto.
+
 # Combos
 
 **BnB**

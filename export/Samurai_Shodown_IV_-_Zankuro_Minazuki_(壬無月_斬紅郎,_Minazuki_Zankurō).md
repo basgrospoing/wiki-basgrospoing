@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)
 
+Original author: Olivic.
+
 ![](/images/ss4-Zankuro.gif "/images/ss4-Zankuro.gif")
 
 ## Introduction

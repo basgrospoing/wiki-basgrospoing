@@ -1,5 +1,7 @@
 # Tsubaki Yayoi (BBCS)
 
+Original author: Yolsgens.
+
 <figure>
 <img src="/images/Bbcs_tsubaki_artwork_01.png"
 title="/images/Bbcs_tsubaki_artwork_01.png" width="150"

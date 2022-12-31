@@ -1,5 +1,7 @@
 # Shermie (2k2um)
 
+Original author: 200.169.245.58.
+
 ## Introduction
 
 ## Liste des coups

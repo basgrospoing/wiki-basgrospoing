@@ -1,5 +1,7 @@
 # Melty Blood/Arcueid Brunestud
 
+Original author: Oufan.
+
 ![ **Name:**   Arcueid Brunestud (アルクェイド・ブリュ
 ンスタッド)  —  **Nicknames:**    White Princess of the Shinso, Arcade
 Bumstead \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木

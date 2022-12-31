@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)
 
+Original author: Olivic.
+
 ![](/images/ss4-Gaira.gif "/images/ss4-Gaira.gif")
 
 ## Introduction

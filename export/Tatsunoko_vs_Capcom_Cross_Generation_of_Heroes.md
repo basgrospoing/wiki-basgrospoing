@@ -1,5 +1,7 @@
 # Tatsunoko vs Capcom Cross Generation of Heroes
 
+Original author: Dan sakazaki.
+
 ![](/images/cgoh.jpg "/images/cgoh.jpg")
 
 ## Infos

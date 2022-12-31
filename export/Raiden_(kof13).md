@@ -1,5 +1,7 @@
 # Raiden (kof13)
 
+Original author: Kula'.
+
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 ![Raiden ](/images/Raidenkof13.gif "Raiden ")

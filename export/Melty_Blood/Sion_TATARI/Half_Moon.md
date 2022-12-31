@@ -1,5 +1,7 @@
 # Melty Blood/Sion TATARI/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

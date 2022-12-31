@@ -1,5 +1,7 @@
 # The King of Fighters XI - Shingo Yabuki
 
+Original author: Olivic.
+
 ![](/images/kofxi-shingo-yabuki.jpg "/images/kofxi-shingo-yabuki.jpg")
 
 ## Introduction

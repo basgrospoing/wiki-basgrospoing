@@ -1,5 +1,7 @@
 # Liste des Jeux
 
+Original author: Kabai.
+
 ## Liste des jeux présents sur le wiki
 
 Vous trouverez ci-dessous classés par développeur la liste des jeux

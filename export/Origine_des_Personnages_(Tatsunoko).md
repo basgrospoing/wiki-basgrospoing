@@ -1,5 +1,7 @@
 # Origine des Personnages (Tatsunoko)
 
+Original author: Admin.
+
 Personnages Série / Jeu d' origine Nom occidental / français Année
 
 Hakushon Daimao ハクション大魔王 Hakushon Daimaō The Genie Family /

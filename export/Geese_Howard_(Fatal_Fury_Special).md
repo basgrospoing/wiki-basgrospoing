@@ -1,5 +1,7 @@
 # Geese Howard (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspgeese.PNG)  
 
 ## Introduction

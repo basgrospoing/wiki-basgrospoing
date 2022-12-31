@@ -1,5 +1,7 @@
 # Ken the Eagle (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Kentheeagle.jpg" title="/images/Kentheeagle.jpg"
 width="300" alt="/images/Kentheeagle.jpg" />  
 

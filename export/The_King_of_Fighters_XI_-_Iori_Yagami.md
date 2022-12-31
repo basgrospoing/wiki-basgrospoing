@@ -1,5 +1,7 @@
 # The King of Fighters XI - Iori Yagami
 
+Original author: Olivic.
+
 ![](/images/kofxi-iori-yagami.jpg "/images/kofxi-iori-yagami.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # The King of Fighters XI - Ramon
 
+Original author: Olivic.
+
 ![](/images/kofxi-ramon.jpg "/images/kofxi-ramon.jpg")
 
 ## Introduction

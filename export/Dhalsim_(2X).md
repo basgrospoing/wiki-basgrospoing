@@ -1,5 +1,7 @@
 # Dhalsim (2X)
 
+Original author: Wolmar.
+
 ## Introduction
 
 ## Analyse de coups

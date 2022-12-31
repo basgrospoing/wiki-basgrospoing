@@ -1,5 +1,7 @@
 # The King of Fighters XI - Yuri Sakazaki
 
+Original author: Olivic.
+
 ![](/images/kofxi-yuri-sakazaki.jpg "/images/kofxi-yuri-sakazaki.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Jun the Swan (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Juntheswan.jpg" title="/images/Juntheswan.jpg"
 width="300" alt="/images/Juntheswan.jpg" />  
 

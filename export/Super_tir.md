@@ -1,5 +1,7 @@
 # Super tir
 
+Original author: Wolmar.
+
 ## Introduction
 
 Les super tirs sont indispensables pour tenter de clore un échange. On

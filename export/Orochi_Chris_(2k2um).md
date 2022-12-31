@@ -1,5 +1,7 @@
 # Orochi Chris (2k2um)
 
+Original author: Aerendir.
+
 ## Introduction
 
 ## Liste des coups

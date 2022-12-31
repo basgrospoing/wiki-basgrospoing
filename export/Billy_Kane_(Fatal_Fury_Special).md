@@ -1,5 +1,7 @@
 # Billy Kane (Fatal Fury Special)
 
+Original author: Atomskyu690.
+
 ![](/images/Ffspbilly.PNG)  
 
 ## Introduction

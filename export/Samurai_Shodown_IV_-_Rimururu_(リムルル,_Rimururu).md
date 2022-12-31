@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Rimururu (リムルル, Rimururu)
 
+Original author: Olivic.
+
 ![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Jin Kisaragi (BBCS)
 
+Original author: 83.194.122.230.
+
 <figure>
 <img src="/images/Bbcs_jin_artwork_01.png"
 title="/images/Bbcs_jin_artwork_01.png" width="150"

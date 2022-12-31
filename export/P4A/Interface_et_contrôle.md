@@ -1,5 +1,7 @@
 # P4A/Interface et contrôle
 
+Original author: Kabai.
+
 # Commandes
 
 Comme la plupart des autres jeux récemment développés par Arc System

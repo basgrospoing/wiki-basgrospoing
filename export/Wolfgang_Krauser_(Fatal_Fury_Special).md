@@ -1,5 +1,7 @@
 # Wolfgang Krauser (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspkrauser.PNG)  
 
 ## Introduction

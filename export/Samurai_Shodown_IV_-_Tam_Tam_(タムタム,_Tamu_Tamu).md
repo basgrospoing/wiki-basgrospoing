@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)
 
+Original author: Olivic.
+
 ![](/images/ss4-TamTam.gif "/images/ss4-TamTam.gif")
 
 ## Introduction

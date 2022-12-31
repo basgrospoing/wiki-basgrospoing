@@ -1,5 +1,7 @@
 # Cammy (SSFIV)
 
+Original author: 209.73.132.70.
+
 Les Options Binaires : Methode ou Arnaque?
 <http://lesoptionsbinaires.blogspot.fr/> Methode argent du web le tour
 d'horizon des arnaqueurs

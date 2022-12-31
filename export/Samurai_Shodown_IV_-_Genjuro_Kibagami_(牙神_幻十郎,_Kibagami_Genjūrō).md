@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjūrō)
 
+Original author: Olivic.
+
 ![](/images/ss4-Genjuro.gif "/images/ss4-Genjuro.gif")
 
 ## Introduction

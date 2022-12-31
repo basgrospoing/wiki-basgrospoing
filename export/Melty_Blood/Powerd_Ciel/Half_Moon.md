@@ -1,5 +1,7 @@
 # Melty Blood/Powerd Ciel/Half Moon
 
+Original author: Zind.
+
 # Combos
 
 #### BnBs

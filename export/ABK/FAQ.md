@@ -1,5 +1,7 @@
 # ABK/FAQ
 
+Original author: Kabai.
+
 ## Généralités
 
 - **Comment se joue Akatsuki Blitzkampf ?**

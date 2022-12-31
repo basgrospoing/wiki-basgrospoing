@@ -1,5 +1,7 @@
 # Melty Blood/Roa
 
+Original author: Sannos.
+
 ![ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン
 )  —  **Nicknames:**    Serpent of Akasha \<br\\\>\<br\\\> **Voiced
 by:**   Ken Narita (成田 剣)  —  **Type:**   Dead Apostle Ancestor

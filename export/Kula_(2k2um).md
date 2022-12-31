@@ -1,5 +1,7 @@
 # Kula (2k2um)
 
+Original author: 194.158.70.15.
+
 ## Introduction
 
 ## Liste des coups

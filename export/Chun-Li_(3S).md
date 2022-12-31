@@ -1,5 +1,7 @@
 # Chun-Li (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Chunli3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Chun-li-3sstance.gif "Neutral Stance")

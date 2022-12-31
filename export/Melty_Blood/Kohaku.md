@@ -1,5 +1,7 @@
 # Melty Blood/Kohaku
 
+Original author: Sannos.
+
 ![ **Name:**   Kohaku (琥珀)  —  **Nicknames:**    Magical Amber,
 Apronned Devil, Mister Chin, Thieving Cat \<br\\\>\<br\\\> **Voiced
 by:**   Takano Naoko （高野　直子）  —  **Type:**   Human Maid,

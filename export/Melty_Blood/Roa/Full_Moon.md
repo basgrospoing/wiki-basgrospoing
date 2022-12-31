@@ -1,5 +1,7 @@
 # Melty Blood/Roa/Full Moon
 
+Original author: Zind.
+
 # Introduction
 
 Comme beaucoup de personnages Full Moon, F-Roa possède un gameplay

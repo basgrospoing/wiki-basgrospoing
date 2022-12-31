@@ -1,5 +1,7 @@
 # Melty Blood/Roa/Half Moon
 
+Original author: Zind.
+
 # Combos
 
 #### BnBs

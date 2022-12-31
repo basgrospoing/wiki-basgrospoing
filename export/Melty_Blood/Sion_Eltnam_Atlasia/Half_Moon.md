@@ -1,5 +1,7 @@
 # Melty Blood/Sion Eltnam Atlasia/Half Moon
 
+Original author: 82.234.188.250.
+
 # Combos
 
 *Note*: Vous pouvez finir vos combo avec j214C à la place de "ad j.C

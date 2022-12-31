@@ -1,5 +1,7 @@
 # Iron Tager (BBCS)
 
+Original author: Achoral.
+
 <figure>
 <img src="/images/Bbcs_tager_artwork_01.png"
 title="/images/Bbcs_tager_artwork_01.png" width="150"

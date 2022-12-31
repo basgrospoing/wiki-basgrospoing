@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Vermillion
 
+Original author: Oufan.
+
 ![ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red
 \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Human, Half-Demon  —  **Gender:**   Female

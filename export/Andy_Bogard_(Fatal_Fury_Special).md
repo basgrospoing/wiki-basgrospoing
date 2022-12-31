@@ -1,5 +1,7 @@
 # Andy Bogard (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspandy.PNG)  
 
 ## Introduction

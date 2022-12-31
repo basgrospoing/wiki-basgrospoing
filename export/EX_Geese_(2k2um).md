@@ -1,5 +1,7 @@
 # EX Geese (2k2um)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Moves List

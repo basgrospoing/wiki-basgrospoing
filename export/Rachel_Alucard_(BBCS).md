@@ -1,5 +1,7 @@
 # Rachel Alucard (BBCS)
 
+Original author: Achoral.
+
 <figure>
 <img src="/images/Bbcs_rachel_artwork_01.png"
 title="/images/Bbcs_rachel_artwork_01.png" width="150"

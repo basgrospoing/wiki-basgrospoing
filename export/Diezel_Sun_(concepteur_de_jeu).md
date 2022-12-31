@@ -1,5 +1,7 @@
 # Diezel Sun (concepteur de jeu)
 
+Original author: Wemsa8.
+
 DiezelSun - знаменитый 3d моделлер, игровой дизайнер.
 
 **DiezelSun** - artiste, illustrateur, concepteur de jeux. Dans sa

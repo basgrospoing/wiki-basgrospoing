@@ -1,5 +1,7 @@
 # The King of Fighters XI - Terry Bogard
 
+Original author: Olivic.
+
 ![](/images/kofxi-terry-bogard.jpg "/images/kofxi-terry-bogard.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # The King of Fighters XI - Gato Futaba
 
+Original author: Olivic.
+
 ![](/images/kofxi-gato.jpg "/images/kofxi-gato.jpg")
 
 ## Introduction

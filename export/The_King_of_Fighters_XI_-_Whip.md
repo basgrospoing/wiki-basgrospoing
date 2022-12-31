@@ -1,5 +1,7 @@
 # The King of Fighters XI - Whip
 
+Original author: Olivic.
+
 ![](/images/kofxi-whip.jpg "/images/kofxi-whip.jpg")
 
 ## Introduction

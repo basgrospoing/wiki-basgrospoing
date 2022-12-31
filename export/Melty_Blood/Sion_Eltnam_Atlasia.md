@@ -1,5 +1,7 @@
 # Melty Blood/Sion Eltnam Atlasia
 
+Original author: Sannos.
+
 ![ **Name:**   Sion Eltnam Atlasia
 (シオン・エルトナム・アトラシア)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹

@@ -1,5 +1,7 @@
 # Klaus Wessel
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Klaus_Wessel.png" title="/images/Klaus_Wessel.png"
 width="300" alt="/images/Klaus_Wessel.png" />

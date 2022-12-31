@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)
 
+Original author: Olivic.
+
 ![](/images/ss4-Nakoruru.gif "/images/ss4-Nakoruru.gif")
 
 ## Introduction

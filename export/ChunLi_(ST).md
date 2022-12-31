@@ -1,5 +1,7 @@
 # ChunLi (ST)
 
+Original author: Moun-B.
+
 <figure>
 <img src="/images/ST_ChunLi_portrait.png" width="200" />
 </figure>

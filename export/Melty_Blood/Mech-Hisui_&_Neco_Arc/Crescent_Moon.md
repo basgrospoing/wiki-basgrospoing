@@ -1,5 +1,7 @@
 # Melty Blood/Mech-Hisui & Neco Arc/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

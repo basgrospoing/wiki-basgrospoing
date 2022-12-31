@@ -1,5 +1,7 @@
 # Melty Blood/Aoko Aozaki
 
+Original author: Oufan.
+
 ![ **Name:**   Aozaki Aoko (蒼崎青子)  —  **Nicknames:**   Miss Blue,
 Magic Gunner, Witch of Destruction \<br\\\>\<br\\\> **Voiced
 by:**   Kotono Mitsuishi  —  **Type:**   Human,

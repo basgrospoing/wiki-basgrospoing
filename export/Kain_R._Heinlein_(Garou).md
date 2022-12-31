@@ -1,5 +1,7 @@
 # Kain R. Heinlein (Garou)
 
+Original author: Aerendir.
+
 ![](/images/KainRHeinlein_win_portrait.gif "/images/KainRHeinlein_win_portrait.gif")
 
 # Introduction

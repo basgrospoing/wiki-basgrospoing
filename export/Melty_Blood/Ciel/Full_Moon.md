@@ -1,5 +1,7 @@
 # Melty Blood/Ciel/Full Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

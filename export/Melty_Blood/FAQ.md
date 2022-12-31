@@ -1,5 +1,7 @@
 # Melty Blood/FAQ
 
+Original author: Zind.
+
 ## Généralités
 
 - **Qu'est-ce que Melty Blood Actress Again: Current Code ?**

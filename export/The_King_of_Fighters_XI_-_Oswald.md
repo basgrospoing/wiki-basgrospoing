@@ -1,5 +1,7 @@
 # The King of Fighters XI - Oswald
 
+Original author: Olivic.
+
 ![](/images/kofxi-oswald.jpg "/images/kofxi-oswald.jpg")
 
 ## Introduction

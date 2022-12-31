@@ -1,5 +1,7 @@
 # Melty Blood/Satsuki Yumiduka/Crescent Moon
 
+Original author: Kairisu.
+
 # Combos
 
 **BnB**

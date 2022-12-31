@@ -1,5 +1,7 @@
 # Melty Blood/Warachia/Half Moon
 
+Original author: 95.182.218.13.
+
 # Combos
 
 **Midscreen**

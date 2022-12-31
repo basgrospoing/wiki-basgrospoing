@@ -1,5 +1,7 @@
 # The King of Fighters XI - Kim Kaphwan
 
+Original author: Olivic.
+
 ![](/images/kofxi-kim-kaphwan.jpg "/images/kofxi-kim-kaphwan.jpg")
 
 ## Introduction

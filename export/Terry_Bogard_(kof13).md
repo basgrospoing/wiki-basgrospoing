@@ -1,5 +1,7 @@
 # Terry Bogard (kof13)
 
+Original author: Maj.
+
 ![Terry Bogard](/images/terrykof13.gif "Terry Bogard") [Retour à la
 fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

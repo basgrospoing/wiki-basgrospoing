@@ -1,5 +1,7 @@
 # Urien (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Urien3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Urien3s-stance.gif "Neutral Stance")

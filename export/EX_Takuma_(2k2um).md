@@ -1,5 +1,7 @@
 # EX Takuma (2k2um)
 
+Original author: 81.67.71.175.
+
 ## Introduction
 
 ## Moves List

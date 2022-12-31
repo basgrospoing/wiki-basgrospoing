@@ -1,5 +1,7 @@
 # Melty Blood/Riesbyfe Stridberg/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

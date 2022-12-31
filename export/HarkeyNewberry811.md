@@ -1,5 +1,7 @@
 # HarkeyNewberry811
 
+Original author: HarkeyNewberry811.
+
 Learning building your own PERSONAL COMPUTER from scratch can be quite a
 very difficult task once you learn nothing about computers. However once
 you figure out how to do it as well as understand exactly how to handle

@@ -1,5 +1,7 @@
 # Melty Blood/Kohaku & Mech-Hisui
 
+Original author: Sannos.
+
 ![ **Team:**   Kohaku & Mech Hisui
 \|frame\|right](/images/Kohamech1.png " Team:   Kohaku & Mech Hisui |frame|right")
 

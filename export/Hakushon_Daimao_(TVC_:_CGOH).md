@@ -1,5 +1,7 @@
 # Hakushon Daimao (TVC : CGOH)
 
+Original author: Dan sakazaki.
+
 # Introduction
 
 # Moves List

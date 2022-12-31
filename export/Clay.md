@@ -1,5 +1,7 @@
 # Clay
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/_clay.png" title="/images/_clay.png" width="250"
 alt="/images/_clay.png" />

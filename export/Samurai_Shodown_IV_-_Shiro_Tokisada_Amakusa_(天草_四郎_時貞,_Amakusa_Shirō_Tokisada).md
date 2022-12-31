@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō Tokisada)
 
+Original author: Olivic.
+
 ![](/images/ss4-Shiro.gif "/images/ss4-Shiro.gif")
 
 ## Introduction

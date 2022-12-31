@@ -1,5 +1,7 @@
 # Tung Fu Rue (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffsptung.PNG)  
 
 ## Introduction

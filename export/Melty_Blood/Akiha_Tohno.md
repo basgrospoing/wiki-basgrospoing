@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno
 
+Original author: Sannos.
+
 ![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Petite
 Soeur" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Humain, Demi-Démon   —  **Gender:**   Féminin

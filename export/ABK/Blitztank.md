@@ -1,5 +1,7 @@
 # ABK/Blitztank
 
+Original author: Kabai.
+
 ![](/images/Blitztank.jpg "/images/Blitztank.jpg")
 
 # Combos

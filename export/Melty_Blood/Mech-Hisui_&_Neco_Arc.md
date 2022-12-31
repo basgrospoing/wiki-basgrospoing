@@ -1,5 +1,7 @@
 # Melty Blood/Mech-Hisui & Neco Arc
 
+Original author: Sannos.
+
 ![ **Team:**   Neco Arc & Mech Hisui
 \|frame\|right](/images/Necomech0.png " Team:   Neco Arc & Mech Hisui |frame|right")
 

@@ -1,5 +1,7 @@
 # The King of Fighters XI - Duck King
 
+Original author: Olivic.
+
 ![](/images/kofxi-duck-king.jpg "/images/kofxi-duck-king.jpg")
 
 ## Introduction

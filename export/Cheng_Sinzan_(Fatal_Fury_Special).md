@@ -1,5 +1,7 @@
 # Cheng Sinzan (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspcheng.PNG)  
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Ryo Sakazaki (kof13)
 
+Original author: Lolo.
+
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 
 [Retour à la fiche du

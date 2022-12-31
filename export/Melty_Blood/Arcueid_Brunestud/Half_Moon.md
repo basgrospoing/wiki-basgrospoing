@@ -1,5 +1,7 @@
 # Melty Blood/Arcueid Brunestud/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

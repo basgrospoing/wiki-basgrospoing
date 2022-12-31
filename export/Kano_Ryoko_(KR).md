@@ -1,5 +1,7 @@
 # Kano Ryoko (KR)
 
+Original author: Zarghatt.
+
 ## Movelist
 
 - **ZenTenUkeMi (Rolling Body Attack)** : \[←\] → C / D

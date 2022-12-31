@@ -1,5 +1,7 @@
 # Melty Blood/Riesbyfe Stridberg/Crescent Moon
 
+Original author: 82.234.188.250.
+
 # Combos
 
 *Note:* Vous pouvez finir par j623C à la place de votre airthrow pour

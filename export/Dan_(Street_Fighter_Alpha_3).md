@@ -1,5 +1,7 @@
 # Dan (Street Fighter Alpha 3)
 
+Original author: Tonio.
+
 ## Introduction
 
 ## Liste des coups

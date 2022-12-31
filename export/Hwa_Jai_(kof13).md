@@ -1,5 +1,7 @@
 # Hwa Jai (kof13)
 
+Original author: 82.238.249.39.
+
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 ![Hwa Jai](/images/Hwakof13.gif "Hwa Jai")

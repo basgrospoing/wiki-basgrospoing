@@ -1,5 +1,7 @@
 # Garou : Mark of the Wolves
 
+Original author: Timmytheturtle.
+
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")
 
 ## Introduction

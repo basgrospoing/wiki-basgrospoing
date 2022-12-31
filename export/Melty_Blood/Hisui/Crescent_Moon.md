@@ -1,5 +1,7 @@
 # Melty Blood/Hisui/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

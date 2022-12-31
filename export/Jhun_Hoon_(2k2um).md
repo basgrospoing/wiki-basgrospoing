@@ -1,5 +1,7 @@
 # Jhun Hoon (2k2um)
 
+Original author: Kaldanm.
+
 ## Introduction
 
 ## Moves List

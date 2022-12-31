@@ -1,5 +1,7 @@
 # Robert Garcia (2k2um)
 
+Original author: Admin.
+
 ## Introduction
 
 ## Liste des coups

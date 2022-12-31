@@ -1,5 +1,7 @@
 # T. Hawk (2X)
 
+Original author: 77.201.57.249.
+
 ## Introduction
 
 T.Hawk est, avec Zangief, le choppeur de 2x. Assez difficile d’accès

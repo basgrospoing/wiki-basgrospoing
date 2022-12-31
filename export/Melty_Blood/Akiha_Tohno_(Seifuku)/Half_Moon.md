@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno (Seifuku)/Half Moon
 
+Original author: Sannos.
+
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.

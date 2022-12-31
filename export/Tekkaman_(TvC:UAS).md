@@ -1,5 +1,7 @@
 # Tekkaman (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Tekkaman.jpg" title="/images/Tekkaman.jpg" width="200"
 alt="/images/Tekkaman.jpg" />  
 

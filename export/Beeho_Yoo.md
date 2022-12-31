@@ -1,5 +1,7 @@
 # Beeho Yoo
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Beeho_Yoo.png" title="/images/Beeho_Yoo.png"
 width="300" alt="/images/Beeho_Yoo.png" />

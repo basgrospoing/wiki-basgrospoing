@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)
 
+Original author: Olivic.
+
 ![](/images/ss4-Galford.gif "/images/ss4-Galford.gif")
 
 ## Introduction

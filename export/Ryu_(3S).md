@@ -1,5 +1,7 @@
 # Ryu (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Ryu3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Ryu3s-stance.gif "Neutral Stance")

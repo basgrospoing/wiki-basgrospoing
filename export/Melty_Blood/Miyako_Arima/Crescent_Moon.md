@@ -1,5 +1,7 @@
 # Melty Blood/Miyako Arima/Crescent Moon
 
+Original author: Ouytsu.
+
 # Style du perso
 
 C-Miyako est un personnage plutôt orienté press de type blockstring.

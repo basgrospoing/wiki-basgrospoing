@@ -1,5 +1,7 @@
 # Mai Shiranui (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspmai.PNG)  
 
 ## Introduction

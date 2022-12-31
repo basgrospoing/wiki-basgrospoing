@@ -1,5 +1,7 @@
 # The King of Fighters XI - Momoko
 
+Original author: Olivic.
+
 ![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")
 
 ## Introduction

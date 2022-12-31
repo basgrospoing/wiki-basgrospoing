@@ -1,5 +1,7 @@
 # Melty Blood/Nero Chaos
 
+Original author: Sannos.
+
 ![ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   
 Professor Chaos \<br\\\>\<br\\\> **Voiced by:**   Joji Nakata (中田
 譲治)  —  **Type:**   Dead Apostle  —  **Gender:**   Male

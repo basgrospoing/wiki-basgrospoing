@@ -1,5 +1,7 @@
 # Kim Kaphwan (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspkim.PNG)  
 
 ## Introduction

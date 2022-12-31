@@ -1,5 +1,7 @@
 # Mai Shiranui (Real Bout Fatal Fury version) (98um)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

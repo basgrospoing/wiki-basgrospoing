@@ -1,5 +1,7 @@
 # Chun-Li (TvC:UAS)
 
+Original author: Admin.
+
 <img src="/images/Tvc-chunli.jpg" title="/images/Tvc-chunli.jpg"
 width="230" alt="/images/Tvc-chunli.jpg" />  
 

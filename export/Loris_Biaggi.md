@@ -1,5 +1,7 @@
 # Loris Biaggi
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Loris_Biaggi.png" title="/images/Loris_Biaggi.png"
 width="300" alt="/images/Loris_Biaggi.png" />

@@ -1,5 +1,7 @@
 # Laurence Blood (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffsplaurence.PNG)  
 
 ## Introduction

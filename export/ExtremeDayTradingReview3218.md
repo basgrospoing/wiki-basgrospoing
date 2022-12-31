@@ -1,5 +1,7 @@
 # ExtremeDayTradingReview3218
 
+Original author: ExtremeDayTradingReview3218.
+
 With regards to scalp trading, Day investors attempt to make use of the
 short-term trading possibilities. Traders offered in order to get into
 and exit inside a minute roughly and so they can produce confidence

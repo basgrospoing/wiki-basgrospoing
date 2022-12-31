@@ -1,5 +1,7 @@
 # Tekkaman Blade (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Tekkamanblade.jpg" title="/images/Tekkamanblade.jpg"
 width="250" alt="/images/Tekkamanblade.jpg" />  
 

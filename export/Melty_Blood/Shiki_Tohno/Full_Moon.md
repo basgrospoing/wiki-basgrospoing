@@ -1,5 +1,7 @@
 # Melty Blood/Shiki Tohno/Full Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

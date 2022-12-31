@@ -1,5 +1,7 @@
 # Jubei Yamada (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Jubei.PNG)  
 
 ## Introduction

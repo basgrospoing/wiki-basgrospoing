@@ -1,5 +1,7 @@
 # The King of Fighters XI - Elisabeth Blanctorche
 
+Original author: Olivic.
+
 ![](/images/kofxi-elisabeth-blanctorche.jpg "/images/kofxi-elisabeth-blanctorche.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # ABK/Adler
 
+Original author: Kabai.
+
 ![](/images/Adler_ABK.jpg "/images/Adler_ABK.jpg")
 
 # Combos

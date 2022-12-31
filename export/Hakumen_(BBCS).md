@@ -1,5 +1,7 @@
 # Hakumen (BBCS)
 
+Original author: Yolsgens.
+
 <figure>
 <img src="/images/Bbcs_hakumen_artwork_01.png"
 title="/images/Bbcs_hakumen_artwork_01.png" width="150"

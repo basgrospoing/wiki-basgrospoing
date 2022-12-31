@@ -1,5 +1,7 @@
 # Sie Kensou (2k2um)
 
+Original author: Hynkel.
+
 ## Introduction
 
 ## Liste des coups

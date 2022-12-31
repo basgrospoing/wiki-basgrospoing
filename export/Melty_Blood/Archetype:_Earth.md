@@ -1,5 +1,7 @@
 # Melty Blood/Archetype: Earth
 
+Original author: Oufan.
+
 ![ **Nom:**   Archetype:Earth (真祖アルクエイド)  —  **Surnoms:**   
 "Hime Arcueid" \<br\\\>\<br\\\> **Jouée par:**   Yuzuki Ryōka (柚木
 涼香)   —  **Type:**   Aristoteles  —  **Genre:**   Féminin

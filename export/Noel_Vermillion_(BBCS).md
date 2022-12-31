@@ -1,5 +1,7 @@
 # Noel Vermillion (BBCS)
 
+Original author: 78.237.64.48.
+
 <figure>
 <img src="/images/Bbcs_noel_artwork_01.png"
 title="/images/Bbcs_noel_artwork_01.png" width="150"

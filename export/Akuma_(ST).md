@@ -1,5 +1,7 @@
 # Akuma (ST)
 
+Original author: Wolmar.
+
 ## Introduction
 
 ## Analyse de coups

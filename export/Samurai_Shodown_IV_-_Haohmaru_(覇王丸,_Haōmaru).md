@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)
 
+Original author: Olivic.
+
 ![](/images/ss4-Haohmaru.gif "/images/ss4-Haohmaru.gif")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Street Fighter Alpha 3
 
+Original author: Admin.
+
 ![](/images/Street_Fighter_Alpha_3_Logo.png "/images/Street_Fighter_Alpha_3_Logo.png")
 
 ## Introduction

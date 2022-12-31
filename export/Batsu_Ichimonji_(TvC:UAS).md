@@ -1,5 +1,7 @@
 # Batsu Ichimonji (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"
 width="230" alt="/images/Tvc-batsu.jpg" />  
 

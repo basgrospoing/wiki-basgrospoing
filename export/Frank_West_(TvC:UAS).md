@@ -1,5 +1,7 @@
 # Frank West (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Frankwest.jpg" title="/images/Frankwest.jpg"
 width="250" alt="/images/Frankwest.jpg" />  
 

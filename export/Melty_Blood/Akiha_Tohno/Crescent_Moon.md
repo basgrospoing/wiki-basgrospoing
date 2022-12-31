@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno/Crescent Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB**

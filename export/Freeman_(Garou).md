@@ -1,5 +1,7 @@
 # Freeman (Garou)
 
+Original author: Aerendir.
+
 ## Introduction
 
 Regarder ici : <http://www.elive.pro/en/watch/tyMN1aaLhwW7>

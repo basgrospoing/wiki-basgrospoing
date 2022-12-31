@@ -1,5 +1,7 @@
 # Marco Rodriguez (Garou)
 
+Original author: Timmytheturtle.
+
 ## Introduction
 
 ## Moves List

@@ -1,5 +1,7 @@
 # Melty Blood/Mech-Hisui
 
+Original author: Oufan.
+
 ![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki
 (松来未祐)  —  **Type:**   Robot   —  **Gender:**   Female

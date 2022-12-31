@@ -1,5 +1,7 @@
 # Makoto (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/makoto3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/makoto3s-stance.gif "Neutral Stance")

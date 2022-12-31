@@ -1,5 +1,7 @@
 # Défense
 
+Original author: Wolmar.
+
 ## Introduction
 
 Il faut avoir à l'esprit que tous les tirs et super tirs sont

@@ -1,5 +1,7 @@
 # Takuma Sakazaki (kof13)
 
+Original author: Kula'.
+
 ![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

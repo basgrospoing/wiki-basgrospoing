@@ -1,5 +1,7 @@
 # Oro (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Oro3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Oro3s-stance-short.gif "Neutral Stance")

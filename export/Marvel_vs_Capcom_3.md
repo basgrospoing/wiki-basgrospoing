@@ -1,5 +1,7 @@
 # Marvel vs Capcom 3
 
+Original author: Admin.
+
 ## Personnages
 
 <table>

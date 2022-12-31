@@ -1,5 +1,7 @@
 # Melty Blood/Riesbyfe Stridberg
 
+Original author: Oufan.
+
 ![ **Name:**   Riesbyfe Stridberg
 (リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the
 Holy Shield \<br\\\>\<br\\\> **Voiced by:**   Watanabe Akeno (渡辺

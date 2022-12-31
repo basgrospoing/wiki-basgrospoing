@@ -1,5 +1,7 @@
 # Necro (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Necro3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Necro3s-stance.gif "Neutral Stance")

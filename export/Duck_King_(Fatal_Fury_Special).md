@@ -1,5 +1,7 @@
 # Duck King (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspduck.PNG)  
 
 ## Introduction

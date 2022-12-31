@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)
 
+Original author: Olivic.
+
 ![](/images/ss4-Basara.gif "/images/ss4-Basara.gif")
 
 ## Introduction

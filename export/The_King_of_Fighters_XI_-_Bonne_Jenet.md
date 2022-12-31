@@ -1,5 +1,7 @@
 # The King of Fighters XI - Bonne Jenet
 
+Original author: Olivic.
+
 ![](/images/kofxi-bonne-jenet.jpg "/images/kofxi-bonne-jenet.jpg")
 
 ## Introduction

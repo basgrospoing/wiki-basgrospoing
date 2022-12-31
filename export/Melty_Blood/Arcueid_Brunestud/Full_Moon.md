@@ -1,5 +1,7 @@
 # Melty Blood/Arcueid Brunestud/Full Moon
 
+Original author: Kabai.
+
 # Combos
 
 <table border=1px cellspacing=0>

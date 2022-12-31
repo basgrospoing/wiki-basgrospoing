@@ -1,5 +1,7 @@
 # Origine des Personnages (Capcom)
 
+Original author: Admin.
+
 Personnages Série / Jeu d' origine Nom occidental / français Année  
   
 Roll ロックマン (Rockman) Mega Man 1987  

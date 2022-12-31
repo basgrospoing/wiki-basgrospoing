@@ -1,5 +1,7 @@
 # Joe Higashi (KoF '94) (98um)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

@@ -1,5 +1,7 @@
 # Melty Blood/Kouma Kishima/Full Moon
 
+Original author: 88.167.173.143.
+
 # Combos
 
 Combos testés sur Tohno Shiki

@@ -1,5 +1,7 @@
 # Hiromi Mita
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Hiromi_Mita.png" title="/images/Hiromi_Mita.png"
 width="300" alt="/images/Hiromi_Mita.png" />

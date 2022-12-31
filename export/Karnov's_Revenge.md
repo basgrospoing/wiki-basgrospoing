@@ -1,5 +1,7 @@
 # Karnov's Revenge
 
+Original author: Admin.
+
 ## Personnages
 
 - [Clown](Clown_(KR) "wikilink")

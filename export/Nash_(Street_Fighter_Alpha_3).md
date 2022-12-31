@@ -1,5 +1,7 @@
 # Nash (Street Fighter Alpha 3)
 
+Original author: Tonio.
+
 <figure>
 <img src="/images/SFA3_nash.jpg" title="/images/SFA3_nash.jpg"
 width="150" alt="/images/SFA3_nash.jpg" />

@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)
 
+Original author: Olivic.
+
 ![](/images/ss4-Sogetsu.gif "/images/ss4-Sogetsu.gif")
 
 ## Introduction

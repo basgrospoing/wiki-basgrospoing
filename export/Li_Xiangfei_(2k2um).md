@@ -1,5 +1,7 @@
 # Li Xiangfei (2k2um)
 
+Original author: 89.3.166.69.
+
 ## Introduction
 
 ## Moves List

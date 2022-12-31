@@ -1,5 +1,7 @@
 # Melty Blood/Len/Crescent Moon
 
+Original author: Oufan.
+
 # Combos
 
 ## Débutant

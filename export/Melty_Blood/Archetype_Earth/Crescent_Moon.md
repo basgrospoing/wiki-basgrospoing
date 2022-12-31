@@ -1,5 +1,7 @@
 # Melty Blood/Archetype Earth/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

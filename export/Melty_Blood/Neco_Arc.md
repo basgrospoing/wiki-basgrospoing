@@ -1,5 +1,7 @@
 # Melty Blood/Neco Arc
 
+Original author: Sannos.
+
 ![ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
 \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
 涼香)  —  **Type:**    Neco   —  **Gender:**   Female \<br\\\>\<br\\\>

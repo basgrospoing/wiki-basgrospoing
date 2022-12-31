@@ -1,5 +1,7 @@
 # Ragna the Bloodedge (BBCS)
 
+Original author: 78.240.92.62.
+
 <figure>
 <img src="/images/Bbcs_ragna_artwork_01.png"
 title="/images/Bbcs_ragna_artwork_01.png" width="150"

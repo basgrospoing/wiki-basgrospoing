@@ -1,5 +1,7 @@
 # Melty Blood/Kohaku/Half Moon
 
+Original author: Sannos.
+
 # Combos
 
 **BnB**

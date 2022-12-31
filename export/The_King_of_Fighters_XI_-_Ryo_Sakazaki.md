@@ -1,5 +1,7 @@
 # The King of Fighters XI - Ryo Sakazaki
 
+Original author: Olivic.
+
 ![](/images/kofxi-ryo-sakazaki.jpg "/images/kofxi-ryo-sakazaki.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno (Seifuku)/Full Moon
 
+Original author: 88.173.34.60.
+
 # Combos
 
 **BnB**

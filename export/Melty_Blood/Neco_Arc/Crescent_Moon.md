@@ -1,5 +1,7 @@
 # Melty Blood/Neco Arc/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

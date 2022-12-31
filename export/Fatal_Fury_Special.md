@@ -1,5 +1,7 @@
 # Fatal Fury Special
 
+Original author: Admin.
+
 <img src="/images/ffsp.jpg" title="/images/ffsp.jpg" width="200"
 alt="/images/ffsp.jpg" />  
 

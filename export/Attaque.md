@@ -1,5 +1,7 @@
 # Attaque
 
+Original author: Wolmar.
+
 ## Introduction
 
 L'offensive est composée de nombreux éléments dans Windjammers. On

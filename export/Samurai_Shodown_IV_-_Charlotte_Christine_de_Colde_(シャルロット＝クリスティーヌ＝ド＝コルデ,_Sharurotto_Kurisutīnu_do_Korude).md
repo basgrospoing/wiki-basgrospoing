@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do Korude)
 
+Original author: Olivic.
+
 ![](/images/ss4-Charlotte.gif "/images/ss4-Charlotte.gif")
 
 ## Introduction

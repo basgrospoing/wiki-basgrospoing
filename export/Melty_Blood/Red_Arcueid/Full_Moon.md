@@ -1,5 +1,7 @@
 # Melty Blood/Red Arcueid/Full Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB**

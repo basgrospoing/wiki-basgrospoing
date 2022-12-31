@@ -1,5 +1,7 @@
 # Sagat (Street Fighter Alpha 3)
 
+Original author: Tonio.
+
 <figure>
 <img src="/images/SFA3_Sagat.jpg" title="/images/SFA3_Sagat.jpg"
 width="150" alt="/images/SFA3_Sagat.jpg" />

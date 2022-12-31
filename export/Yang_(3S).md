@@ -1,5 +1,7 @@
 # Yang (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Yang3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Yang3s-stance.gif "Neutral Stance")

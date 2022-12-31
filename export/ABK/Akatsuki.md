@@ -1,5 +1,7 @@
 # ABK/Akatsuki
 
+Original author: Kabai.
+
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")
 
 # Combos

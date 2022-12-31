@@ -1,5 +1,7 @@
 # ABK/Fritz
 
+Original author: Kabai.
+
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")
 
 # Combos

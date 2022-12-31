@@ -1,5 +1,7 @@
 # Melty Blood/Shiki Ryougi/Half Moon
 
+Original author: Skenn.
+
 # Combos
 
 ### Notes

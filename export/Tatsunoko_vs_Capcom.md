@@ -1,5 +1,7 @@
 # Tatsunoko vs Capcom
 
+Original author: Admin.
+
 ![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")
 
 ## Introduction

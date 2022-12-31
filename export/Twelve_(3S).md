@@ -1,5 +1,7 @@
 # Twelve (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Twelve3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Twelve3s-stance.gif "Neutral Stance")

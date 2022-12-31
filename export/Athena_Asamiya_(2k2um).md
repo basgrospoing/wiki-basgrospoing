@@ -1,5 +1,7 @@
 # Athena Asamiya (2k2um)
 
+Original author: Hynkel.
+
 ## Introduction
 
 ## Moves List

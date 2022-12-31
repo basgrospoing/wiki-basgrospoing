@@ -1,5 +1,7 @@
 # Kevin Rian (Garou)
 
+Original author: Sp1p3.
+
 ## Introduction
 
 Style de combat: Techniques de combat swat et mercenaire  

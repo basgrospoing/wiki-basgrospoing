@@ -1,5 +1,7 @@
 # Samurai Shodown IV: Amakusa's Revenge
 
+Original author: Atomskyu690.
+
 Image:ss4-flyer.jpg Image:ss4-flyer2.jpg
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Kaijin No Soki (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"
 width="250" alt="/images/Kaijinnosoki.jpg" />  
 

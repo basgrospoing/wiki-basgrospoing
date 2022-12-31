@@ -1,5 +1,7 @@
 # ABK/Mycale
 
+Original author: Kabai.
+
 ![](/images/Mycale_ABK.jpg "/images/Mycale_ABK.jpg")
 
 # Combos

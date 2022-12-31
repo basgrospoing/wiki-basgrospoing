@@ -1,5 +1,7 @@
 # Jordi Costa
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Jordi_costa.png" title="/images/Jordi_costa.png"
 width="300" alt="/images/Jordi_costa.png" />

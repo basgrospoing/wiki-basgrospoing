@@ -1,5 +1,7 @@
 # Yun (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Yun3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Yun3s-stance-short.gif "Neutral Stance")

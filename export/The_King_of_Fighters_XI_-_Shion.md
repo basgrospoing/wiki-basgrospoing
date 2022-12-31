@@ -1,5 +1,7 @@
 # The King of Fighters XI - Shion
 
+Original author: Olivic.
+
 ![](/images/kofxi-shion.jpg "/images/kofxi-shion.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Melty Blood/Circuit Meter
 
+Original author: Naast.
+
 Le Meter est le terme officiel pour la barre de furie à Melty Blood. Un
 peu comme les ISMs à Street Fighter Zero/alpha, la gestion du meter
 change en fonction de la moon choisie.

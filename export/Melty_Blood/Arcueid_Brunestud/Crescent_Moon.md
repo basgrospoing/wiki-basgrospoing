@@ -1,5 +1,7 @@
 # Melty Blood/Arcueid Brunestud/Crescent Moon
 
+Original author: Rouxin.
+
 # Combos
 
 <table border=1px cellspacing=0>

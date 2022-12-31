@@ -1,5 +1,7 @@
 # Sean (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Sean3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Sean3s-stance.gif "Neutral Stance")

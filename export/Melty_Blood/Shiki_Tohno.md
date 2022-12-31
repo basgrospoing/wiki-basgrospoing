@@ -1,5 +1,7 @@
 # Melty Blood/Shiki Tohno
 
+Original author: Sannos.
+
 ![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima
 (野島　健児)  —  **Type:**   Human, Demon-Hunter   —  **Gender:**   Male

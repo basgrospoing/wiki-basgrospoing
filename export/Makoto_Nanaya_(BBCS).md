@@ -1,5 +1,7 @@
 # Makoto Nanaya (BBCS)
 
+Original author: 84.103.225.237.
+
 <figure>
 <img src="/images/Bbcs_makoto_artwork_01.png"
 title="/images/Bbcs_makoto_artwork_01.png" width="150"

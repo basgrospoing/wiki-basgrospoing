@@ -1,5 +1,7 @@
 # Melty Blood/Shiki Ryougi/Full Moon
 
+Original author: Skenn.
+
 # Combos
 
 **BnB**

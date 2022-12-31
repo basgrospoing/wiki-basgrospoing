@@ -1,5 +1,7 @@
 # The King of Fighters XI - Kyo Kusanagi
 
+Original author: Olivic.
+
 ![](/images/kofxi-kyo-kusanagi.jpg "/images/kofxi-kyo-kusanagi.jpg")
 
 ## Introduction

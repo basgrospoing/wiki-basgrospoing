@@ -1,5 +1,7 @@
 # Melty Blood/Controls
 
+Original author: Zind.
+
 ## Contrôles
 
 `7 8 9  A B C`  

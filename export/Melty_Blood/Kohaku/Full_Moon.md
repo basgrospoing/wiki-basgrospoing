@@ -1,5 +1,7 @@
 # Melty Blood/Kohaku/Full Moon
 
+Original author: Sannos.
+
 # Combos
 
 **Combos midscreen**

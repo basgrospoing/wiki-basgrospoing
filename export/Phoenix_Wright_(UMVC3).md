@@ -1,5 +1,7 @@
 # Phoenix Wright (UMVC3)
 
+Original author: ALX.
+
 <center>
 
 **EN TRAVAUX**

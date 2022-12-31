@@ -1,5 +1,7 @@
 # Melty Blood/Red Arcueid
 
+Original author: Sannos.
+
 ![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red
 Arc　 \<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木
 涼香)  —  **Type :**   Originel  —  **Genre :**   Femelle

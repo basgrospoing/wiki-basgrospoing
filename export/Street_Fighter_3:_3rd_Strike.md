@@ -1,5 +1,7 @@
 # Street Fighter 3: 3rd Strike
 
+Original author: ALX.
+
 ![](/images/3s_logo.gif "/images/3s_logo.gif")
 
 ## Introduction

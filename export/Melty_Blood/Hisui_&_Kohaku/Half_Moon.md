@@ -1,5 +1,7 @@
 # Melty Blood/Hisui & Kohaku/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

@@ -1,5 +1,7 @@
 # Melty Blood/Miyako Arima/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

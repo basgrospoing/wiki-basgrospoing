@@ -1,5 +1,7 @@
 # Λ -11- (BBCS)
 
+Original author: Achoral.
+
 <figure>
 <img src="/images/Bbcs_lambda_artwork_01.png"
 title="/images/Bbcs_lambda_artwork_01.png" width="150"

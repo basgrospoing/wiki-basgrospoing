@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
 
+Original author: Olivic.
+
 ![](/images/ss4-Kazuki.gif "/images/ss4-Kazuki.gif")
 
 ## Introduction

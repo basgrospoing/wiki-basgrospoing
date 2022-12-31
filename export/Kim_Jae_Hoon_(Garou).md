@@ -1,5 +1,7 @@
 # Kim Jae Hoon (Garou)
 
+Original author: Aerendir.
+
 ## Introduction
 
 ## Moves List

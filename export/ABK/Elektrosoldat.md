@@ -1,5 +1,7 @@
 # ABK/Elektrosoldat
 
+Original author: Kabai.
+
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")
 
 # Combos

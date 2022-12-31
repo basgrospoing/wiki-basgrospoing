@@ -1,5 +1,7 @@
 # BlazBlue : Continuum Shift
 
+Original author: Olivic.
+
 ![](/images/blazblue_logo.jpg "/images/blazblue_logo.jpg")
 
 ## Introduction

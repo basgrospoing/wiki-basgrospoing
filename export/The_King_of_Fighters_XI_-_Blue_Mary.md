@@ -1,5 +1,7 @@
 # The King of Fighters XI - Blue Mary
 
+Original author: Olivic.
+
 ![](/images/kofxi-blue-mary.jpg "/images/kofxi-blue-mary.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Melty Blood/Shiki Nanaya/Full Moon
 
+Original author: Sannos.
+
 # Combos
 
 *Note concernant les combos utilisant le fast fall après le 623BB :

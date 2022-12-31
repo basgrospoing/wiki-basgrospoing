@@ -1,5 +1,7 @@
 # Clown (KR)
 
+Original author: Zarghatt.
+
 ## Généralités
 
 ## Movelist

@@ -1,5 +1,7 @@
 # Kim Kaphawn (2k2um)
 
+Original author: 86.208.29.31.
+
 ## Introduction
 
 ## Liste des coups

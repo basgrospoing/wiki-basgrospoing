@@ -1,5 +1,7 @@
 # Balrog (ST)
 
+Original author: Hynkel.
+
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")
 
 ## Introduction

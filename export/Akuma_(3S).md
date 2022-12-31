@@ -1,5 +1,7 @@
 # Akuma (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Akuma3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Akuma3s-stance.gif "Neutral Stance")

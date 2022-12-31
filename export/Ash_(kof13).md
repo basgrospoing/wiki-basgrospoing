@@ -1,5 +1,7 @@
 # Ash (kof13)
 
+Original author: 206.122.158.4.
+
 ![Ash](/images/Ashkof13.gif "Ash") [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 

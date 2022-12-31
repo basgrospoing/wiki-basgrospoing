@@ -1,5 +1,7 @@
 # Melty Blood/Warachia/Crescent Moon
 
+Original author: 82.234.188.250.
+
 # Combos
 
 - **2A 2B 5B 2C 5C(2hits) j.CB sdj.AC airthrow/j421C (4323/4645)**

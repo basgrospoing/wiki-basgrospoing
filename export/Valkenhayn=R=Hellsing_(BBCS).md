@@ -2,6 +2,8 @@
 
 R=Hellsing (BBCS)=
 
+Original author: Achoral.
+
 <figure>
 <img src="/images/Bbcs_valkenhayn_artwork_01.png"
 title="/images/Bbcs_valkenhayn_artwork_01.png" width="150"

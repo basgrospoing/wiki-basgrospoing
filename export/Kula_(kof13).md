@@ -1,5 +1,7 @@
 # Kula (kof13)
 
+Original author: Maj.
+
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

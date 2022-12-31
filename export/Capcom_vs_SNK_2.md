@@ -1,5 +1,7 @@
 # Capcom vs SNK 2
 
+Original author: Alx.
+
 ![](/images/Cvs2.jpg "/images/Cvs2.jpg")
 
 ## Introduction

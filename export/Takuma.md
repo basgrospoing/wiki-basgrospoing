@@ -1,5 +1,7 @@
 # Takuma
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Moves List

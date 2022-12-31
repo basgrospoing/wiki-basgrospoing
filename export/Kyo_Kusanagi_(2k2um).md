@@ -1,5 +1,7 @@
 # Kyo Kusanagi (2k2um)
 
+Original author: JPX.
+
 ## Introduction
 
 ## Liste des coups

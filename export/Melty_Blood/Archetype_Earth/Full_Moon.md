@@ -1,5 +1,7 @@
 # Melty Blood/Archetype Earth/Full Moon
 
+Original author: 90.0.52.30.
+
 # Combos
 
 **BnB**

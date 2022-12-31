@@ -1,5 +1,7 @@
 # Windjammers
 
+Original author: Admin.
+
 <img src="/images/jaquette_windjammers.jpg"
 title="/images/jaquette_windjammers.jpg" width="400"
 alt="/images/jaquette_windjammers.jpg" />  

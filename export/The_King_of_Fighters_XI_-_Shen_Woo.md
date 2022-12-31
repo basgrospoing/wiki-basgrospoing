@@ -1,5 +1,7 @@
 # The King of Fighters XI - Shen Woo
 
+Original author: Olivic.
+
 ![](/images/kofxi-shen-woo.jpg "/images/kofxi-shen-woo.jpg")
 
 ## Introduction

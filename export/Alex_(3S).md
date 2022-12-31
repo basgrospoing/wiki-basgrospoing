@@ -1,5 +1,7 @@
 # Alex (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Alex3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Alex3s-stance.gif "Neutral Stance")

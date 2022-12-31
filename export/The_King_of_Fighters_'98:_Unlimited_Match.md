@@ -1,5 +1,7 @@
 # The King of Fighters '98: Unlimited Match
 
+Original author: Admin.
+
 ## Personnages
 
 **Japan Hero Team**

@@ -1,5 +1,7 @@
 # ABK/Sai
 
+Original author: Kabai.
+
 ![](/images/Sai_ABK.jpg "/images/Sai_ABK.jpg")
 
 # Combos

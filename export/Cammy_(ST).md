@@ -1,5 +1,7 @@
 # Cammy (ST)
 
+Original author: Rej.
+
 ## Introduction
 
 ## Analyse de coups

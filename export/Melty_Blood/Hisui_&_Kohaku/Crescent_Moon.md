@@ -1,5 +1,7 @@
 # Melty Blood/Hisui & Kohaku/Crescent Moon
 
+Original author: Sannos.
+
 # Combos
 
 - Se référer aux combos de

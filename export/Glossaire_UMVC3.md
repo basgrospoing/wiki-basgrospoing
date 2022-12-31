@@ -1,5 +1,7 @@
 # Glossaire UMVC3
 
+Original author: ALX.
+
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 <center>

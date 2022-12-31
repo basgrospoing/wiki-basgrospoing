@@ -1,5 +1,7 @@
 # Ryo Sakazaki (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspryo.PNG)  
 
 ## Introduction

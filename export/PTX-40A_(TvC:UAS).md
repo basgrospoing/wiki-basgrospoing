@@ -1,5 +1,7 @@
 # PTX-40A (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"
 alt="/images/PTX-40A.jpg" />  
 

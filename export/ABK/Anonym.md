@@ -1,5 +1,7 @@
 # ABK/Anonym
 
+Original author: Kabai.
+
 ![](/images/Anonym_ABK.jpg "/images/Anonym_ABK.jpg")
 
 # Combos

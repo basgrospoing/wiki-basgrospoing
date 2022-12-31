@@ -1,5 +1,7 @@
 # Jean Pierre (KR)
 
+Original author: Zarghatt.
+
 ## Généralités
 
 ## Movelist

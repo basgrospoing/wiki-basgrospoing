@@ -1,5 +1,7 @@
 # Melty Blood/Roa/Crescent Moon
 
+Original author: 82.234.188.250.
+
 # Combos
 
 ## Combo sans orbs

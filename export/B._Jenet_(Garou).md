@@ -1,5 +1,7 @@
 # B. Jenet (Garou)
 
+Original author: Aerendir.
+
 ## Introduction
 
 ## Moves List

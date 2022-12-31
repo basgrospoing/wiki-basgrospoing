@@ -1,5 +1,7 @@
 # The King of Fighters XI - Kula Diamond
 
+Original author: Olivic.
+
 ![](/images/kofxi-kula-diamond.jpg "/images/kofxi-kula-diamond.jpg")
 
 ## Introduction

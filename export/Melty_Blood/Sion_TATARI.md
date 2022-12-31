@@ -1,5 +1,7 @@
 # Melty Blood/Sion TATARI
 
+Original author: Sannos.
+
 ![ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹
 リオ)  —  **Type:**   Vampire, Magus  —  **Gender:**   Female

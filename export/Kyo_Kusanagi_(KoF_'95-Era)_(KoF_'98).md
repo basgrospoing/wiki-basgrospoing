@@ -1,5 +1,7 @@
 # Kyo Kusanagi (KoF '95-Era) (KoF '98)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

@@ -1,5 +1,7 @@
 # Melty Blood/Sion TATARI/Full Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB**

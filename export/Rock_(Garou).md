@@ -1,5 +1,7 @@
 # Rock (Garou)
 
+Original author: Aerendir.
+
 ## Introduction
 
 ## Moves List

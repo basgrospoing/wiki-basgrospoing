@@ -1,5 +1,7 @@
 # Melty Blood/Sion TATARI/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

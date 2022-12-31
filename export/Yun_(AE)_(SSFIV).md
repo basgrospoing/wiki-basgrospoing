@@ -1,5 +1,7 @@
 # Yun (AE) (SSFIV)
 
+Original author: Atomskyu690.
+
 ## 1 Vue d'ensemble
 
 ## 2 Stratégie Générale

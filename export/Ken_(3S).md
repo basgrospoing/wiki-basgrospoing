@@ -1,5 +1,7 @@
 # Ken (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Ken3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Ken3s-stance.gif "Neutral Stance")

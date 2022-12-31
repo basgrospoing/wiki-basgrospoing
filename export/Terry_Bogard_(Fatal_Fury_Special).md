@@ -1,5 +1,7 @@
 # Terry Bogard (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Ffspterry.PNG)  
 
 ## Introduction

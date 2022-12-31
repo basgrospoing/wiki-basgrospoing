@@ -1,5 +1,7 @@
 # Morrigan Aensland (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Tvcmorrigan.jpg" title="/images/Tvcmorrigan.jpg"
 width="250" alt="/images/Tvcmorrigan.jpg" />  
 

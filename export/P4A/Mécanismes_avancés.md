@@ -1,5 +1,7 @@
 # P4A/Mécanismes avancés
 
+Original author: Kabai.
+
 # Status spéciaux
 
 Dans **P4A**, certaines attaques ont pour conséquence d'affecter

@@ -1,5 +1,7 @@
 # Melty Blood/Akiha Tohno/Full Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB**

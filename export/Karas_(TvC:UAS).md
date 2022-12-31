@@ -1,5 +1,7 @@
 # Karas (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"
 alt="/images/Karas.jpg" />  
 

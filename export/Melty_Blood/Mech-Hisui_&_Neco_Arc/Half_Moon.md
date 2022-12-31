@@ -1,5 +1,7 @@
 # Melty Blood/Mech-Hisui & Neco Arc/Half Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

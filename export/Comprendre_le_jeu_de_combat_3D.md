@@ -1,5 +1,7 @@
 # Comprendre le jeu de combat 3D
 
+Original author: Admin.
+
 # Les règles de base
 
 Un jeu de combat 3D est régi par des règles communes à presque tous les

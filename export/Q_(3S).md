@@ -1,5 +1,7 @@
 # Q (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Q3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Q3s-stance.gif "Neutral Stance")

@@ -1,5 +1,7 @@
 # Elena (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Elena3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Elena3s-stance.gif "Neutral Stance")

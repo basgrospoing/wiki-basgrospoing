@@ -1,5 +1,7 @@
 # Melty Blood/Neco Arc Chaos
 
+Original author: Sannos.
+
 ![ **Name:**   Neco Arc Chaos
 (ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>
 **Voiced by:**   Joji Nakata (中田 譲治)  —  **Type:**    Neco

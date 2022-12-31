@@ -1,5 +1,7 @@
 # The King of Fighters XI - Duo Lon
 
+Original author: Olivic.
+
 ![](/images/kofxi-duo-lon.jpg "/images/kofxi-duo-lon.jpg")
 
 ## Introduction

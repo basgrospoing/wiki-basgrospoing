@@ -1,5 +1,7 @@
 # Melty Blood/Satsuki Yumiduka/Full Moon
 
+Original author: Kigal.
+
 # Combos
 
 **BnB**

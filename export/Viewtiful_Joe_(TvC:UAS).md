@@ -1,5 +1,7 @@
 # Viewtiful Joe (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"
 width="300" alt="/images/Viewtiful-joe.jpg" />  
 

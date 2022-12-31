@@ -1,5 +1,7 @@
 # Melty Blood/Mech-Hisui/Half Moon
 
+Original author: Oufan.
+
 # Combos
 
 **BnB de près**

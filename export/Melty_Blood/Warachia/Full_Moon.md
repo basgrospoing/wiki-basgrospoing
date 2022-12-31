@@ -1,5 +1,7 @@
 # Melty Blood/Warachia/Full Moon
 
+Original author: 78.241.53.170.
+
 # Combos
 
 **(jB) \> (2A) \> 5B(1) \> 2B(2) \> 2C(2) \> 6C \> jB \> jC \> djC \>

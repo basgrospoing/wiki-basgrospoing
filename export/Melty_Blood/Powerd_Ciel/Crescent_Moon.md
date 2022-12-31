@@ -1,5 +1,7 @@
 # Melty Blood/Powerd Ciel/Crescent Moon
 
+Original author: 62.241.104.102.
+
 # Combos
 
 **BnB**

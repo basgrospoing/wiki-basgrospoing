@@ -1,5 +1,7 @@
 # Melty Blood/White Len/Crescent Moon
 
+Original author: 88.173.34.60.
+
 # Combos
 
 ## Débutant

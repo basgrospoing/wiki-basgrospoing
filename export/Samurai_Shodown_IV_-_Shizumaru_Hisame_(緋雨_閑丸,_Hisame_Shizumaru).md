@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)
 
+Original author: Olivic.
+
 ![](/images/ss4-Shizumaru.gif "/images/ss4-Shizumaru.gif")
 
 ## Introduction

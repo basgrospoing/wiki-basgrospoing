@@ -1,5 +1,7 @@
 # Melty Blood/Aoko Aozaki/Half Moon
 
+Original author: Sannos.
+
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.

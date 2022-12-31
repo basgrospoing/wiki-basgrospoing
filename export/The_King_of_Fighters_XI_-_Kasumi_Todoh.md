@@ -1,5 +1,7 @@
 # The King of Fighters XI - Kasumi Todoh
 
+Original author: Olivic.
+
 ![](/images/kofxi-kasumi-todoh.jpg "/images/kofxi-kasumi-todoh.jpg")
 
 ## Introduction

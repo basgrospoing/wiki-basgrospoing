@@ -1,5 +1,7 @@
 # The King of Fighters XI - Ash Crimson
 
+Original author: Olivic.
+
 ![](/images/kofxi-ash-crimson.jpg "/images/kofxi-ash-crimson.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Dudley (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Dudley3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Dudley3s-stance-short.gif "Neutral Stance")

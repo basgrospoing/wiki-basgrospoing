@@ -1,5 +1,7 @@
 # Gill (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Gill.gif "Character Select Portrait") ![Neutral
 Stance](/images/Gill-stance.gif "Neutral Stance")

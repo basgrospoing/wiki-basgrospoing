@@ -1,5 +1,7 @@
 # Arcana Heart 3
 
+Original author: Admin.
+
 \_\_TOC\_\_
 <img src="/images/ah3logo.jpg" title="/images/ah3logo.jpg" width="400"
 alt="/images/ah3logo.jpg" />

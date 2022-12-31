@@ -1,5 +1,7 @@
 # Melty Blood/Lexique
 
+Original author: 82.234.188.250.
+
 \_\_TOC\_\_
 
 ## Liste des termes usuels et des abréviations

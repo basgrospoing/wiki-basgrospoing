@@ -1,5 +1,7 @@
 # Akatsuki Blitzkampf
 
+Original author: Kabai.
+
 ![](/images/abk_main.png "/images/abk_main.png")
 
 *Akatsuki Blitzkampf* est un jeu de combat 2D développé par [SUBTLE

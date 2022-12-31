@@ -1,5 +1,7 @@
 # Gold Lightan (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Goldlightan.jpg" title="/images/Goldlightan.jpg"
 width="250" alt="/images/Goldlightan.jpg" />  
 

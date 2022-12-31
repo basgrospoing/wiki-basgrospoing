@@ -1,5 +1,7 @@
 # Bang Shishigami (BBCS)
 
+Original author: Achoral.
+
 <figure>
 <img src="/images/Bbcs_bang_artwork_01.png"
 title="/images/Bbcs_bang_artwork_01.png" width="150"

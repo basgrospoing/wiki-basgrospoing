@@ -1,5 +1,7 @@
 # The King of Fighters XI - Eiji Kisaragi
 
+Original author: Olivic.
+
 ![](/images/kofxi-eiji-kisaragi.jpg "/images/kofxi-eiji-kisaragi.jpg")
 
 ## Introduction

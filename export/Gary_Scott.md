@@ -1,5 +1,7 @@
 # Gary Scott
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/Gary_Scott.png" title="/images/Gary_Scott.png"
 width="300" alt="/images/Gary_Scott.png" />

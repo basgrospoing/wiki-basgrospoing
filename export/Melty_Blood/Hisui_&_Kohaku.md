@@ -1,5 +1,7 @@
 # Melty Blood/Hisui & Kohaku
 
+Original author: Oufan.
+
 ![](/images/Hisuiandkohaku0.png "/images/Hisuiandkohaku0.png")
 
 # Introduction

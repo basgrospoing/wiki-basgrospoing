@@ -1,5 +1,7 @@
 # The King of Fighters XI - Clark Steel
 
+Original author: Olivic.
+
 ![](/images/kofxi-clark-steel.jpg "/images/kofxi-clark-steel.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Beach
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/_beach.png" title="/images/_beach.png" width="250"
 alt="/images/_beach.png" />

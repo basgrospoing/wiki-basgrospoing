@@ -1,5 +1,7 @@
 # Melty Blood/Len/Half Moon
 
+Original author: Oufan.
+
 # Combos
 
 ## Débutant

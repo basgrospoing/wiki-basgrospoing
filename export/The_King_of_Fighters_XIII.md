@@ -1,5 +1,7 @@
 # The King of Fighters XIII
 
+Original author: Admin.
+
 ![](/images/KoFXIII.png)
 
 ## Introduction

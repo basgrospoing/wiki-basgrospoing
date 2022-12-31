@@ -1,5 +1,7 @@
 # Chang Koehan (KoF '98)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

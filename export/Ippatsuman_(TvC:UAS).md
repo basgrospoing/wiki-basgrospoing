@@ -1,5 +1,7 @@
 # Ippatsuman (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"
 width="250" alt="/images/Ippatsuman.jpg" />  
 

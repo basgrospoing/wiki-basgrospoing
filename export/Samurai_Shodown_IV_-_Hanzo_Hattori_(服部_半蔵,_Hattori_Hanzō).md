@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
 
+Original author: Olivic.
+
 ![](/images/ss4-Hanzo.gif "/images/ss4-Hanzo.gif")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # The King of Fighters XI - Ralf Jones
 
+Original author: Olivic.
+
 ![](/images/kofxi-ralf-jones.jpg "/images/kofxi-ralf-jones.jpg")
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Melty Blood/Nero Chaos/Crescent Moon
 
+Original author: Rapeur.
+
 # Combos
 
 **BnB**

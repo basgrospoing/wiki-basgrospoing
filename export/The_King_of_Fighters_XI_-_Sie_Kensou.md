@@ -1,5 +1,7 @@
 # The King of Fighters XI - Sie Kensou
 
+Original author: Olivic.
+
 ![](/images/kofxi-sie-kensou.jpg "/images/kofxi-sie-kensou.jpg")
 
 ## Introduction

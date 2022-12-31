@@ -1,5 +1,7 @@
 # Melty Blood/White Len
 
+Original author: Sannos.
+
 ![ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>
 \<br\\\>\<br\\\> **Voiced by:**   Kaori Mizuhashi (水橋
 かおり)  —  **Type:**   Succubus familiar, TATARI

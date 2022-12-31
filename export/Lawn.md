@@ -1,5 +1,7 @@
 # Lawn
 
+Original author: Wolmar.
+
 <figure>
 <img src="/images/_lawn.png" title="/images/_lawn.png" width="250"
 alt="/images/_lawn.png" />

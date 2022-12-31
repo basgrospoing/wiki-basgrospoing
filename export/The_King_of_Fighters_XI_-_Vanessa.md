@@ -1,5 +1,7 @@
 # The King of Fighters XI - Vanessa
 
+Original author: Olivic.
+
 ![](/images/kofxi-vanessa.jpg "/images/kofxi-vanessa.jpg")
 
 ## Introduction

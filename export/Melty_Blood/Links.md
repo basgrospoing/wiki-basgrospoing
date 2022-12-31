@@ -1,5 +1,7 @@
 # Melty Blood/Links
 
+Original author: Naast.
+
 ### Sites
 
 <http://www.bloodheat.fr>

@@ -1,5 +1,7 @@
 # The King of Fighters XI - Athena Asamiya
 
+Original author: Olivic.
+
 ![](/images/kofxi-athena-asamiya.jpg "/images/kofxi-athena-asamiya.jpg")
 
 ## Introduction

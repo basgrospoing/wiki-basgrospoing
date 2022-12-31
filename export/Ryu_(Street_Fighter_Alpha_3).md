@@ -1,5 +1,7 @@
 # Ryu (Street Fighter Alpha 3)
 
+Original author: Tonio.
+
 <figure>
 <img src="/images/Sfa3-ryu1.jpg" title="/images/Sfa3-ryu1.jpg"
 width="150" alt="/images/Sfa3-ryu1.jpg" />

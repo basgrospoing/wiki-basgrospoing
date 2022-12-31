@@ -1,5 +1,7 @@
 # Melty Blood/Sion Eltnam Atlasia/Crescent Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

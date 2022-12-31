@@ -1,5 +1,7 @@
 # Benimaru
 
+Original author: Bberita.
+
 ## Introduction
 
 ## Moves List

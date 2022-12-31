@@ -1,5 +1,7 @@
 # 'Riot Of The Blood' Iori Yagami (98um)
 
+Original author: Corbeau Bleu.
+
 ## Introduction
 
 ## Liste des coups

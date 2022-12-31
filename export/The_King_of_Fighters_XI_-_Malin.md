@@ -1,5 +1,7 @@
 # The King of Fighters XI - Malin
 
+Original author: Olivic.
+
 ![](/images/kofxi-malin.jpg "/images/kofxi-malin.jpg")
 
 ## Introduction

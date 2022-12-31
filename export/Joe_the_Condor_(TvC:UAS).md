@@ -1,5 +1,7 @@
 # Joe the Condor (TvC:UAS)
 
+Original author: Dan sakazaki.
+
 <img src="/images/Joethecondor.jpg" title="/images/Joethecondor.jpg"
 width="250" alt="/images/Joethecondor.jpg" />  
 

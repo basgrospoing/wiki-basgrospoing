@@ -1,5 +1,7 @@
 # Joe Higashi (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/FfspJoe.PNG)  
 
 ## Introduction

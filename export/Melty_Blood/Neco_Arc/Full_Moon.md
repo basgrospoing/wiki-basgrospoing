@@ -1,5 +1,7 @@
 # Melty Blood/Neco Arc/Full Moon
 
+Original author: Ninjigen.
+
 # Combos
 
 **BnB**

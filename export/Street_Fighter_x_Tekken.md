@@ -1,5 +1,7 @@
 # Street Fighter x Tekken
 
+Original author: MaxDaStereo.
+
 ## LES CONTROLES / MOUVEMENTS
 
 ### Boutons

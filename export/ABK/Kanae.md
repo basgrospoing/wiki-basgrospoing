@@ -1,5 +1,7 @@
 # ABK/Kanae
 
+Original author: Kabai.
+
 ![](/images/Kanae_ABK.jpg "/images/Kanae_ABK.jpg")
 
 # Combos

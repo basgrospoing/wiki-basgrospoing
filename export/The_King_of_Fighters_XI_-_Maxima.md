@@ -1,5 +1,7 @@
 # The King of Fighters XI - Maxima
 
+Original author: Olivic.
+
 ![](/images/kofxi-maxima.jpg "/images/kofxi-maxima.jpg")
 
 ## Introduction

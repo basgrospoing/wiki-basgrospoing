@@ -1,5 +1,7 @@
 # Melty Blood/Ciel
 
+Original author: Oufan.
+
 ![ **Name:**   Ciel (シエル)  —  **Nicknames:**    Curry
 \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間
 紅美)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>

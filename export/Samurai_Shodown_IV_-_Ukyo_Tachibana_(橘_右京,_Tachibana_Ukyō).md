@@ -1,5 +1,7 @@
 # Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)
 
+Original author: Olivic.
+
 ![](/images/ss4-Ukyo.gif "/images/ss4-Ukyo.gif")
 
 ## Introduction

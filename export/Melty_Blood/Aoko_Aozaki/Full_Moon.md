@@ -1,5 +1,7 @@
 # Melty Blood/Aoko Aozaki/Full Moon
 
+Original author: Sannos.
+
 # Combos
 
 **BnB**

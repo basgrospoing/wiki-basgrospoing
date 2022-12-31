@@ -1,5 +1,7 @@
 # Kim Dong Hwan (Garou)
 
+Original author: Aerendir.
+
 ## Introduction
 
 ## Moves List

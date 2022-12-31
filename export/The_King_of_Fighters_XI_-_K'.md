@@ -1,5 +1,7 @@
 # The King of Fighters XI - K'
 
+Original author: Olivic.
+
 ![](/images/kofxi-k.jpg "/images/kofxi-k.jpg")
 
 ## Introduction

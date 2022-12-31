@@ -1,5 +1,7 @@
 # The King of Fighters XI - Griffon
 
+Original author: Olivic.
+
 ![](/images/kofxi-griffon.jpg "/images/kofxi-griffon.jpg")
 
 ## Introduction

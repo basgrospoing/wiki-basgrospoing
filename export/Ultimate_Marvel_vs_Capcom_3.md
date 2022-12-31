@@ -1,5 +1,7 @@
 # Ultimate Marvel vs Capcom 3
 
+Original author: ALX.
+
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 ## Introduction

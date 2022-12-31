@@ -1,5 +1,7 @@
 # Big Bear (Fatal Fury Special)
 
+Original author: Dan sakazaki.
+
 ![](/images/Bigbear.PNG)  
 
 ## Introduction

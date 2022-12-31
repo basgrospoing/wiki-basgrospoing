@@ -1,5 +1,7 @@
 # Remy (3S)
 
+Original author: ALX.
+
 ![Character Select
 Portrait](/images/Remy3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Remy3s-stance-short.gif "Neutral Stance")
