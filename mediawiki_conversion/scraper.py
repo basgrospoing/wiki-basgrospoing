@@ -171,28 +171,28 @@ def create_folder(folder):
 
 
 
-cache_path = "cache_beau.json"
+cache_path = "cleaned_data/formated_data.json"
 cache_file = open(cache_path, "r")
 cache_text = cache_file.read()
 cache_content = json.loads(cache_text)
 cache_file.close()
 
-create_folder("export")
+create_folder("../export")
 for entry in cache_content:
     # # Writing to sample.json
     src = entry["src"].split("/")
 
     if len(src) == 2:
         print(src)
-        create_folder("export/" + src[0])
+        create_folder("../export/" + src[0])
     
     if len(src) == 3:
         print(src)
-        create_folder("export/" + src[0] + "/" + src[1] + "/" + src[2])
+        create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
     content = entry["content"].replace('\n-\n', '-')
     print(entry["src"])
     md = pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
-    with open("export/" + entry["src"] +".md", "w") as outfile:
+    with open("../export/" + entry["src"] +".md", "w") as outfile:
         outfile.write(md)
