@@ -193,10 +193,10 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    frontmatter = "---\ntitle: " + entry["text"] + "\nslug: " + entry["src"] + "\nid: " + entry["id"] + "\nauthor: " + entry["author"] + "\n"
+    frontmatter = '---\ntitle: "' + entry["text"] + '"\nslug:  "' + entry["src"] + '"\nid: ' + entry["id"] + '\nauthor: "' + entry["author"] + '"\n'
     
     if "old_src" in entry:
-        frontmatter += "redirect: "  + entry["old_src"] + "\n"
+        frontmatter += 'redirect: "'  + entry["old_src"] + '"\n'
     
     if "old_id" in entry:
         frontmatter += "old_id: "  + entry["old_id"] + "\n"
