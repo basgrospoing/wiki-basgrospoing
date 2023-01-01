@@ -193,7 +193,8 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    frontmatter = '---\ntitle: "' + entry["text"] + '"\nslug:  "' + entry["src"] + '"\nid: ' + entry["id"] + '\nauthor: "' + entry["author"] + '"\n'
+    frontmatter = '---\ntitle: "' + entry["text"] + '"\nslug:  "' + entry["src"] + '"\nid: ' + entry["id"] + '\nauthor: "' + entry["author"] + '"\n' + 'permalink:  "{{ slug }}.html"\n'  + 'layout:  "index.njk"\n' 
+
     
     if "old_src" in entry:
         frontmatter += 'redirect: "'  + entry["old_src"] + '"\n'
@@ -203,7 +204,7 @@ for entry in cache_content:
         
     frontmatter += "---\n\n"
 
-    content = "=" + entry["text"] + "=\n\n" + ".\n\n" + entry["content"].replace('\n-\n', '-')
+    content = "=" + entry["text"] + "=\n\n" + entry["content"].replace('\n-\n', '-')
     print(entry["src"])
     md = frontmatter + pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
