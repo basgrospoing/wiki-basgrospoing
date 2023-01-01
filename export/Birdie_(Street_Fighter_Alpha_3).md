@@ -3,11 +3,11 @@ title: "Birdie (Street Fighter Alpha 3)"
 slug:  "Birdie_(Street_Fighter_Alpha_3)"
 id: 1252
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Birdie (Street Fighter Alpha 3)
-
-.
 
 ## Introduction
 

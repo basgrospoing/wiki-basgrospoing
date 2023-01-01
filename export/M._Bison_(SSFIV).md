@@ -3,11 +3,11 @@ title: "M. Bison (SSFIV)"
 slug:  "M._Bison_(SSFIV)"
 id: 316
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # M. Bison (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

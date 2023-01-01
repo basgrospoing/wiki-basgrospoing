@@ -3,11 +3,11 @@ title: "Alex (3S)"
 slug:  "Alex_(3S)"
 id: 269
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Alex (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Alex3sport.gif "Character Select Portrait") ![Neutral

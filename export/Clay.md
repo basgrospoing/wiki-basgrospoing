@@ -3,11 +3,11 @@ title: "Clay"
 slug:  "Clay"
 id: 490
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Clay
-
-.
 
 <figure>
 <img src="/images/_clay.png" title="/images/_clay.png" width="250"

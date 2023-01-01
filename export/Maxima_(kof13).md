@@ -3,11 +3,11 @@ title: "Maxima (kof13)"
 slug:  "Maxima_(kof13)"
 id: 1109
 author: "82.238.249.39"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Maxima (kof13)
-
-.
 
 ![maxima](/images/Maximakof13.gif "maxima") [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

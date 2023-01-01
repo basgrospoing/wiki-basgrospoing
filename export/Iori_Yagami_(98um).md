@@ -3,11 +3,11 @@ title: "Iori Yagami (98um)"
 slug:  "Iori_Yagami_(98um)"
 id: 231
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Iori Yagami (98um)
-
-.
 
 ## Introduction
 

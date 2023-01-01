@@ -3,11 +3,11 @@ title: "Ken the Eagle (TvC:UAS)"
 slug:  "Ken_the_Eagle_(TvC:UAS)"
 id: 512
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ken the Eagle (TvC:UAS)
-
-.
 
 <img src="/images/Kentheeagle.jpg" title="/images/Kentheeagle.jpg"
 width="300" alt="/images/Kentheeagle.jpg" />  

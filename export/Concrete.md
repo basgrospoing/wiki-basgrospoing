@@ -3,11 +3,11 @@ title: "Concrete"
 slug:  "Concrete"
 id: 491
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Concrete
-
-.
 
 <figure>
 <img src="/images/_concrete.png" title="/images/_concrete.png"

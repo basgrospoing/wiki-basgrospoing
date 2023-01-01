@@ -3,11 +3,11 @@ title: "Lucky Glauber (98um)"
 slug:  "Lucky_Glauber_(98um)"
 id: 238
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Lucky Glauber (98um)
-
-.
 
 ## Introduction
 

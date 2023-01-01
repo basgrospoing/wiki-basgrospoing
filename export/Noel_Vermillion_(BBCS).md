@@ -3,11 +3,11 @@ title: "Noel Vermillion (BBCS)"
 slug:  "Noel_Vermillion_(BBCS)"
 id: 298
 author: "78.237.64.48"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Noel Vermillion (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_noel_artwork_01.png"

@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Tohno/Full Moon"
 slug:  "Melty_Blood/Akiha_Tohno/Full_Moon"
 id: 1723
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Tohno/Full Moon
-
-.
 
 # Combos
 

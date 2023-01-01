@@ -3,11 +3,11 @@ title: "Melty Blood/Len"
 slug:  "Melty_Blood/Len"
 id: 1791
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Len
-
-.
 
 ![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
 \<br\\\>\<br\\\> **Voiced by:**   Mizuhashi Kaori (水橋

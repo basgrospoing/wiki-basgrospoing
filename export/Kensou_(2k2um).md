@@ -3,13 +3,13 @@ title: "Kensou (2k2um)"
 slug:  "Kensou_(2k2um)"
 id: 40
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kensou"
 old_id: 91
 ---
 
 # Kensou (2k2um)
-
-.
 
 ## Introduction
 

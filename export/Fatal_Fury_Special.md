@@ -3,11 +3,11 @@ title: "Fatal Fury Special"
 slug:  "Fatal_Fury_Special"
 id: 718
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Fatal Fury Special
-
-.
 
 <img src="/images/ffsp.jpg" title="/images/ffsp.jpg" width="200"
 alt="/images/ffsp.jpg" />  

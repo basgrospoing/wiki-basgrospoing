@@ -3,11 +3,11 @@ title: "Ken (2X)"
 slug:  "Ken_(2X)"
 id: 459
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ken (2X)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Riesbyfe Stridberg/Crescent Moon"
 slug:  "Melty_Blood/Riesbyfe_Stridberg/Crescent_Moon"
 id: 1844
 author: "82.234.188.250"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Riesbyfe Stridberg/Crescent Moon
-
-.
 
 # Combos
 

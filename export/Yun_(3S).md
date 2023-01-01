@@ -3,11 +3,11 @@ title: "Yun (3S)"
 slug:  "Yun_(3S)"
 id: 287
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yun (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Yun3sport.gif "Character Select Portrait") ![Neutral

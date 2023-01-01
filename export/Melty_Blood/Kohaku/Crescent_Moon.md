@@ -3,11 +3,11 @@ title: "Melty Blood/Kohaku/Crescent Moon"
 slug:  "Melty_Blood/Kohaku/Crescent_Moon"
 id: 1777
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kohaku/Crescent Moon
-
-.
 
 # Combos
 

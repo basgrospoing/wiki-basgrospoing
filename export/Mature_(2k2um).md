@@ -3,13 +3,13 @@ title: "Mature (2k2um)"
 slug:  "Mature_(2k2um)"
 id: 43
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Mature"
 old_id: 94
 ---
 
 # Mature (2k2um)
-
-.
 
 ## Introduction
 

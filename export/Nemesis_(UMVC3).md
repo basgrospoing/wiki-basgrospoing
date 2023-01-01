@@ -3,11 +3,11 @@ title: "Nemesis (UMVC3)"
 slug:  "Nemesis_(UMVC3)"
 id: 2995
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Nemesis (UMVC3)
-
-.
 
 <center>
 

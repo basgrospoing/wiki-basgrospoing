@@ -3,11 +3,11 @@ title: "Karnov's Revenge"
 slug:  "Karnov's_Revenge"
 id: 383
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Karnov's Revenge
-
-.
 
 ## Personnages
 

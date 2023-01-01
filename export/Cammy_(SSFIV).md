@@ -3,11 +3,11 @@ title: "Cammy (SSFIV)"
 slug:  "Cammy_(SSFIV)"
 id: 2343
 author: "209.73.132.70"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Cammy (SSFIV)
-
-.
 
 Les Options Binaires : Methode ou Arnaque?
 <http://lesoptionsbinaires.blogspot.fr/> Methode argent du web le tour

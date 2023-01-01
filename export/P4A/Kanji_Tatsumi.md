@@ -3,13 +3,13 @@ title: "P4A/Kanji Tatsumi"
 slug:  "P4A/Kanji_Tatsumi"
 id: 2639
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kanji_Tatsumi"
 old_id: 2655
 ---
 
 # P4A/Kanji Tatsumi
-
-.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

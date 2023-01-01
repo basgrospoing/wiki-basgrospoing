@@ -3,13 +3,13 @@ title: "Choi (2k2um)"
 slug:  "Choi_(2k2um)"
 id: 35
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Choi"
 old_id: 83
 ---
 
 # Choi (2k2um)
-
-.
 
 ## Introduction
 

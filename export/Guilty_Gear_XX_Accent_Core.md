@@ -3,11 +3,11 @@ title: "Guilty Gear XX Accent Core"
 slug:  "Guilty_Gear_XX_Accent_Core"
 id: 288
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Guilty Gear XX Accent Core
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Chun Li (SFxT)"
 slug:  "Chun_Li_(SFxT)"
 id: 2166
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chun Li (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

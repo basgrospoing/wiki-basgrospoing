@@ -3,11 +3,11 @@ title: "EX Takuma (2k2um)"
 slug:  "EX_Takuma_(2k2um)"
 id: 144
 author: "81.67.71.175"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # EX Takuma (2k2um)
-
-.
 
 ## Introduction
 

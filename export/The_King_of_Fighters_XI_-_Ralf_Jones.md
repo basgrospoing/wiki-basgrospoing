@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Ralf Jones"
 slug:  "The_King_of_Fighters_XI_-_Ralf_Jones"
 id: 941
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-ralf-jones"
 old_id: 942
 ---
 
 # The King of Fighters XI - Ralf Jones
-
-.
 
 ![](/images/kofxi-ralf-jones.jpg "/images/kofxi-ralf-jones.jpg")
 

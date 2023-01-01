@@ -3,11 +3,11 @@ title: "Makoto Nanaya (BBCS)"
 slug:  "Makoto_Nanaya_(BBCS)"
 id: 290
 author: "84.103.225.237"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Makoto Nanaya (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_makoto_artwork_01.png"

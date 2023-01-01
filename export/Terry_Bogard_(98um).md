@@ -3,11 +3,11 @@ title: "Terry Bogard (98um)"
 slug:  "Terry_Bogard_(98um)"
 id: 207
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Terry Bogard (98um)
-
-.
 
 ## Introduction
 

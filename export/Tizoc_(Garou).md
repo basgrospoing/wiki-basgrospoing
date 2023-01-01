@@ -3,11 +3,11 @@ title: "Tizoc (Garou)"
 slug:  "Tizoc_(Garou)"
 id: 12
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Tizoc (Garou)
-
-.
 
 ## Introduction
 

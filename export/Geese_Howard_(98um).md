@@ -3,11 +3,11 @@ title: "Geese Howard (98um)"
 slug:  "Geese_Howard_(98um)"
 id: 240
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Geese Howard (98um)
-
-.
 
 ## Introduction
 

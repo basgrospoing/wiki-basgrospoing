@@ -3,11 +3,11 @@ title: "Ken (3S)"
 slug:  "Ken_(3S)"
 id: 276
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ken (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Ken3sport.gif "Character Select Portrait") ![Neutral

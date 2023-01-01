@@ -3,11 +3,11 @@ title: "Tsubaki Yayoi (BBCS)"
 slug:  "Tsubaki_Yayoi_(BBCS)"
 id: 294
 author: "Yolsgens"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Tsubaki Yayoi (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_tsubaki_artwork_01.png"

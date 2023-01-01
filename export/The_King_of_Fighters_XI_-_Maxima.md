@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Maxima"
 slug:  "The_King_of_Fighters_XI_-_Maxima"
 id: 959
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-maxima"
 old_id: 960
 ---
 
 # The King of Fighters XI - Maxima
-
-.
 
 ![](/images/kofxi-maxima.jpg "/images/kofxi-maxima.jpg")
 

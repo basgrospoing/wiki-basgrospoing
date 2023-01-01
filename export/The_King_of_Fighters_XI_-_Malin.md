@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Malin"
 slug:  "The_King_of_Fighters_XI_-_Malin"
 id: 929
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-malin"
 old_id: 930
 ---
 
 # The King of Fighters XI - Malin
-
-.
 
 ![](/images/kofxi-malin.jpg "/images/kofxi-malin.jpg")
 

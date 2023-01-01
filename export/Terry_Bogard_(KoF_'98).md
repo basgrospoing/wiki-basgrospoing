@@ -3,11 +3,11 @@ title: "Terry Bogard (KoF '98)"
 slug:  "Terry_Bogard_(KoF_'98)"
 id: 155
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Terry Bogard (KoF '98)
-
-.
 
 ## Introduction
 

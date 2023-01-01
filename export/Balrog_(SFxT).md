@@ -3,11 +3,11 @@ title: "Balrog (SFxT)"
 slug:  "Balrog_(SFxT)"
 id: 2164
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Balrog (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

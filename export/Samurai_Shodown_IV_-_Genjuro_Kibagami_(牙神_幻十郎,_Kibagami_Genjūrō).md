@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjū
 slug:  "Samurai_Shodown_IV_-_Genjuro_Kibagami_(牙神_幻十郎,_Kibagami_Genjūrō)"
 id: 642
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Genjuro"
 old_id: 660
 ---
 
 # Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjūrō)
-
-.
 
 ![](/images/ss4-Genjuro.gif "/images/ss4-Genjuro.gif")
 

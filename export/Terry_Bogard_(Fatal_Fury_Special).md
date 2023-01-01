@@ -3,11 +3,11 @@ title: "Terry Bogard (Fatal Fury Special)"
 slug:  "Terry_Bogard_(Fatal_Fury_Special)"
 id: 720
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Terry Bogard (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspterry.PNG)  
 

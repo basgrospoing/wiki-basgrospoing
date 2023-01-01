@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Ryougi/Full Moon"
 slug:  "Melty_Blood/Shiki_Ryougi/Full_Moon"
 id: 1867
 author: "Skenn"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Ryougi/Full Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "Chris (UMVC3)"
 slug:  "Chris_(UMVC3)"
 id: 2968
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chris (UMVC3)
-
-.
 
 <center>
 

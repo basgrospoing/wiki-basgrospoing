@@ -3,11 +3,11 @@ title: "Melty Blood/Roa/Crescent Moon"
 slug:  "Melty_Blood/Roa/Crescent_Moon"
 id: 1852
 author: "82.234.188.250"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Roa/Crescent Moon
-
-.
 
 # Combos
 

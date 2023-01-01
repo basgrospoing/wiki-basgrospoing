@@ -3,11 +3,11 @@ title: "Balrog (ST)"
 slug:  "Balrog_(ST)"
 id: 451
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Balrog (ST)
-
-.
 
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")
 

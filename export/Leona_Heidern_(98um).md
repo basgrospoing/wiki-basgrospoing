@@ -3,11 +3,11 @@ title: "Leona Heidern (98um)"
 slug:  "Leona_Heidern_(98um)"
 id: 213
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Leona Heidern (98um)
-
-.
 
 ## Introduction
 

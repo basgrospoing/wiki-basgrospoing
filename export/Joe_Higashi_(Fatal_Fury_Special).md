@@ -3,11 +3,11 @@ title: "Joe Higashi (Fatal Fury Special)"
 slug:  "Joe_Higashi_(Fatal_Fury_Special)"
 id: 721
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Joe Higashi (Fatal Fury Special)
-
-.
 
 ![](/images/FfspJoe.PNG)  
 

@@ -3,13 +3,13 @@ title: "Benimaru Nikaido (2k2um)"
 slug:  "Benimaru_Nikaido_(2k2um)"
 id: 71
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Benimaru_Nikaido"
 old_id: 79
 ---
 
 # Benimaru Nikaido (2k2um)
-
-.
 
 ## Introduction
 

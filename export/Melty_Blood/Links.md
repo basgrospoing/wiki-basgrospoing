@@ -3,11 +3,11 @@ title: "Melty Blood/Links"
 slug:  "Melty_Blood/Links"
 id: 1717
 author: "Naast"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Links
-
-.
 
 ### Sites
 

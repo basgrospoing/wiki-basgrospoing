@@ -3,11 +3,11 @@ title: "Doronjo (TvC:UAS)"
 slug:  "Doronjo_(TvC:UAS)"
 id: 527
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Doronjo (TvC:UAS)
-
-.
 
 <img src="/images/Doronjo.jpg" title="/images/Doronjo.jpg" width="220"
 alt="/images/Doronjo.jpg" />  

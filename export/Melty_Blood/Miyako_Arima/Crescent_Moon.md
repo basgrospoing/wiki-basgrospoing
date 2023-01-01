@@ -3,11 +3,11 @@ title: "Melty Blood/Miyako Arima/Crescent Moon"
 slug:  "Melty_Blood/Miyako_Arima/Crescent_Moon"
 id: 1812
 author: "Ouytsu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Miyako Arima/Crescent Moon
-
-.
 
 # Style du perso
 

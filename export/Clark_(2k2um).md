@@ -3,13 +3,13 @@ title: "Clark (2k2um)"
 slug:  "Clark_(2k2um)"
 id: 32
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Clark"
 old_id: 88
 ---
 
 # Clark (2k2um)
-
-.
 
 ## Introduction
 

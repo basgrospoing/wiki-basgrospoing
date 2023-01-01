@@ -3,11 +3,11 @@ title: "Melty Blood/White Len/Half Moon"
 slug:  "Melty_Blood/White_Len/Half_Moon"
 id: 1897
 author: "88.173.34.60"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/White Len/Half Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Vermillion/Crescent Moon"
 slug:  "Melty_Blood/Akiha_Vermillion/Crescent_Moon"
 id: 1735
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Vermillion/Crescent Moon
-
-.
 
 # Combos
 

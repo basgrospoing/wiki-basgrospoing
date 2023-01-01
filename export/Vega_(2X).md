@@ -3,11 +3,11 @@ title: "Vega (2X)"
 slug:  "Vega_(2X)"
 id: 463
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Vega (2X)
-
-.
 
 ## Introduction
 

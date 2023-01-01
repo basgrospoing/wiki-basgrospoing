@@ -3,13 +3,13 @@ title: "Takuma Sakazaki (2k2um)"
 slug:  "Takuma_Sakazaki_(2k2um)"
 id: 66
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Takuma_Sakazaki"
 old_id: 74
 ---
 
 # Takuma Sakazaki (2k2um)
-
-.
 
 ## Introduction
 

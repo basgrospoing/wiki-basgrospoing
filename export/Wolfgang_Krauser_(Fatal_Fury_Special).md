@@ -3,11 +3,11 @@ title: "Wolfgang Krauser (Fatal Fury Special)"
 slug:  "Wolfgang_Krauser_(Fatal_Fury_Special)"
 id: 750
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Wolfgang Krauser (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspkrauser.PNG)  
 

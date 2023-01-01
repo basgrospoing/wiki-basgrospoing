@@ -3,11 +3,11 @@ title: "Rock (Garou)"
 slug:  "Rock_(Garou)"
 id: 5
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Rock (Garou)
-
-.
 
 ## Introduction
 

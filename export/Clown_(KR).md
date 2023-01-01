@@ -3,11 +3,11 @@ title: "Clown (KR)"
 slug:  "Clown_(KR)"
 id: 384
 author: "Zarghatt"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Clown (KR)
-
-.
 
 ## Généralités
 

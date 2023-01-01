@@ -3,11 +3,11 @@ title: "Yashiro Nanakase (2k2um)"
 slug:  "Yashiro_Nanakase_(2k2um)"
 id: 130
 author: "JPX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yashiro Nanakase (2k2um)
-
-.
 
 ## Introduction
 

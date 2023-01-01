@@ -3,11 +3,11 @@ title: "Jean Pierre (KR)"
 slug:  "Jean_Pierre_(KR)"
 id: 385
 author: "Zarghatt"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Jean Pierre (KR)
-
-.
 
 ## Généralités
 

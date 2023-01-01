@@ -3,11 +3,11 @@ title: "Blue Mary (RBFF version) (98um)"
 slug:  "Blue_Mary_(RBFF_version)_(98um)"
 id: 261
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Blue Mary (RBFF version) (98um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Bao (2k2um)"
 slug:  "Bao_(2k2um)"
 id: 127
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Bao (2k2um)
-
-.
 
 ## Introduction
 

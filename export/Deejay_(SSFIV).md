@@ -3,11 +3,11 @@ title: "Deejay (SSFIV)"
 slug:  "Deejay_(SSFIV)"
 id: 372
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Deejay (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

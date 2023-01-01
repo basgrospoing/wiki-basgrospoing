@@ -3,11 +3,11 @@ title: "Yashiro Nanakase (98um)"
 slug:  "Yashiro_Nanakase_(98um)"
 id: 225
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yashiro Nanakase (98um)
-
-.
 
 ## Introduction
 

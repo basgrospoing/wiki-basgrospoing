@@ -3,11 +3,11 @@ title: "Dudley (3S)"
 slug:  "Dudley_(3S)"
 id: 271
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Dudley (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Dudley3sport.gif "Character Select Portrait")

@@ -3,11 +3,11 @@ title: "Benimaru Nikaido (98um)"
 slug:  "Benimaru_Nikaido_(98um)"
 id: 204
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Benimaru Nikaido (98um)
-
-.
 
 ## Introduction
 

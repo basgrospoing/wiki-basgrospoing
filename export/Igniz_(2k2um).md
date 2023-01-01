@@ -3,11 +3,11 @@ title: "Igniz (2k2um)"
 slug:  "Igniz_(2k2um)"
 id: 115
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Igniz (2k2um)
-
-.
 
 ## Introduction
 

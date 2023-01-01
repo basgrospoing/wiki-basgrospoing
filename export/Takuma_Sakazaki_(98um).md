@@ -3,11 +3,11 @@ title: "Takuma Sakazaki (98um)"
 slug:  "Takuma_Sakazaki_(98um)"
 id: 235
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Takuma Sakazaki (98um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Sion TATARI/Crescent Moon"
 slug:  "Melty_Blood/Sion_TATARI/Crescent_Moon"
 id: 1887
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Sion TATARI/Crescent Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "Killer Instinct"
 slug:  "Killer_Instinct"
 id: 572
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Killer Instinct
-
-.
 
 <img src="/images/Kiflyer.jpg" title="/images/Kiflyer.jpg" width="250"
 alt="/images/Kiflyer.jpg" />  

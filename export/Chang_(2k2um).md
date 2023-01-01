@@ -3,13 +3,13 @@ title: "Chang (2k2um)"
 slug:  "Chang_(2k2um)"
 id: 34
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Chang"
 old_id: 82
 ---
 
 # Chang (2k2um)
-
-.
 
 ## Introduction
 

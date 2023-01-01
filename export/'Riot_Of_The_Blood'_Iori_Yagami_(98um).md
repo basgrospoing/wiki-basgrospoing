@@ -3,11 +3,11 @@ title: "'Riot Of The Blood' Iori Yagami (98um)"
 slug:  "'Riot_Of_The_Blood'_Iori_Yagami_(98um)"
 id: 264
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # 'Riot Of The Blood' Iori Yagami (98um)
-
-.
 
 ## Introduction
 

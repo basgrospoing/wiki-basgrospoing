@@ -3,11 +3,11 @@ title: "Blue Mary (KoF '98)"
 slug:  "Blue_Mary_(KoF_'98)"
 id: 177
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Blue Mary (KoF '98)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Beach"
 slug:  "Beach"
 id: 494
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Beach
-
-.
 
 <figure>
 <img src="/images/_beach.png" title="/images/_beach.png" width="250"

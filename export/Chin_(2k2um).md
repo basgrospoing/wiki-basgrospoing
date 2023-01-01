@@ -3,13 +3,13 @@ title: "Chin (2k2um)"
 slug:  "Chin_(2k2um)"
 id: 41
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Chin"
 old_id: 92
 ---
 
 # Chin (2k2um)
-
-.
 
 ## Introduction
 

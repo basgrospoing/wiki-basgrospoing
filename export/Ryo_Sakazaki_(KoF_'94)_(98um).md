@@ -3,11 +3,11 @@ title: "Ryo Sakazaki (KoF '94) (98um)"
 slug:  "Ryo_Sakazaki_(KoF_'94)_(98um)"
 id: 254
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryo Sakazaki (KoF '94) (98um)
-
-.
 
 ## Introduction
 

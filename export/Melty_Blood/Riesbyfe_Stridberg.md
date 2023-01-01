@@ -3,11 +3,11 @@ title: "Melty Blood/Riesbyfe Stridberg"
 slug:  "Melty_Blood/Riesbyfe_Stridberg"
 id: 1841
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Riesbyfe Stridberg
-
-.
 
 ![ **Name:**   Riesbyfe Stridberg
 (リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the

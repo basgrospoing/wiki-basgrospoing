@@ -3,13 +3,13 @@ title: "Athena (2k2um)"
 slug:  "Athena_(2k2um)"
 id: 39
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Athena"
 old_id: 90
 ---
 
 # Athena (2k2um)
-
-.
 
 ## Introduction
 

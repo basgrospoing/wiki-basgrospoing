@@ -3,11 +3,11 @@ title: "Melty Blood/Kohaku and Mech-Hisui/Half Moon"
 slug:  "Melty_Blood/Kohaku_and_Mech-Hisui/Half_Moon"
 id: 1783
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kohaku and Mech-Hisui/Half Moon
-
-.
 
 # Combos
 

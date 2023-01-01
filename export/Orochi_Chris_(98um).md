@@ -3,11 +3,11 @@ title: "Orochi Chris (98um)"
 slug:  "Orochi_Chris_(98um)"
 id: 244
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Orochi Chris (98um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Sion TATARI/Full Moon"
 slug:  "Melty_Blood/Sion_TATARI/Full_Moon"
 id: 1885
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Sion TATARI/Full Moon
-
-.
 
 # Combos
 

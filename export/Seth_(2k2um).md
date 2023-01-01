@@ -3,13 +3,13 @@ title: "Seth (2k2um)"
 slug:  "Seth_(2k2um)"
 id: 55
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Seth"
 old_id: 106
 ---
 
 # Seth (2k2um)
-
-.
 
 ## Introduction
 

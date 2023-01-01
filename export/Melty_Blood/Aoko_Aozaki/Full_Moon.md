@@ -3,11 +3,11 @@ title: "Melty Blood/Aoko Aozaki/Full Moon"
 slug:  "Melty_Blood/Aoko_Aozaki/Full_Moon"
 id: 1743
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Aoko Aozaki/Full Moon
-
-.
 
 # Combos
 

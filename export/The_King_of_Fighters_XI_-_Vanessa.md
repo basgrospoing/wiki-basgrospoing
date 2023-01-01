@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Vanessa"
 slug:  "The_King_of_Fighters_XI_-_Vanessa"
 id: 947
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-vanessa"
 old_id: 948
 ---
 
 # The King of Fighters XI - Vanessa
-
-.
 
 ![](/images/kofxi-vanessa.jpg "/images/kofxi-vanessa.jpg")
 

@@ -3,11 +3,11 @@ title: "ABK/Blitztank"
 slug:  "ABK/Blitztank"
 id: 2271
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/Blitztank
-
-.
 
 ![](/images/Blitztank.jpg "/images/Blitztank.jpg")
 

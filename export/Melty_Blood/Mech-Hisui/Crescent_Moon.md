@@ -3,11 +3,11 @@ title: "Melty Blood/Mech-Hisui/Crescent Moon"
 slug:  "Melty_Blood/Mech-Hisui/Crescent_Moon"
 id: 1801
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Mech-Hisui/Crescent Moon
-
-.
 
 # Combos
 

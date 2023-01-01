@@ -3,11 +3,11 @@ title: "Chun Li (UMVC3)"
 slug:  "Chun_Li_(UMVC3)"
 id: 2977
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chun Li (UMVC3)
-
-.
 
 <center>
 

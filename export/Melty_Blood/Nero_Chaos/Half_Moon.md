@@ -3,11 +3,11 @@ title: "Melty Blood/Nero Chaos/Half Moon"
 slug:  "Melty_Blood/Nero_Chaos/Half_Moon"
 id: 1828
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Nero Chaos/Half Moon
-
-.
 
 # Combos
 

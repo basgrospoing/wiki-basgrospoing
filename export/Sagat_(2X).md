@@ -3,11 +3,11 @@ title: "Sagat (2X)"
 slug:  "Sagat_(2X)"
 id: 461
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Sagat (2X)
-
-.
 
 ## Introduction
 

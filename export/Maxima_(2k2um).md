@@ -3,13 +3,13 @@ title: "Maxima (2k2um)"
 slug:  "Maxima_(2k2um)"
 id: 52
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Maxima"
 old_id: 103
 ---
 
 # Maxima (2k2um)
-
-.
 
 ## Introduction
 

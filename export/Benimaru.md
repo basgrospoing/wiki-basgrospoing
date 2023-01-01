@@ -3,11 +3,11 @@ title: "Benimaru"
 slug:  "Benimaru"
 id: 22
 author: "Bberita"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Benimaru
-
-.
 
 ## Introduction
 

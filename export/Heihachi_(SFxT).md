@@ -3,11 +3,11 @@ title: "Heihachi (SFxT)"
 slug:  "Heihachi_(SFxT)"
 id: 2183
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Heihachi (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

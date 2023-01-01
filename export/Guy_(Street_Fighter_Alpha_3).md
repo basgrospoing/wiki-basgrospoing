@@ -3,11 +3,11 @@ title: "Guy (Street Fighter Alpha 3)"
 slug:  "Guy_(Street_Fighter_Alpha_3)"
 id: 1250
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Guy (Street Fighter Alpha 3)
-
-.
 
 ## Introduction
 

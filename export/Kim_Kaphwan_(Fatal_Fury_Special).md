@@ -3,11 +3,11 @@ title: "Kim Kaphwan (Fatal Fury Special)"
 slug:  "Kim_Kaphwan_(Fatal_Fury_Special)"
 id: 733
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kim Kaphwan (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspkim.PNG)  
 

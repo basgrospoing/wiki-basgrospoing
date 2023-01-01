@@ -3,11 +3,11 @@ title: "Kano Ryoko (KR)"
 slug:  "Kano_Ryoko_(KR)"
 id: 386
 author: "Zarghatt"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kano Ryoko (KR)
-
-.
 
 ## Movelist
 

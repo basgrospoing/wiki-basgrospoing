@@ -3,11 +3,11 @@ title: "Orochi (98um)"
 slug:  "Orochi_(98um)"
 id: 267
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Orochi (98um)
-
-.
 
 ## Introduction
 

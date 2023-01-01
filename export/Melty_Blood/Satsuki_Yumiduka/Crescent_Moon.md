@@ -3,11 +3,11 @@ title: "Melty Blood/Satsuki Yumiduka/Crescent Moon"
 slug:  "Melty_Blood/Satsuki_Yumiduka/Crescent_Moon"
 id: 1856
 author: "Kairisu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Satsuki Yumiduka/Crescent Moon
-
-.
 
 # Combos
 

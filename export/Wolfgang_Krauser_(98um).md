@@ -3,11 +3,11 @@ title: "Wolfgang Krauser (98um)"
 slug:  "Wolfgang_Krauser_(98um)"
 id: 241
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Wolfgang Krauser (98um)
-
-.
 
 ## Introduction
 

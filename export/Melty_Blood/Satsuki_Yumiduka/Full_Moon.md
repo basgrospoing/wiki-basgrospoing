@@ -3,11 +3,11 @@ title: "Melty Blood/Satsuki Yumiduka/Full Moon"
 slug:  "Melty_Blood/Satsuki_Yumiduka/Full_Moon"
 id: 1858
 author: "Kigal"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Satsuki Yumiduka/Full Moon
-
-.
 
 # Combos
 

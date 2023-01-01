@@ -3,13 +3,13 @@ title: "Orochi Yashiro (2k2um)"
 slug:  "Orochi_Yashiro_(2k2um)"
 id: 60
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Orochi_Yashiro"
 old_id: 113
 ---
 
 # Orochi Yashiro (2k2um)
-
-.
 
 ## Introduction
 

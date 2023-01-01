@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Tohno"
 slug:  "Melty_Blood/Shiki_Tohno"
 id: 1870
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Tohno
-
-.
 
 ![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima

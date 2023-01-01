@@ -3,11 +3,11 @@ title: "Blanka (ST)"
 slug:  "Blanka_(ST)"
 id: 452
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Blanka (ST)
-
-.
 
 ## Introduction
 

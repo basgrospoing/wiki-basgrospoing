@@ -3,11 +3,11 @@ title: "Melty Blood/Kohaku"
 slug:  "Melty_Blood/Kohaku"
 id: 1774
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kohaku
-
-.
 
 ![ **Name:**   Kohaku (琥珀)  —  **Nicknames:**    Magical Amber,
 Apronned Devil, Mister Chin, Thieving Cat \<br\\\>\<br\\\> **Voiced

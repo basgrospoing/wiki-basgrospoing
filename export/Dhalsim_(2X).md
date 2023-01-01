@@ -3,11 +3,11 @@ title: "Dhalsim (2X)"
 slug:  "Dhalsim_(2X)"
 id: 456
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Dhalsim (2X)
-
-.
 
 ## Introduction
 

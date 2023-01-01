@@ -3,11 +3,11 @@ title: "Mai Shiranui (98um)"
 slug:  "Mai_Shiranui_(98um)"
 id: 220
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mai Shiranui (98um)
-
-.
 
 ## Introduction
 

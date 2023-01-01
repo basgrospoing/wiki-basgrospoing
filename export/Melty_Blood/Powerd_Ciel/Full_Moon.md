@@ -3,11 +3,11 @@ title: "Melty Blood/Powerd Ciel/Full Moon"
 slug:  "Melty_Blood/Powerd_Ciel/Full_Moon"
 id: 1833
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Powerd Ciel/Full Moon
-
-.
 
 # Combos
 

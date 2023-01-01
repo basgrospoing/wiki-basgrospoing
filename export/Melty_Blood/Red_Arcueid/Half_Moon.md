@@ -3,11 +3,11 @@ title: "Melty Blood/Red Arcueid/Half Moon"
 slug:  "Melty_Blood/Red_Arcueid/Half_Moon"
 id: 1839
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Red Arcueid/Half Moon
-
-.
 
 # Combos
 

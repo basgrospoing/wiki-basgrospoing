@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Tohno (Seifuku)/Half Moon"
 slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon"
 id: 1728
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Tohno (Seifuku)/Half Moon
-
-.
 
 # Combos
 

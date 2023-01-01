@@ -3,11 +3,11 @@ title: "Hsien Ko (UMVC3)"
 slug:  "Hsien_Ko_(UMVC3)"
 id: 2992
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hsien Ko (UMVC3)
-
-.
 
 <center>
 

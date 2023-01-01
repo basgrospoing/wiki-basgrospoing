@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Ryougi"
 slug:  "Melty_Blood/Shiki_Ryougi"
 id: 1864
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Ryougi
-
-.
 
 ![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
 Male)  —  **Nicknames:**    "That woman" "Neko Shiki" \<br\\\>\<br\\\>

@@ -3,11 +3,11 @@ title: "Melty Blood/Archetype Earth/Full Moon"
 slug:  "Melty_Blood/Archetype_Earth/Full_Moon"
 id: 1749
 author: "90.0.52.30"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Archetype Earth/Full Moon
-
-.
 
 # Combos
 

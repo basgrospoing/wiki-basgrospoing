@@ -3,11 +3,11 @@ title: "Beeho Yoo"
 slug:  "Beeho_Yoo"
 id: 469
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Beeho Yoo
-
-.
 
 <figure>
 <img src="/images/Beeho_Yoo.png" title="/images/Beeho_Yoo.png"

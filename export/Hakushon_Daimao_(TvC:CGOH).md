@@ -3,11 +3,11 @@ title: "Hakushon Daimao (TvC:CGOH)"
 slug:  "Hakushon_Daimao_(TvC:CGOH)"
 id: 701
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hakushon Daimao (TvC:CGOH)
-
-.
 
 <img src="/images/HakushonDaimao.jpg" title="/images/HakushonDaimao.jpg"
 width="250" alt="/images/HakushonDaimao.jpg" />  

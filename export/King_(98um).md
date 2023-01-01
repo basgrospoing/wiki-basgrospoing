@@ -3,11 +3,11 @@ title: "King (98um)"
 slug:  "King_(98um)"
 id: 221
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # King (98um)
-
-.
 
 ## Introduction
 

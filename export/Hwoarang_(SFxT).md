@@ -3,11 +3,11 @@ title: "Hwoarang (SFxT)"
 slug:  "Hwoarang_(SFxT)"
 id: 2184
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hwoarang (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Whip"
 slug:  "The_King_of_Fighters_XI_-_Whip"
 id: 933
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-whip"
 old_id: 934
 ---
 
 # The King of Fighters XI - Whip
-
-.
 
 ![](/images/kofxi-whip.jpg "/images/kofxi-whip.jpg")
 

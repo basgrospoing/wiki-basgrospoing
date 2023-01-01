@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Tohno (Seifuku)/Full Moon"
 slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon"
 id: 1729
 author: "88.173.34.60"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Tohno (Seifuku)/Full Moon
-
-.
 
 # Combos
 

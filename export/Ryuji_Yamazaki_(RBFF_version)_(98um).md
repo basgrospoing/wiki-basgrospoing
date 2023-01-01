@@ -3,11 +3,11 @@ title: "Ryuji Yamazaki (RBFF version) (98um)"
 slug:  "Ryuji_Yamazaki_(RBFF_version)_(98um)"
 id: 260
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryuji Yamazaki (RBFF version) (98um)
-
-.
 
 ## Introduction
 

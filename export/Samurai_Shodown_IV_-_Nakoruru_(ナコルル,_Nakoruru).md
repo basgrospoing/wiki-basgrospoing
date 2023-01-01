@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)"
 slug:  "Samurai_Shodown_IV_-_Nakoruru_(ナコルル,_Nakoruru)"
 id: 641
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Nakoruru"
 old_id: 659
 ---
 
 # Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)
-
-.
 
 ![](/images/ss4-Nakoruru.gif "/images/ss4-Nakoruru.gif")
 

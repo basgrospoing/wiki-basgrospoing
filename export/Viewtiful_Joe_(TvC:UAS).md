@@ -3,11 +3,11 @@ title: "Viewtiful Joe (TvC:UAS)"
 slug:  "Viewtiful_Joe_(TvC:UAS)"
 id: 551
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Viewtiful Joe (TvC:UAS)
-
-.
 
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"
 width="300" alt="/images/Viewtiful-joe.jpg" />  

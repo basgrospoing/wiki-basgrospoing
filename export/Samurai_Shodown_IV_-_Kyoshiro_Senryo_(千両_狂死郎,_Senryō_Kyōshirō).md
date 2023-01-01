@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshir
 slug:  "Samurai_Shodown_IV_-_Kyoshiro_Senryo_(千両_狂死郎,_Senryō_Kyōshirō)"
 id: 650
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Kyoshiro"
 old_id: 667
 ---
 
 # Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshirō)
-
-.
 
 ![](/images/ss4-Kyoshiro.gif "/images/ss4-Kyoshiro.gif")
 

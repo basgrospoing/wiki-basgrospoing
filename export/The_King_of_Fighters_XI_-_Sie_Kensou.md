@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Sie Kensou"
 slug:  "The_King_of_Fighters_XI_-_Sie_Kensou"
 id: 935
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-sie-kensou"
 old_id: 936
 ---
 
 # The King of Fighters XI - Sie Kensou
-
-.
 
 ![](/images/kofxi-sie-kensou.jpg "/images/kofxi-sie-kensou.jpg")
 

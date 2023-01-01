@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Oswald"
 slug:  "The_King_of_Fighters_XI_-_Oswald"
 id: 911
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-oswald"
 old_id: 912
 ---
 
 # The King of Fighters XI - Oswald
-
-.
 
 ![](/images/kofxi-oswald.jpg "/images/kofxi-oswald.jpg")
 

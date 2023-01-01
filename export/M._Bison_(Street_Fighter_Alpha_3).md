@@ -3,11 +3,11 @@ title: "M. Bison (Street Fighter Alpha 3)"
 slug:  "M._Bison_(Street_Fighter_Alpha_3)"
 id: 1245
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # M. Bison (Street Fighter Alpha 3)
-
-.
 
 ## Introduction
 

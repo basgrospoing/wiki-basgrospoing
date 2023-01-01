@@ -3,11 +3,11 @@ title: "Melty Blood/Mech-Hisui & Neco Arc/Half Moon"
 slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc/Half_Moon"
 id: 1807
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Mech-Hisui & Neco Arc/Half Moon
-
-.
 
 # Combos
 

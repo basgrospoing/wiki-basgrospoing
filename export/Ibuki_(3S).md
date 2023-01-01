@@ -3,11 +3,11 @@ title: "Ibuki (3S)"
 slug:  "Ibuki_(3S)"
 id: 275
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ibuki (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Ibuki3sport.gif "Character Select Portrait") ![Neutral

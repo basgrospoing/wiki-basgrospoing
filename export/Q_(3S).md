@@ -3,11 +3,11 @@ title: "Q (3S)"
 slug:  "Q_(3S)"
 id: 280
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Q (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Q3sport.gif "Character Select Portrait") ![Neutral

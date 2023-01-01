@@ -3,13 +3,13 @@ title: "Andy Bogard (2k2um)"
 slug:  "Andy_Bogard_(2k2um)"
 id: 68
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Andy_Bogard"
 old_id: 76
 ---
 
 # Andy Bogard (2k2um)
-
-.
 
 ## Introduction
 

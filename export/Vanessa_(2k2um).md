@@ -3,13 +3,13 @@ title: "Vanessa (2k2um)"
 slug:  "Vanessa_(2k2um)"
 id: 54
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Vanessa"
 old_id: 105
 ---
 
 # Vanessa (2k2um)
-
-.
 
 ## Introduction
 

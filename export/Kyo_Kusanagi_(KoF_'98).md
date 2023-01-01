@@ -3,11 +3,11 @@ title: "Kyo Kusanagi (KoF '98)"
 slug:  "Kyo_Kusanagi_(KoF_'98)"
 id: 152
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kyo Kusanagi (KoF '98)
-
-.
 
 ## Introduction
 

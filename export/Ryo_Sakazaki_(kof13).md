@@ -3,11 +3,11 @@ title: "Ryo Sakazaki (kof13)"
 slug:  "Ryo_Sakazaki_(kof13)"
 id: 1075
 author: "Lolo"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryo Sakazaki (kof13)
-
-.
 
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 

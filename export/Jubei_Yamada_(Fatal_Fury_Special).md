@@ -3,11 +3,11 @@ title: "Jubei Yamada (Fatal Fury Special)"
 slug:  "Jubei_Yamada_(Fatal_Fury_Special)"
 id: 727
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Jubei Yamada (Fatal Fury Special)
-
-.
 
 ![](/images/Jubei.PNG)  
 

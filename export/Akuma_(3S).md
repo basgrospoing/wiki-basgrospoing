@@ -3,11 +3,11 @@ title: "Akuma (3S)"
 slug:  "Akuma_(3S)"
 id: 268
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akuma (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Akuma3sport.gif "Character Select Portrait") ![Neutral

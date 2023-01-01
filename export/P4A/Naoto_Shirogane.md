@@ -3,13 +3,13 @@ title: "P4A/Naoto Shirogane"
 slug:  "P4A/Naoto_Shirogane"
 id: 2640
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Naoto_Shirogane"
 old_id: 2654
 ---
 
 # P4A/Naoto Shirogane
-
-.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

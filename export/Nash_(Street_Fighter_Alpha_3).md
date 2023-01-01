@@ -3,11 +3,11 @@ title: "Nash (Street Fighter Alpha 3)"
 slug:  "Nash_(Street_Fighter_Alpha_3)"
 id: 1246
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Nash (Street Fighter Alpha 3)
-
-.
 
 <figure>
 <img src="/images/SFA3_nash.jpg" title="/images/SFA3_nash.jpg"

@@ -3,11 +3,11 @@ title: "Melty Blood/Archetype Earth/Half Moon"
 slug:  "Melty_Blood/Archetype_Earth/Half_Moon"
 id: 1748
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Archetype Earth/Half Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "Guile (SSFIV)"
 slug:  "Guile_(SSFIV)"
 id: 2151
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Guile (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

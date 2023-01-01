@@ -3,11 +3,11 @@ title: "Melty Blood/Warachia/Half Moon"
 slug:  "Melty_Blood/Warachia/Half_Moon"
 id: 1892
 author: "95.182.218.13"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Warachia/Half Moon
-
-.
 
 # Combos
 

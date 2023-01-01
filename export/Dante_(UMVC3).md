@@ -3,11 +3,11 @@ title: "Dante (UMVC3)"
 slug:  "Dante_(UMVC3)"
 id: 2980
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Dante (UMVC3)
-
-.
 
 <center>
 

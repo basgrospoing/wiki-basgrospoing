@@ -3,13 +3,13 @@ title: "P4A/Yukiko Amagi"
 slug:  "P4A/Yukiko_Amagi"
 id: 2644
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Yukiko_Amagi"
 old_id: 2656
 ---
 
 # P4A/Yukiko Amagi
-
-.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

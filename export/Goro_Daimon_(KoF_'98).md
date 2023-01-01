@@ -3,11 +3,11 @@ title: "Goro Daimon (KoF '98)"
 slug:  "Goro_Daimon_(KoF_'98)"
 id: 153
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Goro Daimon (KoF '98)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Kim Kaphawn (2k2um)"
 slug:  "Kim_Kaphawn_(2k2um)"
 id: 116
 author: "86.208.29.31"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kim Kaphawn (2k2um)
-
-.
 
 ## Introduction
 

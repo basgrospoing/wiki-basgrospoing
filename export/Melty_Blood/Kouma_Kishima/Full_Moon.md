@@ -3,11 +3,11 @@ title: "Melty Blood/Kouma Kishima/Full Moon"
 slug:  "Melty_Blood/Kouma_Kishima/Full_Moon"
 id: 1790
 author: "88.167.173.143"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kouma Kishima/Full Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "The King of Fighters XIII"
 slug:  "The_King_of_Fighters_XIII"
 id: 1074
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # The King of Fighters XIII
-
-.
 
 ![](/images/KoFXIII.png)
 

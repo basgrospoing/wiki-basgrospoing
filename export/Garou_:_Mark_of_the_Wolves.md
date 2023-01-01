@@ -3,11 +3,11 @@ title: "Garou : Mark of the Wolves"
 slug:  "Garou_:_Mark_of_the_Wolves"
 id: 4
 author: "Timmytheturtle"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Garou : Mark of the Wolves
-
-.
 
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")
 

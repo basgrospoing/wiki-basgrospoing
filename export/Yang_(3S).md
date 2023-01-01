@@ -3,11 +3,11 @@ title: "Yang (3S)"
 slug:  "Yang_(3S)"
 id: 286
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yang (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Yang3sport.gif "Character Select Portrait") ![Neutral

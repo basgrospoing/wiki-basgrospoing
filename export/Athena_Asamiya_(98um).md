@@ -3,11 +3,11 @@ title: "Athena Asamiya (98um)"
 slug:  "Athena_Asamiya_(98um)"
 id: 216
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Athena Asamiya (98um)
-
-.
 
 ## Introduction
 

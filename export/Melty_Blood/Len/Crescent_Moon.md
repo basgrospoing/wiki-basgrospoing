@@ -3,11 +3,11 @@ title: "Melty Blood/Len/Crescent Moon"
 slug:  "Melty_Blood/Len/Crescent_Moon"
 id: 1794
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Len/Crescent Moon
-
-.
 
 # Combos
 

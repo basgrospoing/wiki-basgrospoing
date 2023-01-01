@@ -3,11 +3,11 @@ title: "Geese (2k2um)"
 slug:  "Geese_(2k2um)"
 id: 141
 author: "81.67.71.175"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Geese (2k2um)
-
-.
 
 ## Introduction
 

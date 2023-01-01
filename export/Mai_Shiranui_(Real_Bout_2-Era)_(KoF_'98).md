@@ -3,11 +3,11 @@ title: "Mai Shiranui (Real Bout 2-Era) (KoF '98)"
 slug:  "Mai_Shiranui_(Real_Bout_2-Era)_(KoF_'98)"
 id: 201
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mai Shiranui (Real Bout 2-Era) (KoF '98)
-
-.
 
 ## Introduction
 

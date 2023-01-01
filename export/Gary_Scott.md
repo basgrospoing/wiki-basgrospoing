@@ -3,11 +3,11 @@ title: "Gary Scott"
 slug:  "Gary_Scott"
 id: 475
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Gary Scott
-
-.
 
 <figure>
 <img src="/images/Gary_Scott.png" title="/images/Gary_Scott.png"

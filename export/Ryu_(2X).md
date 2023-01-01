@@ -3,11 +3,11 @@ title: "Ryu (2X)"
 slug:  "Ryu_(2X)"
 id: 460
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryu (2X)
-
-.
 
 ## Introduction
 

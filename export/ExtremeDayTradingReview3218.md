@@ -3,11 +3,11 @@ title: "ExtremeDayTradingReview3218"
 slug:  "ExtremeDayTradingReview3218"
 id: 2660
 author: "ExtremeDayTradingReview3218"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ExtremeDayTradingReview3218
-
-.
 
 With regards to scalp trading, Day investors attempt to make use of the
 short-term trading possibilities. Traders offered in order to get into

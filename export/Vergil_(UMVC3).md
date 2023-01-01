@@ -3,11 +3,11 @@ title: "Vergil (UMVC3)"
 slug:  "Vergil_(UMVC3)"
 id: 3009
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Vergil (UMVC3)
-
-.
 
 <center>
 

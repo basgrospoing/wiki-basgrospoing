@@ -3,11 +3,11 @@ title: "'Riot Of The Blood' Leona Heidern (98um)"
 slug:  "'Riot_Of_The_Blood'_Leona_Heidern_(98um)"
 id: 263
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # 'Riot Of The Blood' Leona Heidern (98um)
-
-.
 
 ## Introduction
 

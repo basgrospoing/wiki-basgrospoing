@@ -3,11 +3,11 @@ title: "Firebrand (UMVC3)"
 slug:  "Firebrand_(UMVC3)"
 id: 2985
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Firebrand (UMVC3)
-
-.
 
 <center>
 

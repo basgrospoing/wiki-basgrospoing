@@ -3,11 +3,11 @@ title: "Melty Blood/Sion Eltnam Atlasia/Crescent Moon"
 slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon"
 id: 1879
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia/Crescent Moon
-
-.
 
 # Combos
 

@@ -3,11 +3,11 @@ title: "Street Fighter x Tekken"
 slug:  "Street_Fighter_x_Tekken"
 id: 2161
 author: "MaxDaStereo"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Street Fighter x Tekken
-
-.
 
 ## LES CONTROLES / MOUVEMENTS
 

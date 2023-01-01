@@ -3,11 +3,11 @@ title: "Saki Omokane (TvC:UAS)"
 slug:  "Saki_Omokane_(TvC:UAS)"
 id: 553
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Saki Omokane (TvC:UAS)
-
-.
 
 <img src="/images/Saki-omokane.jpg" title="/images/Saki-omokane.jpg"
 width="250" alt="/images/Saki-omokane.jpg" />  

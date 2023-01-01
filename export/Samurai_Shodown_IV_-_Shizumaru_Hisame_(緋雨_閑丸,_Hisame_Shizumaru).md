@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)"
 slug:  "Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)"
 id: 649
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Shizumaru"
 old_id: 666
 ---
 
 # Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)
-
-.
 
 ![](/images/ss4-Shizumaru.gif "/images/ss4-Shizumaru.gif")
 

@@ -3,11 +3,11 @@ title: "Yuri Sakazaki (98um)"
 slug:  "Yuri_Sakazaki_(98um)"
 id: 212
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yuri Sakazaki (98um)
-
-.
 
 ## Introduction
 

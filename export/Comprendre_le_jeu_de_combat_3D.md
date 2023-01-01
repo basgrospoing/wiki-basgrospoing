@@ -3,11 +3,11 @@ title: "Comprendre le jeu de combat 3D"
 slug:  "Comprendre_le_jeu_de_combat_3D"
 id: 2705
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Comprendre le jeu de combat 3D
-
-.
 
 # Les règles de base
 

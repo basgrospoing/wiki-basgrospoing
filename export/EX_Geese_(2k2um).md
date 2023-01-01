@@ -3,11 +3,11 @@ title: "EX Geese (2k2um)"
 slug:  "EX_Geese_(2k2um)"
 id: 146
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # EX Geese (2k2um)
-
-.
 
 ## Introduction
 

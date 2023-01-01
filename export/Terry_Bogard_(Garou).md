@@ -3,11 +3,11 @@ title: "Terry Bogard (Garou)"
 slug:  "Terry_Bogard_(Garou)"
 id: 16
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Terry Bogard (Garou)
-
-.
 
 ## Introduction
 

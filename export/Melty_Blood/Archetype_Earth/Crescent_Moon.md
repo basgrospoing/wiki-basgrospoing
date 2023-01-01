@@ -3,11 +3,11 @@ title: "Melty Blood/Archetype Earth/Crescent Moon"
 slug:  "Melty_Blood/Archetype_Earth/Crescent_Moon"
 id: 1747
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Archetype Earth/Crescent Moon
-
-.
 
 # Combos
 

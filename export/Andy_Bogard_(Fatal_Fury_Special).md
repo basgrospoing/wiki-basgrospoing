@@ -3,11 +3,11 @@ title: "Andy Bogard (Fatal Fury Special)"
 slug:  "Andy_Bogard_(Fatal_Fury_Special)"
 id: 723
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Andy Bogard (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspandy.PNG)  
 

@@ -3,11 +3,11 @@ title: "Yatterman-1 (TvC:UAS)"
 slug:  "Yatterman-1_(TvC:UAS)"
 id: 524
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yatterman-1 (TvC:UAS)
-
-.
 
 <img src="/images/Yatterman-1.jpg" title="/images/Yatterman-1.jpg"
 width="250" alt="/images/Yatterman-1.jpg" />  

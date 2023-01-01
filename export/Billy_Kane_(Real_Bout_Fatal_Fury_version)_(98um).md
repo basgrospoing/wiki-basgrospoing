@@ -3,11 +3,11 @@ title: "Billy Kane (Real Bout Fatal Fury version) (98um)"
 slug:  "Billy_Kane_(Real_Bout_Fatal_Fury_version)_(98um)"
 id: 257
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Billy Kane (Real Bout Fatal Fury version) (98um)
-
-.
 
 ## Introduction
 

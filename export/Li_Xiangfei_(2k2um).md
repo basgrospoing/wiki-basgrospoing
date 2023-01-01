@@ -3,11 +3,11 @@ title: "Li Xiangfei (2k2um)"
 slug:  "Li_Xiangfei_(2k2um)"
 id: 136
 author: "89.3.166.69"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Li Xiangfei (2k2um)
-
-.
 
 ## Introduction
 

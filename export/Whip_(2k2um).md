@@ -3,13 +3,13 @@ title: "Whip (2k2um)"
 slug:  "Whip_(2k2um)"
 id: 53
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Whip"
 old_id: 104
 ---
 
 # Whip (2k2um)
-
-.
 
 ## Introduction
 

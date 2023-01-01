@@ -3,11 +3,11 @@ title: "P4A/Interface et contrôle"
 slug:  "P4A/Interface_et_contrôle"
 id: 2570
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # P4A/Interface et contrôle
-
-.
 
 # Commandes
 

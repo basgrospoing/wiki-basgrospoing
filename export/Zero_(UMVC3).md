@@ -3,11 +3,11 @@ title: "Zero (UMVC3)"
 slug:  "Zero_(UMVC3)"
 id: 3015
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Zero (UMVC3)
-
-.
 
 <center>
 

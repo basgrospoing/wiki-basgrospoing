@@ -3,11 +3,11 @@ title: "Melty Blood/Sion Eltnam Atlasia"
 slug:  "Melty_Blood/Sion_Eltnam_Atlasia"
 id: 1876
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Sion Eltnam Atlasia
-
-.
 
 ![ **Name:**   Sion Eltnam Atlasia
 (シオン・エルトナム・アトラシア)  —  **Nicknames:**    -

@@ -3,11 +3,11 @@ title: "Lin (2k2um)"
 slug:  "Lin_(2k2um)"
 id: 132
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Lin (2k2um)
-
-.
 
 ## Introduction
 

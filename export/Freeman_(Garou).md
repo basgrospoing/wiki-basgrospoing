@@ -3,11 +3,11 @@ title: "Freeman (Garou)"
 slug:  "Freeman_(Garou)"
 id: 11
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Freeman (Garou)
-
-.
 
 ## Introduction
 

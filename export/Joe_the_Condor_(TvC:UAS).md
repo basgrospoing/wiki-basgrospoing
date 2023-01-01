@@ -3,11 +3,11 @@ title: "Joe the Condor (TvC:UAS)"
 slug:  "Joe_the_Condor_(TvC:UAS)"
 id: 515
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Joe the Condor (TvC:UAS)
-
-.
 
 <img src="/images/Joethecondor.jpg" title="/images/Joethecondor.jpg"
 width="250" alt="/images/Joethecondor.jpg" />  

@@ -3,11 +3,11 @@ title: "Hotaru Futaba (Garou)"
 slug:  "Hotaru_Futaba_(Garou)"
 id: 7
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hotaru Futaba (Garou)
-
-.
 
 ## Introduction
 

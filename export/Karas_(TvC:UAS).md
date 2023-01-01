@@ -3,11 +3,11 @@ title: "Karas (TvC:UAS)"
 slug:  "Karas_(TvC:UAS)"
 id: 526
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Karas (TvC:UAS)
-
-.
 
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"
 alt="/images/Karas.jpg" />  

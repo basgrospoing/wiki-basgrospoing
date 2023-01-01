@@ -3,11 +3,11 @@ title: "Clark Steel (2k2um)"
 slug:  "Clark_Steel_(2k2um)"
 id: 123
 author: "200.169.245.58"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Clark Steel (2k2um)
-
-.
 
 ## Introduction
 

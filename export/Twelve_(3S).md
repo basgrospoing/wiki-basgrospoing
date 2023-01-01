@@ -3,11 +3,11 @@ title: "Twelve (3S)"
 slug:  "Twelve_(3S)"
 id: 284
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Twelve (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Twelve3sport.gif "Character Select Portrait")

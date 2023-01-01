@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Rimururu (リムルル, Rimururu)"
 slug:  "Samurai_Shodown_IV_-_Rimururu_(リムルル,_Rimururu)"
 id: 644
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Rimururu"
 old_id: 662
 ---
 
 # Samurai Shodown IV - Rimururu (リムルル, Rimururu)
-
-.
 
 ![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")
 

@@ -3,11 +3,11 @@ title: "Adon (SSFIV)"
 slug:  "Adon_(SSFIV)"
 id: 2144
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Adon (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

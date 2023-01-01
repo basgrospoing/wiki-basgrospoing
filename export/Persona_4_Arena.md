@@ -3,13 +3,13 @@ title: "Persona 4 Arena"
 slug:  "Persona_4_Arena"
 id: 2568
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "P4A"
 old_id: 2569
 ---
 
 # Persona 4 Arena
-
-.
 
 \[\[<File:/images/P4U_affiche.jpg%7Cthumb%7C400px%7Cright>\|
 

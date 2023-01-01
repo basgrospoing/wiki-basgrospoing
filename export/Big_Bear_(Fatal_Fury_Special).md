@@ -3,11 +3,11 @@ title: "Big Bear (Fatal Fury Special)"
 slug:  "Big_Bear_(Fatal_Fury_Special)"
 id: 725
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Big Bear (Fatal Fury Special)
-
-.
 
 ![](/images/Bigbear.PNG)  
 

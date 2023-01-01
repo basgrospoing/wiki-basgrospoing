@@ -3,11 +3,11 @@ title: "Akuma (SSFIV)"
 slug:  "Akuma_(SSFIV)"
 id: 434
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akuma (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

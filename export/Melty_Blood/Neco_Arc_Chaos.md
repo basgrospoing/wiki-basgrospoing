@@ -3,11 +3,11 @@ title: "Melty Blood/Neco Arc Chaos"
 slug:  "Melty_Blood/Neco_Arc_Chaos"
 id: 1819
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Neco Arc Chaos
-
-.
 
 ![ **Name:**   Neco Arc Chaos
 (ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>

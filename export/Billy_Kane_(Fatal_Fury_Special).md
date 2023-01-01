@@ -3,11 +3,11 @@ title: "Billy Kane (Fatal Fury Special)"
 slug:  "Billy_Kane_(Fatal_Fury_Special)"
 id: 741
 author: "Atomskyu690"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Billy Kane (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspbilly.PNG)  
 

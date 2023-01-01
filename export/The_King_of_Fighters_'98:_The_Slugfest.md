@@ -3,11 +3,11 @@ title: "The King of Fighters '98: The Slugfest"
 slug:  "The_King_of_Fighters_'98:_The_Slugfest"
 id: 203
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # The King of Fighters '98: The Slugfest
-
-.
 
 ATTENTION : CE WIKI EST UNE ÉBAUCHE A CORRIGER FAITE A PARTIR DE 98UM
 

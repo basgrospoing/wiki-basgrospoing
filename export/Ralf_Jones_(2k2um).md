@@ -3,11 +3,11 @@ title: "Ralf Jones (2k2um)"
 slug:  "Ralf_Jones_(2k2um)"
 id: 122
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ralf Jones (2k2um)
-
-.
 
 ## Introduction
 

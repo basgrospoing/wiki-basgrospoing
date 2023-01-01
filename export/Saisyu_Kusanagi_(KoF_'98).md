@@ -3,11 +3,11 @@ title: "Saisyu Kusanagi (KoF '98)"
 slug:  "Saisyu_Kusanagi_(KoF_'98)"
 id: 184
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Saisyu Kusanagi (KoF '98)
-
-.
 
 ## Introduction
 

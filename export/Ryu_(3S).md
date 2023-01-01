@@ -3,11 +3,11 @@ title: "Ryu (3S)"
 slug:  "Ryu_(3S)"
 id: 282
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryu (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Ryu3sport.gif "Character Select Portrait") ![Neutral

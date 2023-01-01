@@ -3,11 +3,11 @@ title: "ABK/Sai"
 slug:  "ABK/Sai"
 id: 2264
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/Sai
-
-.
 
 ![](/images/Sai_ABK.jpg "/images/Sai_ABK.jpg")
 

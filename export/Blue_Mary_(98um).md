@@ -3,11 +3,11 @@ title: "Blue Mary (98um)"
 slug:  "Blue_Mary_(98um)"
 id: 229
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Blue Mary (98um)
-
-.
 
 ## Introduction
 

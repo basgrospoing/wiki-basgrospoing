@@ -3,11 +3,11 @@ title: "Mature (KoF '98)"
 slug:  "Mature_(KoF_'98)"
 id: 180
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mature (KoF '98)
-
-.
 
 ## Introduction
 

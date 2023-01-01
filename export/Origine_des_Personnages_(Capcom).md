@@ -3,11 +3,11 @@ title: "Origine des Personnages (Capcom)"
 slug:  "Origine_des_Personnages_(Capcom)"
 id: 2768
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Origine des Personnages (Capcom)
-
-.
 
 Personnages Série / Jeu d' origine Nom occidental / français Année  
   

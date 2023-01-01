@@ -3,11 +3,11 @@ title: "Chang Koehan (KoF '98)"
 slug:  "Chang_Koehan_(KoF_'98)"
 id: 171
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chang Koehan (KoF '98)
-
-.
 
 ## Introduction
 

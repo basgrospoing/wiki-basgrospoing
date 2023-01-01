@@ -3,11 +3,11 @@ title: "Ryu (Street Fighter Alpha 3)"
 slug:  "Ryu_(Street_Fighter_Alpha_3)"
 id: 1230
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryu (Street Fighter Alpha 3)
-
-.
 
 <figure>
 <img src="/images/Sfa3-ryu1.jpg" title="/images/Sfa3-ryu1.jpg"

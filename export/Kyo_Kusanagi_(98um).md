@@ -3,11 +3,11 @@ title: "Kyo Kusanagi (98um)"
 slug:  "Kyo_Kusanagi_(98um)"
 id: 205
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kyo Kusanagi (98um)
-
-.
 
 ## Introduction
 

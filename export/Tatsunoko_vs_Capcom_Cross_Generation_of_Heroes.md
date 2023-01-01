@@ -3,11 +3,11 @@ title: "Tatsunoko vs Capcom Cross Generation of Heroes"
 slug:  "Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes"
 id: 567
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Tatsunoko vs Capcom Cross Generation of Heroes
-
-.
 
 ![](/images/cgoh.jpg "/images/cgoh.jpg")
 

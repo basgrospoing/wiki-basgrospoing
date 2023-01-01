@@ -3,11 +3,11 @@ title: "Brian Battler (98um)"
 slug:  "Brian_Battler_(98um)"
 id: 239
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Brian Battler (98um)
-
-.
 
 ## Introduction
 

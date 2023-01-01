@@ -3,11 +3,11 @@ title: "Choi Bounge (2k2um)"
 slug:  "Choi_Bounge_(2k2um)"
 id: 118
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Choi Bounge (2k2um)
-
-.
 
 ## Introduction
 

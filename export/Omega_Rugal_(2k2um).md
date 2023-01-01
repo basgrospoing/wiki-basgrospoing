@@ -3,11 +3,11 @@ title: "Omega Rugal (2k2um)"
 slug:  "Omega_Rugal_(2k2um)"
 id: 149
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Omega Rugal (2k2um)
-
-.
 
 ## Introduction
 

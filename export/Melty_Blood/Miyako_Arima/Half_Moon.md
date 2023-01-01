@@ -3,11 +3,11 @@ title: "Melty Blood/Miyako Arima/Half Moon"
 slug:  "Melty_Blood/Miyako_Arima/Half_Moon"
 id: 1813
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Miyako Arima/Half Moon
-
-.
 
 # Combos
 

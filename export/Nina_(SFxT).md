@@ -3,11 +3,11 @@ title: "Nina (SFxT)"
 slug:  "Nina_(SFxT)"
 id: 2193
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Nina (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

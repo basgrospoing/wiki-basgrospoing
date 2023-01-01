@@ -3,11 +3,11 @@ title: "EX Robert (2k2um)"
 slug:  "EX_Robert_(2k2um)"
 id: 145
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # EX Robert (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Neco Arc Chaos/Crescent Moon"
 slug:  "Melty_Blood/Neco_Arc_Chaos/Crescent_Moon"
 id: 1821
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Neco Arc Chaos/Crescent Moon
-
-.
 
 # Combos
 

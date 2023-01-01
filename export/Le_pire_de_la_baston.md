@@ -3,11 +3,11 @@ title: "Le pire de la baston"
 slug:  "Le_pire_de_la_baston"
 id: 2706
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Le pire de la baston
-
-.
 
 \_\_NOTOC\_\_
 

@@ -3,11 +3,11 @@ title: "ABK/Fritz"
 slug:  "ABK/Fritz"
 id: 2266
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/Fritz
-
-.
 
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")
 

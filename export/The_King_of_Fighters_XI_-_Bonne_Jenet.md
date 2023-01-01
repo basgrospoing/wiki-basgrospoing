@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Bonne Jenet"
 slug:  "The_King_of_Fighters_XI_-_Bonne_Jenet"
 id: 899
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-bonne-jenet"
 old_id: 900
 ---
 
 # The King of Fighters XI - Bonne Jenet
-
-.
 
 ![](/images/kofxi-bonne-jenet.jpg "/images/kofxi-bonne-jenet.jpg")
 

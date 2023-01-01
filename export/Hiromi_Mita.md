@@ -3,11 +3,11 @@ title: "Hiromi Mita"
 slug:  "Hiromi_Mita"
 id: 467
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hiromi Mita
-
-.
 
 <figure>
 <img src="/images/Hiromi_Mita.png" title="/images/Hiromi_Mita.png"

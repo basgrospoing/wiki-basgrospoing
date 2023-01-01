@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Vermillion"
 slug:  "Melty_Blood/Akiha_Vermillion"
 id: 1731
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Vermillion
-
-.
 
 ![ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red
 \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都

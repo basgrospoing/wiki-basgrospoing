@@ -3,11 +3,11 @@ title: "Kevin Rian (Garou)"
 slug:  "Kevin_Rian_(Garou)"
 id: 10
 author: "Sp1p3"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kevin Rian (Garou)
-
-.
 
 ## Introduction
 

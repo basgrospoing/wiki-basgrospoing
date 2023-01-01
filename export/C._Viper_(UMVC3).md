@@ -3,11 +3,11 @@ title: "C. Viper (UMVC3)"
 slug:  "C._Viper_(UMVC3)"
 id: 2966
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # C. Viper (UMVC3)
-
-.
 
 <center>
 

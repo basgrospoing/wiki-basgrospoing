@@ -3,13 +3,13 @@ title: "Valkenhayn=R=Hellsing (BBCS)"
 slug:  "Valkenhayn=R=Hellsing_(BBCS)"
 id: 293
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Valkenhayn
 
 R=Hellsing (BBCS)=
-
-.
 
 <figure>
 <img src="/images/Bbcs_valkenhayn_artwork_01.png"

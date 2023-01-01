@@ -3,11 +3,11 @@ title: "Kain R. Heinlein (Garou)"
 slug:  "Kain_R._Heinlein_(Garou)"
 id: 17
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kain R. Heinlein (Garou)
-
-.
 
 ![](/images/KainRHeinlein_win_portrait.gif "/images/KainRHeinlein_win_portrait.gif")
 

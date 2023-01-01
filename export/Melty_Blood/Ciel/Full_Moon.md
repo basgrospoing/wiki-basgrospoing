@@ -3,11 +3,11 @@ title: "Melty Blood/Ciel/Full Moon"
 slug:  "Melty_Blood/Ciel/Full_Moon"
 id: 1762
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Ciel/Full Moon
-
-.
 
 # Combos
 

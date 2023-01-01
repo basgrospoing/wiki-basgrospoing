@@ -3,11 +3,11 @@ title: "Marvel vs Capcom 3"
 slug:  "Marvel_vs_Capcom_3"
 id: 579
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Marvel vs Capcom 3
-
-.
 
 ## Personnages
 

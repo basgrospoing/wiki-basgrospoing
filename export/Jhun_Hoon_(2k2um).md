@@ -3,11 +3,11 @@ title: "Jhun Hoon (2k2um)"
 slug:  "Jhun_Hoon_(2k2um)"
 id: 131
 author: "Kaldanm"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Jhun Hoon (2k2um)
-
-.
 
 ## Introduction
 

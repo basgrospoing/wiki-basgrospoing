@@ -3,11 +3,11 @@ title: "Makoto (3S)"
 slug:  "Makoto_(3S)"
 id: 277
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Makoto (3S)
-
-.
 
 ![Character Select
 Portrait](/images/makoto3sport.gif "Character Select Portrait")

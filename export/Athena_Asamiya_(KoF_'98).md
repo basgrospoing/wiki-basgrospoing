@@ -3,11 +3,11 @@ title: "Athena Asamiya (KoF '98)"
 slug:  "Athena_Asamiya_(KoF_'98)"
 id: 164
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Athena Asamiya (KoF '98)
-
-.
 
 ## Introduction
 

@@ -3,13 +3,13 @@ title: "Leona (2k2um)"
 slug:  "Leona_(2k2um)"
 id: 30
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Leona"
 old_id: 89
 ---
 
 # Leona (2k2um)
-
-.
 
 ## Introduction
 

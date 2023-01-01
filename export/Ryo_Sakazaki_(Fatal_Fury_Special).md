@@ -3,11 +3,11 @@ title: "Ryo Sakazaki (Fatal Fury Special)"
 slug:  "Ryo_Sakazaki_(Fatal_Fury_Special)"
 id: 729
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryo Sakazaki (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspryo.PNG)  
 

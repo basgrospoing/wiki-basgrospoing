@@ -3,13 +3,13 @@ title: "Angel (2k2um)"
 slug:  "Angel_(2k2um)"
 id: 57
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Angel"
 old_id: 110
 ---
 
 # Angel (2k2um)
-
-.
 
 ## Introduction
 

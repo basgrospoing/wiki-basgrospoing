@@ -3,11 +3,11 @@ title: "Rolento (SFxT)"
 slug:  "Rolento_(SFxT)"
 id: 2175
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Rolento (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -3,11 +3,11 @@ title: "Benimaru Nikaido (kof13)"
 slug:  "Benimaru_Nikaido_(kof13)"
 id: 1111
 author: "82.238.249.39"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Benimaru Nikaido (kof13)
-
-.
 
 ![Benimaru Nikaido](/images/Benimarukof13.gif "Benimaru Nikaido")
 [Retour à la fiche du

@@ -3,11 +3,11 @@ title: "Cammy (ST)"
 slug:  "Cammy_(ST)"
 id: 453
 author: "Rej"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Cammy (ST)
-
-.
 
 ## Introduction
 

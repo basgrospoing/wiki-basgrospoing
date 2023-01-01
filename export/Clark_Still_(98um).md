@@ -3,11 +3,11 @@ title: "Clark Still (98um)"
 slug:  "Clark_Still_(98um)"
 id: 215
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Clark Still (98um)
-
-.
 
 ## Introduction
 

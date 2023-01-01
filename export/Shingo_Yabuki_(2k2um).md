@@ -3,11 +3,11 @@ title: "Shingo Yabuki (2k2um)"
 slug:  "Shingo_Yabuki_(2k2um)"
 id: 133
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Shingo Yabuki (2k2um)
-
-.
 
 ## Introduction
 

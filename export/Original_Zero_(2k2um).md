@@ -3,11 +3,11 @@ title: "Original Zero (2k2um)"
 slug:  "Original_Zero_(2k2um)"
 id: 150
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Original Zero (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Robert Garcia (98um)"
 slug:  "Robert_Garcia_(98um)"
 id: 211
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Robert Garcia (98um)
-
-.
 
 ## Introduction
 

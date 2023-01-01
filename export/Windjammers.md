@@ -3,11 +3,11 @@ title: "Windjammers"
 slug:  "Windjammers"
 id: 466
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Windjammers
-
-.
 
 <img src="/images/jaquette_windjammers.jpg"
 title="/images/jaquette_windjammers.jpg" width="400"

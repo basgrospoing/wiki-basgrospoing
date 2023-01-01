@@ -3,11 +3,11 @@ title: "ABK/Akatsuki"
 slug:  "ABK/Akatsuki"
 id: 2262
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/Akatsuki
-
-.
 
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")
 

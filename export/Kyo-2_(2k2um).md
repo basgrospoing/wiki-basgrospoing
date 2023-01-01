@@ -3,11 +3,11 @@ title: "Kyo-2 (2k2um)"
 slug:  "Kyo-2_(2k2um)"
 id: 140
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kyo-2 (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Shingo Yabuki (98um)"
 slug:  "Shingo_Yabuki_(98um)"
 id: 249
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Shingo Yabuki (98um)
-
-.
 
 ## Introduction
 

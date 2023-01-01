@@ -3,11 +3,11 @@ title: "Geese Howard (RBFF version) (98um)"
 slug:  "Geese_Howard_(RBFF_version)_(98um)"
 id: 262
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Geese Howard (RBFF version) (98um)
-
-.
 
 ## Introduction
 

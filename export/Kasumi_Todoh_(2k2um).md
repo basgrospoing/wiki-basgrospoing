@@ -3,11 +3,11 @@ title: "Kasumi Todoh (2k2um)"
 slug:  "Kasumi_Todoh_(2k2um)"
 id: 121
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kasumi Todoh (2k2um)
-
-.
 
 ## Introduction
 

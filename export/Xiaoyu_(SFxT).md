@@ -3,11 +3,11 @@ title: "Xiaoyu (SFxT)"
 slug:  "Xiaoyu_(SFxT)"
 id: 2198
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Xiaoyu (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

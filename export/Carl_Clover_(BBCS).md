@@ -3,11 +3,11 @@ title: "Carl Clover (BBCS)"
 slug:  "Carl_Clover_(BBCS)"
 id: 304
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Carl Clover (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_carl_artwork_01.png"

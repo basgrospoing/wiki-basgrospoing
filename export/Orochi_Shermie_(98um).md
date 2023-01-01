@@ -3,11 +3,11 @@ title: "Orochi Shermie (98um)"
 slug:  "Orochi_Shermie_(98um)"
 id: 245
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Orochi Shermie (98um)
-
-.
 
 ## Introduction
 

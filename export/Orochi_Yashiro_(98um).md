@@ -3,11 +3,11 @@ title: "Orochi Yashiro (98um)"
 slug:  "Orochi_Yashiro_(98um)"
 id: 243
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Orochi Yashiro (98um)
-
-.
 
 ## Introduction
 

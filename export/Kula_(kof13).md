@@ -3,11 +3,11 @@ title: "Kula (kof13)"
 slug:  "Kula_(kof13)"
 id: 1079
 author: "Maj"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kula (kof13)
-
-.
 
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  
 [Retour à la fiche du

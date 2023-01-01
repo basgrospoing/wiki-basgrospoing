@@ -3,11 +3,11 @@ title: "Fei Long (SSFIV)"
 slug:  "Fei_Long_(SSFIV)"
 id: 2143
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Fei Long (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

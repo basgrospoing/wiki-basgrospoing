@@ -3,11 +3,11 @@ title: "Goenitz (98um)"
 slug:  "Goenitz_(98um)"
 id: 266
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Goenitz (98um)
-
-.
 
 ## Introduction
 

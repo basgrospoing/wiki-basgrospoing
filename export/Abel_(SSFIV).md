@@ -3,11 +3,11 @@ title: "Abel (SSFIV)"
 slug:  "Abel_(SSFIV)"
 id: 367
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Abel (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

@@ -3,11 +3,11 @@ title: "Tatsunoko vs Capcom"
 slug:  "Tatsunoko_vs_Capcom"
 id: 382
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Tatsunoko vs Capcom
-
-.
 
 ![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")
 

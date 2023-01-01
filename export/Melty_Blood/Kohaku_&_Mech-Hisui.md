@@ -3,11 +3,11 @@ title: "Melty Blood/Kohaku & Mech-Hisui"
 slug:  "Melty_Blood/Kohaku_&_Mech-Hisui"
 id: 1780
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kohaku & Mech-Hisui
-
-.
 
 ![ **Team:**   Kohaku & Mech Hisui
 \|frame\|right](/images/Kohamech1.png " Team:   Kohaku & Mech Hisui |frame|right")

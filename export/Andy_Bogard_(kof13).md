@@ -3,11 +3,11 @@ title: "Andy Bogard (kof13)"
 slug:  "Andy_Bogard_(kof13)"
 id: 1081
 author: "Lolo"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Andy Bogard (kof13)
-
-.
 
 ![Andy Bogard](/images/andykof13.gif "Andy Bogard") [Retour à la fiche
 du

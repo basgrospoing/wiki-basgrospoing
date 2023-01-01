@@ -3,13 +3,13 @@ title: "Orochi Chris (2k2um)"
 slug:  "Orochi_Chris_(2k2um)"
 id: 62
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Orochi_Chris"
 old_id: 111
 ---
 
 # Orochi Chris (2k2um)
-
-.
 
 ## Introduction
 

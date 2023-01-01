@@ -3,11 +3,11 @@ title: "Ogre (SFxT)"
 slug:  "Ogre_(SFxT)"
 id: 2194
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ogre (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

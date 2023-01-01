@@ -3,11 +3,11 @@ title: "Loris Biaggi"
 slug:  "Loris_Biaggi"
 id: 473
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Loris Biaggi
-
-.
 
 <figure>
 <img src="/images/Loris_Biaggi.png" title="/images/Loris_Biaggi.png"

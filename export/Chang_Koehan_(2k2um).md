@@ -3,11 +3,11 @@ title: "Chang Koehan (2k2um)"
 slug:  "Chang_Koehan_(2k2um)"
 id: 117
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chang Koehan (2k2um)
-
-.
 
 ## Introduction
 

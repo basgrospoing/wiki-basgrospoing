@@ -3,11 +3,11 @@ title: "Hinako Shijou (2k2um)"
 slug:  "Hinako_Shijou_(2k2um)"
 id: 137
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hinako Shijou (2k2um)
-
-.
 
 ## Introduction
 

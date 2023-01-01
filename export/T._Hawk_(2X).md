@@ -3,11 +3,11 @@ title: "T. Hawk (2X)"
 slug:  "T._Hawk_(2X)"
 id: 462
 author: "77.201.57.249"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # T. Hawk (2X)
-
-.
 
 ## Introduction
 

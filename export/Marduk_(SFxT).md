@@ -3,11 +3,11 @@ title: "Marduk (SFxT)"
 slug:  "Marduk_(SFxT)"
 id: 2192
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Marduk (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

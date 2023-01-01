@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Duo Lon"
 slug:  "The_King_of_Fighters_XI_-_Duo_Lon"
 id: 903
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-duo-lon"
 old_id: 904
 ---
 
 # The King of Fighters XI - Duo Lon
-
-.
 
 ![](/images/kofxi-duo-lon.jpg "/images/kofxi-duo-lon.jpg")
 

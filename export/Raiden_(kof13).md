@@ -3,11 +3,11 @@ title: "Raiden (kof13)"
 slug:  "Raiden_(kof13)"
 id: 1137
 author: "Kula'"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Raiden (kof13)
-
-.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

@@ -3,11 +3,11 @@ title: "Axel Hawk (Fatal Fury Special)"
 slug:  "Axel_Hawk_(Fatal_Fury_Special)"
 id: 743
 author: "Atomskyu690"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Axel Hawk (Fatal Fury Special)
-
-.
 
 ![](/images/Axel.PNG)  
 

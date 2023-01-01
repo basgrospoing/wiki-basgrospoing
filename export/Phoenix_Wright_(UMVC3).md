@@ -3,11 +3,11 @@ title: "Phoenix Wright (UMVC3)"
 slug:  "Phoenix_Wright_(UMVC3)"
 id: 2999
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Phoenix Wright (UMVC3)
-
-.
 
 <center>
 

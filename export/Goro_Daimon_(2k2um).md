@@ -3,13 +3,13 @@ title: "Goro Daimon (2k2um)"
 slug:  "Goro_Daimon_(2k2um)"
 id: 23
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Goro_Daimon"
 old_id: 80
 ---
 
 # Goro Daimon (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Ciel"
 slug:  "Melty_Blood/Ciel"
 id: 1757
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Ciel
-
-.
 
 ![ **Name:**   Ciel (シエル)  —  **Nicknames:**    Curry
 \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間

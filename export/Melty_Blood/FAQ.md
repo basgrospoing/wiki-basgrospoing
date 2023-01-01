@@ -3,11 +3,11 @@ title: "Melty Blood/FAQ"
 slug:  "Melty_Blood/FAQ"
 id: 1710
 author: "Zind"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/FAQ
-
-.
 
 ## Généralités
 

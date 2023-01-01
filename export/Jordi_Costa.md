@@ -3,11 +3,11 @@ title: "Jordi Costa"
 slug:  "Jordi_Costa"
 id: 471
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Jordi Costa
-
-.
 
 <figure>
 <img src="/images/Jordi_costa.png" title="/images/Jordi_costa.png"

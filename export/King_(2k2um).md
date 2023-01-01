@@ -3,11 +3,11 @@ title: "King (2k2um)"
 slug:  "King_(2k2um)"
 id: 120
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # King (2k2um)
-
-.
 
 ## Introduction
 

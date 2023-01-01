@@ -3,11 +3,11 @@ title: "Melty Blood/Neco Arc"
 slug:  "Melty_Blood/Neco_Arc"
 id: 1815
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Neco Arc
-
-.
 
 ![ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
 \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木

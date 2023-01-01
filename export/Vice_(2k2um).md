@@ -3,13 +3,13 @@ title: "Vice (2k2um)"
 slug:  "Vice_(2k2um)"
 id: 44
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Vice"
 old_id: 95
 ---
 
 # Vice (2k2um)
-
-.
 
 ## Introduction
 

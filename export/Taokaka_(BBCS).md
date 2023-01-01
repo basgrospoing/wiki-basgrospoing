@@ -3,11 +3,11 @@ title: "Taokaka (BBCS)"
 slug:  "Taokaka_(BBCS)"
 id: 295
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Taokaka (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_taokaka_artwork_01.png"

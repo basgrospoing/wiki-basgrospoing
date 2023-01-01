@@ -3,11 +3,11 @@ title: "Kim Jae Hoon (Garou)"
 slug:  "Kim_Jae_Hoon_(Garou)"
 id: 15
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kim Jae Hoon (Garou)
-
-.
 
 ## Introduction
 

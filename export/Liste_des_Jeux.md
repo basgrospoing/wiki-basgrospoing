@@ -3,11 +3,11 @@ title: "Liste des Jeux"
 slug:  "Liste_des_Jeux"
 id: 311
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Liste des Jeux
-
-.
 
 ## Liste des jeux présents sur le wiki
 

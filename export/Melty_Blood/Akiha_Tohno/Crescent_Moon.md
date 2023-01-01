@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Tohno/Crescent Moon"
 slug:  "Melty_Blood/Akiha_Tohno/Crescent_Moon"
 id: 1721
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Tohno/Crescent Moon
-
-.
 
 # Combos
 

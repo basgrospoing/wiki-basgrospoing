@@ -3,11 +3,11 @@ title: "Ralf Jones (98um)"
 slug:  "Ralf_Jones_(98um)"
 id: 214
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ralf Jones (98um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Haggar (UMVC3)"
 slug:  "Haggar_(UMVC3)"
 id: 2987
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Haggar (UMVC3)
-
-.
 
 <center>
 

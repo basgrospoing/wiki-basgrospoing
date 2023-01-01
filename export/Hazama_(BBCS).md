@@ -3,11 +3,11 @@ title: "Hazama (BBCS)"
 slug:  "Hazama_(BBCS)"
 id: 302
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hazama (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_hazama_artwork_01.png"

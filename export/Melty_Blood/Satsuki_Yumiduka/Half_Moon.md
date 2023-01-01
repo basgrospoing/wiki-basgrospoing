@@ -3,11 +3,11 @@ title: "Melty Blood/Satsuki Yumiduka/Half Moon"
 slug:  "Melty_Blood/Satsuki_Yumiduka/Half_Moon"
 id: 1857
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Satsuki Yumiduka/Half Moon
-
-.
 
 # Combos
 

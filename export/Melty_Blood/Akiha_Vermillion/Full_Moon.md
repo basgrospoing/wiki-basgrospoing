@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Vermillion/Full Moon"
 slug:  "Melty_Blood/Akiha_Vermillion/Full_Moon"
 id: 1734
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Vermillion/Full Moon
-
-.
 
 # Combos
 

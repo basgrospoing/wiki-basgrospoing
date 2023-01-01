@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Momoko"
 slug:  "The_King_of_Fighters_XI_-_Momoko"
 id: 943
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-momoko"
 old_id: 944
 ---
 
 # The King of Fighters XI - Momoko
-
-.
 
 ![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")
 

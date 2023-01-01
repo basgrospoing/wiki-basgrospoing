@@ -3,11 +3,11 @@ title: "Morrigan (UMVC3)"
 slug:  "Morrigan_(UMVC3)"
 id: 2994
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Morrigan (UMVC3)
-
-.
 
 <center>
 

@@ -3,11 +3,11 @@ title: "Yuri Sakazaki (KoF '94) (98um)"
 slug:  "Yuri_Sakazaki_(KoF_'94)_(98um)"
 id: 256
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yuri Sakazaki (KoF '94) (98um)
-
-.
 
 ## Introduction
 

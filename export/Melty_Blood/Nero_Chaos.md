@@ -3,11 +3,11 @@ title: "Melty Blood/Nero Chaos"
 slug:  "Melty_Blood/Nero_Chaos"
 id: 1824
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Nero Chaos
-
-.
 
 ![ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   
 Professor Chaos \<br\\\>\<br\\\> **Voiced by:**   Joji Nakata (中田

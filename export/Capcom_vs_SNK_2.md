@@ -3,11 +3,11 @@ title: "Capcom vs SNK 2"
 slug:  "Capcom_vs_SNK_2"
 id: 1608
 author: "Alx"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Capcom vs SNK 2
-
-.
 
 ![](/images/Cvs2.jpg "/images/Cvs2.jpg")
 

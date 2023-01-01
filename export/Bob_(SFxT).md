@@ -3,11 +3,11 @@ title: "Bob (SFxT)"
 slug:  "Bob_(SFxT)"
 id: 2182
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Bob (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

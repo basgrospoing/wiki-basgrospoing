@@ -3,11 +3,11 @@ title: "Tung Fu Rue (Fatal Fury Special)"
 slug:  "Tung_Fu_Rue_(Fatal_Fury_Special)"
 id: 739
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Tung Fu Rue (Fatal Fury Special)
-
-.
 
 ![](/images/Ffsptung.PNG)  
 

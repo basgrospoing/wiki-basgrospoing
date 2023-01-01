@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)"
 slug:  "Samurai_Shodown_IV_-_Tam_Tam_(タムタム,_Tamu_Tamu)"
 id: 636
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-TamTam"
 old_id: 654
 ---
 
 # Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)
-
-.
 
 ![](/images/ss4-TamTam.gif "/images/ss4-TamTam.gif")
 

@@ -3,13 +3,13 @@ title: "Shermie (2k2um)"
 slug:  "Shermie_(2k2um)"
 id: 49
 author: "200.169.245.58"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Shermie"
 old_id: 100
 ---
 
 # Shermie (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Oro (3S)"
 slug:  "Oro_(3S)"
 id: 279
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Oro (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Oro3sport.gif "Character Select Portrait") ![Neutral

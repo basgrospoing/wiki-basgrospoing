@@ -3,11 +3,11 @@ title: "Vega (SSFIV)"
 slug:  "Vega_(SSFIV)"
 id: 362
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Vega (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

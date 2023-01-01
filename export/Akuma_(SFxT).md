@@ -3,11 +3,11 @@ title: "Akuma (SFxT)"
 slug:  "Akuma_(SFxT)"
 id: 2163
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akuma (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

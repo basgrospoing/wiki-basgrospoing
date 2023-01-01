@@ -3,11 +3,11 @@ title: "Melty Blood/Kohaku/Half Moon"
 slug:  "Melty_Blood/Kohaku/Half_Moon"
 id: 1778
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Kohaku/Half Moon
-
-.
 
 # Combos
 

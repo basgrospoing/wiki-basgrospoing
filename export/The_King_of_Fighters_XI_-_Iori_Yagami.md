@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Iori Yagami"
 slug:  "The_King_of_Fighters_XI_-_Iori_Yagami"
 id: 963
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-iori-yagami"
 old_id: 964
 ---
 
 # The King of Fighters XI - Iori Yagami
-
-.
 
 ![](/images/kofxi-iori-yagami.jpg "/images/kofxi-iori-yagami.jpg")
 

@@ -3,11 +3,11 @@ title: "Melty Blood/White Len/Crescent Moon"
 slug:  "Melty_Blood/White_Len/Crescent_Moon"
 id: 1898
 author: "88.173.34.60"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/White Len/Crescent Moon
-
-.
 
 # Combos
 

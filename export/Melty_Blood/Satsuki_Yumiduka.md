@@ -3,11 +3,11 @@ title: "Melty Blood/Satsuki Yumiduka"
 slug:  "Melty_Blood/Satsuki_Yumiduka"
 id: 1853
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Satsuki Yumiduka
-
-.
 
 \[\[Image:/images/Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚
 さつき)  —  **Nicknames:**    Sacchin \<br\\\>\<br\\\> **Voiced

@@ -3,11 +3,11 @@ title: "Iron Tager (BBCS)"
 slug:  "Iron_Tager_(BBCS)"
 id: 301
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Iron Tager (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_tager_artwork_01.png"

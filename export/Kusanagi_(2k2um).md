@@ -3,13 +3,13 @@ title: "Kusanagi (2k2um)"
 slug:  "Kusanagi_(2k2um)"
 id: 63
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kusanagi"
 old_id: 114
 ---
 
 # Kusanagi (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Ragna the Bloodedge (BBCS)"
 slug:  "Ragna_the_Bloodedge_(BBCS)"
 id: 296
 author: "78.240.92.62"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ragna the Bloodedge (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_ragna_artwork_01.png"

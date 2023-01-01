@@ -3,11 +3,11 @@ title: "Melty Blood/Riesbyfe Stridberg/Half Moon"
 slug:  "Melty_Blood/Riesbyfe_Stridberg/Half_Moon"
 id: 1843
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Riesbyfe Stridberg/Half Moon
-
-.
 
 # Combos
 

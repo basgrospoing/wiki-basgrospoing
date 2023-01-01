@@ -3,11 +3,11 @@ title: "Vice (98um)"
 slug:  "Vice_(98um)"
 id: 233
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Vice (98um)
-
-.
 
 ## Introduction
 

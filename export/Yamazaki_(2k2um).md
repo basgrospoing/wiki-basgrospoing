@@ -3,13 +3,13 @@ title: "Yamazaki (2k2um)"
 slug:  "Yamazaki_(2k2um)"
 id: 45
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Yamazaki"
 old_id: 98
 ---
 
 # Yamazaki (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Goenitz (2k2um)"
 slug:  "Goenitz_(2k2um)"
 id: 142
 author: "81.67.71.175"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Goenitz (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Akuma (ST)"
 slug:  "Akuma_(ST)"
 id: 450
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akuma (ST)
-
-.
 
 ## Introduction
 

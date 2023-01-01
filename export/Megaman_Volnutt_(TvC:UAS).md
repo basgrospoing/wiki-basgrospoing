@@ -3,11 +3,11 @@ title: "Megaman Volnutt (TvC:UAS)"
 slug:  "Megaman_Volnutt_(TvC:UAS)"
 id: 565
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Megaman Volnutt (TvC:UAS)
-
-.
 
 <img src="/images/Rockvolnutt.jpg" title="/images/Rockvolnutt.jpg"
 width="230" alt="/images/Rockvolnutt.jpg" />  

@@ -3,11 +3,11 @@ title: "Cheng Sinzan (Fatal Fury Special)"
 slug:  "Cheng_Sinzan_(Fatal_Fury_Special)"
 id: 731
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Cheng Sinzan (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspcheng.PNG)  
 

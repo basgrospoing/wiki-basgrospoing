@@ -3,11 +3,11 @@ title: "Λ -11- (BBCS)"
 slug:  "Λ_-11-_(BBCS)"
 id: 292
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Λ -11- (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_lambda_artwork_01.png"

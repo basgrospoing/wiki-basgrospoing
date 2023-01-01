@@ -3,11 +3,11 @@ title: "Guile (2X)"
 slug:  "Guile_(2X)"
 id: 458
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Guile (2X)
-
-.
 
 ## Introduction
 

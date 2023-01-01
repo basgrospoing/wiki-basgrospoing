@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Shen Woo"
 slug:  "The_King_of_Fighters_XI_-_Shen_Woo"
 id: 913
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-shen-woo"
 old_id: 914
 ---
 
 # The King of Fighters XI - Shen Woo
-
-.
 
 ![](/images/kofxi-shen-woo.jpg "/images/kofxi-shen-woo.jpg")
 

@@ -3,11 +3,11 @@ title: "E. Honda (SSFIV)"
 slug:  "E._Honda_(SSFIV)"
 id: 2142
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # E. Honda (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

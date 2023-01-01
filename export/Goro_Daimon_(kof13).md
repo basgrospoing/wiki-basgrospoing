@@ -3,11 +3,11 @@ title: "Goro Daimon (kof13)"
 slug:  "Goro_Daimon_(kof13)"
 id: 1113
 author: "Natchooo"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Goro Daimon (kof13)
-
-.
 
 ![Goro Daimon](/images/Gorokof13.gif "Goro Daimon") [Retour à la fiche
 du

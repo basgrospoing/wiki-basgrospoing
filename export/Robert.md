@@ -3,11 +3,11 @@ title: "Robert"
 slug:  "Robert"
 id: 28
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Robert
-
-.
 
 ## Introduction
 

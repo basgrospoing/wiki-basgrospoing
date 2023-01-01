@@ -3,11 +3,11 @@ title: "Blanka (SSFIV)"
 slug:  "Blanka_(SSFIV)"
 id: 2145
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Blanka (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

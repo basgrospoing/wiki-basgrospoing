@@ -3,11 +3,11 @@ title: "Melty Blood/Powerd Ciel"
 slug:  "Melty_Blood/Powerd_Ciel"
 id: 1830
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Powerd Ciel
-
-.
 
 ![ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
 Curry" \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間

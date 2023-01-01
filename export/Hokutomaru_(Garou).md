@@ -3,11 +3,11 @@ title: "Hokutomaru (Garou)"
 slug:  "Hokutomaru_(Garou)"
 id: 9
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hokutomaru (Garou)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "Yun (AE) (SSFIV)"
 slug:  "Yun_(AE)_(SSFIV)"
 id: 2147
 author: "Atomskyu690"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yun (AE) (SSFIV)
-
-.
 
 ## 1 Vue d'ensemble
 

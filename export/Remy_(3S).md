@@ -3,11 +3,11 @@ title: "Remy (3S)"
 slug:  "Remy_(3S)"
 id: 281
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Remy (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Remy3sport.gif "Character Select Portrait") ![Neutral

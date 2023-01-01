@@ -3,11 +3,11 @@ title: "Accueil"
 slug:  "Accueil"
 id: 2508
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Accueil
-
-.
 
 \_\_NOTOC\_\_
 

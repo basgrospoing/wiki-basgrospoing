@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝
 slug:  "Samurai_Shodown_IV_-_Charlotte_Christine_de_Colde_(シャルロット＝クリスティーヌ＝ド＝コルデ,_Sharurotto_Kurisutīnu_do_Korude)"
 id: 640
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Charlotte"
 old_id: 658
 ---
 
 # Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do Korude)
-
-.
 
 ![](/images/ss4-Charlotte.gif "/images/ss4-Charlotte.gif")
 

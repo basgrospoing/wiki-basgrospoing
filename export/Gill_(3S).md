@@ -3,11 +3,11 @@ title: "Gill (3S)"
 slug:  "Gill_(3S)"
 id: 273
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Gill (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Gill.gif "Character Select Portrait") ![Neutral

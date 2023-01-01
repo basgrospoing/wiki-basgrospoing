@@ -3,11 +3,11 @@ title: "Rufus (SSFIV)"
 slug:  "Rufus_(SSFIV)"
 id: 2153
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Rufus (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

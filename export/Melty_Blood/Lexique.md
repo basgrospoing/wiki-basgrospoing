@@ -3,13 +3,13 @@ title: "Melty Blood/Lexique"
 slug:  "Melty_Blood/Lexique"
 id: 1713
 author: "82.234.188.250"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Melty_Blood/Glossary"
 old_id: 1714
 ---
 
 # Melty Blood/Lexique
-
-.
 
 \_\_TOC\_\_
 

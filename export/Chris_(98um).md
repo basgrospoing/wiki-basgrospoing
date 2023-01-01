@@ -3,11 +3,11 @@ title: "Chris (98um)"
 slug:  "Chris_(98um)"
 id: 227
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chris (98um)
-
-.
 
 ## Introduction
 

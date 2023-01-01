@@ -3,13 +3,13 @@ title: "Billy Kane (2k2um)"
 slug:  "Billy_Kane_(2k2um)"
 id: 47
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Billy_Kane"
 old_id: 96
 ---
 
 # Billy Kane (2k2um)
-
-.
 
 ## Introduction
 

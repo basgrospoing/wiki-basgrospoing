@@ -3,11 +3,11 @@ title: "ChunLi (ST)"
 slug:  "ChunLi_(ST)"
 id: 454
 author: "Moun-B"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ChunLi (ST)
-
-.
 
 <figure>
 <img src="/images/ST_ChunLi_portrait.png" width="200" />

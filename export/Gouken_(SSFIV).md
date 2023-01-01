@@ -3,11 +3,11 @@ title: "Gouken (SSFIV)"
 slug:  "Gouken_(SSFIV)"
 id: 352
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Gouken (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

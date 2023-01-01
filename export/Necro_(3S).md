@@ -3,11 +3,11 @@ title: "Necro (3S)"
 slug:  "Necro_(3S)"
 id: 278
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Necro (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Necro3sport.gif "Character Select Portrait") ![Neutral

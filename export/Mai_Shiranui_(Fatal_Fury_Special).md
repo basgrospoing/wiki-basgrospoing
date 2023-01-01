@@ -3,11 +3,11 @@ title: "Mai Shiranui (Fatal Fury Special)"
 slug:  "Mai_Shiranui_(Fatal_Fury_Special)"
 id: 735
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mai Shiranui (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspmai.PNG)  
 

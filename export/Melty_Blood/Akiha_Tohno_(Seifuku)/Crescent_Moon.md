@@ -3,11 +3,11 @@ title: "Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon"
 slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon"
 id: 1730
 author: "Naast"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
-
-.
 
 # Combos
 

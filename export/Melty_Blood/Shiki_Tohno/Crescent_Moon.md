@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Tohno/Crescent Moon"
 slug:  "Melty_Blood/Shiki_Tohno/Crescent_Moon"
 id: 1873
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Tohno/Crescent Moon
-
-.
 
 # Combos
 

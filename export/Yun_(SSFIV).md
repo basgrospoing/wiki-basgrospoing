@@ -3,11 +3,11 @@ title: "Yun (SSFIV)"
 slug:  "Yun_(SSFIV)"
 id: 2157
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Yun (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

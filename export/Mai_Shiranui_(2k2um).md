@@ -3,11 +3,11 @@ title: "Mai Shiranui (2k2um)"
 slug:  "Mai_Shiranui_(2k2um)"
 id: 119
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mai Shiranui (2k2um)
-
-.
 
 ## Introduction
 

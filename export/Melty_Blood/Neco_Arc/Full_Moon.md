@@ -3,11 +3,11 @@ title: "Melty Blood/Neco Arc/Full Moon"
 slug:  "Melty_Blood/Neco_Arc/Full_Moon"
 id: 1818
 author: "Ninjigen"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Neco Arc/Full Moon
-
-.
 
 # Combos
 

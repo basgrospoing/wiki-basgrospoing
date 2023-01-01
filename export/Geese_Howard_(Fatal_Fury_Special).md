@@ -3,11 +3,11 @@ title: "Geese Howard (Fatal Fury Special)"
 slug:  "Geese_Howard_(Fatal_Fury_Special)"
 id: 748
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Geese Howard (Fatal Fury Special)
-
-.
 
 ![](/images/Ffspgeese.PNG)  
 

@@ -3,11 +3,11 @@ title: "Fei Long (2X)"
 slug:  "Fei_Long_(2X)"
 id: 457
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Fei Long (2X)
-
-.
 
 ## Introduction
 

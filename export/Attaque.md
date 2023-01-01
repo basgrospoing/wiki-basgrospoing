@@ -3,11 +3,11 @@ title: "Attaque"
 slug:  "Attaque"
 id: 501
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Attaque
-
-.
 
 ## Introduction
 

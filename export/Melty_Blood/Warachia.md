@@ -3,11 +3,11 @@ title: "Melty Blood/Warachia"
 slug:  "Melty_Blood/Warachia"
 id: 1888
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Warachia
-
-.
 
 ![ **Nom:**   Nuit de Wallachia (ワラキアの夜)  —  **Alias:**   Zepia
 Eltnam Oberon\<br\\\>\<br\\\> **Doublé par:**   Yasunori Masutani (増谷

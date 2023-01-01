@@ -3,11 +3,11 @@ title: "Soulcalibur 5"
 slug:  "Soulcalibur_5"
 id: 2139
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Soulcalibur 5
-
-.
 
 <figure>
 <img src="/images/Soulcalibur5_Logo.png" title="Logo" width="400"

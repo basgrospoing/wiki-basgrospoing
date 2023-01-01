@@ -3,11 +3,11 @@ title: "ABK/Elektrosoldat"
 slug:  "ABK/Elektrosoldat"
 id: 2270
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/Elektrosoldat
-
-.
 
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")
 

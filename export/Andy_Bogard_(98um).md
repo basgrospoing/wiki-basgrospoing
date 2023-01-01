@@ -3,11 +3,11 @@ title: "Andy Bogard (98um)"
 slug:  "Andy_Bogard_(98um)"
 id: 208
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Andy Bogard (98um)
-
-.
 
 ## Introduction
 

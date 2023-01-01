@@ -3,11 +3,11 @@ title: "Melty Blood/Mech-Hisui/Half Moon"
 slug:  "Melty_Blood/Mech-Hisui/Half_Moon"
 id: 1802
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Mech-Hisui/Half Moon
-
-.
 
 # Combos
 

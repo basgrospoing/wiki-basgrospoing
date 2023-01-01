@@ -3,11 +3,11 @@ title: "Glossaire UMVC3"
 slug:  "Glossaire_UMVC3"
 id: 2924
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Glossaire UMVC3
-
-.
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 

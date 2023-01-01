@@ -3,11 +3,11 @@ title: "Chin Gentsai (98um)"
 slug:  "Chin_Gentsai_(98um)"
 id: 218
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chin Gentsai (98um)
-
-.
 
 ## Introduction
 

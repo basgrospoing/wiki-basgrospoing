@@ -3,11 +3,11 @@ title: "Ken (SSFIV)"
 slug:  "Ken_(SSFIV)"
 id: 2148
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ken (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

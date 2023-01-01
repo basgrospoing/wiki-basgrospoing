@@ -3,11 +3,11 @@ title: "Mature (98um)"
 slug:  "Mature_(98um)"
 id: 232
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mature (98um)
-
-.
 
 ## Introduction
 

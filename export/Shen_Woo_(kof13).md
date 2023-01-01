@@ -3,11 +3,11 @@ title: "Shen Woo (kof13)"
 slug:  "Shen_Woo_(kof13)"
 id: 1096
 author: "Lolo"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Shen Woo (kof13)
-
-.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

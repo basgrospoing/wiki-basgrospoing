@@ -3,13 +3,13 @@ title: "Mai (2k2um)"
 slug:  "Mai_(2k2um)"
 id: 36
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Mai"
 old_id: 84
 ---
 
 # Mai (2k2um)
-
-.
 
 ## Introduction
 

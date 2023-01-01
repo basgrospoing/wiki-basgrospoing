@@ -3,11 +3,11 @@ title: "Takuma"
 slug:  "Takuma"
 id: 29
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Takuma
-
-.
 
 ## Introduction
 

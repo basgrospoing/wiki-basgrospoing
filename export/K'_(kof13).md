@@ -3,11 +3,11 @@ title: "K' (kof13)"
 slug:  "K'_(kof13)"
 id: 1087
 author: "Maj"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # K' (kof13)
-
-.
 
 ![K'](/images/Kdash-kof13-stance.gif "K'") [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

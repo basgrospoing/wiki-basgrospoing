@@ -3,11 +3,11 @@ title: "Joe Higashi (98um)"
 slug:  "Joe_Higashi_(98um)"
 id: 209
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Joe Higashi (98um)
-
-.
 
 ## Introduction
 

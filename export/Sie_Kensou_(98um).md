@@ -3,11 +3,11 @@ title: "Sie Kensou (98um)"
 slug:  "Sie_Kensou_(98um)"
 id: 217
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Sie Kensou (98um)
-
-.
 
 ## Introduction
 

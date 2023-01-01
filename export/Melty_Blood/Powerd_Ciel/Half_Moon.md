@@ -3,11 +3,11 @@ title: "Melty Blood/Powerd Ciel/Half Moon"
 slug:  "Melty_Blood/Powerd_Ciel/Half_Moon"
 id: 1832
 author: "Zind"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Powerd Ciel/Half Moon
-
-.
 
 # Combos
 

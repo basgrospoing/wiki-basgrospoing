@@ -3,11 +3,11 @@ title: "Melty Blood/Sion TATARI"
 slug:  "Melty_Blood/Sion_TATARI"
 id: 1882
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Sion TATARI
-
-.
 
 ![ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹

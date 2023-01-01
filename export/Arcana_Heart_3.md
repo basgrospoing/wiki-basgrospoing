@@ -3,11 +3,11 @@ title: "Arcana Heart 3"
 slug:  "Arcana_Heart_3"
 id: 1612
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Arcana Heart 3
-
-.
 
 \_\_TOC\_\_
 <img src="/images/ah3logo.jpg" title="/images/ah3logo.jpg" width="400"

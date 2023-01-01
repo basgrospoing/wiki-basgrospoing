@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Shingo Yabuki"
 slug:  "The_King_of_Fighters_XI_-_Shingo_Yabuki"
 id: 965
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-shingo-yabuki"
 old_id: 966
 ---
 
 # The King of Fighters XI - Shingo Yabuki
-
-.
 
 ![](/images/kofxi-shingo-yabuki.jpg "/images/kofxi-shingo-yabuki.jpg")
 

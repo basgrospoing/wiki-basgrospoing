@@ -3,11 +3,11 @@ title: "Takuma Sakazaki (kof13)"
 slug:  "Takuma_Sakazaki_(kof13)"
 id: 1076
 author: "Kula'"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Takuma Sakazaki (kof13)
-
-.
 
 ![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  
 [Retour à la fiche du

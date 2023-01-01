@@ -3,11 +3,11 @@ title: "Melty Blood/Red Arcueid/Crescent Moon"
 slug:  "Melty_Blood/Red_Arcueid/Crescent_Moon"
 id: 1838
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Red Arcueid/Crescent Moon
-
-.
 
 # Combos
 

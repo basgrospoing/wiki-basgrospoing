@@ -3,11 +3,11 @@ title: "Alex (TvC:UAS)"
 slug:  "Alex_(TvC:UAS)"
 id: 528
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Alex (TvC:UAS)
-
-.
 
 <img src="/images/Tvc-alex.jpg" title="/images/Tvc-alex.jpg" width="220"
 alt="/images/Tvc-alex.jpg" />  

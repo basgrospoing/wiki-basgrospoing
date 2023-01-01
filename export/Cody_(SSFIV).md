@@ -3,11 +3,11 @@ title: "Cody (SSFIV)"
 slug:  "Cody_(SSFIV)"
 id: 361
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Cody (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

@@ -3,11 +3,11 @@ title: "Street Fighter 3: 3rd Strike"
 slug:  "Street_Fighter_3:_3rd_Strike"
 id: 3
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Street Fighter 3: 3rd Strike
-
-.
 
 ![](/images/3s_logo.gif "/images/3s_logo.gif")
 

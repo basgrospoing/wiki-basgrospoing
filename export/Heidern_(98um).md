@@ -3,11 +3,11 @@ title: "Heidern (98um)"
 slug:  "Heidern_(98um)"
 id: 234
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Heidern (98um)
-
-.
 
 ## Introduction
 

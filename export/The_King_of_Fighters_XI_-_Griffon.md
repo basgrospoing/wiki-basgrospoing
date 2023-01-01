@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Griffon"
 slug:  "The_King_of_Fighters_XI_-_Griffon"
 id: 925
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-griffon"
 old_id: 926
 ---
 
 # The King of Fighters XI - Griffon
-
-.
 
 ![](/images/kofxi-griffon.jpg "/images/kofxi-griffon.jpg")
 

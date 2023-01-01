@@ -3,11 +3,11 @@ title: "Guile (SFxT)"
 slug:  "Guile_(SFxT)"
 id: 2168
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Guile (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

@@ -3,11 +3,11 @@ title: "Melty Blood/Arcueid Brunestud/Full Moon"
 slug:  "Melty_Blood/Arcueid_Brunestud/Full_Moon"
 id: 1755
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Arcueid Brunestud/Full Moon
-
-.
 
 # Combos
 

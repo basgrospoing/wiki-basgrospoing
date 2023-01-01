@@ -3,11 +3,11 @@ title: "Kim Dong Hwan (Garou)"
 slug:  "Kim_Dong_Hwan_(Garou)"
 id: 6
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kim Dong Hwan (Garou)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "P4A/Mécanismes avancés"
 slug:  "P4A/Mécanismes_avancés"
 id: 2680
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # P4A/Mécanismes avancés
-
-.
 
 # Status spéciaux
 

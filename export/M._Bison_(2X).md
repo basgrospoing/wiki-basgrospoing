@@ -3,11 +3,11 @@ title: "M. Bison (2X)"
 slug:  "M._Bison_(2X)"
 id: 465
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # M. Bison (2X)
-
-.
 
 ## Introduction
 

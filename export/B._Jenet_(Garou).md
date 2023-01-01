@@ -3,11 +3,11 @@ title: "B. Jenet (Garou)"
 slug:  "B._Jenet_(Garou)"
 id: 13
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # B. Jenet (Garou)
-
-.
 
 ## Introduction
 

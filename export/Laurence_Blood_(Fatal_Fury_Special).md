@@ -3,13 +3,13 @@ title: "Laurence Blood (Fatal Fury Special)"
 slug:  "Laurence_Blood_(Fatal_Fury_Special)"
 id: 745
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Laurence_Blood(Fatal_Fury_Special)"
 old_id: 746
 ---
 
 # Laurence Blood (Fatal Fury Special)
-
-.
 
 ![](/images/Ffsplaurence.PNG)  
 

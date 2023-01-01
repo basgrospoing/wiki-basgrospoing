@@ -3,11 +3,11 @@ title: "Omega Rugal (98um)"
 slug:  "Omega_Rugal_(98um)"
 id: 265
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Omega Rugal (98um)
-
-.
 
 ## Introduction
 

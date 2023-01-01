@@ -3,11 +3,11 @@ title: "Shermie (98um)"
 slug:  "Shermie_(98um)"
 id: 226
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Shermie (98um)
-
-.
 
 ## Introduction
 

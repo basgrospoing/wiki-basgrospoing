@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Nanaya"
 slug:  "Melty_Blood/Shiki_Nanaya"
 id: 1756
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Nanaya
-
-.
 
 ![ **Name:**   Shiki Nanaya (七夜 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima

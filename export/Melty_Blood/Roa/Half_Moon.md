@@ -3,11 +3,11 @@ title: "Melty Blood/Roa/Half Moon"
 slug:  "Melty_Blood/Roa/Half_Moon"
 id: 1851
 author: "Zind"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Roa/Half Moon
-
-.
 
 # Combos
 

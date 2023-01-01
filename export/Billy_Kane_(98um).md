@@ -3,11 +3,11 @@ title: "Billy Kane (98um)"
 slug:  "Billy_Kane_(98um)"
 id: 230
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Billy Kane (98um)
-
-.
 
 ## Introduction
 

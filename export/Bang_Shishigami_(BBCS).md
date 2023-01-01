@@ -3,11 +3,11 @@ title: "Bang Shishigami (BBCS)"
 slug:  "Bang_Shishigami_(BBCS)"
 id: 305
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Bang Shishigami (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_bang_artwork_01.png"

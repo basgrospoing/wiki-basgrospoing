@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Eiji Kisaragi"
 slug:  "The_King_of_Fighters_XI_-_Eiji_Kisaragi"
 id: 953
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-eiji-kisaragi"
 old_id: 954
 ---
 
 # The King of Fighters XI - Eiji Kisaragi
-
-.
 
 ![](/images/kofxi-eiji-kisaragi.jpg "/images/kofxi-eiji-kisaragi.jpg")
 

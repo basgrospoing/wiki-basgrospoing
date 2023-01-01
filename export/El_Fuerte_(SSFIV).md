@@ -3,11 +3,11 @@ title: "El Fuerte (SSFIV)"
 slug:  "El_Fuerte_(SSFIV)"
 id: 376
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # El Fuerte (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

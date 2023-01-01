@@ -3,11 +3,11 @@ title: "Casshan (TvC:UAS)"
 slug:  "Casshan_(TvC:UAS)"
 id: 522
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Casshan (TvC:UAS)
-
-.
 
 <img src="/images/Casshern.jpg" title="/images/Casshern.jpg" width="250"
 alt="/images/Casshern.jpg" />  

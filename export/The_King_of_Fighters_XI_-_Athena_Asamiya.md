@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Athena Asamiya"
 slug:  "The_King_of_Fighters_XI_-_Athena_Asamiya"
 id: 917
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-athena-asamiya"
 old_id: 918
 ---
 
 # The King of Fighters XI - Athena Asamiya
-
-.
 
 ![](/images/kofxi-athena-asamiya.jpg "/images/kofxi-athena-asamiya.jpg")
 

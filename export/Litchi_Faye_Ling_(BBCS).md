@@ -3,11 +3,11 @@ title: "Litchi Faye Ling (BBCS)"
 slug:  "Litchi_Faye_Ling_(BBCS)"
 id: 299
 author: "83.196.107.5"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Litchi Faye Ling (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_litchi_artwork_01.png"

@@ -3,11 +3,11 @@ title: "Saisyu Kusanagi (98um)"
 slug:  "Saisyu_Kusanagi_(98um)"
 id: 236
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Saisyu Kusanagi (98um)
-
-.
 
 ## Introduction
 

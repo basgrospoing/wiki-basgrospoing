@@ -3,13 +3,13 @@ title: "Joe Higashi (2k2um)"
 slug:  "Joe_Higashi_(2k2um)"
 id: 69
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Joe_Higashi"
 old_id: 77
 ---
 
 # Joe Higashi (2k2um)
-
-.
 
 ## Introduction
 

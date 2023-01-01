@@ -3,11 +3,11 @@ title: "Rugal Bernstein (98um)"
 slug:  "Rugal_Bernstein_(98um)"
 id: 248
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Rugal Bernstein (98um)
-
-.
 
 ## Introduction
 

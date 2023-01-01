@@ -3,11 +3,11 @@ title: "ABK/FAQ"
 slug:  "ABK/FAQ"
 id: 2249
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ABK/FAQ
-
-.
 
 ## Généralités
 

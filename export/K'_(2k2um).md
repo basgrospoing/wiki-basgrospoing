@@ -3,13 +3,13 @@ title: "K' (2k2um)"
 slug:  "K'_(2k2um)"
 id: 51
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "K'"
 old_id: 102
 ---
 
 # K' (2k2um)
-
-.
 
 ## Introduction
 

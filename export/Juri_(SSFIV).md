@@ -3,11 +3,11 @@ title: "Juri (SSFIV)"
 slug:  "Juri_(SSFIV)"
 id: 354
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Juri (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

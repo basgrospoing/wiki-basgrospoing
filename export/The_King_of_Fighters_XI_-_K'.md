@@ -3,13 +3,13 @@ title: "The King of Fighters XI - K'"
 slug:  "The_King_of_Fighters_XI_-_K'"
 id: 955
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-k"
 old_id: 956
 ---
 
 # The King of Fighters XI - K'
-
-.
 
 ![](/images/kofxi-k.jpg "/images/kofxi-k.jpg")
 

@@ -3,11 +3,11 @@ title: "Chun-Li (TvC:UAS)"
 slug:  "Chun-Li_(TvC:UAS)"
 id: 564
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chun-Li (TvC:UAS)
-
-.
 
 <img src="/images/Tvc-chunli.jpg" title="/images/Tvc-chunli.jpg"
 width="230" alt="/images/Tvc-chunli.jpg" />  

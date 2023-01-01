@@ -3,11 +3,11 @@ title: "Frank West (UMVC3)"
 slug:  "Frank_West_(UMVC3)"
 id: 2986
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Frank West (UMVC3)
-
-.
 
 <center>
 

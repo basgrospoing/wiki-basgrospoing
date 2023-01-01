@@ -3,11 +3,11 @@ title: "Dan (SSFIV)"
 slug:  "Dan_(SSFIV)"
 id: 2146
 author: "Atomskyu698"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Dan (SSFIV)
-
-.
 
 [Retour à la fiche du
 jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)

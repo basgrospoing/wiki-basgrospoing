@@ -3,11 +3,11 @@ title: "Urien (3S)"
 slug:  "Urien_(3S)"
 id: 285
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Urien (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Urien3sport.gif "Character Select Portrait") ![Neutral

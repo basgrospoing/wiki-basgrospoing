@@ -3,11 +3,11 @@ title: "Amaterasu (UMVC3)"
 slug:  "Amaterasu_(UMVC3)"
 id: 2962
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Amaterasu (UMVC3)
-
-.
 
 <center>
 

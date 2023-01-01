@@ -3,11 +3,11 @@ title: "Mai Shiranui (kof13)"
 slug:  "Mai_Shiranui_(kof13)"
 id: 1120
 author: "82.238.249.39"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mai Shiranui (kof13)
-
-.
 
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

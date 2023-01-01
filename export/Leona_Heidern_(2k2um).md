@@ -3,11 +3,11 @@ title: "Leona Heidern (2k2um)"
 slug:  "Leona_Heidern_(2k2um)"
 id: 124
 author: "JPX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Leona Heidern (2k2um)
-
-.
 
 ## Introduction
 

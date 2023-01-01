@@ -3,11 +3,11 @@ title: "Choi Bounge (98um)"
 slug:  "Choi_Bounge_(98um)"
 id: 224
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Choi Bounge (98um)
-
-.
 
 ## Introduction
 

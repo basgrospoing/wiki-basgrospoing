@@ -3,11 +3,11 @@ title: "Ibuki (SFxT)"
 slug:  "Ibuki_(SFxT)"
 id: 2170
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ibuki (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

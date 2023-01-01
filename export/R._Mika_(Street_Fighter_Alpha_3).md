@@ -3,11 +3,11 @@ title: "R. Mika (Street Fighter Alpha 3)"
 slug:  "R._Mika_(Street_Fighter_Alpha_3)"
 id: 1251
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # R. Mika (Street Fighter Alpha 3)
-
-.
 
 ## Introduction
 

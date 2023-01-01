@@ -3,11 +3,11 @@ title: "Mr. Big (98um)"
 slug:  "Mr._Big_(98um)"
 id: 242
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Mr. Big (98um)
-
-.
 
 ## Introduction
 

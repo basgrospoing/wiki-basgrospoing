@@ -3,11 +3,11 @@ title: "Melty Blood/Len/Full Moon"
 slug:  "Melty_Blood/Len/Full_Moon"
 id: 1796
 author: "Oufan"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Len/Full Moon
-
-.
 
 # Combos
 

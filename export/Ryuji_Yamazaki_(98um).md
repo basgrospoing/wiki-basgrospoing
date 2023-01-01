@@ -3,11 +3,11 @@ title: "Ryuji Yamazaki (98um)"
 slug:  "Ryuji_Yamazaki_(98um)"
 id: 228
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ryuji Yamazaki (98um)
-
-.
 
 ## Introduction
 

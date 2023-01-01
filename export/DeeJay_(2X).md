@@ -3,11 +3,11 @@ title: "DeeJay (2X)"
 slug:  "DeeJay_(2X)"
 id: 455
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # DeeJay (2X)
-
-.
 
 ## Introduction
 

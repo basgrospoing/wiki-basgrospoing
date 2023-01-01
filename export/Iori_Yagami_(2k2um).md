@@ -3,13 +3,13 @@ title: "Iori Yagami (2k2um)"
 slug:  "Iori_Yagami_(2k2um)"
 id: 42
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Iori_Yagami"
 old_id: 93
 ---
 
 # Iori Yagami (2k2um)
-
-.
 
 ## Introduction
 

@@ -3,11 +3,11 @@ title: "May Lee Jinju (2k2um)"
 slug:  "May_Lee_Jinju_(2k2um)"
 id: 138
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # May Lee Jinju (2k2um)
-
-.
 
 ## Introduction
 

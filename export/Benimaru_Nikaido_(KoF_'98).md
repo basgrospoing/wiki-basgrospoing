@@ -3,11 +3,11 @@ title: "Benimaru Nikaido (KoF '98)"
 slug:  "Benimaru_Nikaido_(KoF_'98)"
 id: 154
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Benimaru Nikaido (KoF '98)
-
-.
 
 ## Introduction
 

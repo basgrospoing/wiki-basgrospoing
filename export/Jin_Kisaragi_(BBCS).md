@@ -3,11 +3,11 @@ title: "Jin Kisaragi (BBCS)"
 slug:  "Jin_Kisaragi_(BBCS)"
 id: 300
 author: "83.194.122.230"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Jin Kisaragi (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_jin_artwork_01.png"

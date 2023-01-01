@@ -3,11 +3,11 @@ title: "Melty Blood/Roa/Full Moon"
 slug:  "Melty_Blood/Roa/Full_Moon"
 id: 1850
 author: "Zind"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Roa/Full Moon
-
-.
 
 # Introduction
 

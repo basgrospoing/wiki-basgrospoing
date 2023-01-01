@@ -3,13 +3,13 @@ title: "Yuri (2k2um)"
 slug:  "Yuri_(2k2um)"
 id: 37
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Yuri"
 old_id: 85
 ---
 
 # Yuri (2k2um)
-
-.
 
 ## Introduction
 

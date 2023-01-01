@@ -3,11 +3,11 @@ title: "Rachel Alucard (BBCS)"
 slug:  "Rachel_Alucard_(BBCS)"
 id: 297
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Rachel Alucard (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_rachel_artwork_01.png"

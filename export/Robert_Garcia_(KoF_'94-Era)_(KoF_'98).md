@@ -3,11 +3,11 @@ title: "Robert Garcia (KoF '94-Era) (KoF '98)"
 slug:  "Robert_Garcia_(KoF_'94-Era)_(KoF_'98)"
 id: 198
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Robert Garcia (KoF '94-Era) (KoF '98)
-
-.
 
 ## Introduction
 

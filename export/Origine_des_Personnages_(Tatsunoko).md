@@ -3,11 +3,11 @@ title: "Origine des Personnages (Tatsunoko)"
 slug:  "Origine_des_Personnages_(Tatsunoko)"
 id: 2767
 author: "Admin"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Origine des Personnages (Tatsunoko)
-
-.
 
 Personnages Série / Jeu d' origine Nom occidental / français Année
 

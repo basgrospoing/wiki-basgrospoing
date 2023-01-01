@@ -3,11 +3,11 @@ title: "Klaus Wessel"
 slug:  "Klaus_Wessel"
 id: 477
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Klaus Wessel
-
-.
 
 <figure>
 <img src="/images/Klaus_Wessel.png" title="/images/Klaus_Wessel.png"

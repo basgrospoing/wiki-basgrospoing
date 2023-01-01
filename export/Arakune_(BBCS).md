@@ -3,11 +3,11 @@ title: "Arakune (BBCS)"
 slug:  "Arakune_(BBCS)"
 id: 291
 author: "Achoral"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Arakune (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_arakune_artwork_01.png"

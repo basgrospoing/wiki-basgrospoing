@@ -3,11 +3,11 @@ title: "Chun-Li (3S)"
 slug:  "Chun-Li_(3S)"
 id: 270
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Chun-Li (3S)
-
-.
 
 ![Character Select
 Portrait](/images/Chunli3sport.gif "Character Select Portrait")

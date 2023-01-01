@@ -3,11 +3,11 @@ title: "Melty Blood/Roa"
 slug:  "Melty_Blood/Roa"
 id: 1847
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Roa
-
-.
 
 ![ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン
 )  —  **Nicknames:**    Serpent of Akasha \<br\\\>\<br\\\> **Voiced

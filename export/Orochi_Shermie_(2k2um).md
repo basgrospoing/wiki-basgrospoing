@@ -3,13 +3,13 @@ title: "Orochi Shermie (2k2um)"
 slug:  "Orochi_Shermie_(2k2um)"
 id: 61
 author: "Aerendir"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Orochi_Shermie"
 old_id: 112
 ---
 
 # Orochi Shermie (2k2um)
-
-.
 
 ## Introduction
 

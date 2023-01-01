@@ -3,11 +3,11 @@ title: "Ultimate Marvel vs Capcom 3"
 slug:  "Ultimate_Marvel_vs_Capcom_3"
 id: 2707
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ultimate Marvel vs Capcom 3
-
-.
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 

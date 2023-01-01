@@ -3,11 +3,11 @@ title: "Kuma (SFxT)"
 slug:  "Kuma_(SFxT)"
 id: 2189
 author: "Hynkel"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kuma (SFxT)
-
-.
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")
 

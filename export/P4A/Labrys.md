@@ -3,13 +3,13 @@ title: "P4A/Labrys"
 slug:  "P4A/Labrys"
 id: 2645
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Labrys"
 old_id: 2658
 ---
 
 # P4A/Labrys
-
-.
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">

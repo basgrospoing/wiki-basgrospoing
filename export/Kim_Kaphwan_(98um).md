@@ -3,11 +3,11 @@ title: "Kim Kaphwan (98um)"
 slug:  "Kim_Kaphwan_(98um)"
 id: 222
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Kim Kaphwan (98um)
-
-.
 
 ## Introduction
 

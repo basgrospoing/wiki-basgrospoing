@@ -3,11 +3,11 @@ title: "ChunLi (Street Fighter Alpha 3)"
 slug:  "ChunLi_(Street_Fighter_Alpha_3)"
 id: 1247
 author: "Tonio"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # ChunLi (Street Fighter Alpha 3)
-
-.
 
 ## Introduction
 

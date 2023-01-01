@@ -3,11 +3,11 @@ title: "Melty Blood/White Len"
 slug:  "Melty_Blood/White_Len"
 id: 1894
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/White Len
-
-.
 
 ![ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>
 \<br\\\>\<br\\\> **Voiced by:**   Kaori Mizuhashi (水橋

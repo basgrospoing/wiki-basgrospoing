@@ -3,13 +3,13 @@ title: "Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)"
 slug:  "Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara)"
 id: 653
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4-Basara"
 old_id: 670
 ---
 
 # Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)
-
-.
 
 ![](/images/ss4-Basara.gif "/images/ss4-Basara.gif")
 

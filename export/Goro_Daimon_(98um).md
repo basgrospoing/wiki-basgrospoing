@@ -3,11 +3,11 @@ title: "Goro Daimon (98um)"
 slug:  "Goro_Daimon_(98um)"
 id: 206
 author: "Corbeau Bleu"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Goro Daimon (98um)
-
-.
 
 ## Introduction
 

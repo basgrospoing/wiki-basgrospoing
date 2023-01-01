@@ -3,11 +3,11 @@ title: "Ippatsuman (TvC:UAS)"
 slug:  "Ippatsuman_(TvC:UAS)"
 id: 521
 author: "Dan sakazaki"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Ippatsuman (TvC:UAS)
-
-.
 
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"
 width="250" alt="/images/Ippatsuman.jpg" />  

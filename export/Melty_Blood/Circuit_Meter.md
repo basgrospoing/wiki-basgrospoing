@@ -3,11 +3,11 @@ title: "Melty Blood/Circuit Meter"
 slug:  "Melty_Blood/Circuit_Meter"
 id: 1711
 author: "Naast"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Circuit Meter
-
-.
 
 Le Meter est le terme officiel pour la barre de furie à Melty Blood. Un
 peu comme les ISMs à Street Fighter Zero/alpha, la gestion du meter

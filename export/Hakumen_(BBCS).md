@@ -3,11 +3,11 @@ title: "Hakumen (BBCS)"
 slug:  "Hakumen_(BBCS)"
 id: 303
 author: "Yolsgens"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Hakumen (BBCS)
-
-.
 
 <figure>
 <img src="/images/Bbcs_hakumen_artwork_01.png"

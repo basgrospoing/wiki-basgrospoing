@@ -3,11 +3,11 @@ title: "Melty Blood/Shiki Nanaya/Full Moon"
 slug:  "Melty_Blood/Shiki_Nanaya/Full_Moon"
 id: 1861
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Shiki Nanaya/Full Moon
-
-.
 
 # Combos
 

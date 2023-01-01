@@ -3,13 +3,13 @@ title: "Samurai Shodown IV: Amakusa's Revenge"
 slug:  "Samurai_Shodown_IV:_Amakusa's_Revenge"
 id: 635
 author: "Atomskyu690"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Ss4"
 old_id: 671
 ---
 
 # Samurai Shodown IV: Amakusa's Revenge
-
-.
 
 Image:ss4-flyer.jpg Image:ss4-flyer2.jpg
 

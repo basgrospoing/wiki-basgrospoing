@@ -3,11 +3,11 @@ title: "Défense"
 slug:  "Défense"
 id: 500
 author: "Wolmar"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Défense
-
-.
 
 ## Introduction
 

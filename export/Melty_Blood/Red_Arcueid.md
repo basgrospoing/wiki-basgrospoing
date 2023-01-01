@@ -3,11 +3,11 @@ title: "Melty Blood/Red Arcueid"
 slug:  "Melty_Blood/Red_Arcueid"
 id: 1835
 author: "Sannos"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Melty Blood/Red Arcueid
-
-.
 
 ![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red
 Arc　 \<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木

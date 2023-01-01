@@ -3,13 +3,13 @@ title: "The King of Fighters XI - Ramon"
 slug:  "The_King_of_Fighters_XI_-_Ramon"
 id: 939
 author: "Olivic"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 redirect: "Kofxi-ramon"
 old_id: 940
 ---
 
 # The King of Fighters XI - Ramon
-
-.
 
 ![](/images/kofxi-ramon.jpg "/images/kofxi-ramon.jpg")
 

@@ -3,11 +3,11 @@ title: "Akuma (UMVC3)"
 slug:  "Akuma_(UMVC3)"
 id: 2959
 author: "ALX"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akuma (UMVC3)
-
-.
 
 <center>
 

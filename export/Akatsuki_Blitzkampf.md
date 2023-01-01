@@ -3,11 +3,11 @@ title: "Akatsuki Blitzkampf"
 slug:  "Akatsuki_Blitzkampf"
 id: 2248
 author: "Kabai"
+permalink:  "{{ slug }}.html"
+layout:  "index.njk"
 ---
 
 # Akatsuki Blitzkampf
-
-.
 
 ![](/images/abk_main.png "/images/abk_main.png")
 
