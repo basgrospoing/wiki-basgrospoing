@@ -9,8 +9,6 @@ redirect: "Kofxi-maxima"
 old_id: 960
 ---
 
-# The King of Fighters XI - Maxima
-
 ![](/images/kofxi-maxima.jpg "/images/kofxi-maxima.jpg")
 
 ## Introduction

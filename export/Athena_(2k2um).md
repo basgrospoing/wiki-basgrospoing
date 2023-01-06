@@ -9,8 +9,6 @@ redirect: "Athena"
 old_id: 90
 ---
 
-# Athena (2k2um)
-
 ## Introduction
 
 ## Moves List

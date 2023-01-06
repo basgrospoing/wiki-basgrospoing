@@ -9,8 +9,6 @@ redirect: "Kusanagi"
 old_id: 114
 ---
 
-# Kusanagi (2k2um)
-
 ## Introduction
 
 ## Moves List

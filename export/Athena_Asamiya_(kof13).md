@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Athena Asamiya (kof13)
-
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 ![Athena Asamiya](/images/Athenakof13.gif "Athena Asamiya")

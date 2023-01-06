@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Zero (TvC:UAS)
-
 <img src="/images/Zero.jpg" title="/images/Zero.jpg" width="250"
 alt="/images/Zero.jpg" />  
 

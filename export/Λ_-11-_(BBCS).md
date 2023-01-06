@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Λ -11- (BBCS)
-
 <figure>
 <img src="/images/Bbcs_lambda_artwork_01.png"
 title="/images/Bbcs_lambda_artwork_01.png" width="150"

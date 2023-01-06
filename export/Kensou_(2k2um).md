@@ -9,8 +9,6 @@ redirect: "Kensou"
 old_id: 91
 ---
 
-# Kensou (2k2um)
-
 ## Introduction
 
 ## Moves List

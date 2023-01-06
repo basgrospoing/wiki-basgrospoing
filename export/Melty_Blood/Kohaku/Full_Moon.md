@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kohaku/Full Moon
-
 # Combos
 
 **Combos midscreen**

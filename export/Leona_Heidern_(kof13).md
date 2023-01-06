@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Leona Heidern (kof13)
-
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
 ![Leona Heidern](/images/Leonakof13.gif "Leona Heidern")

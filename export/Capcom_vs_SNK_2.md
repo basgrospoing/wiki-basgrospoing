@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Capcom vs SNK 2
-
 ![](/images/Cvs2.jpg "/images/Cvs2.jpg")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryu (SSFIV)
-
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=Super_Street_Fighter_IV)
 

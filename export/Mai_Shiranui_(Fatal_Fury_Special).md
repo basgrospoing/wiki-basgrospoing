@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Mai Shiranui (Fatal Fury Special)
-
 ![](/images/Ffspmai.PNG)  
 
 ## Introduction

@@ -9,8 +9,6 @@ redirect: "Khushnood_Butt_(Garou)"
 old_id: 1070
 ---
 
-# Marco Rodriguez (Garou)
-
 ## Introduction
 
 ## Moves List

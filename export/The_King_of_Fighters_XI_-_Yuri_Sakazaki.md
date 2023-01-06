@@ -9,8 +9,6 @@ redirect: "Kofxi-yuri-sakazaki"
 old_id: 932
 ---
 
-# The King of Fighters XI - Yuri Sakazaki
-
 ![](/images/kofxi-yuri-sakazaki.jpg "/images/kofxi-yuri-sakazaki.jpg")
 
 ## Introduction

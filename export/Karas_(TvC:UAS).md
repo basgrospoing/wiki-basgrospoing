@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Karas (TvC:UAS)
-
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"
 alt="/images/Karas.jpg" />  
 

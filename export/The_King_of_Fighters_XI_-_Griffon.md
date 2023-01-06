@@ -9,8 +9,6 @@ redirect: "Kofxi-griffon"
 old_id: 926
 ---
 
-# The King of Fighters XI - Griffon
-
 ![](/images/kofxi-griffon.jpg "/images/kofxi-griffon.jpg")
 
 ## Introduction

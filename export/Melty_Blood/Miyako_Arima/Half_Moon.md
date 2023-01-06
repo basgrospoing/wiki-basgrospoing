@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Miyako Arima/Half Moon
-
 # Combos
 
 **BnB**

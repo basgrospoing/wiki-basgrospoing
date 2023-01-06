@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Red Arcueid/Half Moon
-
 # Combos
 
 **BnB midscreen**

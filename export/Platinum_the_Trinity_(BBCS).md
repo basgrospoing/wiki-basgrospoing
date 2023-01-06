@@ -7,4 +7,4 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Platinum the Trinity (BBCS)
+

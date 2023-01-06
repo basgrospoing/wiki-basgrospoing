@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Sion Eltnam Atlasia/Crescent Moon
-
 # Combos
 
 **BnB**

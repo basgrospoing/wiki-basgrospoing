@@ -9,8 +9,6 @@ redirect: "Mai"
 old_id: 84
 ---
 
-# Mai (2k2um)
-
 ## Introduction
 
 ## Moves List

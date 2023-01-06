@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Makoto (3S)
-
 ![Character Select
 Portrait](/images/makoto3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/makoto3s-stance.gif "Neutral Stance")

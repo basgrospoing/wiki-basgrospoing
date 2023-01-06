@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Warachia/Full Moon
-
 # Combos
 
 **(jB) \> (2A) \> 5B(1) \> 2B(2) \> 2C(2) \> 6C \> jB \> jC \> djC \>

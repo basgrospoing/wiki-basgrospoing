@@ -9,8 +9,6 @@ redirect: "Choi"
 old_id: 83
 ---
 
-# Choi (2k2um)
-
 ## Introduction
 
 ## Moves List

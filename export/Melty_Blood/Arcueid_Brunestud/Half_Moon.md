@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Arcueid Brunestud/Half Moon
-
 # Combos
 
 **BnB**

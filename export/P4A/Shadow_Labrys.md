@@ -9,8 +9,6 @@ redirect: "Shadow_Labrys"
 old_id: 2659
 ---
 
-# P4A/Shadow Labrys
-
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 

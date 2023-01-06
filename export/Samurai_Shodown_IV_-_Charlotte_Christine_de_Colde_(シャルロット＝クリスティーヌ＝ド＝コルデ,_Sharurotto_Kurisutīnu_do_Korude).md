@@ -9,8 +9,6 @@ redirect: "Ss4-Charlotte"
 old_id: 658
 ---
 
-# Samurai Shodown IV - Charlotte Christine de Colde (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do Korude)
-
 ![](/images/ss4-Charlotte.gif "/images/ss4-Charlotte.gif")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Hazama (BBCS)
-
 <figure>
 <img src="/images/Bbcs_hazama_artwork_01.png"
 title="/images/Bbcs_hazama_artwork_01.png" width="150"

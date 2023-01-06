@@ -9,8 +9,6 @@ redirect: "Ss4-Jubei"
 old_id: 669
 ---
 
-# Samurai Shodown IV - Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)
-
 ![](/images/ss4-Jubei.gif "/images/ss4-Jubei.gif")
 
 ## Introduction

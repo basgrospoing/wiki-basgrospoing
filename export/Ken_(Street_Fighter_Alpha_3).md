@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ken (Street Fighter Alpha 3)
-
 <figure>
 <img src="/images/SFA3_Ken.jpg" title="/images/SFA3_Ken.jpg" width="150"
 alt="/images/SFA3_Ken.jpg" />

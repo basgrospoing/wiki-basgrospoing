@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Clown (KR)
-
 ## Généralités
 
 ## Movelist

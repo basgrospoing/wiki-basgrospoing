@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Marylin Sue
-
 ![](/images/Marylin_Sue_ABK.jpg "/images/Marylin_Sue_ABK.jpg")
 
 # Combos

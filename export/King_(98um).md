@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# King (98um)
-
 ## Introduction
 
 ## Liste des coups

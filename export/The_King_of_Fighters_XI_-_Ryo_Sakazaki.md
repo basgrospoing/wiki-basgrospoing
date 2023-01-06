@@ -9,8 +9,6 @@ redirect: "Kofxi-ryo-sakazaki"
 old_id: 938
 ---
 
-# The King of Fighters XI - Ryo Sakazaki
-
 ![](/images/kofxi-ryo-sakazaki.jpg "/images/kofxi-ryo-sakazaki.jpg")
 
 ## Introduction

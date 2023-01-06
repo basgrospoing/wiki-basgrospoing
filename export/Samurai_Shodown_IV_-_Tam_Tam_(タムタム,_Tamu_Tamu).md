@@ -9,8 +9,6 @@ redirect: "Ss4-TamTam"
 old_id: 654
 ---
 
-# Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)
-
 ![](/images/ss4-TamTam.gif "/images/ss4-TamTam.gif")
 
 ## Introduction

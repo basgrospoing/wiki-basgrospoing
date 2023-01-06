@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Super tir
-
 ## Introduction
 
 Les super tirs sont indispensables pour tenter de clore un échange. On

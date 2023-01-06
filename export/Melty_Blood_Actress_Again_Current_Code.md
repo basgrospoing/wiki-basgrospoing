@@ -7,6 +7,4 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood Actress Again Current Code
-
 Index

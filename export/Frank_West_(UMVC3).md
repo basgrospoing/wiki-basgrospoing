@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Frank West (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

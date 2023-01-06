@@ -9,8 +9,6 @@ redirect: "Ss4-Kazuki"
 old_id: 657
 ---
 
-# Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
-
 ![](/images/ss4-Kazuki.gif "/images/ss4-Kazuki.gif")
 
 ## Introduction

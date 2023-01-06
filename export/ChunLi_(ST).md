@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ChunLi (ST)
-
 <figure>
 <img src="/images/ST_ChunLi_portrait.png" width="200" />
 </figure>

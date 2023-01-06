@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryo Sakazaki (Fatal Fury Special)
-
 ![](/images/Ffspryo.PNG)  
 
 ## Introduction

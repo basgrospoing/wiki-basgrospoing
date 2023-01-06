@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Shiki Ryougi
-
 ![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
 Male)  —  **Nicknames:**    "That woman" "Neko Shiki" \<br\\\>\<br\\\>
 **Voiced by:**   Maaya Sakamoto (坂本真綾)  —  **Type:**   Human, Demon

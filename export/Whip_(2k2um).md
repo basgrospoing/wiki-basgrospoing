@@ -9,8 +9,6 @@ redirect: "Whip"
 old_id: 104
 ---
 
-# Whip (2k2um)
-
 ## Introduction
 
 ## Liste des coups

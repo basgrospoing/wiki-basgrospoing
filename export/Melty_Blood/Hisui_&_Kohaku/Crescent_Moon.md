@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Hisui & Kohaku/Crescent Moon
-
 # Combos
 
 - Se référer aux combos de

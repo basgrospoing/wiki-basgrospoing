@@ -9,8 +9,6 @@ redirect: "Kofxi-bonne-jenet"
 old_id: 900
 ---
 
-# The King of Fighters XI - Bonne Jenet
-
 ![](/images/kofxi-bonne-jenet.jpg "/images/kofxi-bonne-jenet.jpg")
 
 ## Introduction

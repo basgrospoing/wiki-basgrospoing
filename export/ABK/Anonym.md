@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Anonym
-
 ![](/images/Anonym_ABK.jpg "/images/Anonym_ABK.jpg")
 
 # Combos

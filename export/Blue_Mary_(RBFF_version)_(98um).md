@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Blue Mary (RBFF version) (98um)
-
 ## Introduction
 
 ## Liste des coups

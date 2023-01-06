@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Joe Higashi (KoF '94-Era) (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

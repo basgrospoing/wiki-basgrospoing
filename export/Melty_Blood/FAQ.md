@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/FAQ
-
 ## Généralités
 
 - **Qu'est-ce que Melty Blood Actress Again: Current Code ?**

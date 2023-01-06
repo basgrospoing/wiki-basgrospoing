@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Hisui/Full Moon
-
 # Combos
 
 **BnB**

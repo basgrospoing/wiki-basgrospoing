@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# The King of Fighters XIII
-
 ![](/images/KoFXIII.png)
 
 ## Introduction

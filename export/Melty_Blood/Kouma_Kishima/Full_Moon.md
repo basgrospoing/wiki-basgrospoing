@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kouma Kishima/Full Moon
-
 # Combos
 
 Combos testés sur Tohno Shiki

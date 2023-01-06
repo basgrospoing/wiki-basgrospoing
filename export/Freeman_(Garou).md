@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Freeman (Garou)
-
 ## Introduction
 
 Regarder ici : <http://www.elive.pro/en/watch/tyMN1aaLhwW7>

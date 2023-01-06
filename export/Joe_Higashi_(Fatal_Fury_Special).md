@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Joe Higashi (Fatal Fury Special)
-
 ![](/images/FfspJoe.PNG)  
 
 ## Introduction

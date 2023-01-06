@@ -9,8 +9,6 @@ redirect: "Kofxi-elisabeth-blanctorche"
 old_id: 906
 ---
 
-# The King of Fighters XI - Elisabeth Blanctorche
-
 ![](/images/kofxi-elisabeth-blanctorche.jpg "/images/kofxi-elisabeth-blanctorche.jpg")
 
 ## Introduction

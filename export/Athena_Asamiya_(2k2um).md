@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Athena Asamiya (2k2um)
-
 ## Introduction
 
 ## Moves List

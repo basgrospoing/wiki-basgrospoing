@@ -9,8 +9,6 @@ redirect: "Hakushon_Daimao_(Tatsunoko_Vs._Capcom_:Cross_Generation_of_Heroes)"
 old_id: 786
 ---
 
-# Hakushon Daimao (TVC : CGOH)
-
 # Introduction
 
 # Moves List

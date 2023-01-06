@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryuji Yamazaki (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

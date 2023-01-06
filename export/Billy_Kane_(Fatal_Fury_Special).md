@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Billy Kane (Fatal Fury Special)
-
 ![](/images/Ffspbilly.PNG)  
 
 ## Introduction

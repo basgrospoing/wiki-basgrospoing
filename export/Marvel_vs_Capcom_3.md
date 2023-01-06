@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Marvel vs Capcom 3
-
 ## Personnages
 
 <table>

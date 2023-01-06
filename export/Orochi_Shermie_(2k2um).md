@@ -9,8 +9,6 @@ redirect: "Orochi_Shermie"
 old_id: 112
 ---
 
-# Orochi Shermie (2k2um)
-
 ## Introduction
 
 ## Liste des coups

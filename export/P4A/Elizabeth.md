@@ -9,8 +9,6 @@ redirect: "Elizabeth"
 old_id: 2647
 ---
 
-# P4A/Elizabeth
-
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">
 <div style="float:right">
 

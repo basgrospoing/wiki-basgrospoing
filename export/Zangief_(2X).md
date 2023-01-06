@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Zangief (2X)
-
 ## Introduction
 
 ## Analyse de coups

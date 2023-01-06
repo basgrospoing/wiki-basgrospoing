@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Kaphwan (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

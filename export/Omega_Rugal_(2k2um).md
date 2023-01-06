@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Omega Rugal (2k2um)
-
 ## Introduction
 
 ## Moves List

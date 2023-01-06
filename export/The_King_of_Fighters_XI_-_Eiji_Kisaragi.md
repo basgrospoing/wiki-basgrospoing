@@ -9,8 +9,6 @@ redirect: "Kofxi-eiji-kisaragi"
 old_id: 954
 ---
 
-# The King of Fighters XI - Eiji Kisaragi
-
 ![](/images/kofxi-eiji-kisaragi.jpg "/images/kofxi-eiji-kisaragi.jpg")
 
 ## Introduction

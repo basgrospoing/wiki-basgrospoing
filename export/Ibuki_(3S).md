@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ibuki (3S)
-
 ![Character Select
 Portrait](/images/Ibuki3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Ibuki3s-stance.gif "Neutral Stance")

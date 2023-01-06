@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kaijin No Soki (TvC:UAS)
-
 <img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"
 width="250" alt="/images/Kaijinnosoki.jpg" />  
 

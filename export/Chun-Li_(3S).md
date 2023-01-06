@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Chun-Li (3S)
-
 ![Character Select
 Portrait](/images/Chunli3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Chun-li-3sstance.gif "Neutral Stance")

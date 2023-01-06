@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Sion Eltnam Atlasia/Full Moon
-
 # Combos
 
 - **2AA 5B 2B 5C(2) 214B j.ABC dj/sdj.ABC airthrow/j.214C**

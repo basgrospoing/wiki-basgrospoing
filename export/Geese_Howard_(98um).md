@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Geese Howard (98um)
-
 ## Introduction
 
 ## Liste des coups

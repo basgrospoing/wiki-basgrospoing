@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Viewtiful Joe (TvC:UAS)
-
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"
 width="300" alt="/images/Viewtiful-joe.jpg" />  
 

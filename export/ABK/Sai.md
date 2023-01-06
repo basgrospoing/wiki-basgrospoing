@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Sai
-
 ![](/images/Sai_ABK.jpg "/images/Sai_ABK.jpg")
 
 # Combos

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# King (Art Of Fighting 2 version) (98um)
-
 ## Introduction
 
 ## Liste des coups

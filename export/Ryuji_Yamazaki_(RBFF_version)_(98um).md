@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryuji Yamazaki (RBFF version) (98um)
-
 ## Introduction
 
 ## Liste des coups

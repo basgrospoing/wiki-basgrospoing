@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ken (2X)
-
 ## Introduction
 
 ## Analyse de coups

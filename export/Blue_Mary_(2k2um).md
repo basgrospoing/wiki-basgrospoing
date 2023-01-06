@@ -9,8 +9,6 @@ redirect: "Blue_Mary"
 old_id: 97
 ---
 
-# Blue Mary (2k2um)
-
 ## Introduction
 
 ## Liste des coups

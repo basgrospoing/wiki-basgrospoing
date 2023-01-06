@@ -9,8 +9,6 @@ redirect: "Chin"
 old_id: 92
 ---
 
-# Chin (2k2um)
-
 ## Introduction
 
 ## Moves List

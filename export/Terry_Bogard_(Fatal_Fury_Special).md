@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Terry Bogard (Fatal Fury Special)
-
 ![](/images/Ffspterry.PNG)  
 
 ## Introduction

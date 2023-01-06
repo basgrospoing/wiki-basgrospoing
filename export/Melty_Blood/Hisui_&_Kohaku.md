@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Hisui & Kohaku
-
 ![](/images/Hisuiandkohaku0.png "/images/Hisuiandkohaku0.png")
 
 # Introduction

@@ -7,6 +7,4 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Yang (AE) (SSFIV)
-
 Frame data : ![](/images/Yangdata.png "/images/Yangdata.png")

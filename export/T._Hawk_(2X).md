@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# T. Hawk (2X)
-
 ## Introduction
 
 T.Hawk est, avec Zangief, le choppeur de 2x. Assez difficile d’accès

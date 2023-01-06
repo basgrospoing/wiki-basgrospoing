@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Guy (Street Fighter Alpha 3)
-
 ## Introduction
 
 ## Liste des coups

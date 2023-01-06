@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Murakumo
-
 J'ai décidé de continuer à update cette glorieuse section mais je n'ai
 aucune idée de comment le perso se joue, d'où les références à
 oufanbear-sensei. Si un joueur legit passe par là qu'il n'hésite

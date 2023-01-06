@@ -9,8 +9,6 @@ redirect: "Orochi_Chris"
 old_id: 111
 ---
 
-# Orochi Chris (2k2um)
-
 ## Introduction
 
 ## Liste des coups

@@ -9,8 +9,6 @@ redirect: "Chang"
 old_id: 82
 ---
 
-# Chang (2k2um)
-
 ## Introduction
 
 ## Moves List

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Saisyu Kusanagi (98um)
-
 ## Introduction
 
 ## Liste des coups

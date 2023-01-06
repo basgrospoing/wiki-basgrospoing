@@ -9,8 +9,6 @@ redirect: "Ss4"
 old_id: 671
 ---
 
-# Samurai Shodown IV: Amakusa's Revenge
-
 Image:ss4-flyer.jpg Image:ss4-flyer2.jpg
 
 ## Introduction

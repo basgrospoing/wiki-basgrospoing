@@ -9,8 +9,6 @@ redirect: "Kofxi-terry-bogard"
 old_id: 916
 ---
 
-# The King of Fighters XI - Terry Bogard
-
 ![](/images/kofxi-terry-bogard.jpg "/images/kofxi-terry-bogard.jpg")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Street Fighter Alpha 3
-
 ![](/images/Street_Fighter_Alpha_3_Logo.png "/images/Street_Fighter_Alpha_3_Logo.png")
 
 ## Introduction

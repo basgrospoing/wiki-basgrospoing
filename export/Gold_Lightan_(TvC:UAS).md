@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Gold Lightan (TvC:UAS)
-
 <img src="/images/Goldlightan.jpg" title="/images/Goldlightan.jpg"
 width="250" alt="/images/Goldlightan.jpg" />  
 

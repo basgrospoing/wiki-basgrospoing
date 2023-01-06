@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ralf Jones (98um)
-
 ## Introduction
 
 ## Liste des coups

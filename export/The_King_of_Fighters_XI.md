@@ -9,8 +9,6 @@ redirect: "Kofxi"
 old_id: 896
 ---
 
-# The King of Fighters XI
-
 <figure>
 <img src="/images/kofxi-logo.jpg" title="/images/kofxi-logo.jpg"
 width="500" alt="/images/kofxi-logo.jpg" />

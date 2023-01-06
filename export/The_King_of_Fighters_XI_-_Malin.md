@@ -9,8 +9,6 @@ redirect: "Kofxi-malin"
 old_id: 930
 ---
 
-# The King of Fighters XI - Malin
-
 ![](/images/kofxi-malin.jpg "/images/kofxi-malin.jpg")
 
 ## Introduction

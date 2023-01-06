@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Len/Crescent Moon
-
 # Combos
 
 ## Débutant

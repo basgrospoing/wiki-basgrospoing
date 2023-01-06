@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryu (Street Fighter Alpha 3)
-
 <figure>
 <img src="/images/Sfa3-ryu1.jpg" title="/images/Sfa3-ryu1.jpg"
 width="150" alt="/images/Sfa3-ryu1.jpg" />

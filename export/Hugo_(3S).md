@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Hugo (3S)
-
 ![Character Select
 Portrait](/images/Hugo3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Hugo3s-stance.gif "Neutral Stance")

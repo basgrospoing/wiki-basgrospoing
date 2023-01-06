@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Glossaire UMVC3
-
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 <center>

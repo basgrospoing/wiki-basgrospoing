@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Hakumen (BBCS)
-
 <figure>
 <img src="/images/Bbcs_hakumen_artwork_01.png"
 title="/images/Bbcs_hakumen_artwork_01.png" width="150"

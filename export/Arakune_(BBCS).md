@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Arakune (BBCS)
-
 <figure>
 <img src="/images/Bbcs_arakune_artwork_01.png"
 title="/images/Bbcs_arakune_artwork_01.png" width="150"

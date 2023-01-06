@@ -9,8 +9,6 @@ redirect: "Ss4-Nakoruru"
 old_id: 659
 ---
 
-# Samurai Shodown IV - Nakoruru (ナコルル, Nakoruru)
-
 ![](/images/ss4-Nakoruru.gif "/images/ss4-Nakoruru.gif")
 
 ## Introduction

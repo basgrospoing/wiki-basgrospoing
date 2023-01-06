@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Andy Bogard (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

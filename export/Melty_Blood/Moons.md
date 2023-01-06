@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Moons
-
 Melty Blood Actress Again introduit les moons, qui sont des sortes de
 Isms de Street Fighter Alpha 3 ou Grooves de Capcom vs. SNK 2. Après
 avoir choisi votre perso, vous pouvez choisir entre Crescent, Half Moon,

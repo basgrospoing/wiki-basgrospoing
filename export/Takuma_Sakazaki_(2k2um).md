@@ -9,8 +9,6 @@ redirect: "Takuma_Sakazaki"
 old_id: 74
 ---
 
-# Takuma Sakazaki (2k2um)
-
 ## Introduction
 
 ## Moves List

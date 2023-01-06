@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Street Fighter x Tekken
-
 ## LES CONTROLES / MOUVEMENTS
 
 ### Boutons

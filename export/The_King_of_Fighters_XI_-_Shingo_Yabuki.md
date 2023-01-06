@@ -9,8 +9,6 @@ redirect: "Kofxi-shingo-yabuki"
 old_id: 966
 ---
 
-# The King of Fighters XI - Shingo Yabuki
-
 ![](/images/kofxi-shingo-yabuki.jpg "/images/kofxi-shingo-yabuki.jpg")
 
 ## Introduction

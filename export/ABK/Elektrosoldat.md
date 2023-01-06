@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Elektrosoldat
-
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")
 
 # Combos

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Geese Howard (Fatal Fury Special)
-
 ![](/images/Ffspgeese.PNG)  
 
 ## Introduction

@@ -7,10 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Accueil
-
-\_\_NOTOC\_\_
-
 <center>
 
 <span style="font-size: 2.5em;">Bienvenue sur le Wiki [Bas Gros

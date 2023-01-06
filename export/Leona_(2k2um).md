@@ -9,8 +9,6 @@ redirect: "Leona"
 old_id: 89
 ---
 
-# Leona (2k2um)
-
 ## Introduction
 
 ## Moves List

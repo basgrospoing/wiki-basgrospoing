@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Leona Heidern (2k2um)
-
 ## Introduction
 
 ## Liste des coups

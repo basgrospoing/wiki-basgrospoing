@@ -9,8 +9,6 @@ redirect: "Angel"
 old_id: 110
 ---
 
-# Angel (2k2um)
-
 ## Introduction
 
 ## Liste des coups

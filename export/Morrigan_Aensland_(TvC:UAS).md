@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Morrigan Aensland (TvC:UAS)
-
 <img src="/images/Tvcmorrigan.jpg" title="/images/Tvcmorrigan.jpg"
 width="250" alt="/images/Tvcmorrigan.jpg" />  
 

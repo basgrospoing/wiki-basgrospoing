@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Yashiro Nanakase (2k2um)
-
 ## Introduction
 
 ## Liste des coups

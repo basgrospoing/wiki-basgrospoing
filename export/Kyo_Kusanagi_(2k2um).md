@@ -9,8 +9,6 @@ redirect: "Kyo_Kusanagi"
 old_id: 78
 ---
 
-# Kyo Kusanagi (2k2um)
-
 ## Introduction
 
 ## Liste des coups

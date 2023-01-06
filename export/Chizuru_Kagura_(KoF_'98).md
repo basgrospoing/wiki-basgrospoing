@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Chizuru Kagura (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

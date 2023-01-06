@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Sion Eltnam Atlasia/Half Moon
-
 # Combos
 
 *Note*: Vous pouvez finir vos combo avec j214C à la place de "ad j.C

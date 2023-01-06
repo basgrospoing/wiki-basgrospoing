@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Choi Bounge (2k2um)
-
 ## Introduction
 
 ## Liste des coups

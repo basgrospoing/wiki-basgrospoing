@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Shiki Nanaya
-
 ![ **Name:**   Shiki Nanaya (七夜 志貴)  —  **Nicknames:**    Satsujinki
 \<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima
 (野島　健児)  —  **Type:**   Human, Demon Hunter   —  **Gender:**   Male

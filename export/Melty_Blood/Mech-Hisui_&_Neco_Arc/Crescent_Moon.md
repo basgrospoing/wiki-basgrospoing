@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Mech-Hisui & Neco Arc/Crescent Moon
-
 # Combos
 
 **BnB**

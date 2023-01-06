@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Kaphwan (98um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryo Sakazaki (kof13)
-
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 
 [Retour à la fiche du

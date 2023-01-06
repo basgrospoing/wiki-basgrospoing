@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Jae Hoon (Garou)
-
 ## Introduction
 
 ## Moves List

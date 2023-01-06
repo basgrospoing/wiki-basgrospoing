@@ -9,8 +9,6 @@ redirect: "K9999"
 old_id: 109
 ---
 
-# Nameless (2k2um)
-
 ## Introduction
 
 ## Moves List

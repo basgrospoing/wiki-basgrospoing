@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Chun Li (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

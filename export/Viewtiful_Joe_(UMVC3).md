@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Viewtiful Joe (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

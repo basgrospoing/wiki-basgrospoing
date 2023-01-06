@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Vergil (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

@@ -9,8 +9,6 @@ redirect: "Ss4-Shiro"
 old_id: 656
 ---
 
-# Samurai Shodown IV - Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō Tokisada)
-
 ![](/images/ss4-Shiro.gif "/images/ss4-Shiro.gif")
 
 ## Introduction

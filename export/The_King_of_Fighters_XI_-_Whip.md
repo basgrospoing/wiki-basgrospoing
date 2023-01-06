@@ -9,8 +9,6 @@ redirect: "Kofxi-whip"
 old_id: 934
 ---
 
-# The King of Fighters XI - Whip
-
 ![](/images/kofxi-whip.jpg "/images/kofxi-whip.jpg")
 
 ## Introduction

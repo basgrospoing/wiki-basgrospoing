@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Links
-
 ### Sites
 
 <http://www.bloodheat.fr>

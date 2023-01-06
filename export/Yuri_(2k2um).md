@@ -9,8 +9,6 @@ redirect: "Yuri"
 old_id: 85
 ---
 
-# Yuri (2k2um)
-
 ## Introduction
 
 ## Moves List

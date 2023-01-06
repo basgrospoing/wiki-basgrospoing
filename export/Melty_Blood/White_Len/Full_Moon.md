@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/White Len/Full Moon
-
 # Combos
 
 ## Débutant

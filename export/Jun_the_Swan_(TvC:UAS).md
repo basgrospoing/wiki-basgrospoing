@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jun the Swan (TvC:UAS)
-
 <img src="/images/Juntheswan.jpg" title="/images/Juntheswan.jpg"
 width="300" alt="/images/Juntheswan.jpg" />  
 

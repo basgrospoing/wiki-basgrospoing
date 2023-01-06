@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Billy Kane (Real Bout Fatal Fury version) (98um)
-
 ## Introduction
 
 ## Liste des coups

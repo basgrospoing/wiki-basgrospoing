@@ -9,8 +9,6 @@ redirect: "Andy_Bogard"
 old_id: 76
 ---
 
-# Andy Bogard (2k2um)
-
 ## Introduction
 
 ## Liste des coups

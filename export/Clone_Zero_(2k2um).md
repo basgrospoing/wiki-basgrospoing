@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Clone Zero (2k2um)
-
 ## Introduction
 
 ## Moves List

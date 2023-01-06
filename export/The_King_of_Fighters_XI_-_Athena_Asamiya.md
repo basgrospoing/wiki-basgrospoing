@@ -9,8 +9,6 @@ redirect: "Kofxi-athena-asamiya"
 old_id: 918
 ---
 
-# The King of Fighters XI - Athena Asamiya
-
 ![](/images/kofxi-athena-asamiya.jpg "/images/kofxi-athena-asamiya.jpg")
 
 ## Introduction

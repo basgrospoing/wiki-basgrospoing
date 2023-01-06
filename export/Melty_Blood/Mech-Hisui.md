@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Mech-Hisui
-
 ![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki
 (松来未祐)  —  **Type:**   Robot   —  **Gender:**   Female

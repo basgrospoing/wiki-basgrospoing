@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kohaku & Mech-Hisui
-
 ![ **Team:**   Kohaku & Mech Hisui
 \|frame\|right](/images/Kohamech1.png " Team:   Kohaku & Mech Hisui |frame|right")
 

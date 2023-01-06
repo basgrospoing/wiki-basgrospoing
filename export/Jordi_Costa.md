@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jordi Costa
-
 <figure>
 <img src="/images/Jordi_costa.png" title="/images/Jordi_costa.png"
 width="300" alt="/images/Jordi_costa.png" />

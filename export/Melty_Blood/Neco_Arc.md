@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Neco Arc
-
 ![ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
 \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
 涼香)  —  **Type:**    Neco   —  **Gender:**   Female \<br\\\>\<br\\\>

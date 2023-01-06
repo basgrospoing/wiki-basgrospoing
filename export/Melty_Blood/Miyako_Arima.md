@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Miyako Arima
-
 ![ **Name:**   Arima Miyako (有間 都古)  —  **Nicknames:**   China Girl
 \<br\\\>\<br\\\> **Voiced by:**   Kouzuki Miwa (倖月
 美和)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>

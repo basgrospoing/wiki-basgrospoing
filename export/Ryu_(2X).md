@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryu (2X)
-
 ## Introduction
 
 ## Analyse de coups

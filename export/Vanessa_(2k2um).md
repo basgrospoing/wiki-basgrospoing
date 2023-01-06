@@ -9,8 +9,6 @@ redirect: "Vanessa"
 old_id: 105
 ---
 
-# Vanessa (2k2um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Akiha Tohno/Half Moon
-
 # Combos
 
 **BnB midscreen**

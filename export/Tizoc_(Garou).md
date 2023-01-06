@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tizoc (Garou)
-
 ## Introduction
 
 ## Moves List

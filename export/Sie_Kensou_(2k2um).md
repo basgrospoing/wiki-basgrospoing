@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Sie Kensou (2k2um)
-
 ## Introduction
 
 ## Liste des coups

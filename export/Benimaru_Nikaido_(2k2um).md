@@ -9,8 +9,6 @@ redirect: "Benimaru_Nikaido"
 old_id: 79
 ---
 
-# Benimaru Nikaido (2k2um)
-
 ## Introduction
 
 ## Liste des coups

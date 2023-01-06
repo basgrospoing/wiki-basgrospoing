@@ -9,8 +9,6 @@ redirect: "Kofxi-kim-kaphwan"
 old_id: 946
 ---
 
-# The King of Fighters XI - Kim Kaphwan
-
 ![](/images/kofxi-kim-kaphwan.jpg "/images/kofxi-kim-kaphwan.jpg")
 
 ## Introduction

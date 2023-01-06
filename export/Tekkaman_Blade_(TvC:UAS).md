@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tekkaman Blade (TvC:UAS)
-
 <img src="/images/Tekkamanblade.jpg" title="/images/Tekkamanblade.jpg"
 width="250" alt="/images/Tekkamanblade.jpg" />  
 

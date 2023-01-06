@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Orochi Shermie (98um)
-
 ## Introduction
 
 ## Liste des coups

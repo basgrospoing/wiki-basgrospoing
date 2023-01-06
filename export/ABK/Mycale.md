@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Mycale
-
 ![](/images/Mycale_ABK.jpg "/images/Mycale_ABK.jpg")
 
 # Combos

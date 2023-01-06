@@ -9,8 +9,6 @@ redirect: "Kofxi-ash-crimson"
 old_id: 898
 ---
 
-# The King of Fighters XI - Ash Crimson
-
 ![](/images/kofxi-ash-crimson.jpg "/images/kofxi-ash-crimson.jpg")
 
 ## Introduction

@@ -9,8 +9,6 @@ redirect: "Shermie"
 old_id: 100
 ---
 
-# Shermie (2k2um)
-
 ## Introduction
 
 ## Liste des coups

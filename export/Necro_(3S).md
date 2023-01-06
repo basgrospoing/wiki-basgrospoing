@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Necro (3S)
-
 ![Character Select
 Portrait](/images/Necro3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Necro3s-stance.gif "Neutral Stance")

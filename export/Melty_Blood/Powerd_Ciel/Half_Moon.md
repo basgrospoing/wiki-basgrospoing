@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Powerd Ciel/Half Moon
-
 # Combos
 
 #### BnBs

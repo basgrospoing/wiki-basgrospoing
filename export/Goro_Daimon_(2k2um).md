@@ -9,8 +9,6 @@ redirect: "Goro_Daimon"
 old_id: 80
 ---
 
-# Goro Daimon (2k2um)
-
 ## Introduction
 
 ## Liste des coups

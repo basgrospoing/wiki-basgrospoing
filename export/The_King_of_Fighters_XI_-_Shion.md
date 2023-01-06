@@ -9,8 +9,6 @@ redirect: "Kofxi-shion"
 old_id: 952
 ---
 
-# The King of Fighters XI - Shion
-
 ![](/images/kofxi-shion.jpg "/images/kofxi-shion.jpg")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Roa/Full Moon
-
 # Introduction
 
 Comme beaucoup de personnages Full Moon, F-Roa possède un gameplay

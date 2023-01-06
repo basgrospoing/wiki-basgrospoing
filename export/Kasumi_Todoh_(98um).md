@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kasumi Todoh (98um)
-
 ## Introduction
 
 ## Liste des coups

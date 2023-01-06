@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Garou : Mark of the Wolves
-
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")
 
 ## Introduction

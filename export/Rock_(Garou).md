@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Rock (Garou)
-
 ## Introduction
 
 ## Moves List

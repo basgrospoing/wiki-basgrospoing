@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Andy Bogard (Fatal Fury Special)
-
 ![](/images/Ffspandy.PNG)  
 
 ## Introduction

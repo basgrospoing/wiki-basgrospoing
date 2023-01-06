@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Powerd Ciel
-
 ![ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
 Curry" \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間
 紅美)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>

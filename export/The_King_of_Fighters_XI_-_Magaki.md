@@ -9,8 +9,6 @@ redirect: "Kofxi_magaki"
 old_id: 950
 ---
 
-# The King of Fighters XI - Magaki
-
 Image:kofxi-magaki1.jpg Image:kofxi-magaki2.jpg
 
 ## Introduction

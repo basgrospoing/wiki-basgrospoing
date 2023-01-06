@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Akuma (ST)
-
 ## Introduction
 
 ## Analyse de coups

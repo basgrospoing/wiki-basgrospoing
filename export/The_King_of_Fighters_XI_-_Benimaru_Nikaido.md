@@ -9,8 +9,6 @@ redirect: "Kofxi-benimaru-nikaido"
 old_id: 922
 ---
 
-# The King of Fighters XI - Benimaru Nikaido
-
 ![](/images/kofxi-benimaru-nikaido.jpg "/images/kofxi-benimaru-nikaido.jpg")
 
 ## Introduction

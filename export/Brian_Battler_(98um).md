@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Brian Battler (98um)
-
 ## Introduction
 
 ## Liste des coups

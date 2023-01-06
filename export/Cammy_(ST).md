@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Cammy (ST)
-
 ## Introduction
 
 ## Analyse de coups

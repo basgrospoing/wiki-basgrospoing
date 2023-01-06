@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kain R. Heinlein (Garou)
-
 ![](/images/KainRHeinlein_win_portrait.gif "/images/KainRHeinlein_win_portrait.gif")
 
 # Introduction

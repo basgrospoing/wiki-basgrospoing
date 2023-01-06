@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Vice (98um)
-
 ## Introduction
 
 ## Liste des coups

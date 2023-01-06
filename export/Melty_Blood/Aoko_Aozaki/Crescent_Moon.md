@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Aoko Aozaki/Crescent Moon
-
 # Combos
 
 **BnB**

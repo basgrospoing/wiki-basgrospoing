@@ -9,8 +9,6 @@ redirect: "Kofxi-kyo-kusanagi"
 old_id: 962
 ---
 
-# The King of Fighters XI - Kyo Kusanagi
-
 ![](/images/kofxi-kyo-kusanagi.jpg "/images/kofxi-kyo-kusanagi.jpg")
 
 ## Introduction

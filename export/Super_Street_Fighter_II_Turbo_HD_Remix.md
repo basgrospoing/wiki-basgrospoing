@@ -7,4 +7,4 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Super Street Fighter II Turbo HD Remix
+

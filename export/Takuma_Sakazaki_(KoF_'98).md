@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Takuma Sakazaki (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

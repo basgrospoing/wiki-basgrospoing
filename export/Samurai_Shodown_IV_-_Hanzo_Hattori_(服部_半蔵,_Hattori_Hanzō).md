@@ -9,8 +9,6 @@ redirect: "Ss4-Hanzo"
 old_id: 668
 ---
 
-# Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
-
 ![](/images/ss4-Hanzo.gif "/images/ss4-Hanzo.gif")
 
 ## Introduction

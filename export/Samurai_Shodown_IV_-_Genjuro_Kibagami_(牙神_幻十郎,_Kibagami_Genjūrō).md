@@ -9,8 +9,6 @@ redirect: "Ss4-Genjuro"
 old_id: 660
 ---
 
-# Samurai Shodown IV - Genjuro Kibagami (牙神 幻十郎, Kibagami Genjūrō)
-
 ![](/images/ss4-Genjuro.gif "/images/ss4-Genjuro.gif")
 
 ## Introduction

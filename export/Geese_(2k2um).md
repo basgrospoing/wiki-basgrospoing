@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Geese (2k2um)
-
 ## Introduction
 
 ## Moves List

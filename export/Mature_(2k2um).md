@@ -9,8 +9,6 @@ redirect: "Mature"
 old_id: 94
 ---
 
-# Mature (2k2um)
-
 ## Introduction
 
 ## Liste des coups

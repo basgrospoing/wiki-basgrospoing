@@ -9,8 +9,6 @@ redirect: "Ss4-Galford"
 old_id: 665
 ---
 
-# Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)
-
 ![](/images/ss4-Galford.gif "/images/ss4-Galford.gif")
 
 ## Introduction

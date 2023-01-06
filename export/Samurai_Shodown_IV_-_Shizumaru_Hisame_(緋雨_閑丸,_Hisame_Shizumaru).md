@@ -9,8 +9,6 @@ redirect: "Ss4-Shizumaru"
 old_id: 666
 ---
 
-# Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)
-
 ![](/images/ss4-Shizumaru.gif "/images/ss4-Shizumaru.gif")
 
 ## Introduction

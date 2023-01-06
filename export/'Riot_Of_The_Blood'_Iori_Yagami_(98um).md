@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# 'Riot Of The Blood' Iori Yagami (98um)
-
 ## Introduction
 
 ## Liste des coups

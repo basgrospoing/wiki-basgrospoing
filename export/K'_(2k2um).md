@@ -9,8 +9,6 @@ redirect: "K'"
 old_id: 102
 ---
 
-# K' (2k2um)
-
 ## Introduction
 
 ## Liste des coups

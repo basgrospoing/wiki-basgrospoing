@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Terry Bogard (Garou)
-
 ## Introduction
 
 ## Moves List

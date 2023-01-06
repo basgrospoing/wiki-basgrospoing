@@ -9,8 +9,6 @@ redirect: "Ss4-Gaira"
 old_id: 663
 ---
 
-# Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)
-
 ![](/images/ss4-Gaira.gif "/images/ss4-Gaira.gif")
 
 ## Introduction

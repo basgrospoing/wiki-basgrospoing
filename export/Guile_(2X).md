@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Guile (2X)
-
 ## Introduction
 
 ## Analyse de coups

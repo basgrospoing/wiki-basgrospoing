@@ -7,4 +7,4 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Hyper Street Fighter 2
+

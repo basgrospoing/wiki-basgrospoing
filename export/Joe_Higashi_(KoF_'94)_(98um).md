@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Joe Higashi (KoF '94) (98um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tsubaki Yayoi (BBCS)
-
 <figure>
 <img src="/images/Bbcs_tsubaki_artwork_01.png"
 title="/images/Bbcs_tsubaki_artwork_01.png" width="150"

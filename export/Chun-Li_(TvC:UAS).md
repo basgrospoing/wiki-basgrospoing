@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Chun-Li (TvC:UAS)
-
 <img src="/images/Tvc-chunli.jpg" title="/images/Tvc-chunli.jpg"
 width="230" alt="/images/Tvc-chunli.jpg" />  
 

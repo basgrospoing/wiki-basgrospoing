@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Nash (Street Fighter Alpha 3)
-
 <figure>
 <img src="/images/SFA3_nash.jpg" title="/images/SFA3_nash.jpg"
 width="150" alt="/images/SFA3_nash.jpg" />

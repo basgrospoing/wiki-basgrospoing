@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Chin Gentsai (98um)
-
 ## Introduction
 
 ## Liste des coups

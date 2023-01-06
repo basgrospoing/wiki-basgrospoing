@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Controls
-
 ## Contrôles
 
 `7 8 9  A B C`  

@@ -9,8 +9,6 @@ redirect: "Kofxi-blue-mary"
 old_id: 921
 ---
 
-# The King of Fighters XI - Blue Mary
-
 ![](/images/kofxi-blue-mary.jpg "/images/kofxi-blue-mary.jpg")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Cody (Street Fighter Alpha 3)
-
 <figure>
 <img src="/images/SFA3_Cody.jpg" title="/images/SFA3_Cody.jpg"
 width="150" alt="/images/SFA3_Cody.jpg" />

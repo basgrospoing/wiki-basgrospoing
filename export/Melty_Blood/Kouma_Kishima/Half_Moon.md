@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kouma Kishima/Half Moon
-
 # Combos
 
 ## Débutant

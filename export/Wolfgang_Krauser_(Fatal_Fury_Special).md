@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Wolfgang Krauser (Fatal Fury Special)
-
 ![](/images/Ffspkrauser.PNG)  
 
 ## Introduction

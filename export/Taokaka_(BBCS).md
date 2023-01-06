@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Taokaka (BBCS)
-
 <figure>
 <img src="/images/Bbcs_taokaka_artwork_01.png"
 title="/images/Bbcs_taokaka_artwork_01.png" width="150"

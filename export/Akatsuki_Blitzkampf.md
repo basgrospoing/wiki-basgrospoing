@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Akatsuki Blitzkampf
-
 ![](/images/abk_main.png "/images/abk_main.png")
 
 *Akatsuki Blitzkampf* est un jeu de combat 2D développé par [SUBTLE

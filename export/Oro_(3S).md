@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Oro (3S)
-
 ![Character Select
 Portrait](/images/Oro3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Oro3s-stance-short.gif "Neutral Stance")

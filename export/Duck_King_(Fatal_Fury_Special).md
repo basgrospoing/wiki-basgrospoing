@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Duck King (Fatal Fury Special)
-
 ![](/images/Ffspduck.PNG)  
 
 ## Introduction

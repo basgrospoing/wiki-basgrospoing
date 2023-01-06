@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
-
 # Combos
 
 **Combos Midscreen**

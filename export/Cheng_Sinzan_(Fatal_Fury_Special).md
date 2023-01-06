@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Cheng Sinzan (Fatal Fury Special)
-
 ![](/images/Ffspcheng.PNG)  
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Batsu Ichimonji (TvC:UAS)
-
 <img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"
 width="230" alt="/images/Tvc-batsu.jpg" />  
 

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Sagat (Street Fighter Alpha 3)
-
 <figure>
 <img src="/images/SFA3_Sagat.jpg" title="/images/SFA3_Sagat.jpg"
 width="150" alt="/images/SFA3_Sagat.jpg" />

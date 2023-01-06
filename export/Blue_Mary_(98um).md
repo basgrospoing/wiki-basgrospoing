@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Blue Mary (98um)
-
 ## Introduction
 
 ## Liste des coups

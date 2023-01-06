@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kohaku and Mech-Hisui/Crescent Moon
-
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.

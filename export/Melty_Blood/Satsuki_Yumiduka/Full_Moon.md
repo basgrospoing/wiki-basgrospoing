@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Satsuki Yumiduka/Full Moon
-
 # Combos
 
 **BnB**

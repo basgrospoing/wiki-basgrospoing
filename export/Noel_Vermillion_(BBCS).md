@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Noel Vermillion (BBCS)
-
 <figure>
 <img src="/images/Bbcs_noel_artwork_01.png"
 title="/images/Bbcs_noel_artwork_01.png" width="150"

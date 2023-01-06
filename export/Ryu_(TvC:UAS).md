@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryu (TvC:UAS)
-
 <img src="/images/Tvcryu.jpg" title="/images/Tvcryu.jpg" width="250"
 alt="/images/Tvcryu.jpg" />  
 

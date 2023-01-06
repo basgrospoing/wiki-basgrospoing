@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Axel Hawk (Fatal Fury Special)
-
 ![](/images/Axel.PNG)  
 
 ## Introduction

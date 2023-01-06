@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Archetype Earth/Full Moon
-
 # Combos
 
 **BnB**

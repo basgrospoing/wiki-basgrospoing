@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Guilty Gear XX Accent Core
-
 ## Introduction
 
 Guilty Gear Accent Core est le dernier épisode de la série Guilty Gear

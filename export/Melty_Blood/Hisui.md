@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Hisui
-
 ![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
 \<br\\\>\<br\\\> **Voiced by:**   Matsuki Miyu (松来
 未祐)  —  **Type:**   Human, Maid Synchronizer  —  **Gender:**   Female

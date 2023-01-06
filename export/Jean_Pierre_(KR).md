@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jean Pierre (KR)
-
 ## Généralités
 
 ## Movelist

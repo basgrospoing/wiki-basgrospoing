@@ -9,8 +9,6 @@ redirect: "Clark"
 old_id: 88
 ---
 
-# Clark (2k2um)
-
 ## Introduction
 
 ## Moves List

@@ -9,8 +9,6 @@ redirect: "Kofxi-sie-kensou"
 old_id: 936
 ---
 
-# The King of Fighters XI - Sie Kensou
-
 ![](/images/kofxi-sie-kensou.jpg "/images/kofxi-sie-kensou.jpg")
 
 ## Introduction

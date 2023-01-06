@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Makoto Nanaya (BBCS)
-
 <figure>
 <img src="/images/Bbcs_makoto_artwork_01.png"
 title="/images/Bbcs_makoto_artwork_01.png" width="150"

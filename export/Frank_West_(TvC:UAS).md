@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Frank West (TvC:UAS)
-
 <img src="/images/Frankwest.jpg" title="/images/Frankwest.jpg"
 width="250" alt="/images/Frankwest.jpg" />  
 

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Polimar (TvC:UAS)
-
 <img src="/images/Polimar.jpg" title="/images/Polimar.jpg" width="250"
 alt="/images/Polimar.jpg" />  
 

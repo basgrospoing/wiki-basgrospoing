@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Mech-Hisui/Half Moon
-
 # Combos
 
 **BnB de près**

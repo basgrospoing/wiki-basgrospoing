@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Joe Higashi (98um)
-
 ## Introduction
 
 ## Liste des coups

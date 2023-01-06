@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Twelve (3S)
-
 ![Character Select
 Portrait](/images/Twelve3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Twelve3s-stance.gif "Neutral Stance")

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Hotaru Futaba (Garou)
-
 ## Introduction
 
 ## Moves List

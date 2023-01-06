@@ -9,8 +9,6 @@ redirect: "Yashiro"
 old_id: 101
 ---
 
-# Yashiro (2k2um)
-
 ## Introduction
 
 ## Moves List

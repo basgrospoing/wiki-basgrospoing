@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Sean (3S)
-
 ![Character Select
 Portrait](/images/Sean3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Sean3s-stance.gif "Neutral Stance")

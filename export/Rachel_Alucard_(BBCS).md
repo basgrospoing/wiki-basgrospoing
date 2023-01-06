@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Rachel Alucard (BBCS)
-
 <figure>
 <img src="/images/Bbcs_rachel_artwork_01.png"
 title="/images/Bbcs_rachel_artwork_01.png" width="150"

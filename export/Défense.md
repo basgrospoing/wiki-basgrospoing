@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Défense
-
 ## Introduction
 
 Il faut avoir à l'esprit que tous les tirs et super tirs sont

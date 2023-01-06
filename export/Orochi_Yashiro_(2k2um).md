@@ -9,8 +9,6 @@ redirect: "Orochi_Yashiro"
 old_id: 113
 ---
 
-# Orochi Yashiro (2k2um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jin Kisaragi (BBCS)
-
 <figure>
 <img src="/images/Bbcs_jin_artwork_01.png"
 title="/images/Bbcs_jin_artwork_01.png" width="150"

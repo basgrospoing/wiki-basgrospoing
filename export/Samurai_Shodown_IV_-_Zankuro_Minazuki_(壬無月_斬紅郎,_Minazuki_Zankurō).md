@@ -9,8 +9,6 @@ redirect: "Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)"
 old_id: 820
 ---
 
-# Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)
-
 ![](/images/ss4-Zankuro.gif "/images/ss4-Zankuro.gif")
 
 ## Introduction

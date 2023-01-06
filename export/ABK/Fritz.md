@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Fritz
-
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")
 
 # Combos

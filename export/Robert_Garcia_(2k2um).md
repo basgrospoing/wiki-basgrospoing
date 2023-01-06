@@ -9,8 +9,6 @@ redirect: "Robert_Garcia"
 old_id: 72
 ---
 
-# Robert Garcia (2k2um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryu (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

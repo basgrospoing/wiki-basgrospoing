@@ -9,8 +9,6 @@ redirect: "Kofxi-momoko"
 old_id: 944
 ---
 
-# The King of Fighters XI - Momoko
-
 ![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")
 
 ## Introduction

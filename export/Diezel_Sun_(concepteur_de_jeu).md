@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Diezel Sun (concepteur de jeu)
-
 DiezelSun - знаменитый 3d моделлер, игровой дизайнер.
 
 **DiezelSun** - artiste, illustrateur, concepteur de jeux. Dans sa

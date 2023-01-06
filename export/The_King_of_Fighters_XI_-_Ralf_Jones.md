@@ -9,8 +9,6 @@ redirect: "Kofxi-ralf-jones"
 old_id: 942
 ---
 
-# The King of Fighters XI - Ralf Jones
-
 ![](/images/kofxi-ralf-jones.jpg "/images/kofxi-ralf-jones.jpg")
 
 ## Introduction

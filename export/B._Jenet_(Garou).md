@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# B. Jenet (Garou)
-
 ## Introduction
 
 ## Moves List

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kano Ryoko (KR)
-
 ## Movelist
 
 - **ZenTenUkeMi (Rolling Body Attack)** : \[←\] → C / D

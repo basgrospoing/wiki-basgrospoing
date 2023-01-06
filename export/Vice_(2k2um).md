@@ -9,8 +9,6 @@ redirect: "Vice"
 old_id: 95
 ---
 
-# Vice (2k2um)
-
 ## Introduction
 
 ## Liste des coups

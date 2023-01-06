@@ -9,8 +9,6 @@ redirect: "Kofxi-kula-diamond"
 old_id: 958
 ---
 
-# The King of Fighters XI - Kula Diamond
-
 ![](/images/kofxi-kula-diamond.jpg "/images/kofxi-kula-diamond.jpg")
 
 ## Introduction

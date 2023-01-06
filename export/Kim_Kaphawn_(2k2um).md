@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Kaphawn (2k2um)
-
 ## Introduction
 
 ## Liste des coups

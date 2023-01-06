@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Andy Bogard (kof13)
-
 ![Andy Bogard](/images/andykof13.gif "Andy Bogard") [Retour à la fiche
 du
 jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)

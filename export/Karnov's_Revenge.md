@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Karnov's Revenge
-
 ## Personnages
 
 - [Clown](Clown_(KR) "wikilink")

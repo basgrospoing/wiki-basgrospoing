@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Akiha Tohno (Seifuku)
-
 ![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little
 sister" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
 南)  —  **Type:**   Human, Half-Demon   —  **Gender:**   Female

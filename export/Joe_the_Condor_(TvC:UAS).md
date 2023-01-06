@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Joe the Condor (TvC:UAS)
-
 <img src="/images/Joethecondor.jpg" title="/images/Joethecondor.jpg"
 width="250" alt="/images/Joethecondor.jpg" />  
 

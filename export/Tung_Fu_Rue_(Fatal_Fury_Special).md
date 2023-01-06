@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tung Fu Rue (Fatal Fury Special)
-
 ![](/images/Ffsptung.PNG)  
 
 ## Introduction

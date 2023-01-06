@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# The King of Fighters '98: Unlimited Match
-
 ## Personnages
 
 **Japan Hero Team**

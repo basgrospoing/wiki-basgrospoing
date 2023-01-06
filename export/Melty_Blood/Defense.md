@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Defense
-
 Dans Melty Blood Actress Again Current Code, tous les personnages
 possèdent environ 11400 points de vie, et subissent des dégâts pondérés
 par leur multiplicateur de dégâts. Ce multiplicateur, compris entre 0.8

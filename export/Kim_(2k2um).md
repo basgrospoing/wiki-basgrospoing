@@ -9,8 +9,6 @@ redirect: "Kim"
 old_id: 81
 ---
 
-# Kim (2k2um)
-
 ## Introduction
 
 ## Moves List

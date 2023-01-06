@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Omega Rugal (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

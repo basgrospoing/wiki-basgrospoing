@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryo Sakazaki (KoF '94) (98um)
-
 ## Introduction
 
 ## Liste des coups

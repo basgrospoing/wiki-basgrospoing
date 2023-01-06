@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Mech-Hisui & Neco Arc
-
 ![ **Team:**   Neco Arc & Mech Hisui
 \|frame\|right](/images/Necomech0.png " Team:   Neco Arc & Mech Hisui |frame|right")
 

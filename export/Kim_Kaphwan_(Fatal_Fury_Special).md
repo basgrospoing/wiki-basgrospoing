@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Kaphwan (Fatal Fury Special)
-
 ![](/images/Ffspkim.PNG)  
 
 ## Introduction

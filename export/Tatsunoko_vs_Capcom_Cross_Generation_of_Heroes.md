@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tatsunoko vs Capcom Cross Generation of Heroes
-
 ![](/images/cgoh.jpg "/images/cgoh.jpg")
 
 ## Infos

@@ -9,8 +9,6 @@ redirect: "Iori_Yagami"
 old_id: 93
 ---
 
-# Iori Yagami (2k2um)
-
 ## Introduction
 
 ## Liste des coups

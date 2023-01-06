@@ -9,8 +9,6 @@ redirect: "Kofxi-duo-lon"
 old_id: 904
 ---
 
-# The King of Fighters XI - Duo Lon
-
 ![](/images/kofxi-duo-lon.jpg "/images/kofxi-duo-lon.jpg")
 
 ## Introduction

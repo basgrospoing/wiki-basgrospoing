@@ -9,8 +9,6 @@ redirect: "Maxima"
 old_id: 103
 ---
 
-# Maxima (2k2um)
-
 ## Introduction
 
 ## Liste des coups

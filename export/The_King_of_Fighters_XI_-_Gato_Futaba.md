@@ -9,8 +9,6 @@ redirect: "The_King_of_Fighters_XI_-_Gato"
 old_id: 967
 ---
 
-# The King of Fighters XI - Gato Futaba
-
 ![](/images/kofxi-gato.jpg "/images/kofxi-gato.jpg")
 
 ## Introduction

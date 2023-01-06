@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Concrete
-
 <figure>
 <img src="/images/_concrete.png" title="/images/_concrete.png"
 width="250" alt="/images/_concrete.png" />

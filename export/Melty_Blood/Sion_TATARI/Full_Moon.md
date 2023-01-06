@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Sion TATARI/Full Moon
-
 # Combos
 
 **BnB**

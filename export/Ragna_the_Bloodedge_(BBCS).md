@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ragna the Bloodedge (BBCS)
-
 <figure>
 <img src="/images/Bbcs_ragna_artwork_01.png"
 title="/images/Bbcs_ragna_artwork_01.png" width="150"

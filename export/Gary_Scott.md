@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Gary Scott
-
 <figure>
 <img src="/images/Gary_Scott.png" title="/images/Gary_Scott.png"
 width="300" alt="/images/Gary_Scott.png" />

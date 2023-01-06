@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Yuri Sakazaki (KoF '94) (98um)
-
 ## Introduction
 
 ## Liste des coups

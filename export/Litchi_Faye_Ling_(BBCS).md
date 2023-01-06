@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Litchi Faye Ling (BBCS)
-
 <figure>
 <img src="/images/Bbcs_litchi_artwork_01.png"
 title="/images/Bbcs_litchi_artwork_01.png" width="150"

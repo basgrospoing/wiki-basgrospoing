@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# P4A/Mécanismes avancés
-
 # Status spéciaux
 
 Dans **P4A**, certaines attaques ont pour conséquence d'affecter

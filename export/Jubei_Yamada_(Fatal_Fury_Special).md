@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jubei Yamada (Fatal Fury Special)
-
 ![](/images/Jubei.PNG)  
 
 ## Introduction

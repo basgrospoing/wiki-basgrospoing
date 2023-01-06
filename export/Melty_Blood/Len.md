@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Len
-
 ![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
 \<br\\\>\<br\\\> **Voiced by:**   Mizuhashi Kaori (水橋
 かおり)  —  **Type:**    Succubus   —  **Gender:**   Female

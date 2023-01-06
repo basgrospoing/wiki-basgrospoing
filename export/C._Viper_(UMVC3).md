@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# C. Viper (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

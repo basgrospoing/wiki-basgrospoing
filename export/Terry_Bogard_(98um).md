@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Terry Bogard (98um)
-
 ## Introduction
 
 ## Liste des coups

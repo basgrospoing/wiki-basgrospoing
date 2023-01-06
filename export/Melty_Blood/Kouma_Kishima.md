@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Kouma Kishima
-
 ![ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion
 \<br\\\>\<br\\\> **Voiced by:**   Jurota Kosugi (小杉
 十郎太)  —  **Type:**   Crimson Red Vermillion   —  **Gender:**   Male

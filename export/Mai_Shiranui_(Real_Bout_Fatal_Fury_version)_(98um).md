@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Mai Shiranui (Real Bout Fatal Fury version) (98um)
-
 ## Introduction
 
 ## Liste des coups

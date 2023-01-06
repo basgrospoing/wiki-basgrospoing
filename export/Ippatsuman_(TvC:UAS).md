@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ippatsuman (TvC:UAS)
-
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"
 width="250" alt="/images/Ippatsuman.jpg" />  
 

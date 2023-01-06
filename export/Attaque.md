@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Attaque
-
 ## Introduction
 
 L'offensive est composée de nombreux éléments dans Windjammers. On

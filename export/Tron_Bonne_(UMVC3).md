@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tron Bonne (UMVC3)
-
 <center>
 
 **EN TRAVAUX**

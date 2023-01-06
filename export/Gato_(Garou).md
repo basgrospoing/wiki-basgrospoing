@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Gato (Garou)
-
 [Retour à la fiche du
 jeu](http://basgrospoing.fr/wiki/index.php?title=Garou_:_Mark_of_the_Wolves)
 ![](/images/Gato.png‎ "/images/Gato.png‎")

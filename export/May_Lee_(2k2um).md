@@ -9,8 +9,6 @@ redirect: "May_Lee"
 old_id: 86
 ---
 
-# May Lee (2k2um)
-
 ## Introduction
 
 ## Moves List

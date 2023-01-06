@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Shiki Tohno/Half Moon
-
 # Combos
 
 \~ = Signifie que le combo peut commencer avec n'importe quel normal.

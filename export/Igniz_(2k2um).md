@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Igniz (2k2um)
-
 ## Introduction
 
 ## Moves List

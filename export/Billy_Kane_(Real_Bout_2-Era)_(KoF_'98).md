@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Billy Kane (Real Bout 2-Era) (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

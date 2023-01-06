@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# P4A/Interface et contrôle
-
 # Commandes
 
 Comme la plupart des autres jeux récemment développés par Arc System

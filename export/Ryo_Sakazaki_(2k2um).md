@@ -9,8 +9,6 @@ redirect: "Ryo_Sakazaki"
 old_id: 73
 ---
 
-# Ryo Sakazaki (2k2um)
-
 ## Introduction
 
 ## Liste des coups

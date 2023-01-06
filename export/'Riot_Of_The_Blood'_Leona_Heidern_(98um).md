@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# 'Riot Of The Blood' Leona Heidern (98um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Riesbyfe Stridberg
-
 ![ **Name:**   Riesbyfe Stridberg
 (リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the
 Holy Shield \<br\\\>\<br\\\> **Voiced by:**   Watanabe Akeno (渡辺

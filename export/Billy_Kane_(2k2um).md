@@ -9,8 +9,6 @@ redirect: "Billy_Kane"
 old_id: 96
 ---
 
-# Billy Kane (2k2um)
-
 ## Introduction
 
 ## Liste des coups

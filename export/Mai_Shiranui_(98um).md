@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Mai Shiranui (98um)
-
 ## Introduction
 
 ## Liste des coups

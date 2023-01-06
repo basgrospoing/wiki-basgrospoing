@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Dudley (3S)
-
 ![Character Select
 Portrait](/images/Dudley3sport.gif "Character Select Portrait")
 ![Neutral Stance](/images/Dudley3s-stance-short.gif "Neutral Stance")

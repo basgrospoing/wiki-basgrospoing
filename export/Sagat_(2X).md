@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Sagat (2X)
-
 ## Introduction
 
 ## Analyse de coups

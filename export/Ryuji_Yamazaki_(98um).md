@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ryuji Yamazaki (98um)
-
 ## Introduction
 
 ## Liste des coups

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Lucky Glauber (KoF '98)
-
 ## Introduction
 
 ## Liste des coups

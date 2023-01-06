@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# M. Bison (2X)
-
 ## Introduction
 
 ## Analyse de coups

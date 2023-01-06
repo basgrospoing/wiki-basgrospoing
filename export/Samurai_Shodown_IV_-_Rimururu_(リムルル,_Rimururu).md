@@ -9,8 +9,6 @@ redirect: "Ss4-Rimururu"
 old_id: 662
 ---
 
-# Samurai Shodown IV - Rimururu (リムルル, Rimururu)
-
 ![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")
 
 ## Introduction

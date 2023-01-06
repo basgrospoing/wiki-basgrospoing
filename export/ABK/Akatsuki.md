@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/Akatsuki
-
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")
 
 # Combos

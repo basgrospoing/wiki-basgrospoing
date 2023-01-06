@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Sion Eltnam Atlasia
-
 ![ **Name:**   Sion Eltnam Atlasia
 (シオン・エルトナム・アトラシア)  —  **Nicknames:**    -
 \<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹

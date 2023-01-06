@@ -9,8 +9,6 @@ redirect: "Kofxi-iori-yagami"
 old_id: 964
 ---
 
-# The King of Fighters XI - Iori Yagami
-
 ![](/images/kofxi-iori-yagami.jpg "/images/kofxi-iori-yagami.jpg")
 
 ## Introduction

@@ -9,8 +9,6 @@ redirect: "Laurence_Blood(Fatal_Fury_Special)"
 old_id: 746
 ---
 
-# Laurence Blood (Fatal Fury Special)
-
 ![](/images/Ffsplaurence.PNG)  
 
 ## Introduction

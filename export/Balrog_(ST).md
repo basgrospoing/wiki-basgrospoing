@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Balrog (ST)
-
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")
 
 ## Introduction

@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# P4A/Mécanismes
-
 Cette page décrit les mécanismes de base d'un jeu de combat disponibles
 dans *[Persona 4 Arena](Persona_4_Arena "wikilink")*. Pour un aperçu des
 fonctionnalités spécifiques, consultez l'article [mécanismes

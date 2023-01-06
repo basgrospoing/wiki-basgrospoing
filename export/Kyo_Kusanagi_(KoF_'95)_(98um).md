@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kyo Kusanagi (KoF '95) (98um)
-
 ## Introduction
 
 ## Liste des coups

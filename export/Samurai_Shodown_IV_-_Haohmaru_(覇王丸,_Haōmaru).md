@@ -9,8 +9,6 @@ redirect: "Ss4-Haohmaru"
 old_id: 661
 ---
 
-# Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)
-
 ![](/images/ss4-Haohmaru.gif "/images/ss4-Haohmaru.gif")
 
 ## Introduction

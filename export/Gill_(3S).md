@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Gill (3S)
-
 ![Character Select
 Portrait](/images/Gill.gif "Character Select Portrait") ![Neutral
 Stance](/images/Gill-stance.gif "Neutral Stance")

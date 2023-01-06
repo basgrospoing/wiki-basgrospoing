@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Remy (3S)
-
 ![Character Select
 Portrait](/images/Remy3sport.gif "Character Select Portrait") ![Neutral
 Stance](/images/Remy3s-stance-short.gif "Neutral Stance")

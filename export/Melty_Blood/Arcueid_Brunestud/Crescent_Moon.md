@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Arcueid Brunestud/Crescent Moon
-
 # Combos
 
 <table border=1px cellspacing=0>

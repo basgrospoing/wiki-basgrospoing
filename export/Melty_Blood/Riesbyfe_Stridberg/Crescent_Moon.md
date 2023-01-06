@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Riesbyfe Stridberg/Crescent Moon
-
 # Combos
 
 *Note:* Vous pouvez finir par j623C à la place de votre airthrow pour

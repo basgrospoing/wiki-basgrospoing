@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kevin Rian (Garou)
-
 ## Introduction
 
 Style de combat: Techniques de combat swat et mercenaire  

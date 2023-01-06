@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Miyako Arima/Crescent Moon
-
 # Style du perso
 
 C-Miyako est un personnage plutôt orienté press de type blockstring.

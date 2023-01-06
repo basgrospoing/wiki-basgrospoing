@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Big Bear (Fatal Fury Special)
-
 ![](/images/Bigbear.PNG)  
 
 ## Introduction

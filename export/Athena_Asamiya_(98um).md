@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Athena Asamiya (98um)
-
 ## Introduction
 
 ## Liste des coups

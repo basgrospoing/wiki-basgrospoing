@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Ultimate Marvel vs Capcom 3
-
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
 ## Introduction

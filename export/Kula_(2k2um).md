@@ -9,8 +9,6 @@ redirect: "Kula"
 old_id: 108
 ---
 
-# Kula (2k2um)
-
 ## Introduction
 
 ## Liste des coups

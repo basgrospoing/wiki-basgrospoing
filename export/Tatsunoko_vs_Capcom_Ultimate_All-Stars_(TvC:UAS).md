@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)
-
 ![](/images/Tvc-uas.jpg "/images/Tvc-uas.jpg")
 
 ## Infos

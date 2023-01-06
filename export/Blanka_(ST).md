@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Blanka (ST)
-
 ## Introduction
 
 ## Analyse de coups

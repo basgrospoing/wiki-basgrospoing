@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Kim Dong Hwan (Garou)
-
 ## Introduction
 
 ## Moves List

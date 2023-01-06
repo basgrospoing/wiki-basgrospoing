@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# PTX-40A (TvC:UAS)
-
 <img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"
 alt="/images/PTX-40A.jpg" />  
 

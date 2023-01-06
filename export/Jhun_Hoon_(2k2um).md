@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Jhun Hoon (2k2um)
-
 ## Introduction
 
 ## Moves List

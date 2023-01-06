@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Grant (Garou)
-
 ![](/images/vignette.png "/images/vignette.png")
 
 ## Introduction

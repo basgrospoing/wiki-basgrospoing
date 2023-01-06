@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Neco Arc Chaos
-
 ![ **Name:**   Neco Arc Chaos
 (ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>
 **Voiced by:**   Joji Nakata (中田 譲治)  —  **Type:**    Neco

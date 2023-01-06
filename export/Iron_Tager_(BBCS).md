@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Iron Tager (BBCS)
-
 <figure>
 <img src="/images/Bbcs_tager_artwork_01.png"
 title="/images/Bbcs_tager_artwork_01.png" width="150"

@@ -9,8 +9,6 @@ redirect: "Chris"
 old_id: 99
 ---
 
-# Chris (2k2um)
-
 ## Introduction
 
 ## Liste des coups

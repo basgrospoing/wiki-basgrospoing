@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Mr. Big (98um)
-
 ## Introduction
 
 ## Liste des coups

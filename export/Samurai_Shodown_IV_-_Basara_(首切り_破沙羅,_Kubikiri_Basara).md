@@ -9,8 +9,6 @@ redirect: "Ss4-Basara"
 old_id: 670
 ---
 
-# Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)
-
 ![](/images/ss4-Basara.gif "/images/ss4-Basara.gif")
 
 ## Introduction

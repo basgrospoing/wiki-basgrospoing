@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Melty Blood/Warachia
-
 ![ **Nom:**   Nuit de Wallachia (ワラキアの夜)  —  **Alias:**   Zepia
 Eltnam Oberon\<br\\\>\<br\\\> **Doublé par:**   Yasunori Masutani (増谷
 康紀)  —  **Type:**   Phenomène   —  **Sexe:**   Male \<br\\\>\<br\\\>

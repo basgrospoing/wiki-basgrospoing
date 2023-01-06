@@ -9,8 +9,6 @@ redirect: "Yamazaki"
 old_id: 98
 ---
 
-# Yamazaki (2k2um)
-
 ## Introduction
 
 ## Moves List

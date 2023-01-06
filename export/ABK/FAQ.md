@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# ABK/FAQ
-
 ## Généralités
 
 - **Comment se joue Akatsuki Blitzkampf ?**
