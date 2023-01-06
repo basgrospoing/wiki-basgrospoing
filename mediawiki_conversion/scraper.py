@@ -204,7 +204,7 @@ for entry in cache_content:
         
     frontmatter += "---\n\n"
 
-    content = "=" + entry["text"] + "=\n\n" + entry["content"].replace('\n-\n', '-')
+    content = entry["content"].replace('\n-\n', '-')
     print(entry["src"])
     md = frontmatter + pypandoc.convert_text(content, 'gfm', format='mediawiki')
    
