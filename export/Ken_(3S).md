@@ -71,8 +71,4 @@ Stance](/images/Ken3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|plkXYsh6wIs\|720\|align\|Trials Ken}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/plkXYsh6wIs' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

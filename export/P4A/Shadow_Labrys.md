@@ -16,13 +16,10 @@ old_id: 2659
 
 </div>
 <div>
-<center>
 
 **Shadow Labrys**  
 **シャドウラビリス**  
   
-
-</center>
 
 - Date de naissance : 20 avril 1999
 - Taille : 160 cm

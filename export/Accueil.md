@@ -7,17 +7,9 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-\_\_NOTOC\_\_
-
-<center>
-
 <span style="font-size: 2.5em;">Bienvenue sur le Wiki [Bas Gros
 Poing](http://basgrospoing.fr/)</span> [](Special:Statistics "wikilink")
-articles
-
-</center>
-
-\<div style= "font-size: 100%\>  
+articles \<div style= "font-size: 100%\>  
 Le wiki <b>Bas Gros Poing</b> est une encyclopédie en français
 regroupant le savoir technique associé aux jeux de combat. Bien que de
 nombreux wiki existent et dans de multiples langues, celui de Bas Gros

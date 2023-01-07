@@ -1424,33 +1424,16 @@ différentes. Il y a trop de différences pour tenter de les lister.
 Notez que la version arcade Japonaise n'est pas la même que la version
 arcade Américaine:
 
-<center>
 <table cellspacing = 2 border = 1 cellpadding = 5>
 <tr>
 <td>
 
-<b>
-
-<center>
-
-Version Américaine
-
-</center>
-
-</b>
+<b>Version Américaine</b>
 
 </td>
 <td>
 
-<b>
-
-<center>
-
-Version Japonaise
-
-</center>
-
-</b>
+<b>Version Japonaise</b>
 
 </td>
 </tr>
@@ -1566,7 +1549,6 @@ avez combattu).
 </td>
 </tr>
 </table>
-</center>
 
 ## Divers
 

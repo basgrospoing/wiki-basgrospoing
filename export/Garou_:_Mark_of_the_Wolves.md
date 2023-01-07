@@ -234,8 +234,6 @@ que le coup soit brisé via un timing précis, et peut être brisé
 n'importe quand (Seul Grant peut le briser n'importe quand, les autres
 personnages doivent utiliser le timing d'origine).  
 
-<center>
-
 <table>
 <tbody>
 <tr class="odd">
@@ -298,8 +296,6 @@ dp P<br />
 </tr>
 </tbody>
 </table>
-
-</center>
 
 ### Just Defend (JD)
 

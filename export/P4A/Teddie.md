@@ -16,13 +16,10 @@ old_id: 2657
 
 </div>
 <div>
-<center>
 
 **Teddie**  
 **クマ**  
   
-
-</center>
 
 - Date de naissance : inconnue
 - Taille : inconnue

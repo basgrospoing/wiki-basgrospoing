@@ -16,13 +16,10 @@ old_id: 2655
 
 </div>
 <div>
-<center>
 
 **Kanji Tatsumi**  
 **巽 完二**  
   
-
-</center>
 
 - Date de naissance : 8 mai 1991
 - Taille : 183 cm

@@ -83,7 +83,6 @@ BlazBlue : Continuum Shift se joue à 4 boutons, dans la position et
 l'ordre indiqués dans les tableaux ci-dessous selon le type de
 configuration que l'on préfère.
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TH WIDTH="580"  COLSPAN="9">
@@ -209,11 +208,9 @@ A
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
   
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TH WIDTH="580"  COLSPAN="9">
@@ -339,7 +336,6 @@ D
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
   
 \*6 - Avant - Pencher le stick vers l'avant/vers l'adversaire. (axe-X)
@@ -562,7 +558,6 @@ l'approche de l'adversaire. Votre personnage fera une roulade
 automatiquement si vous ne choisissez pas après un certain temps.
 Ci-dessous un tableau récapitulant ce qu'il y a à savoir sur la roulade.
 
-<center>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -652,7 +647,6 @@ Ne maintenir aucune direction en appuyant sur A/B/C.
 </td>
 </tr>
 </TABLE>
-</center>
 
 - **Stagger Recovery (Recouvrement après un chancellement)**
 
@@ -702,7 +696,6 @@ dans les air, etc. Généralement les attaques de même puissance partagent
 les mêmes effets sonores et graphiques. Ci-dessous un tableau
 récapitulant les niveaux d'attaque et effets associés.
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -967,7 +960,6 @@ Blockstun (Au sol)
 </td>
 </tr>
 </TABLE>
-</CENTER>
 
 A ces premières situations peuvent s'ajouter celles-ci, changeant ainsi
 le niveau des coups :
@@ -1026,7 +1018,6 @@ cette formule.
 Il existe différents types de prorations qui sont détaillées dans ce
 tableau :  
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1257,13 +1248,11 @@ Non
 </td>
 </tr>
 </table>
-</CENTER>
 
   
 Valeur de combo : coefficient indiquant la réduction appliquée à chaque
 coup ajouté dans un combo mais par personnage.
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1345,7 +1334,6 @@ Tager
 </td>
 </tr>
 </table>
-</CENTER>
 
 ### Dégâts minimums
 
@@ -1467,7 +1455,6 @@ d'un hitstun.
 Il y a différents moyen de bloquer (et donc se protéger) dans BlazBlue.
 En voici la liste :
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1546,11 +1533,8 @@ apparaître, qui consommera la Barrier Jauge
 `       `  
 `     `
 
-</CENTER>
-
 Voici les effets, avantages et inconvénients de chacune des gardes :
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1690,7 +1674,6 @@ Peu
 </td>
 </tr>
 </TABLE>
-</CENTER>
 
 ### Break Burst
 
@@ -1707,7 +1690,6 @@ Burster à tout autre moment vous donnera un Burst Vert (sur un hit reçu,
 ou en bloquant le coup de l'adversaire). Voici un tableau récapitulant
 ce qu'il faut savoir sur le Break Burst :
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1857,7 +1839,6 @@ la moitié de vos gards primers pour le reste du round.
 </td>
 </tr>
 </TABLE>
-</CENTER>
 
 N.B : Vous ne pouvez pas burst si vous êtes chopés, touché par une
 Distortion Drive ou quand vous êtes au milieu d'une attaque.
@@ -1892,7 +1873,6 @@ dans le jeu peut être calculé par la formule suivante : **Dégâts x Type
 du Mouvement x Valeur de Situation x Valeur du Personnage**. Le total de
 la barre de Heat représente 10 000 unités.
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 </TR>
@@ -1954,7 +1934,6 @@ Tous les autres personnages sont à 23.33%(70/3)
 </td>
 </tr>
 </TABLE>
-</CENTER>
 
 Après avoir réalisé une action qui consomme 25% ou plus de Heat,
 l'intégralité de la barre va diminuer durant 120 frames. Quand votre

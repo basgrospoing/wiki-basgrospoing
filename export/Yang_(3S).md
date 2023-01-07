@@ -88,8 +88,4 @@ Stance](/images/Yang3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|AmNlyK5LnXg\|720\|align\|Trials Yang}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/AmNlyK5LnXg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

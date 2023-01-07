@@ -93,8 +93,4 @@ Stance](/images/Yun3s-stance-short.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|\_y2iUJ2GUsU\|720\|align\|Trials Yun}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/_y2iUJ2GUsU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

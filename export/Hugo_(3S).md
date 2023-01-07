@@ -81,8 +81,4 @@ Stance](/images/Hugo3s-stance.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|W4TG\_-HHBL0\|720\|align\|Trials Hugo}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/W4TG_-HHBL0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

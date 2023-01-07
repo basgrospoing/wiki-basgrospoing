@@ -350,8 +350,4 @@ la plupart des combos de Dudley sont character specific.
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|6Rec706_k6c\|720\|align\|Trials Dudley}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/6Rec706_k6c' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

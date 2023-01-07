@@ -16,13 +16,10 @@ old_id: 2658
 
 </div>
 <div>
-<center>
 
 **Labrys**  
 **ラビリス**  
   
-
-</center>
 
 - Date de naissance : 20 avril 1999
 - Taille : 160 cm

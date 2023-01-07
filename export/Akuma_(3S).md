@@ -89,8 +89,4 @@ Akuma ne possède pas de coups EX.
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|5mXwRhaC5C0\|720\|align\|Trials Akuma}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/5mXwRhaC5C0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

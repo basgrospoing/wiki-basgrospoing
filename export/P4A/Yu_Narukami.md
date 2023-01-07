@@ -16,13 +16,10 @@ old_id: 2652
 
 </div>
 <div>
-<center>
 
 **Yu Narukami**  
 **鳴上 悠**  
   
-
-</center>
 
 - Date de naissance : 1994
 - Taille : 180 cm

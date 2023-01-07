@@ -16,13 +16,10 @@ old_id: 2649
 
 </div>
 <div>
-<center>
 
 **Aigis**  
 **アイギス**  
   
-
-</center>
 
 - Date de naissance : 10 septembre 1999
 - Taille : 162 cm

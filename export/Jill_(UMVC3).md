@@ -7,11 +7,7 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-<center>
-
 **EN TRAVAUX**
-
-</center>
 
 ## Jill
 

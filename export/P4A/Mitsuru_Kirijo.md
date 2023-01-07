@@ -16,13 +16,10 @@ old_id: 2648
 
 </div>
 <div>
-<center>
 
 **Mitsuru Kirijo**  
 **桐条 美鶴**  
   
-
-</center>
 
 - Date de naissance : 8 mai 1991
 - Taille : 166 cm

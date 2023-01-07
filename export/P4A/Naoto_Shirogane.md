@@ -16,13 +16,10 @@ old_id: 2654
 
 </div>
 <div>
-<center>
 
 **Naoto Shirogane**  
 **白鐘 直斗**  
   
-
-</center>
 
 - Date de naissance : 27 avril 1995
 - Taille : 152 cm

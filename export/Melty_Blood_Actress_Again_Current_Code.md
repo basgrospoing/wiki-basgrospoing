@@ -7,7 +7,7 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-\_\_NOTOC\_\_ \[\[Image:/images/Mbcc.jpg\|
+\[\[Image:/images/Mbcc.jpg\|
 
 **Le site officiel:** [Ici](http://meltyblood.info/) \<br\\\> **Le site
 du développeur:** [Ecole](http://www.e56.info/mbaaps2/index.html)

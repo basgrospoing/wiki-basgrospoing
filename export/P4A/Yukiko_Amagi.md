@@ -16,13 +16,10 @@ old_id: 2656
 
 </div>
 <div>
-<center>
 
 **Yukiko Amagi**  
 **'天城 雪子**  
   
-
-</center>
 
 - Date de naissance : 8 décembre 1994
 - Taille : 164 cm

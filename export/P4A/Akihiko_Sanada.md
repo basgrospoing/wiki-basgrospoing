@@ -16,13 +16,10 @@ old_id: 2651
 
 </div>
 <div>
-<center>
 
 **Akihiko Sanada**  
 **真田 明彦**  
   
-
-</center>
 
 - Date de naissance : 22 septembre 1991
 - Taille : 175,5 cm

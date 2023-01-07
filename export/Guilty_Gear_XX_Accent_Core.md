@@ -68,7 +68,6 @@ la position accroupie, 8 la position de saut, etc.
 Guilty Gear Accent Core se joue à 5 boutons, dans la position et l'ordre
 indiqués dans le tableau ci-dessous :
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TH WIDTH="580"  COLSPAN="9">
@@ -209,7 +208,6 @@ Dust
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
   
 \*6 - Avant - Pencher le stick vers l'avant/vers l'adversaire. (axe-X)
@@ -598,7 +596,6 @@ quatres quart de Tension dans la jauge qui sont colorés comme indiqués
 ci-dessous :  
   
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="116"  class="d">
@@ -655,7 +652,6 @@ Doré
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
 Quand la barre devient rouge, vous pouvez alors utiliser une attaque
 Overdrive, un Dead Angle, deux Force Breaks, un Roman Cancel et deux
@@ -816,7 +812,6 @@ change totalement les données même si la formule reste identique.
 
 - **Frame Data des Bursts**
 
-<center>
 <table class="sys" border="1" cellpadding="3" width="580" height="40">
 <tr valign="center" align="center">
 <th width="580" colspan="9">
@@ -929,7 +924,6 @@ Les bursts ne sont pas invincibles aux chopes.
 </td>
 </tr>
 </table>
-</center>
 
 ### Systèmes de combos
 
@@ -1036,7 +1030,6 @@ Ci-dessous le poids de chacun des personnages. 1.0 est le poids de base.
 Plus il est élevé et plus le personnage est léger, et plus il est bas et
 plus le personnage est lourd.
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="600" COLSPAN="12" >
@@ -1284,7 +1277,6 @@ ABBA
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
 ### Calcul des dégâts
 
@@ -1341,7 +1333,6 @@ Ci dessous le tableau récapitulant le calcul des dégâts lors de la
 réduction de la barre de Garde.  
   
 
-<CENTER>
 <TABLE BORDER=1 CELLSPACING=2 CELLPADDING=10 WIDTH=50>
 <TR class="d">
 <TD WIDTH="580"  COLSPAN="10">
@@ -1506,7 +1497,6 @@ Overdrives
 </TD>
 </TR>
 </table>
-</CENTER>
 
 - **Le Prorata**
 
@@ -1536,7 +1526,6 @@ Ci-dessous un tableau récapitule la réduction des dégats pour chaque
 Valeur en fonction de la vie restante.  
   
 
-<center>
 <TABLE BORDER=1 CELLSPACING=2 CELLPADDING=10 WIDTH=10>
 <TR valign="top" align="center">
 <TD WIDTH="60"  ROWSPAN="2">
@@ -1887,12 +1876,10 @@ Modification des dégats
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
   
 Ci-dessous un tableau donnant la Valeur de chaque personnage :  
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TH WIDTH="580" COLSPAN="10" >
@@ -2144,7 +2131,6 @@ ABA
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
 - **Défense**
 
@@ -2155,7 +2141,6 @@ défense de chacun des personnages. Pour le lire il suffit de prendre une
 attaque faisant 100 de dégâts. Celle-ci fera 100 sur Sol (x 1.00), fera
 130 sur Chipp (x 1.30) et fera seulement 87 sur Potemkin (x 0.84).
 
-<CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
 <TD WIDTH="580" COLSPAN="10" >
@@ -2407,7 +2392,6 @@ x 0.89
 </TD>
 </TR>
 </TABLE>
-</CENTER>
 
 `     `  
 

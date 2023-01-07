@@ -7,11 +7,7 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-<center>
-
 **EN TRAVAUX**
-
-</center>
 
 ## Akuma
 
@@ -586,8 +582,4 @@ Level 3 Hyper.</p></td>
 
 ## Mission Mode
 
-<center>
-
-{{#ev:youtubehd\|WjtcznbhRPw\|720\|align\|Mission Mode Akuma}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/WjtcznbhRPw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

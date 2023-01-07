@@ -9,11 +9,7 @@ layout:  "index.njk"
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
 
-<center>
-
 **EN TRAVAUX**
-
-</center>
 
 Throughout the guide there will be a lot of jargon thrown around and,
 unless you know what these terms are referring to, it might be difficult

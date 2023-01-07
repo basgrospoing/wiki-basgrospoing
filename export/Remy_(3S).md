@@ -66,8 +66,4 @@ Stance](/images/Remy3s-stance-short.gif "Neutral Stance")
 
 ## Vidéos
 
-<center>
-
-{{#ev:youtubehd\|7vn96aU06GQ\|720\|align\|Trials Remy}}
-
-</center>
+<iframe width='560' height='315' src='https://www.youtube.com/embed/7vn96aU06GQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>

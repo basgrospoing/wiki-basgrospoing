@@ -16,13 +16,10 @@ old_id: 2650
 
 </div>
 <div>
-<center>
 
 **Chie Satonaka**  
 **里中 千枝**  
   
-
-</center>
 
 - Date de naissance : 30 juillet 1994
 - Taille : 158 cm

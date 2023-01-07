@@ -18,8 +18,6 @@ ainsi que de nouvelles stratégies...
 
 ## Personnages
 
-<center>
-
 <table>
 <thead>
 <tr class="header">
@@ -529,8 +527,6 @@ title="wikilink">Super-Skrull</a></li>
 </table>
 
   
-
-</center>
 
 ## Notation
 

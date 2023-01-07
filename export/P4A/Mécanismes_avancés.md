@@ -15,29 +15,19 @@ l'adversaire d'une condition particulière parmi les suivantes.
 <table>
 <tr>
 <td style="padding:20px">
-<center>
 
 ***Poison***  
   
-![](/images/Poison_p4.jpg "/images/Poison_p4.jpg")
-
-</center>
-
-  
+![](/images/Poison_p4.jpg "/images/Poison_p4.jpg")  
 Le personnage subit des dégâts sur la durée jusqu'à ce que la condition
 expire ou qu'il parvienne à toucher l'adversaire.
 
 </td>
 <td style="padding:20px">
-<center>
 
 ***Panic***  
   
-![](/images/Confuse_p4.jpg "/images/Confuse_p4.jpg")
-
-</center>
-
-  
+![](/images/Confuse_p4.jpg "/images/Confuse_p4.jpg")  
 Les effets des commandes de directions sont opposées ( devient , devient
 , etc...). Expire après une certaine durée ou lorsque le personnage
 touche l'adversaire.
@@ -46,15 +36,10 @@ touche l'adversaire.
 </tr>
 <tr>
 <td style="padding:20px">
-<center>
 
 ***Shock***  
   
-![](/images/Shock_p4.jpg "/images/Shock_p4.jpg")
-
-</center>
-
-  
+![](/images/Shock_p4.jpg "/images/Shock_p4.jpg")  
 Le personnage est incapable de se déplacer à l'aide des directions. Les
 déplacements provoqués par les boutons tels que le *hop* ou le *quick
 escape* sont encore possibles. Expire après une certaine durée ou
@@ -62,15 +47,10 @@ lorsque le personnage touche l'adversaire.
 
 </td>
 <td style="padding:20px">
-<center>
 
 ***Fear***  
   
-![](/images/Fear_p4.jpg "/images/Fear_p4.jpg")
-
-</center>
-
-  
+![](/images/Fear_p4.jpg "/images/Fear_p4.jpg")  
 La première attaque de chaque combo subie par le personnage a la
 propriété *Fatal counter*. D'autre part le personnage ne peut pas
 déchoper. Expire après une certaine durée ou lorsque le personnage
@@ -80,29 +60,19 @@ touche l'adversaire.
 </tr>
 <tr>
 <td style="padding:20px">
-<center>
 
 ***Rage***  
   
-![](/images/Rage_p4.jpg "/images/Rage_p4.jpg")
-
-</center>
-
-  
+![](/images/Rage_p4.jpg "/images/Rage_p4.jpg")  
 Le personnage ne peut pas bloquer. Augmente les dégâts infligés par le
 personnage de 20%. Ne disparaît que au bout de la durée prévue.
 
 </td>
 <td style="padding:20px">
-<center>
 
 ***Mute***  
   
-![](/images/Mute_p4.jpg "/images/Mute_p4.jpg")
-
-</center>
-
-  
+![](/images/Mute_p4.jpg "/images/Mute_p4.jpg")  
 Le personnage ne peut pas invoquer son Persona : toutes les attaques
 nécessitant le Persona sont inutilisables. Le burst est également
 inutilisable. Expire après une certaine durée ou lorsque le personnage
@@ -112,15 +82,10 @@ touche l'adversaire.
 </tr>
 <tr>
 <td style="padding:20px" colspan="2">
-<center>
 
 ***Charm***  
   
-![](/images/Charm_p4.jpg "/images/Charm_p4.jpg")
-
-</center>
-
-  
+![](/images/Charm_p4.jpg "/images/Charm_p4.jpg")  
 Le personnage perd continument des SP au cours du temps qui sont gagnés
 par l'adversaire. Expire après une certaine durée ou lorsque le
 personnage touche l'adversaire.

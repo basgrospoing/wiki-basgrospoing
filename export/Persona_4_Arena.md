@@ -9,22 +9,23 @@ redirect: "P4A"
 old_id: 2569
 ---
 
-\[\[<File:/images/P4U_affiche.jpg%7Cthumb%7C400px%7Cright>\|
-
-<center>
-
-<span style="font-size:16px">Persona 4: The Ultimate in Mayonaka
-Arena</span>  
-  
-
-</center>
-
-*Développeur* : **Arc System Works**  
-*Éditeur* : **Atlus**  
-*Site officiel* (jp) : [lien](http://p-atlus.jp/p4u/)  
-*Site officiel* (us) : [lien](http://atlus.com/p4arena/)  
-*Site officiel* (développeurs) (jp) :
-[lien](http://arcsystemworks.ambel.info/p4u/)\]\]
+<figure>
+<img src="/images/P4U_affiche.jpg"
+title=" Persona 4: The Ultimate in Mayonaka Arena  Développeur : Arc System Works Éditeur : Atlus Site officiel (jp) : lien Site officiel (us) : lien Site officiel (développeurs) (jp) : lien"
+width="400"
+alt=" Persona 4: The Ultimate in Mayonaka Arena  Développeur : Arc System Works Éditeur : Atlus Site officiel (jp) : lien Site officiel (us) : lien Site officiel (développeurs) (jp) : lien" />
+<figcaption aria-hidden="true"> <span style="font-size:16px">Persona 4:
+The Ultimate in Mayonaka Arena</span><br />
+<br />
+<em>Développeur</em> : <strong>Arc System Works</strong><br />
+<em>Éditeur</em> : <strong>Atlus</strong><br />
+<em>Site officiel</em> (jp) : <a
+href="http://p-atlus.jp/p4u/">lien</a><br />
+<em>Site officiel</em> (us) : <a
+href="http://atlus.com/p4arena/">lien</a><br />
+<em>Site officiel</em> (développeurs) (jp) : <a
+href="http://arcsystemworks.ambel.info/p4u/">lien</a></figcaption>
+</figure>
 
 **Persona 4: The Ultimate in Mayonaka Arena** (ペルソナ4
 ジ・アルティメット イン マヨナカアリーナ abrégé *Persona 4 Arena*, *P4U*

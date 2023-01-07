@@ -16,13 +16,10 @@ old_id: 2647
 
 </div>
 <div>
-<center>
 
 **Elizabeth**  
 **エリザベス**  
   
-
-</center>
 
 - Date de naissance : inconnue
 - Taille : inconnu

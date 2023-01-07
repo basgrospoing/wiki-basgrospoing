@@ -72,7 +72,6 @@ du suicide qu'autre chose.
 
 ## Couleurs
 
-<center>
 <table>
 <tr align = "center">
 <td>
@@ -148,7 +147,6 @@ width="228" alt="/images/Gouken_alt_3-6.jpg" />
 </td>
 </tr>
 </table>
-</center>
 
 # Principaux normaux
 
@@ -1188,7 +1186,6 @@ personnages accroupis, impossible donc de FADC pour éviter la punition.
 Pour éviter les problèmes, il est préférable de connaître la liste (en
 construction) qui suit.
 
-<center>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=700 HEIGHT=40>
 <tr>
 <th valign="center" width = "30%">
@@ -1216,7 +1213,6 @@ Ken - Rose - Ryu *(à compléter)*
 </td>
 </tr>
 </table>
-</center>
 
 ### Kongoshin face aux Super et Ultra combos
 
@@ -1229,7 +1225,6 @@ condition que ce ne soit ni :
 
 Voici un tableau récapitulatif couvrant l'ensemble du cast :
 
-<center>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=700 HEIGHT=40>
 <tr>
 <th valign="center" align="center" width = "15%">
@@ -1743,7 +1738,6 @@ Ultra 2 : NON (projection)
 </td>
 </tr>
 </TABLE>
-</center>
 
 # Match up
 

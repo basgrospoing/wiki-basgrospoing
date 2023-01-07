@@ -7,8 +7,6 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-\_\_NOTOC\_\_
-
 # La petite boutique des horreurs compilée par Haten-dan
 
 On ne parle tout le temps que de Street Fighter 2 et de Kof, mais il

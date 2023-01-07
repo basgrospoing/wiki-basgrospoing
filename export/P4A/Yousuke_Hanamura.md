@@ -14,13 +14,10 @@ layout:  "index.njk"
 
 </div>
 <div>
-<center>
 
 **Yosuke Hanamura**  
 **花村 陽介**  
   
-
-</center>
 
 - Date de naissance : 22 juin 1994
 - Taille : 175 cm
