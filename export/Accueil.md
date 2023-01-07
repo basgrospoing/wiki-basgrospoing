@@ -1,11 +1,13 @@
 ---
 title: "Accueil"
 slug:  "Accueil"
-id: 2508
+id: 1
 author: "Admin"
 permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
+
+\_\_NOTOC\_\_
 
 <center>
 

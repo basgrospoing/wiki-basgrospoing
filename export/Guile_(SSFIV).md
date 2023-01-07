@@ -42,64 +42,64 @@ Cr.HK:Touche 2 Hits.Totalement unsafe la majorité du temps.
 
 #### Straight Chop
 
-|                   |                                                                           |
-|-------------------|---------------------------------------------------------------------------|
-| **Straight Chop** | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
+|                              |                                                                           |
+|------------------------------|---------------------------------------------------------------------------|
+| width="30% **Straight Chop** | ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
 
 #### Spinning Back Knuckle
 
-|                           |                                                                           |
-|---------------------------|---------------------------------------------------------------------------|
-| **Spinning Back Knuckle** | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
+|                                      |                                                                           |
+|--------------------------------------|---------------------------------------------------------------------------|
+| width="30% **Spinning Back Knuckle** | ![](/images/F.png "/images/F.png") + ![](/images/HP.png "/images/HP.png") |
 
 #### Knee Bazooka
 
-|                  |                                                                                                                 |
-|------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Knee Bazooka** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LK.png "/images/LK.png") |
+|                             |                                                                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|
+| width="30% **Knee Bazooka** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") + ![](/images/LK.png "/images/LK.png") |
 
 #### Rolling Sobat
 
-|                   |                                                                                                                |
-|-------------------|----------------------------------------------------------------------------------------------------------------|
-| **Rolling Sobat** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") +![](/images/MK.png "/images/MK.png") |
+|                              |                                                                                                                |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| width="30% **Rolling Sobat** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") +![](/images/MK.png "/images/MK.png") |
 
 #### Reverse Spin Kick
 
-|                       |                                                                                                                |
-|-----------------------|----------------------------------------------------------------------------------------------------------------|
-| **Reverse Spin Kick** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") +![](/images/HK.png "/images/HK.png") |
+|                                  |                                                                                                                |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------|
+| width="30% **Reverse Spin Kick** | ![](/images/F.png "/images/F.png") ou ![](/images/B.png "/images/B.png") +![](/images/HK.png "/images/HK.png") |
 
 #### Guile High Kick
 
-|                     |                                                                             |
-|---------------------|-----------------------------------------------------------------------------|
-| **Guile High Kick** | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png") |
+|                                |                                                                             |
+|--------------------------------|-----------------------------------------------------------------------------|
+| width="30% **Guile High Kick** | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png") |
 
 #### Target Combo
 
-|                  |                                                                                                                                                        |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Target Combo** | ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") \> ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
+|                             |                                                                                                                                                        |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Target Combo** | ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") \> ![](/images/F.png "/images/F.png") + ![](/images/MP.png "/images/MP.png") |
 
 #### Shades of Glory (Best Taunt EVER)
 
-|                     |                                                                                                                  |
-|---------------------|------------------------------------------------------------------------------------------------------------------|
-| **Shades of Glory** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") |
+|                                |                                                                                                                  |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shades of Glory** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") |
 
 La Taunt Ultime Du jeu.Point Final.Même Dan ne peut rivaliser contre la
 puissance Over 9000 des lunettes de Guile Vegeta Style.
 
 ### Projections
 
-|                                   |                                                                                    |
-|-----------------------------------|------------------------------------------------------------------------------------|
-| **Flying Mare (**Air Choppe **)** | Saut + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+|                                              |                                                                                    |
+|----------------------------------------------|------------------------------------------------------------------------------------|
+| width="30% **Flying Mare (**Air Choppe **)** | Saut + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
-|                                                     |                                                                                                                         |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Flying Buster Drop (**Air Choppe Backbreaker**)** | Saut + ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
+|                                                                |                                                                                                                         |
+|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Flying Buster Drop (**Air Choppe Backbreaker**)** | Saut + ![](/images/B.png "/images/B.png") + ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") |
 
 ## 4 Coups spéciaux, super, ultras
 
@@ -107,37 +107,37 @@ puissance Over 9000 des lunettes de Guile Vegeta Style.
 
 #### Sonic Boom
 
-|                |                                                                                                                             |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Sonic Boom** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                           |                                                                                                                             |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Sonic Boom** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Flash Kick
 
-|                |                                                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Flash Kick** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                                                           |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Flash Kick** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Super Combo
 
 #### Double Flash
 
-|                  |                                                                                                                                                                                                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Double Flash** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                             |                                                                                                                                                                                                         |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Double Flash** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Ultra Combos
 
 #### Flash Explosion
 
-|                     |                                                                                                                                                                                                             |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Flash Explosion** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                |                                                                                                                                                                                                             |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Flash Explosion** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 #### Sonic Hurricane
 
-|                     |                                                                                                                                                                                                       |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sonic Hurricane** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                |                                                                                                                                                                                                       |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Sonic Hurricane** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## 5 Combos
 

@@ -86,7 +86,7 @@ configuration que l'on préfère.
 <CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
-<TH WIDTH="580" COLSPAN="9">
+<TH WIDTH="580"  COLSPAN="9">
 
 Type A
 
@@ -108,7 +108,7 @@ Type A
 9
 
 </TD>
-<TD WIDTH="155" align="center" ROWSPAN="3">
+<TD WIDTH="155" align="center"  ROWSPAN="3">
 
 \<- Directions Boutons -\>
 
@@ -216,7 +216,7 @@ A
 <CENTER>
 <TABLE class="sys" BORDER=1 CELLPADDING=3 WIDTH=580 HEIGHT=40>
 <TR valign="center" align="center">
-<TH WIDTH="580" COLSPAN="9">
+<TH WIDTH="580"  COLSPAN="9">
 
 Type B
 
@@ -238,7 +238,7 @@ Type B
 9
 
 </TD>
-<TD WIDTH="155" align="center" ROWSPAN="3">
+<TD WIDTH="155" align="center"  ROWSPAN="3">
 
 \<- Directions Boutons -\>
 
@@ -1544,7 +1544,7 @@ apparaître, qui consommera la Barrier Jauge
 </table>
 
 `       `  
-`  `
+`     `
 
 </CENTER>
 

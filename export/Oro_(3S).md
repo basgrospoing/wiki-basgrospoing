@@ -73,4 +73,8 @@ Stance](/images/Oro3s-stance-short.gif "Neutral Stance")
 
 ## Vidéos
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/0bzVGZMIZaY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|0bzVGZMIZaY\|720\|align\|Trials Oro}}
+
+</center>

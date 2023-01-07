@@ -30,18 +30,18 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Yosokyaku (en l'air)
 
-|               |                                                                                      |
-|---------------|--------------------------------------------------------------------------------------|
-| **Yosokyaku** | ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") (en l'air) |
+|                          |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| width="30% **Yosokyaku** | ![](/images/D.png "/images/D.png") + ![](/images/MK.png "/images/MK.png") (en l'air) |
 
 Explications du coup:Peut être comboté trois fois dans la même séquence.
 Touche High.
 
 #### Tenmakujinkyaku
 
-|                     |                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------|
-| **Tenmakujinkyaku** | ![](/images/D.png "/images/D.png") + ![](/images/HK.png "/images/HK.png") (en l'air) |
+|                                |                                                                                      |
+|--------------------------------|--------------------------------------------------------------------------------------|
+| width="30% **Tenmakujinkyaku** | ![](/images/D.png "/images/D.png") + ![](/images/HK.png "/images/HK.png") (en l'air) |
 
 Explication du coup: Touche High.
 
@@ -55,9 +55,9 @@ Explication du coup: Touche High.
 
 #### Sonic Boom
 
-|                |                                                                                     |
-|----------------|-------------------------------------------------------------------------------------|
-| **Sonic Boom** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                           |                                                                                     |
+|---------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Sonic Boom** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explication du coup:Seth est en situation de vol de copyright aggravé.Il
 reprend le Sonic Puuu de Guile mais le refait à sa sauce avec un quart
@@ -65,9 +65,9 @@ de cercle.
 
 #### Shoryuken
 
-|               |                                                                                   |
-|---------------|-----------------------------------------------------------------------------------|
-| **Shoryuken** | ![](/images/Dp.png "/images/Dp.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                          |                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Shoryuken** | ![](/images/Dp.png "/images/Dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explications du coup:Seth fait un uppercut tout ce qui y a de plus
 classique.
@@ -76,9 +76,9 @@ Peut être enchainé trois fois dans le même coup.
 
 #### Hyakuretsukyaku
 
-|                     |                                                                                   |
-|---------------------|-----------------------------------------------------------------------------------|
-| **Hyakuretsukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                                |                                                                                   |
+|--------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Hyakuretsukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explication du coup:Seth envoie un pauvre coup de pied retourné moisi
 vers l'avant qui retourne l'adversaire dans tout les sens auquel il
@@ -89,9 +89,9 @@ foutu de les faire lui même ,dites donc).
 
 #### Tanden Engine
 
-|                   |                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------|
-| **Tanden Engine** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                     |
+|------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Tanden Engine** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explication du coup:Seth ramène l'adversaire vers lui avec son bide
 magique.
@@ -100,9 +100,9 @@ magique.
 
 #### Spinning Piledriver
 
-|                         |                                                                                     |
-|-------------------------|-------------------------------------------------------------------------------------|
-| **Spinning Piledriver** | ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                                    |                                                                                     |
+|------------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Spinning Piledriver** | ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explication du coup:Seth n'a tellement plus d'idées en tant que boss
 final qu'il copyright des coups comme un Apple. Zangief is not
@@ -111,9 +111,9 @@ du temps en finish du move donc bien pour lui ,je suppose...
 
 #### Yoga Teleport
 
-|                   |                                                                                                                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Yoga Teleport** | ![](/images/Dp.png "/images/Dp.png") ou ![](/images/Rdp.png "/images/Rdp.png")+ ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
+|                              |                                                                                                                                                                                |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Yoga Teleport** | ![](/images/Dp.png "/images/Dp.png") ou ![](/images/Rdp.png "/images/Rdp.png")+ ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
 
 Explication du coup:Sur sa lancée, Seth vole la "télépowa © " de Dhalsim
 sans aucune respect pour les marques.Tout se perd ma bonne dame.
@@ -122,9 +122,9 @@ sans aucune respect pour les marques.Tout se perd ma bonne dame.
 
 #### Tanden Storm
 
-|                  |                                                                                                                            |
-|------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Tanden Storm** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                             |                                                                                                                            |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Tanden Storm** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explication du coup:Seth forme une petit trou noir avec ses mains en
 face de lui et l'explose à la face de l'adversaire. Le coup ramène
@@ -134,9 +134,9 @@ l'adversaire vers Seth si il est fait à une certaine distance.
 
 #### Tanden Stream(Ultra 1)
 
-|                   |                                                                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Tanden Stream** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                                                                                                |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Tanden Stream** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Explication du coup:Seth crée un tornade à travers son bide et va
 ramasser l'adversaire sur la totalité de l'écran;le fait mijoter à feu
@@ -145,9 +145,9 @@ que le petit Jésus est né.
 
 #### Tanden Typhoon(Ultra 2)
 
-|                    |                                                                                                                                |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Tanden Typhoon** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                               |                                                                                                                                |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Tanden Typhoon** | ![](/images/qcb.png "/images/qcb.png") ![](/images/qcb.png "/images/qcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Explication du coup:Seth infuse la magie de Storm dans son
 cerveau,écrase son crane sur le sol et active le mode Ventilo par son

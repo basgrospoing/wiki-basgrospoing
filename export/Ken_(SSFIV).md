@@ -30,9 +30,9 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### La Kara Throw
 
-|                |                                                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Kara Throw** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") + { ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") } |
+|                           |                                                                                                                                                             |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Kara Throw** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") + { ![](/images/LP.png "/images/LP.png") + ![](/images/LK.png "/images/LK.png") } |
 
 L'un des coup qui peut faire la différence pour chopper les ennemis de
 plus loin et les déstabiliser (encore que... c'est juste une choppe.).
@@ -54,28 +54,28 @@ Note: La Kara Throw marche aussi avec la feinte de thunder Kick
 
 ### Coups Uniques
 
-|                  |                                                                           |
-|------------------|---------------------------------------------------------------------------|
-| **Inazuma Kick** | ![](/images/B.png "/images/B.png") + ![](/images/MK.png "/images/MK.png") |
+|                             |                                                                           |
+|-----------------------------|---------------------------------------------------------------------------|
+| width="30% **Inazuma Kick** | ![](/images/B.png "/images/B.png") + ![](/images/MK.png "/images/MK.png") |
 
 **Note**:Le coup touche high
 
-|                       |                                                                           |
-|-----------------------|---------------------------------------------------------------------------|
-| **Forward Step Kick** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
+|                                  |                                                                           |
+|----------------------------------|---------------------------------------------------------------------------|
+| width="30% **Forward Step Kick** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
 
-|                  |                                                                           |
-|------------------|---------------------------------------------------------------------------|
-| **Thunder Kick** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
+|                             |                                                                           |
+|-----------------------------|---------------------------------------------------------------------------|
+| width="30% **Thunder Kick** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 **Note**: Maintenez ![](/images/HK.png "/images/HK.png") pendant
 l'animation pour faire une feinte
 
 ### Target Combo
 
-|                  |                                                                              |
-|------------------|------------------------------------------------------------------------------|
-| **Target Combo** | ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") |
+|                             |                                                                              |
+|-----------------------------|------------------------------------------------------------------------------|
+| width="30% **Target Combo** | ![](/images/MP.png "/images/MP.png") \> ![](/images/HP.png "/images/HP.png") |
 
 ## 4 Coups spéciaux, super, ultras
 
@@ -83,27 +83,27 @@ l'animation pour faire une feinte
 
 #### Hadoken
 
-|             |                                                                                     |                                      |
-|-------------|-------------------------------------------------------------------------------------|--------------------------------------|
-| **Hadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                        |                                                                                     |                                      |
+|------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Hadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Shoryuken
 
-|               |                                                                                   |                                      |
-|---------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **ShoryuKen** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                          |                                                                                   |                                      |
+|--------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **ShoryuKen** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Tatsumaki Senpukyaku
 
-|                          |                                                                                   |                                      |                 |
-|--------------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
+|                                     |                                                                                   |                                      |                 |
+|-------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| width="30% **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 #### Airborne Tatsumaki Senpukyaku (en l'air)
 
-|                                   |                                                                                   |                                      |
-|-----------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Airborne Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                                              |                                                                                   |                                      |
+|----------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Airborne Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Description du coup:
 
@@ -114,23 +114,23 @@ dans son arsenal.
 
 #### Shoryu Reppa
 
-|                  |                                                                                                                            |
-|------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Shoryu Reppa** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                             |                                                                                                                            |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shoryu Reppa** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultras
 
 #### Shinryuken (Ultra 1)
 
-|                |                                                                                                                                |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Shinryuken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                           |                                                                                                                                |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shinryuken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Guren Senpukyaku (Ultra 2)
 
-|                      |                                                                                                                              |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Guren Senpukyaku** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                 |                                                                                                                              |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Guren Senpukyaku** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 5 Combos
 

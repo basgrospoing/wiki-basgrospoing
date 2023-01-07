@@ -157,7 +157,7 @@ hitbox](Super_Street_Fighter_IV#Explications_sur_les_hitbox_data "wikilink")*
 
 ### Accroupi
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -177,7 +177,7 @@ du LK derrière.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -197,7 +197,7 @@ pour le Tatsumaki (à vérifier néanmoins pour la version HK)
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -218,7 +218,7 @@ Peut être cancellé par la Super
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -238,7 +238,7 @@ placer cr.LK xx LK Tatsu, mais le Tatsu a des chances de whiffer
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -257,7 +257,7 @@ adversaire au sol
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -278,7 +278,7 @@ l'adversaire. Très utile lors de frame traps et de jeux à la relevée.
 
 ### Debout (proche)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -297,7 +297,7 @@ utilisé car ne permet pas de combo intéressant dans sa version actuelle
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -316,7 +316,7 @@ son startup plus rapide.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -339,7 +339,7 @@ cr.HP touchant plutôt vers l'avant)
 
 ### Debout (loin)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -358,7 +358,7 @@ le cancel par un coup spécial, rendant son usage assez limité.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -377,7 +377,7 @@ quoique ce soit.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -401,7 +401,7 @@ dessus. Enfin, il est kara-cancelable !
 
 ### En l'air (adversaire dans les airs)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -418,7 +418,7 @@ anticipé, grâce à sa portée et à sa priorité.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -437,7 +437,7 @@ xx Demon Flip, la super ou l'ultra)
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -457,7 +457,7 @@ adverses, à condition d'avoir le bon timing.
 
 ### En l'air (adversaire au sol)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -475,7 +475,7 @@ avantageuse en air-sol.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -491,7 +491,7 @@ Le coup à employer en cross-up.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -512,7 +512,7 @@ de combo.
 
 ### Coups uniques
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -532,7 +532,7 @@ startup qui limite son effet de surprise.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -557,7 +557,7 @@ rendant son usage en tant que starter de combo vraiment limité.
 
 ### Projections
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -606,7 +606,7 @@ Le projectile de Gouken sort assez vite et a un bon recovery, faisant de
 à peu près à un Hado MP d'un shoto. Si la boule touche un adversaire en
 l'air, celui-ci est mis dans un état de juggle.
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -661,7 +661,7 @@ lui permettant de surprendre l'adversaire pendant une fireball war (à
 rapide). Cette invincibilité se limite au milieu du dash, et ne marche
 donc ni pendant le startup, ni quand le coup touche.
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -682,7 +682,7 @@ avec la version HP du super).
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -722,7 +722,7 @@ punition qui s'en suit. A noter aussi que le premier hit (quelque soit
 la version du pied) met l'adversaire en état de juggle, lui permettant
 d'enchainer lors de sa chute, quand ça trade ou après un FADC.
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -740,7 +740,7 @@ donne théoriquement ses chances contre un jump in classique.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -756,7 +756,7 @@ coup un bon reversal s'il touchait tous les personnages accroupis.
 </td>
 </tr>
 </table>
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -819,7 +819,7 @@ jusqu'au follow up.
 
 #### Hyakki Gozan (follow up neutre)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -840,7 +840,7 @@ recovery si bloqué.
 
 #### Hyakki Goheki (follow up avec poing)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -862,7 +862,7 @@ quand l'adversaire se relève, car ses reversals deviennent armor break.
 
 #### Hyakki Gojin (follow up avec pied)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -882,7 +882,7 @@ propriété overhead, peut donc être bloqué accroupi.
 
 #### Hyakki Gosai (follow up Choppe)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -904,7 +904,7 @@ alternative quand l'adversaire attend un Divekick dans sa garde.
 
 → QCF x2 + poing, **Armor break**
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -931,7 +931,7 @@ touchant le plus loin.
 
 → QCF x2 + 3\*poing, **Armor Break**
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 
@@ -958,7 +958,7 @@ Néanmoins, sa courbe de déplacement en fait un anti-air peu fiable
 → QCF x2 + 3\*pied (possibilité de charger en maintenant 3\*pied pour
 passer de 4 à 8 hits)
 
-<table border="0" >
+<table border="0" width="100%">
 <tr>
 <td>
 

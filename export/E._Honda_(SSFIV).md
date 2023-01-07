@@ -36,49 +36,49 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Hundred Hand Slap
 
-|                       |                                                                   |
-|-----------------------|-------------------------------------------------------------------|
-| **Hundred Hand Slap** | Appuyer rapidement sur ![](/images/Punch.png "/images/Punch.png") |
+|                                  |                                                                   |
+|----------------------------------|-------------------------------------------------------------------|
+| width="30% **Hundred Hand Slap** | Appuyer rapidement sur ![](/images/Punch.png "/images/Punch.png") |
 
 #### Sumo Headbutt
 
-|                   |                                                                                                                             |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Sumo Headbutt** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                                                             |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Sumo Headbutt** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Sumo Smash
 
-|                |                                                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Sumo Smash** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                                                           |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Sumo Smash** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Oicho Throw
 
-|                 |                                                                                     |
-|-----------------|-------------------------------------------------------------------------------------|
-| **Oicho Throw** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/punch.png "/images/punch.png") |
+|                            |                                                                                     |
+|----------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Oicho Throw** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/punch.png "/images/punch.png") |
 
 ### Supers
 
 #### Super Killer Head Ram
 
-|                           |                                                                                                                                                                                                 |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Super Killer Head Ram** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                                      |                                                                                                                                                                                                 |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Super Killer Head Ram** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Ultras
 
 #### Ultimate Killer Head Ram(Ultra 1)
 
-|                              |                                                                                                                                                                                                       |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Ultimate Killer Head Ram** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                         |                                                                                                                                                                                                       |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Ultimate Killer Head Ram** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Orochi Breaker (Ultra 2)
 
-|                    |                                                                                                                                |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Orochi Breaker** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                               |                                                                                                                                |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Orochi Breaker** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## 5 Combos
 

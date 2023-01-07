@@ -51,7 +51,7 @@ Regarder ici : <http://www.elive.pro/en/watch/tyMN1aaLhwW7>
 |----------|-----|-------------------------------------|
 | Overkill | C+D | Imposant coup de griffe parabolique |
 
-![](/images/_==Matchs-up==_===Rock_Howard===_[[File:/images/Rock.png‎ "/images/_==Matchs-up==_===Rock_Howard===_[[File:/images/Rock.png‎")
+![](/images/_==Matchs-up==_===Rock_Howard===_[[Fichier:/images/Rock.png‎ "/images/_==Matchs-up==_===Rock_Howard===_[[Fichier:/images/Rock.png‎")
 
 ### Kim Donw Hwan
 

@@ -73,6 +73,36 @@ reversals/dragons.
 <tr class="even">
 <td><p><strong>5A</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5B</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>6C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JA</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>JB</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JC</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>J6C</strong></p></td>
+</tr>
 </tbody>
 </table>
 

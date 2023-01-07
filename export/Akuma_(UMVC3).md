@@ -46,9 +46,9 @@ Justin Wong, SumBrwnKid, Knives, ChrisG
 | Air Action Count                                                          |
 | X-Factor                                                                  |
 |                                                                           |
-| **X-Factor Damage Boost:**                                                |
-| **X-Factor Speed Boost:**                                                 |
-| **X-Factor Duration:**                                                    |
+| colspan="3 **X-Factor Damage Boost:**                                     |
+| colspan="3 **X-Factor Speed Boost:**                                      |
+| colspan="3 **X-Factor Duration:**                                         |
 | Minimum Damage Scaling                                                    |
 |                                                                           |
 | **Normal:**                                                               |
@@ -586,4 +586,8 @@ Level 3 Hyper.</p></td>
 
 ## Mission Mode
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/WjtcznbhRPw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|WjtcznbhRPw\|720\|align\|Mission Mode Akuma}}
+
+</center>

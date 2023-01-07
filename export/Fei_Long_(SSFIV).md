@@ -28,13 +28,13 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 ### Coups Uniques
 
-|                   |                                                                           |
-|-------------------|---------------------------------------------------------------------------|
-| **Chokkarakusho** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
+|                              |                                                                           |
+|------------------------------|---------------------------------------------------------------------------|
+| width="30% **Chokkarakusho** | ![](/images/F.png "/images/F.png") + ![](/images/MK.png "/images/MK.png") |
 
-|               |                                                                           |
-|---------------|---------------------------------------------------------------------------|
-| **Engekishu** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
+|                          |                                                                           |
+|--------------------------|---------------------------------------------------------------------------|
+| width="30% **Engekishu** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 <Notes:L'Overhead> de Fei Long.
 
@@ -46,29 +46,29 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Rekkaken
 
-|              |                                                                                     |
-|--------------|-------------------------------------------------------------------------------------|
-| **RekkaKen** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                         |                                                                                     |
+|-------------------------|-------------------------------------------------------------------------------------|
+| width="30% **RekkaKen** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Shienkyaku
 
-|                |                                                                                    |
-|----------------|------------------------------------------------------------------------------------|
-| **Shienkyaku** | ![](/images/rdp.png "/images/rdp.png") ou ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                    |
+|---------------------------|------------------------------------------------------------------------------------|
+| width="30% **Shienkyaku** | ![](/images/rdp.png "/images/rdp.png") ou ![](/images/Kick.png "/images/Kick.png") |
 
 #### Rekkukyaku
 
-|                |                                                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Rekkukyaku** | ![](/images/db.png "/images/db.png") ![](/images/qcf.png "/images/qcf.png") ![](/images/uf.png "/images/uf.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                                                                                             |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Rekkukyaku** | ![](/images/db.png "/images/db.png") ![](/images/qcf.png "/images/qcf.png") ![](/images/uf.png "/images/uf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Notes:**Armor Break** sur le premier hit du coup.
 
 #### Tenshin
 
-|             |                                                                                   |
-|-------------|-----------------------------------------------------------------------------------|
-| **Tenshin** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                        |                                                                                   |
+|------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Tenshin** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 <Notes:La> Choppe Spéciale de Fei-Long.
 
@@ -76,23 +76,23 @@ Notes:**Armor Break** sur le premier hit du coup.
 
 #### Rekkashinken
 
-|                   |                                                                                                                            |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Rekka Shinken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                                                            |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Rekka Shinken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultras
 
 #### Rekkashingeki(Ultra 1)
 
-|                    |                                                                                                                                |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Rekka ShinGeki** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                               |                                                                                                                                |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Rekka ShinGeki** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Gekirinken (Ultra 2)
 
-|                |                                                                                                                              |
-|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| **GekirinKen** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                           |                                                                                                                              |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **GekirinKen** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 5 Combos
 

@@ -118,9 +118,9 @@ des personnages à grosse hitbox comme Zangief, Sagat et Rufus.
 
 ### Dash Straight
 
-|                   |                                                                                                                             |                                      |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Straight** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                              |                                                                                                                             |                                      |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Straight** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Boxer charge vers l'avant le poing tendu. Plus le punch utilisé est
 élevé, plus le coup est long à partir et vas loin. Les versions Light
@@ -131,9 +131,9 @@ qu’accroupis.
 
 ### Dash Low Straight
 
-|                       |                                                                                                                               |                                      |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Low Straight** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                                  |                                                                                                                               |                                      |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Low Straight** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Même principe que le Dash Straight sauf que Boxer frappe en bas. Ce qui
 permet, si l’attaque touche, de faire tomber l’adversaire. Plus le punch
@@ -141,9 +141,9 @@ utilisé est élevé, plus le coup est long à partir et vas loin.
 
 #### Dash Swing Blow
 
-|                     |                                                                                                                                        |                                      |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Swing Blow** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Punch.png "/images/Punch.png") Maintenu | ![](/images/Ex.png "/images/Ex.png") |
+|                                |                                                                                                                                        |                                      |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Swing Blow** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Punch.png "/images/Punch.png") Maintenu | ![](/images/Ex.png "/images/Ex.png") |
 
 L’attaque overhead de boxer. Bien utilisée, elle peut faire toute la
 différence. Mais sa longue exécution et le fait que si elle est bloquée,
@@ -153,9 +153,9 @@ parcimonie. Elle peut être également utilisée pour reset un combo.
 
 ### Buffalo Head (Headbutt)
 
-|                    |                                                                                                                             |                                      |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Low Smash** | ![](/images/D.png "/images/D.png") (Charge) ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                               |                                                                                                                             |                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Low Smash** | ![](/images/D.png "/images/D.png") (Charge) ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Boxer saut en diagonale la tête en avant. Encore une attaque à manier
 avec précaution car si elle est bloquée la punition peut être très
@@ -169,9 +169,9 @@ ultra en juggle.
 
 ### Dash Upper
 
-|                    |                                                                                                                           |                                      |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Low Smash** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                               |                                                                                                                           |                                      |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Low Smash** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Boxer charge vers l'avant en effectuant un uppercut. Ce coup à une
 portée verticale assez importante et peut donc aussi bien être utilisé
@@ -182,9 +182,9 @@ l’inconvénient de ne toucher que les adversaires debout.
 
 ### Dash Low Smash
 
-|                    |                                                                                                                             |                                      |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Dash Low Smash** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                               |                                                                                                                             |                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Dash Low Smash** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/DF.png "/images/DF.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 Principalement utilisé pour sa propriété Armor Break, le Dash Low Smash
 a la particularité, lorsqu’il touche, de projeter l’adversaire à l’autre
@@ -217,9 +217,9 @@ Le TAP est aussi supercancellable.
 
 ### Crazy Buffalo
 
-|                   |                                                                                                                                                                                                                                               |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Crazy Buffalo** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") ou ![](/images/Kick.png "/images/Kick.png") |
+|                              |                                                                                                                                                                                                                                               |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Crazy Buffalo** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") ou ![](/images/Kick.png "/images/Kick.png") |
 
 **Armor Break**
 
@@ -227,9 +227,9 @@ Le TAP est aussi supercancellable.
 
 ### Violent Buffalo (Ultra 1)
 
-|                     |                                                                                                                                                                                                                                                       |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Violent Buffalo** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
+|                                |                                                                                                                                                                                                                                                       |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Violent Buffalo** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
 
 **Armor Break**
 
@@ -237,9 +237,9 @@ Note:
 
 ### Dirty Bull (Ultra 2)
 
-|                |                                                                                                                                |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Dirty Bull** | ![](/images/hcb.png "/images/hcb.png") ![](/images/hcb.png "/images/hcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                           |                                                                                                                                |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Dirty Bull** | ![](/images/hcb.png "/images/hcb.png") ![](/images/hcb.png "/images/hcb.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## Combos
 

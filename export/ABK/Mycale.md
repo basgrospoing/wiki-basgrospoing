@@ -67,54 +67,54 @@ coup</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>236ABC</strong></p>
+<td><p><strong>「」- 236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>28ABC</strong></p>
+<td><p><strong>「」- 28ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>　 623ABC</strong></p>
+<td><p><strong>　「」- 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>214ABC</strong></p>
+<td><p><strong>「」- 214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>421ABC</strong></p>
+<td><p><strong>「」- 421ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>J22ABC</strong></p>
+<td><p><strong>「」- J22ABC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>426ABC</strong></p>
+<td><p><strong>「」- 426ABC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 <li><strong>(A version)</strong> -</li>
 <li><strong>(B version)</strong> -</li>
 <li><strong>(EX version)</strong> -</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>BC</strong></p>
+<td><p><strong>「」- BC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 <li><strong>(Standing)</strong> -</li>
 <li><strong>(Crouching)</strong> -</li>
 <li><strong>(Airborne)</strong> -</li>

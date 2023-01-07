@@ -96,6 +96,36 @@ après le 4\[C\], ce n'est pas possible de faire 2A 2C.
 <tr class="even">
 <td><p><strong>5A</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5B</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>6C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JA</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>JB</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JC</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>J6C</strong></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -116,54 +146,54 @@ coup</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>236ABC</strong></p>
+<td><p><strong>「」- 236ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> -</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>28ABC</strong></p>
+<td><p><strong>「」- 28ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>　 623ABC</strong></p>
+<td><p><strong>　「」- 623ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>214ABC</strong></p>
+<td><p><strong>「」- 214ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>421ABC</strong></p>
+<td><p><strong>「」- 421ABC</strong></p>
 <ul>
 <li><strong>(Description)</strong> - ...</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>J22ABC</strong></p>
+<td><p><strong>「」- J22ABC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>426ABC</strong></p>
+<td><p><strong>「」- 426ABC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 <li><strong>(A version)</strong> -</li>
 <li><strong>(B version)</strong> -</li>
 <li><strong>(EX version)</strong> -</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>BC</strong></p>
+<td><p><strong>「」- BC</strong></p>
 <ul>
-<li><strong>(Description)</strong> -　...</li>
+<li><strong>(Description)</strong>...</li>
 <li><strong>(Standing)</strong> -</li>
 <li><strong>(Crouching)</strong> -</li>
 <li><strong>(Airborne)</strong> -</li>

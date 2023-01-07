@@ -40,67 +40,67 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### GoHadoken
 
-|               |                                                                                     |
-|---------------|-------------------------------------------------------------------------------------|
-| **GoHadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                          |                                                                                     |
+|--------------------------|-------------------------------------------------------------------------------------|
+| width="30% **GoHadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Shakunetsu Hadoken
 
-|                        |                                                                                     |
-|------------------------|-------------------------------------------------------------------------------------|
-| **Shakunetsu Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                                   |                                                                                     |
+|-----------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Shakunetsu Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Shoryuken
 
-|               |                                                                                   |
-|---------------|-----------------------------------------------------------------------------------|
-| **Shoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                          |                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Shoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Tatsumaki Senpukyaku
 
-|                          |                                                                                   |
-|--------------------------|-----------------------------------------------------------------------------------|
-| **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                                     |                                                                                   |
+|-------------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 #### Airborne Tatsumaki Senpukyaku
 
-|                          |                                                                                                        |
-|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") (fait dans les airs) |
+|                                     |                                                                                                        |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------|
+| width="30% **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") (fait dans les airs) |
 
 #### Ashura Zenku (Téléport)
 
-|                  |                                                                                                                                                                                |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Ashura Zenku** | ![](/images/dp.png "/images/dp.png") ou ![](/images/rdp.png "/images/rdp.png")+ ![](/images/3xKick.png "/images/3xKick.png") ou ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                             |                                                                                                                                                                                |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Ashura Zenku** | ![](/images/dp.png "/images/dp.png") ou ![](/images/rdp.png "/images/rdp.png")+ ![](/images/3xKick.png "/images/3xKick.png") ou ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Ryusokyaku
 
-|                |                                                                                   |
-|----------------|-----------------------------------------------------------------------------------|
-| **Ryusokyaku** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                   |
+|---------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Ryusokyaku** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ### Super Combos
 
 #### Shun Goku Satsu
 
-|                     |                                                                                                                                                                                                   |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Shun Goku Satsu** | ![](/images/LP.png "/images/LP.png") \> ![](/images/LP.png "/images/LP.png") \> ![](/images/f.png "/images/f.png") + ![](/images/LK.png "/images/LK.png") \> ![](/images/HP.png "/images/HP.png") |
+|                                |                                                                                                                                                                                                   |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shun Goku Satsu** | ![](/images/LP.png "/images/LP.png") \> ![](/images/LP.png "/images/LP.png") \> ![](/images/f.png "/images/f.png") + ![](/images/LK.png "/images/LK.png") \> ![](/images/HP.png "/images/HP.png") |
 
 ### Ultra Combos
 
 #### Metsu Hadoken (Ultra 1)
 
-|                   |                                                                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Metsu Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                                                                                                |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Metsu Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Messatsu-Goshoryu (Ultra 2)
 
-|                       |                                                                                                                              |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Messatsu-Goshoryu** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                  |                                                                                                                              |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Messatsu-Goshoryu** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 3 Combos
 

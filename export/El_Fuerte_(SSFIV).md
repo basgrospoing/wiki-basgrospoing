@@ -77,9 +77,9 @@ son **Run Stop Fierce**, sont les clés pour avoir un bon Fuerte.
 
 #### Quesadilla Bomb
 
-|                     |                                                                |
-|---------------------|----------------------------------------------------------------|
-| **Quesadilla Bomb** | Maintenir ![](/images/Kick.png "/images/Kick.png") et relacher |
+|                                |                                                                |
+|--------------------------------|----------------------------------------------------------------|
+| width="30% **Quesadilla Bomb** | Maintenir ![](/images/Kick.png "/images/Kick.png") et relacher |
 
 #### Wall Jump
 

@@ -87,4 +87,8 @@ Portrait](/images/Chunli3sport.gif "Character Select Portrait")
 
 ## Vidéos
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/sTETHfdwaHo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|sTETHfdwaHo\|720\|align\|Trials Chun-Li}}
+
+</center>

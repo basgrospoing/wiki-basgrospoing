@@ -1,155 +1,60 @@
 ---
 title: "Melty Blood/Hisui & Kohaku/Crescent Moon"
 slug:  "Melty_Blood/Hisui_&_Kohaku/Crescent_Moon"
-id: 1773
-author: "Sannos"
+id: 1763
+author: "Oufan"
 permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-# Combos
+![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
+\<br\\\>\<br\\\> **Voiced by:**   Matsuki Miyu (松来
+未祐)  —  **Type:**   Human, Maid Synchronizer  —  **Gender:**   Female
+\<br\\\>\<br\\\> **Birthday:**    March 12   —  **Sizes:**   
+B76/W58/H82   —  **Height:**    156cm   —  **Weight:**    43kg
+\<br\\\>\<br\\\> **Eye Color:**   Jade  —  **Hair Color:**   Pink
+\|frame\|right](/images/Hisui1.png " Name:   Hisui (翡翠)  —  Nicknames:    Brainwasher Detective <br\><br\> Voiced by:   Matsuki Miyu (松来 未祐)  —  Type:   Human, Maid Synchronizer  —  Gender:   Female <br\><br\> Birthday:    March 12   —  Sizes:    B76/W58/H82   —  Height:    156cm   —  Weight:    43kg <br\><br\> Eye Color:   Jade  —  Hair Color:   Pink |frame|right")
 
-- Se référer aux combos de
-  [C-Kohaku](http://wiki.basgrospoing.fr/index.php/Melty_Blood/Kohaku/Crescent_Moon)
-  et
-  [C-Hisui](http://wiki.basgrospoing.fr/index.php/Melty_Blood/Hisui/Crescent_Moon).
+# Introduction
 
-# Strategie globale
+Personnage solide, très safe dans tout ce qu'elle fait. Il s'agit
+possiblement du personnage le plus "standard" du jeu, capable de
+s'adapter à toute situation et nécessitant simplement des bases solides
+en jeu de combat.
+
+# Histoire
+
+# Liste des Moons
+
+**Hisui**
+
+[Crescent](Melty_Blood/Hisui/Crescent_Moon "wikilink")  
+[Half](Melty_Blood/Hisui/Half_Moon "wikilink")  
+[Full](Melty_Blood/Hisui/Full_Moon "wikilink")  
+
+# Statistics
+
+| Character | 100% | 75%  | 50%  | 25%  | Estimated Health |
+|-----------|------|------|------|------|------------------|
+| **Hisui** | 0.85 | 0.95 | 0.91 | 0.90 | 12617            |
+
+# Palettes
+
+![](/images/Hisui-colors.png "/images/Hisui-colors.png")
+
+# Liste de joueurs
 
 ## Crescent
 
-## Spacing
+## Half
 
-## Press
+## Full
 
-# Command list
+### Commentaire
 
-## Coups Normaux
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>2A</strong></p>
-<p>Liste des coups par ordre de puissance.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>5A</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-## Coups Speciaux
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Name 「JP name」 - 22ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> - Décrire à quoi sert le coup</li>
-<li><strong>(A version)</strong> - Description de la version A du
-coup.</li>
-<li><strong>(B version)</strong> - Description de la version B du
-coup</li>
-<li><strong>(EX version)</strong> - Description de la version EX du
-coup</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>236ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> -</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>28ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> - ...</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>　 623ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> - ...</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>214ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> - ...</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>421ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> - ...</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>J22ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> -　...</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>426ABC</strong></p>
-<ul>
-<li><strong>(Description)</strong> -　...</li>
-<li><strong>(A version)</strong> -</li>
-<li><strong>(B version)</strong> -</li>
-<li><strong>(EX version)</strong> -</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>BC</strong></p>
-<ul>
-<li><strong>(Description)</strong> -　...</li>
-<li><strong>(Standing)</strong> -</li>
-<li><strong>(Crouching)</strong> -</li>
-<li><strong>(Airborne)</strong> -</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## Arc Drive
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>「」</strong></p>
-<ul>
-<li><strong>(Description)</strong> - AD description</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## Another Arc Drive
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>「」</strong></p>
-<ul>
-<li><strong>(Description)</strong> - AAD description</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## Last Arc
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>「」</strong></p>
-<ul>
-<li><strong>(Description)</strong> - LA description. Indiquer dans quel
-position il est activé.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
+wiki
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
 
 [Category:Melty Blood Actress Again Current
 Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")

@@ -7,6 +7,8 @@ permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
+\_\_NOTOC\_\_
+
 # La petite boutique des horreurs compilée par Haten-dan
 
 On ne parle tout le temps que de Street Fighter 2 et de Kof, mais il
@@ -29,8 +31,7 @@ voulant copier une recette.
 - Street Fighter The Movie
 - Survival Arts
 - Tatoo Assassins
-- Time Killers
-  <iframe width='560' height='315' src='https://www.youtube.com/embed/W2_hzLmkpHs' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+- Time Killers {{#evp:youtube\|W2_hzLmkpHs}}
 - Time Slaughter
 - Ultra Vortek
 

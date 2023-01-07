@@ -389,11 +389,11 @@ les 2 strikers suivants ne pourront être que des "ratio 0", à savoir,
 soit Mai, Athena, Clark, Ryo ou Vice. Cette liste n'est pas définitive
 et est donnée à titre indicatif.
 
-`* 4 - K’, Raiden`  
-`* 3 - Andy, Shen, Kyo, Iori, Kula, Elisabeth, Takuma`  
-`* 2 - Leona, Ash, Benimaru, Yuri, Kim, Duolon, Chin`  
-`* 1 - Goro, Terry, Kensou, Mature, Maxima, Joe, Robert, King, Hwa, Ralf`  
-`* 0 - Mai, Athena, Clark, Ryo, Vice`
+`   * 4 - K’, Raiden`  
+`   * 3 - Andy, Shen, Kyo, Iori, Kula, Elisabeth, Takuma`  
+`   * 2 - Leona, Ash, Benimaru, Yuri, Kim, Duolon, Chin`  
+`   * 1 - Goro, Terry, Kensou, Mature, Maxima, Joe, Robert, King, Hwa, Ralf`  
+`   * 0 - Mai, Athena, Clark, Ryo, Vice`
 
 ## Personnages
 

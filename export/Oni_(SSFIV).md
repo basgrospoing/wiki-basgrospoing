@@ -36,67 +36,67 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Gouhadoken
 
-|                |                                                                                                                      |                                      |
-|----------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **GouHadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (Maintenir pour charger le Hado) | ![](/images/Ex.png "/images/Ex.png") |
+|                           |                                                                                                                      |                                      |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **GouHadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") (Maintenir pour charger le Hado) | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Gorai Hadoken
 
-|                   |                                                                                     |                                      |
-|-------------------|-------------------------------------------------------------------------------------|--------------------------------------|
-| **Gorai Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                              |                                                                                     |                                      |
+|------------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Gorai Hadoken** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Zanku Hadosho (en l'air)
 
-|                   |                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------|
-| **Zanku Hadosho** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                     |
+|------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Zanku Hadosho** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### GoShoryuken
 
-|                 |                                                                                   |                                      |
-|-----------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **GoShoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                            |                                                                                   |                                      |
+|----------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **GoShoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Tatsumaki
 
-|                   |                                                                                   |                                      |                 |
-|-------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| **Zanku Hadosho** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
+|                              |                                                                                   |                                      |                 |
+|------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| width="30% **Zanku Hadosho** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 #### Sekisei Jiraiken
 
-|                      |                                                                                 |                                      |
-|----------------------|---------------------------------------------------------------------------------|--------------------------------------|
-| **Sekisei Jiraiken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                                 |                                                                                 |                                      |
+|---------------------------------|---------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Sekisei Jiraiken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Rakan Dantojin
 
-|                    |                                                                                   |                                      |                 |
-|--------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| **Rakan Dantojin** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
+|                               |                                                                                   |                                      |                 |
+|-------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| width="30% **Rakan Dantojin** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 ### Supers
 
 #### Shun Goku Satsu Aka Raging Demon
 
-|                  |                                                                                                                                                                                              |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Raging Demon** | ![](/images/LP.png "/images/LP.png") ![](/images/LP.png "/images/LP.png") ![](/images/F.png "/images/F.png") + { ![](/images/LK.png "/images/LK.png") ![](/images/HP.png "/images/HP.png") } |
+|                             |                                                                                                                                                                                              |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Raging Demon** | ![](/images/LP.png "/images/LP.png") ![](/images/LP.png "/images/LP.png") ![](/images/F.png "/images/F.png") + { ![](/images/LK.png "/images/LK.png") ![](/images/HP.png "/images/HP.png") } |
 
 ### Ultras
 
 #### Meido Gohado(Ultra 1)
 
-|                  |                                                                                                                               |                 |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| **Meido Gohado** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
+|                             |                                                                                                                               |                 |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| width="30% **Meido Gohado** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 #### Tenchi Sokaigen(Ultra 2)
 
-|                  |                                                                                                                               |                 |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| **Meido Gohado** | ![](/images/hcf.png "/images/hcf.png")![](/images/hcf.png "/images/hcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
+|                             |                                                                                                                               |                 |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| width="30% **Meido Gohado** | ![](/images/hcf.png "/images/hcf.png")![](/images/hcf.png "/images/hcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Break** |
 
 ## 5 Combos
 

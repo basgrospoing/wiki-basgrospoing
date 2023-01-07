@@ -1,38 +1,60 @@
 ---
 title: "Melty Blood/Mech-Hisui & Neco Arc"
 slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc"
-id: 1804
-author: "Sannos"
+id: 1798
+author: "Oufan"
 permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-![ **Team:**   Neco Arc & Mech Hisui
-\|frame\|right](/images/Necomech0.png " Team:   Neco Arc & Mech Hisui |frame|right")
+![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
+\<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki
+(松来未祐)  —  **Type:**   Robot   —  **Gender:**   Female
+\<br\\\>\<br\\\> **Birthday:**   ?  —  **Sizes:**   ? / ? /
+?  —  **Height:**   ?cm  —  **Weight:**   ?kg \<br\\\>\<br\\\> **Eye
+Color:**   Grey  —  **Hair Color:**   Purple
+\|frame\|right](/images/Mhisui0.png " Name:   Mech-Hisui (メカヒスイ)  —  Nicknames:    - <br\><br\> Voiced by:   Miyu Matsuki (松来未祐)  —  Type:   Robot   —  Gender:   Female <br\><br\> Birthday:   ?  —  Sizes:   ? / ? / ?  —  Height:   ?cm  —  Weight:   ?kg <br\><br\> Eye Color:   Grey  —  Hair Color:   Purple |frame|right")
 
 # Introduction
+
+Le personnage de campe du jeu. Elle possède une variété de projectiles
+qui lui permettent de maintenir l'adversaire a distance. En
+contrepartie, elle a beaucoup de mal a se déplacer.
 
 # Histoire
 
 # Liste des Moons
 
-**Mech-Hisui & Neco Arc**
+**Mech-Hisui**
 
-[Crescent](Melty_Blood/Mech-Hisui_&_Neco_Arc/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Mech-Hisui_&_Neco_Arc/Half_Moon "wikilink")  
-[Full](Melty_Blood/Mech-Hisui_&_Neco_Arc/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Mech-Hisui/Crescent_Moon "wikilink")  
+Possède les "jetpacks" qui contrôle énormément les chemins aériens. Il
+est très difficile d'approcher cette Mech-Hisui par au dessus. Son jeu
+est relativement diversifié avec en plus quelques mixups et reversals.
+
+[Half](Melty_Blood/Mech-Hisui/Half_Moon "wikilink")  
+Possède une panoplie de coup avec énormément de portée vers l'avant.
+Elle attaque très facilement a l'horizontale, mais peine à se couvrir
+contre des attaques verticales. Pour pallier à ça, elle peut invoquer
+d'autres mechs qui continue de zoner horizontalement, mais à retardement
+pour gêner les attaques verticales adverses... Il s'agit de la moon la
+plus agressive à distance, capable d'infliger de très bon dégâts de
+l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
+
+[Full](Melty_Blood/Mech-Hisui/Full_Moon "wikilink")  
+...
 
 # Statistics
 
-| Character       | 100% | 75%  | 50%  | 25%  | Estimated Health |
-|-----------------|------|------|------|------|------------------|
-| **C-Neco&Mech** | 0.87 | 0.95 | 1.00 | 1.00 | 11975            |
-| **H-Neco&Mech** | 1.20 | 1.05 | 0.90 | 0.85 | 11608            |
-| **F-Neco&Mech** | 0.95 | 1.00 | 1.10 | 1.10 | 11031            |
+| Character  | 100% | 75%  | 50%  | 25%  | Estimated Health |
+|------------|------|------|------|------|------------------|
+| **C-Mech** | 0.87 | 0.90 | 1.00 | 1.00 | 12142            |
+| **H-Mech** | 1.20 | 1.00 | 0.90 | 0.85 | 11744            |
+| **F-Mech** | 0.85 | 0.87 | 1.00 | 1.05 | 12193            |
 
 # Palettes
 
-![](/images/Necomech-colors.png "/images/Necomech-colors.png")
+![](/images/Mhisui-colors.png "/images/Mhisui-colors.png")
 
 # Liste de joueurs
 

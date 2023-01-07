@@ -50,17 +50,17 @@ un rolling sobat mais moche... ce noob)
 
 ### Coups Uniques
 
-|              |                                                                                                                                              |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Headbutt** | ![](/images/U.png "/images/U.png") + ![](/images/MP.png "/images/MP.png") ou ![](/images/HP.png "/images/HP.png") (pendant un saut vertical) |
+|                         |                                                                                                                                              |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Headbutt** | ![](/images/U.png "/images/U.png") + ![](/images/MP.png "/images/MP.png") ou ![](/images/HP.png "/images/HP.png") (pendant un saut vertical) |
 
 Explications détaillés du coup: ce coup fait augmenter de **600** le
 stun de votre adversaire.EN 1 COUP.3 coups, voire 2 consécutivement et
 c'est le stun garanti.
 
-|                      |                                                                                                          |
-|----------------------|----------------------------------------------------------------------------------------------------------|
-| **Double Knee Drop** | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") (pendant un saut en diagonale) |
+|                                 |                                                                                                          |
+|---------------------------------|----------------------------------------------------------------------------------------------------------|
+| width="30% **Double Knee Drop** | ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") (pendant un saut en diagonale) |
 
 Explications détaillés du coup:
 
@@ -69,16 +69,16 @@ Zangief descend des airs les deux genoux vers la tete de l'adversaire.
 Peut être linké avec le ![](/images/360.png "/images/360.png") +
 ![](/images/Kick.png "/images/Kick.png") à la descente.
 
-|                        |                                                                                                          |
-|------------------------|----------------------------------------------------------------------------------------------------------|
-| **Flying Body Attack** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") (pendant un saut en diagonale) |
+|                                   |                                                                                                          |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------|
+| width="30% **Flying Body Attack** | ![](/images/D.png "/images/D.png") + ![](/images/HP.png "/images/HP.png") (pendant un saut en diagonale) |
 
 Explications détaillés du coup: Zangief tombe sur vous avec son puissant
 torsepoil bombé.Bon gros Jump-In sympathique qui a une grosse hitbox.
 
-|               |                                                                             |
-|---------------|-----------------------------------------------------------------------------|
-| **Long Kick** | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png") |
+|                          |                                                                             |
+|--------------------------|-----------------------------------------------------------------------------|
+| width="30% **Long Kick** | ![](/images/DF.png "/images/DF.png") + ![](/images/HK.png "/images/HK.png") |
 
 Explications détaillés du coup:LA balayette HK du jeu.Touche la moitié
 de l'écran (longueur réelle Oo).
@@ -89,25 +89,25 @@ de l'écran (longueur réelle Oo).
 
 #### Quick Lariat
 
-|                  |                                              |
-|------------------|----------------------------------------------|
-| **Quick Lariat** | ![](/images/3xKick.png "/images/3xKick.png") |
+|                             |                                              |
+|-----------------------------|----------------------------------------------|
+| width="30% **Quick Lariat** | ![](/images/3xKick.png "/images/3xKick.png") |
 
 Explications détaillés du coup:
 
 #### Double Lariat
 
-|                   |                                                |
-|-------------------|------------------------------------------------|
-| **Double Lariat** | ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                |
+|------------------------------|------------------------------------------------|
+| width="30% **Double Lariat** | ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Explications détaillés du coup:
 
 #### Banishing Flat
 
-|                    |                                                                                    |
-|--------------------|------------------------------------------------------------------------------------|
-| **Banishing Flat** | ![](/images/Dp.png "/images/Dp.png") ou ![](/images/Punch.png "/images/Punch.png") |
+|                               |                                                                                    |
+|-------------------------------|------------------------------------------------------------------------------------|
+| width="30% **Banishing Flat** | ![](/images/Dp.png "/images/Dp.png") ou ![](/images/Punch.png "/images/Punch.png") |
 
 Explications détaillés du coup:
 
@@ -127,9 +127,9 @@ le coup est bien timé,Touche 2 hits.
 
 #### Flying PowerBomb (Far 360 Kick)
 
-|                      |                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------|
-| **Flying PowerBomb** | ![](/images/360.png "/images/360.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                                 |                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Flying PowerBomb** | ![](/images/360.png "/images/360.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
@@ -140,9 +140,9 @@ rapidement son coup plus rapidement et gagne de l'Armor.
 
 #### Atomic Suplex (Close 360 Kick)
 
-|                   |                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------|
-| **Atomic Suplex** | ![](/images/360.png "/images/360.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                              |                                                                                   |
+|------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Atomic Suplex** | ![](/images/360.png "/images/360.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Explications détaillés du coup:
 
@@ -152,9 +152,9 @@ Explications détaillés du coup:
 
 #### Spinning PileDriver (SPD)
 
-|                          |                                                                                     |
-|--------------------------|-------------------------------------------------------------------------------------|
-| **Spinning Pile Driver** | ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                                     |                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Spinning Pile Driver** | ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explications détaillés du coup:
 
@@ -170,9 +170,9 @@ passivité de votre adversaire.
 
 #### Final Atomic Buster (Super)
 
-|                         |                                                                                                                            |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Final Atomic Buster** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                                    |                                                                                                                            |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Final Atomic Buster** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 Explications détaillés du coup:
 
@@ -180,17 +180,17 @@ Explications détaillés du coup:
 
 #### Ultimate Atomic Buster (Ultra 1)
 
-|                            |                                                                                                                                |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Ultimate Atomic Buster** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                       |                                                                                                                                |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Ultimate Atomic Buster** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Explications détaillés du coup:
 
 #### Siberian Blizzard (Ultra 2)
 
-|                       |                                                                                                                              |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Siberian Blizzard** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                  |                                                                                                                              |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Siberian Blizzard** | ![](/images/360.png "/images/360.png") ![](/images/360.png "/images/360.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Note:Le coup doit etre fait durant un saut.
 

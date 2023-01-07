@@ -15,18 +15,18 @@ layout:  "index.njk"
 
 #### Throws
 
-|                                |
-|--------------------------------|
-| Blue Noah : close, b or f + HP |
-| Red Noah: close, b or f + HK   |
+|                              |                    |
+|------------------------------|--------------------|
+| Blue Noah                    | close, b or f + HP |
+| Red Noah: close, b or f + HK |                    |
 
 ### Command Moves
 
 #### Special Moves
 
-|                                                                                                                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chain Blade Transaxle Slice: d, df, f + P Chain Blade Sagittal Edge Slice: f, d, df + P Divine Arrow Air: d, db, b + LP Divine Arrow Grand: d, db, b + HP Nega Genesis: d, df, f + K Void Genocide: d, db, b + K |
+|                                           |                                               |                                 |                                   |                            |                             |
+|-------------------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------|----------------------------|-----------------------------|
+| Chain Blade Transaxle Slice: d, df, f + P | Chain Blade Sagittal Edge Slice: f, d, df + P | Divine Arrow Air: d, db, b + LP | Divine Arrow Grand: d, db, b + HP | Nega Genesis: d, df, f + K | Void Genocide: d, db, b + K |
 
 #### Desperation
 

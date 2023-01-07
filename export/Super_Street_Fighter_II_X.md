@@ -1,7 +1,7 @@
 ---
 title: "Super Street Fighter II X"
 slug:  "Super_Street_Fighter_II_X"
-id: 2408
+id: 435
 author: "Admin"
 permalink:  "{{ slug }}.html"
 layout:  "index.njk"
@@ -1041,7 +1041,7 @@ leurs choppes normales ayant une plus courte portée. Si vous voulez en
 savoir plus sur toutes les choppes, consultez les [données de
 T.Akiba](http://nki.combovideos.com/data.html#distance).
 
-![](STthrowchart.gif "STthrowchart.gif")
+![](/images/STthrowchart.gif "/images/STthrowchart.gif")
 
 ## Tiers & Equilibrage
 

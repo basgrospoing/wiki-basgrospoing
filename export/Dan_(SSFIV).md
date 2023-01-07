@@ -42,55 +42,55 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Gadoken
 
-|             |                                                                                     |                                      |
-|-------------|-------------------------------------------------------------------------------------|--------------------------------------|
-| **Gadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                        |                                                                                     |                                      |
+|------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Gadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Koryuken
 
-|              |                                                                                   |                                      |
-|--------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Koryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                         |                                                                                   |                                      |
+|-------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Koryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Dankukyaku
 
-|             |                                                                                   |                                      |
-|-------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Hadoken** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                        |                                                                                   |                                      |
+|------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Hadoken** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Airborne Dankukyaku
 
-|                         |                                                                                   |                                      |
-|-------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Airborne Dankukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                                    |                                                                                   |                                      |
+|------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Airborne Dankukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 ### Super Combos
 
 #### Hissho Buraiken
 
-|                     |                                                                                                                            |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Hissho Buraiken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                                |                                                                                                                            |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Hissho Buraiken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 #### Legendary Taunt (Chouhatsu Densetsu)
 
-|                                          |                                                                                                                                                                  |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Legendary Taunt (Chouhatsu Densetsu)** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") +\[ ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") \] |
+|                                                     |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Legendary Taunt (Chouhatsu Densetsu)** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") +\[ ![](/images/HP.png "/images/HP.png") + ![](/images/HK.png "/images/HK.png") \] |
 
 ### Ultra Combos
 
 #### Shisso Buraiken (Ultra 1)
 
-|                     |                                                                                                                                |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Shisso Buraiken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                |                                                                                                                                |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shisso Buraiken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Haoh Gadoken (Ultra 2)
 
-|                  |                                                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Haoh Gadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                             |                                                                                                                              |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Haoh Gadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 3 Combos
 

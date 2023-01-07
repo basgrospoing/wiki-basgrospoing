@@ -393,8 +393,8 @@ A maitriser (dans l'ordre) :
 - Close A, Dp C Br!, Follow up
 - -Bas AB xx Furie A/C (si ça touche avec l'ennemi en l'air)
 
-`-Bas AB xx Dangai (La même sur terre)`  
-`-Le Bas AB xx Furie B, est moyennement rentable (10 Dégâts de plus qu'un Dangai contre une barre de furie)`
+` -Bas AB xx Dangai (La même sur terre)`  
+` -Le Bas AB xx Furie B, est moyennement rentable (10 Dégâts de plus qu'un Dangai contre une barre de furie)`
 
 - Saut B/D,Close A,Dp C Br!, Follow up (Globalement Close A Dp C Br!,
   qui permet de confirmer énormément de dégâts sur un simple light qui

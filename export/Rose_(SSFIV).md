@@ -32,13 +32,13 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Coups uniques
 
-|           |                                                                             |
-|-----------|-----------------------------------------------------------------------------|
-| **Slide** | ![](/images/Df.png "/images/Df.png") + ![](/images/MK.png "/images/MK.png") |
+|                      |                                                                             |
+|----------------------|-----------------------------------------------------------------------------|
+| width="30% **Slide** | ![](/images/Df.png "/images/Df.png") + ![](/images/MK.png "/images/MK.png") |
 
-|                |                                                                           |
-|----------------|---------------------------------------------------------------------------|
-| **Soul Piede** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
+|                           |                                                                           |
+|---------------------------|---------------------------------------------------------------------------|
+| width="30% **Soul Piede** | ![](/images/F.png "/images/F.png") + ![](/images/HK.png "/images/HK.png") |
 
 #### Choppes
 

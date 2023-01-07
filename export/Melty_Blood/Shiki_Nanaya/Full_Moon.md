@@ -119,6 +119,31 @@ Il faut être en max, car ce combo utilise l'initiative heat.
 <tr class="even">
 <td><p><strong>5A [Mid]</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5B[Mid]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2C [Low]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5C [Mid]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>5[C] [Overhead]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>j.A [Overhead]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>j.B [Overhead]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>j.C [Overhead]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>j.2A/2B/2C [Overhead]</strong></p>
+<p>-WARUI NE</p></td>
+</tr>
 </tbody>
 </table>
 

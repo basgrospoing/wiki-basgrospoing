@@ -123,6 +123,30 @@ Combo en corner.
 <tr class="even">
 <td><p><strong>5A [Mid]</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5A-&gt;6A-&gt;6A [Mid]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2B [Low]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5B [Mid]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2C [Low]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5C [Mid]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>j.A [Mid]</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>j.B [Overhead]</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>j.C [Overhead]</strong></p></td>
+</tr>
 </tbody>
 </table>
 

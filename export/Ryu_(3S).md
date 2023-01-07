@@ -76,4 +76,8 @@ répété des 360 avec le stick pour charger plus rapidement)
 
 ## Vidéos
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/g0hmeiRoG7o' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|g0hmeiRoG7o\|720\|align\|Trials Ryu}}
+
+</center>

@@ -18,13 +18,8 @@ d'informations, vous pouvez consulter le [thread meltybread
 
 Note : ce multiplicateur de dégâts est en général constant selon les
 moons, excepté pour Mech Hisui, Nero, et Neco&Mech  
-{\| border="1" cellpadding="2" cellspacing="0" \| align="center"
-style="background:#f0f0f0;"\|**Personnage** \| align="center"
-style="background:#f0f0f0;"\|**100%** \| align="center"
-style="background:#f0f0f0;"\|**75% ** \| align="center"
-style="background:#f0f0f0;"\|**50% ** \| align="center"
-style="background:#f0f0f0;"\|**25% ** \| align="center"
-style="background:#f0f0f0;"\|**PV**
+{\| border="1" cellpadding="2" cellspacing="0" \| **Personnage** \|
+**100%** \| **75% ** \| **50% ** \| **25% ** \| **PV**
 
 \|- \| Akiha\|\|0.92\|\|0.85\|\|0.82\|\|0.80\|\| 13488 \|- \|
 C-Nero\|\|0.90\|\|0.87\|\|0.87\|\|0.80\|\| 13280 \|- \|

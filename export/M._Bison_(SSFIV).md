@@ -258,9 +258,9 @@ jump in sont extrêmement rares.
 
 #### Knee Press
 
-|                |                                                                                                                          |
-|----------------|--------------------------------------------------------------------------------------------------------------------------|
-| **Knee Press** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") +![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                                                          |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Knee Press** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") +![](/images/Kick.png "/images/Kick.png") |
 
 ![](/images/LK.png "/images/LK.png") : safe on block, touche plus loin
 que les pokes, et touche deux hits, ce qui permet de battre les focus
@@ -282,9 +282,9 @@ EX-psycho crusher, souvent plus difficile à punir.
 
 #### Psycho Crusher
 
-|                    |                                                                                                                             |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Psycho Crusher** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                               |                                                                                                                             |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Psycho Crusher** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png")
 : **Armor break**. **Unsafe**. Le LP peut être safe à certaines
@@ -304,9 +304,9 @@ arrière.
 
 #### Devil Reverse
 
-|                   |                                                                                                                                                                           |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Devil Reverse** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") \> ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                                                                                                           |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Devil Reverse** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Punch.png "/images/Punch.png") \> ![](/images/Punch.png "/images/Punch.png") |
 
 ![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png")
 : Pas de différences entre les versions. Utile pour charger la barre de
@@ -329,9 +329,9 @@ mais la plupart du temps c'est d'un intérêt extrêmement limité.
 
 #### Head Press
 
-|                |                                                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Head Press** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                           |                                                                                                                           |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Head Press** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 ![](/images/LK.png "/images/LK.png"),![](/images/MK.png "/images/MK.png"),![](/images/HK.png "/images/HK.png")
 : Pas de différences entre les versions. S'il touche ou est bloqué,
@@ -359,9 +359,9 @@ saut.
 
 ##### Skull Diver (Followup Head Press)
 
-|                 |                                                                                 |
-|-----------------|---------------------------------------------------------------------------------|
-| **Skull Diver** | ![](/images/punch.png "/images/punch.png") après un head press touché ou bloqué |
+|                            |                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| width="30% **Skull Diver** | ![](/images/punch.png "/images/punch.png") après un head press touché ou bloqué |
 
 ![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png")
 : Pas de différences entre les versions. Excellent frame advantage s'il
@@ -376,9 +376,9 @@ focus attack. La hitbox semble également meilleure.
 
 #### Bison Warp
 
-|                |                                                                                                                                                                                 |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Bison Warp** | ![](/images/dp.png "/images/dp.png") ou ![](/images/rdp.png "/images/rdp.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
+|                           |                                                                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Bison Warp** | ![](/images/dp.png "/images/dp.png") ou ![](/images/rdp.png "/images/rdp.png") + ![](/images/3xPunch.png "/images/3xPunch.png") ou ![](/images/3xKick.png "/images/3xKick.png") |
 
 Arrière pied : Le plus utile de tous. Téléporte vers l'arrière à
 l'extrémité de l'écran, est donc complètement inutile quand on est
@@ -400,9 +400,9 @@ grattage à l'ultra.
 
 #### Knee Press Nightmare
 
-|                          |                                                                                                                                                                                                 |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Knee Press Nightmare** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") |
+|                                     |                                                                                                                                                                                                 |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Knee Press Nightmare** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") |
 
 Se hitconfirme facilement en super-cancellant n'importe quel knee press,
 grâce à la manip \*← → pied ← → pied. Le dernier hit doit se bloquer
@@ -417,9 +417,9 @@ provoquer et punir les projectiles.
 
 #### Nightmare Booster (Ultra 1)
 
-|                       |                                                                                                                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nightmare Booster** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                  |                                                                                                                                                                                                     |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Nightmare Booster** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 Se hitconfirme uniquement sur j.MP MP en juggle. Beaucoup
 d'invincibilité mais relative lente (12 frames), ce qui fait que le
@@ -430,9 +430,9 @@ up précis.
 
 #### Psycho Punisher (Ultra 2)
 
-|                     |                                                                                                                                                                                                       |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Psycho Punisher** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                |                                                                                                                                                                                                       |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Psycho Punisher** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 Se hitconfirme uniquement sur j.MP MP en juggle, mais moins facilement
 que l'Ultra 1 : le combo ne fonctionnera pas si l'adversaire n'est pas

@@ -64,4 +64,8 @@ Portrait](/images/Twelve3sport.gif "Character Select Portrait")
 
 ## Vidéos
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/1C8aVH3KO-k' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|1C8aVH3KO-k\|720\|align\|Trials Twelve}}
+
+</center>

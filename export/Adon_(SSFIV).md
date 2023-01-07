@@ -36,35 +36,35 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Jaguar Kick
 
-|                 |                                                                                     |                                      |                 |
-|-----------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
-| **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
+|                            |                                                                                     |                                      |                 |
+|----------------------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| width="30% **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Break** |
 
 #### Airborne Jaguar Kick
 
-|                          |                                                                                     |                                      |
-|--------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
-| **Airborne Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                                     |                                                                                     |                                      |
+|-------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Airborne Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Rising Jaguar
 
-|                 |                                                                                 |                                      |
-|-----------------|---------------------------------------------------------------------------------|--------------------------------------|
-| **Jaguar Kick** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                            |                                                                                 |                                      |
+|----------------------------|---------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Jaguar Kick** | ![](/images/dp.png "/images/dp.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Jaguar Tooth
 
-|                  |                                                                                   |                                      |
-|------------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Jaguar Tooth** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                             |                                                                                   |                                      |
+|-----------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Jaguar Tooth** | ![](/images/hcb.png "/images/hcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 ### Supers
 
 #### Jaguar Varied Assault
 
-|                 |                                                                                                                           |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Jaguar Kick** | ![](/images/hcf.png "/images/hcf.png")![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                            |                                                                                                                           |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Jaguar Kick** | ![](/images/hcf.png "/images/hcf.png")![](/images/hcf.png "/images/hcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ##### Thousand Jaguar (followup Super en mashant Poing)
 
@@ -74,15 +74,15 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 
 #### Jaguar Revolver(Ultra 1)
 
-|                 |                                                                                                                               |                    |     |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|
-| **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Breaking** |     |
+|                            |                                                                                                                               |                    |     |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|
+| width="30% **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") | **Armor Breaking** |     |
 
 #### Jaguar Avalanche (Ultra 2)
 
-|                 |                                                                                                                             |                    |     |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|
-| **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") | **Armor Breaking** |     |
+|                            |                                                                                                                             |                    |     |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|
+| width="30% **Jaguar Kick** | ![](/images/qcf.png "/images/qcf.png")![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") | **Armor Breaking** |     |
 
 ## 5 Combos
 

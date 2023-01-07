@@ -15,8 +15,24 @@ layout:  "index.njk"
 
 #### Choppes
 
+||
+||
+||
+
 ### Command Moves
+
+||
+||
+||
 
 #### Special Moves
 
+||
+||
+||
+
 #### Desperation Move
+
+|     |
+|-----|
+|     |

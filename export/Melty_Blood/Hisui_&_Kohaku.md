@@ -1,39 +1,46 @@
 ---
 title: "Melty Blood/Hisui & Kohaku"
 slug:  "Melty_Blood/Hisui_&_Kohaku"
-id: 1769
+id: 1763
 author: "Oufan"
 permalink:  "{{ slug }}.html"
 layout:  "index.njk"
 ---
 
-![](/images/Hisuiandkohaku0.png "/images/Hisuiandkohaku0.png")
+![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective
+\<br\\\>\<br\\\> **Voiced by:**   Matsuki Miyu (松来
+未祐)  —  **Type:**   Human, Maid Synchronizer  —  **Gender:**   Female
+\<br\\\>\<br\\\> **Birthday:**    March 12   —  **Sizes:**   
+B76/W58/H82   —  **Height:**    156cm   —  **Weight:**    43kg
+\<br\\\>\<br\\\> **Eye Color:**   Jade  —  **Hair Color:**   Pink
+\|frame\|right](/images/Hisui1.png " Name:   Hisui (翡翠)  —  Nicknames:    Brainwasher Detective <br\><br\> Voiced by:   Matsuki Miyu (松来 未祐)  —  Type:   Human, Maid Synchronizer  —  Gender:   Female <br\><br\> Birthday:    March 12   —  Sizes:    B76/W58/H82   —  Height:    156cm   —  Weight:    43kg <br\><br\> Eye Color:   Jade  —  Hair Color:   Pink |frame|right")
 
 # Introduction
 
-Jouer deux personnages en même temps, c'est cool. Et totalement
-fair-play.
+Personnage solide, très safe dans tout ce qu'elle fait. Il s'agit
+possiblement du personnage le plus "standard" du jeu, capable de
+s'adapter à toute situation et nécessitant simplement des bases solides
+en jeu de combat.
 
 # Histoire
 
 # Liste des Moons
 
-**Hisui & Kohaku**
+**Hisui**
 
-[Crescent](Melty_Blood/Hisui_&_Kohaku/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Hisui_&_Kohaku/Half_Moon "wikilink")  
-[Full](Melty_Blood/Hisui_&_Kohaku/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Hisui/Crescent_Moon "wikilink")  
+[Half](Melty_Blood/Hisui/Half_Moon "wikilink")  
+[Full](Melty_Blood/Hisui/Full_Moon "wikilink")  
 
 # Statistics
 
-| Character  | 100% | 75%  | 50%  | 25%  | Estimated Health |
-|------------|------|------|------|------|------------------|
-| **Hisui**  | 0.85 | 0.95 | 0.92 | 0.90 | 12190            |
-| **Kohaku** | 0.90 | 0.90 | 1.00 | 0.90 | 11932            |
+| Character | 100% | 75%  | 50%  | 25%  | Estimated Health |
+|-----------|------|------|------|------|------------------|
+| **Hisui** | 0.85 | 0.95 | 0.91 | 0.90 | 12617            |
 
 # Palettes
 
-![](/images/HisuKoha-colors.png "/images/HisuKoha-colors.png")
+![](/images/Hisui-colors.png "/images/Hisui-colors.png")
 
 # Liste de joueurs
 

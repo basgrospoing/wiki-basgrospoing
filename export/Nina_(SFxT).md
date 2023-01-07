@@ -26,53 +26,53 @@ layout:  "index.njk"
 
 ## Principaux normaux
 
-|                  |                                                                             |
-|------------------|-----------------------------------------------------------------------------|
-| **Ivory Cutter** | ![](/images/LP.png "/images/LP.png") + ![](/images/MK.png "/images/MK.png") |
+|                            |                                                                             |
+|----------------------------|-----------------------------------------------------------------------------|
+| width="30%**Ivory Cutter** | ![](/images/LP.png "/images/LP.png") + ![](/images/MK.png "/images/MK.png") |
 
 **Overhead.** **Ground bounce** si counterhit ou adversaire en l'air.
 
-|                      |                                                                              |
-|----------------------|------------------------------------------------------------------------------|
-| **Left Right Combo** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") |
+|                                |                                                                              |
+|--------------------------------|------------------------------------------------------------------------------|
+| width="30%**Left Right Combo** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") |
 
-|                                     |                                                                                                                      |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Left Right Combo to Spider Knee** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/LP.png "/images/LP.png") |
+|                                               |                                                                                                                      |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| width="30%**Left Right Combo to Spider Knee** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/LP.png "/images/LP.png") |
 
-|                      |                                                                                                                      |
-|----------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Bermuda Triangle** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/MK.png "/images/MK.png") |
+|                                |                                                                                                                      |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| width="30%**Bermuda Triangle** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/MK.png "/images/MK.png") |
 
-|                  |                                                                                                                                                              |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Biting Snake** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/LP.png "/images/LP.png") \~ ![](/images/MK.png "/images/MK.png") |
+|                            |                                                                                                                                                              |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30%**Biting Snake** | ![](/images/LP.png "/images/LP.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/LP.png "/images/LP.png") \~ ![](/images/MK.png "/images/MK.png") |
 
-|                           |                                                                              |
-|---------------------------|------------------------------------------------------------------------------|
-| **High to Spin Low Kick** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") |
+|                                     |                                                                              |
+|-------------------------------------|------------------------------------------------------------------------------|
+| width="30%**High to Spin Low Kick** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") |
 
-|                        |                                                                                                                      |
-|------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Blonde to Uppercut** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") |
+|                                  |                                                                                                                      |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| width="30%**Blonde to Uppercut** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") |
 
-|                         |                                                                                                                      |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Blonde to High Kick** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
+|                                   |                                                                                                                      |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| width="30%**Blonde to High Kick** | ![](/images/MK.png "/images/MK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
 
 **Cancelable** en Rolling Dash.
 
-|                 |                                                                                                                                                                                                     |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Flash Kicks** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
+|                           |                                                                                                                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30%**Flash Kicks** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
 
-|                                         |                                                                                                                                                                                                                                          |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Creeping Snake to Left Low Uppercut** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") |
+|                                                   |                                                                                                                                                                                                                                          |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30%**Creeping Snake to Left Low Uppercut** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") |
 
-|                                          |                                                                                                                                                                                                                                          |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Creeping Snake to Left Low High Kick** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
+|                                                    |                                                                                                                                                                                                                                          |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30%**Creeping Snake to Left Low High Kick** | ![](/images/df.png "/images/df.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MP.png "/images/MP.png") \~ ![](/images/D.png "/images/D.png") + ![](/images/LK.png "/images/LK.png") \~ ![](/images/MK.png "/images/MK.png") |
 
 **Cancelable** en Rolling Dash.
 
@@ -80,45 +80,45 @@ layout:  "index.njk"
 
 ### Coups spéciaux
 
-|                    |                                                                                     |
-|--------------------|-------------------------------------------------------------------------------------|
-| **Skull Splitter** | ![](/images/Rdp.png "/images/Rdp.png") + ![](/images/punch.png "/images/punch.png") |
+|                              |                                                                                     |
+|------------------------------|-------------------------------------------------------------------------------------|
+| width="30%**Skull Splitter** | ![](/images/Rdp.png "/images/Rdp.png") + ![](/images/punch.png "/images/punch.png") |
 
 ![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png")
 : **Ground bounce** si counterhit contre un perso baissé.
 
 **EX** : **Ground bounce.**
 
-|                   |                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------|
-| **Geyser Cannon** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/kick.png "/images/kick.png") |
+|                             |                                                                                   |
+|-----------------------------|-----------------------------------------------------------------------------------|
+| width="30%**Geyser Cannon** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/kick.png "/images/kick.png") |
 
 **EX** : **Startup invincible.**
 
-|                  |                                                                                   |
-|------------------|-----------------------------------------------------------------------------------|
-| **Rolling Dash** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/kick.png "/images/kick.png") |
+|                            |                                                                                   |
+|----------------------------|-----------------------------------------------------------------------------------|
+| width="30%**Rolling Dash** | ![](/images/hcf.png "/images/hcf.png") + ![](/images/kick.png "/images/kick.png") |
 
-|                   |                                                                                                              |
-|-------------------|--------------------------------------------------------------------------------------------------------------|
-| **Backhand Slap** | Pendant Rolling Dash ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
+|                             |                                                                                                              |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------|
+| width="30%**Backhand Slap** | Pendant Rolling Dash ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
 
-|               |                                                                                                               |
-|---------------|---------------------------------------------------------------------------------------------------------------|
-| **Arm Break** | Pendant Backhand Slap ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
+|                         |                                                                                                               |
+|-------------------------|---------------------------------------------------------------------------------------------------------------|
+| width="30%**Arm Break** | Pendant Backhand Slap ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
 
-|                      |                                                                                                           |
-|----------------------|-----------------------------------------------------------------------------------------------------------|
-| **Double Arm Break** | Pendant Arm Break ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
+|                                |                                                                                                           |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------|
+| width="30%**Double Arm Break** | Pendant Arm Break ![](/images/punch.png "/images/punch.png") + ![](/images/punch.png "/images/punch.png") |
 
 ![](/images/LP.png "/images/LP.png"),![](/images/MP.png "/images/MP.png"),![](/images/HP.png "/images/HP.png")
 : **Low.** **Invincible aux projectiles hauts.**
 
 **EX :** **Choppe.** **Invincible** sur le haut du corps.
 
-|                 |                                                                                     |
-|-----------------|-------------------------------------------------------------------------------------|
-| **Blonde Bomb** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.png "/images/punch.png") |
+|                           |                                                                                     |
+|---------------------------|-------------------------------------------------------------------------------------|
+| width="30%**Blonde Bomb** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/punch.png "/images/punch.png") |
 
 **Super charge.**
 
@@ -128,9 +128,9 @@ invincibilité** (frames 2 à 5). Entraine un **Crumple state**
 
 ### Super
 
-|                      |                                                                                         |
-|----------------------|-----------------------------------------------------------------------------------------|
-| **Double Explosion** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                |                                                                                         |
+|--------------------------------|-----------------------------------------------------------------------------------------|
+| width="30%**Double Explosion** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ## Combos
 

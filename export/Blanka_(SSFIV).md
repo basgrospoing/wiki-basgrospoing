@@ -86,15 +86,15 @@ solide même si certains match-ups sont très difficiles pour lui.
 
 #### Amazon River Run (Glissade en avant)
 
-|                    |                                                                             |
-|--------------------|-----------------------------------------------------------------------------|
-| **Rolling Attack** | ![](/images/DF.png "/images/DF.png") + ![](/images/HP.png "/images/HP.png") |
+|                               |                                                                             |
+|-------------------------------|-----------------------------------------------------------------------------|
+| width="30% **Rolling Attack** | ![](/images/DF.png "/images/DF.png") + ![](/images/HP.png "/images/HP.png") |
 
 #### Coward Crouch
 
-|                   |                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------|
-| **Coward Crouch** | ![](/images/D.png "/images/D.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                                                     |
+|------------------------------|-------------------------------------------------------------------------------------|
+| width="30% **Coward Crouch** | ![](/images/D.png "/images/D.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ### Choppes
 
@@ -104,69 +104,69 @@ solide même si certains match-ups sont très difficiles pour lui.
 
 #### Rolling Attack
 
-|                    |                                                                                                                             |                                      |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Rolling Attack** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                               |                                                                                                                             |                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Rolling Attack** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Backstep Ball
 
-|                   |                                                                                                                           |                                      |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Backstep Ball** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                              |                                                                                                                           |                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Backstep Ball** | ![](/images/B.png "/images/B.png") "Charge" ![](/images/F.png "/images/F.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Vertical Roll
 
-|                   |                                                                                                                           |                                      |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **Vertical Roll** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                              |                                                                                                                           |                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Vertical Roll** | ![](/images/D.png "/images/D.png") "Charge" ![](/images/U.png "/images/U.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Electric Thunder
 
-|                   |                                                                                    |                                      |
-|-------------------|------------------------------------------------------------------------------------|--------------------------------------|
-| **Vertical Roll** | Masher 5 fois n'importe quel ![](/images/Punch.png "/images/Punch.png") rapidement | ![](/images/Ex.png "/images/Ex.png") |
+|                              |                                                                                    |                                      |
+|------------------------------|------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Vertical Roll** | Masher 5 fois n'importe quel ![](/images/Punch.png "/images/Punch.png") rapidement | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Surprise Forward
 
-|                   |                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------|
-| **Backstep Ball** | ![](/images/F.png "/images/F.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                              |                                                                                   |
+|------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Backstep Ball** | ![](/images/F.png "/images/F.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 #### Surprise Back
 
-|                   |                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------|
-| **Backstep Ball** | ![](/images/B.png "/images/B.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                              |                                                                                   |
+|------------------------------|-----------------------------------------------------------------------------------|
+| width="30% **Backstep Ball** | ![](/images/B.png "/images/B.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ### Supers
 
 #### Ground Shave Roll
 
-|                   |                                                                                                                                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Backstep Ball** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                              |                                                                                                                                                                                                   |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Backstep Ball** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultras
 
 #### Lightning Cannonball (Ultra 1)
 
-|                   |                                                                                                                                                                                                       |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Backstep Ball** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                                                                                                                                                                       |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Backstep Ball** | ![](/images/B.png "/images/B.png") (Charge) ![](/images/F.png "/images/F.png") ![](/images/B.png "/images/B.png") ![](/images/F.png "/images/F.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Shout Of Earth (Ultra 2)
 
 ##### Should of Earth (anti-ground avec Punch) (Ultra 2)
 
-|                                              |                                                                                                                                                                                                               |
-|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Should of Earth (anti-ground avec Punch)** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                                                         |                                                                                                                                                                                                               |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Should of Earth (anti-ground avec Punch)** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 ##### Shout of Earth (anti-air avec Kick (Ultra 2))
 
-|                                              |                                                                                                                                                                                                             |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Should of Earth (anti-ground avec Punch)** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
+|                                                         |                                                                                                                                                                                                             |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Should of Earth (anti-ground avec Punch)** | ![](/images/Db.png "/images/Db.png") "Charge" ![](/images/Df.png "/images/Df.png") ![](/images/Db.png "/images/Db.png") ![](/images/Uf.png "/images/Uf.png") + ![](/images/3xKick.png "/images/3xKick.png") |
 
 ## 5 Combos
 

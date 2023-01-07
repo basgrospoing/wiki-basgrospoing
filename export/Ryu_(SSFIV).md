@@ -34,13 +34,13 @@ jeu](http://basgrospoing.fr/wiki/index.php?title=Super_Street_Fighter_IV)
 
 #### Coups uniques
 
-|                        |                                                                           |
-|------------------------|---------------------------------------------------------------------------|
-| **Collarbone Breaker** | ![](/images/f.png "/images/f.png") + ![](/images/MP.png "/images/MP.png") |
+|                                   |                                                                           |
+|-----------------------------------|---------------------------------------------------------------------------|
+| width="30% **Collarbone Breaker** | ![](/images/f.png "/images/f.png") + ![](/images/MP.png "/images/MP.png") |
 
-|                         |                                                                           |
-|-------------------------|---------------------------------------------------------------------------|
-| **Solar Plexus Strike** | ![](/images/f.png "/images/f.png") + ![](/images/HP.png "/images/HP.png") |
+|                                    |                                                                           |
+|------------------------------------|---------------------------------------------------------------------------|
+| width="30% **Solar Plexus Strike** | ![](/images/f.png "/images/f.png") + ![](/images/HP.png "/images/HP.png") |
 
 #### Choppes
 
@@ -50,49 +50,49 @@ jeu](http://basgrospoing.fr/wiki/index.php?title=Super_Street_Fighter_IV)
 
 #### Hadoken
 
-|             |                                                                                     |                                      |
-|-------------|-------------------------------------------------------------------------------------|--------------------------------------|
-| **Hadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                        |                                                                                     |                                      |
+|------------------------|-------------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Hadoken** | ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Shoryuken
 
-|               |                                                                                   |                                      |
-|---------------|-----------------------------------------------------------------------------------|--------------------------------------|
-| **Shoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
+|                          |                                                                                   |                                      |
+|--------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| width="30% **Shoryuken** | ![](/images/dp.png "/images/dp.png") + ![](/images/Punch.png "/images/Punch.png") | ![](/images/Ex.png "/images/Ex.png") |
 
 #### Tatsumaki Senpukyaku
 
-|                          |                                                                                   |                                      |                    |
-|--------------------------|-----------------------------------------------------------------------------------|--------------------------------------|--------------------|
-| **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Breaking** |
+|                                     |                                                                                   |                                      |                    |
+|-------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|--------------------|
+| width="30% **Tatsumaki Senpukyaku** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Breaking** |
 
 ##### Airborne Tatsumaki Senpukyaku
 
-|                                     |                                                                                   |                                      |                    |
-|-------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|--------------------|
-| **Tatsumaki Senpukyaku (en l'air)** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Breaking** |
+|                                                |                                                                                   |                                      |                    |
+|------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------|--------------------|
+| width="30% **Tatsumaki Senpukyaku (en l'air)** | ![](/images/qcb.png "/images/qcb.png") + ![](/images/Kick.png "/images/Kick.png") | ![](/images/Ex.png "/images/Ex.png") | **Armor Breaking** |
 
 ### Super Combos
 
 #### Shinku Hadoken
 
-|                    |                                                                                                                            |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Shinku Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
+|                               |                                                                                                                            |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Shinku Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/Punch.png "/images/Punch.png") |
 
 ### Ultra Combos
 
 #### Metsu Hadoken (Ultra 1)
 
-|                   |                                                                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Metsu Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
+|                              |                                                                                                                                |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| width="30% **Metsu Hadoken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xPunch.png "/images/3xPunch.png") |
 
 #### Metsu Shoryuken (Ultra 2)
 
-|                     |                                                                                                                              |                    |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| **Metsu Shoryuken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") | **Armor Breaking** |
+|                                |                                                                                                                              |                    |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| width="30% **Metsu Shoryuken** | ![](/images/qcf.png "/images/qcf.png") ![](/images/qcf.png "/images/qcf.png") + ![](/images/3xKick.png "/images/3xKick.png") | **Armor Breaking** |
 
 ## 3 Combos
 

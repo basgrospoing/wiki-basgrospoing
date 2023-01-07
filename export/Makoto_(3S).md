@@ -95,4 +95,8 @@ Portrait](/images/makoto3sport.gif "Character Select Portrait")
 
 ## Vidéos
 
-<iframe width='560' height='315' src='https://www.youtube.com/embed/J15YZts9t9I' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+<center>
+
+{{#ev:youtubehd\|J15YZts9t9I\|720\|align\|Trials Makoto}}
+
+</center>
