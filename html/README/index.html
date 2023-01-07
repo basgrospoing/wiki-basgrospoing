@@ -1,0 +1,14 @@
+<h1 id="wiki-basgrospoing" tabindex="-1">wiki-basgrospoing</h1>
+<p>A conversion from mediawiki to HTML files using a scrapper and some voodoo magic.</p>
+<h2 id="required-htaccess" tabindex="-1">Required HTACCESS</h2>
+<p>Go from / to Accueil</p>
+<pre><code>RewriteEngine on
+RewriteCond %{HTTP_HOST} ^wiki\.basgrospoing\.fr$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.wiki\.basgrospoing\.fr$
+RewriteRule ^index\.php\/$ &quot;https\:\/\/wiki\.basgrospoing\.fr\/index\.php\/Accueil&quot; [R=302,L]
+</code></pre>
+<p>Prettyfy urls</p>
+<pre><code>RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+</code></pre>

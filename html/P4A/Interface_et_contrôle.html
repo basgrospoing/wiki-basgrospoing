@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>P4A/Interface et contrôle - Wiki Bas Gros Poing</title>
+    
+    <link rel="stylesheet" href="assets/pico.min.css">
+    <style>
+
+      iframe {
+        max-width: 100%;
+        aspect-ratio: 16/9;
+      }
+
+      article img {
+        float:initial;
+        display:inline;
+        margin:unset;
+      }
+
+      .toc * {
+        all: revert;
+      }
+
+      thead {
+        background:var(--form-element-background-color);
+      }
+    </style>
+
+    <meta name="description" content="Page de wiki au sujet de P4A/Interface et contrôle">
+    <meta property="og:title" content="P4A/Interface et contrôle - Wiki Bas Gros Poing">
+    <meta property="og:description" content="Page de wiki au sujet de P4A/Interface et contrôle">
+    <meta property="og:image" content="https://www.mywebsite.com/image.jpg">
+    <meta property="og:image:alt" content="Image description">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:url" content="https://www.mywebsite.com/page">
+    <link rel="canonical" href="https://wiki.basgrospoing.fr/P4A/Interface_et_contrôle">
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/my.webmanifest">
+    <meta name="theme-color" content="#FF00FF">
+
+  </head>
+
+  <body>
+    <main class="container">
+      <nav>
+        <ul>
+          <li>
+            <strong>Wiki Bas Gros Poing</strong>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/">Accueil</a>
+          </li>
+          <li>
+            <a href="https://github.com/Thomasorus/wiki-basgrospoing">Code source</a>
+          </li>
+
+        </ul>
+      </nav>
+      <article>
+        <h1>P4A/Interface et contrôle
+        </h1>
+        <h1 id="commandes" tabindex="-1">Commandes</h1>
+<p>Comme la plupart des autres jeux récemment développés par Arc System
+Works, <a href="Persona_4_Arena" title="wikilink">Persona 4 Arena</a> se joue avec 8
+directions et 4 boutons. Voici la disposition officielle des boutons sur
+la version arcade :</p>
+<p><img src="/images/P4A_Arcade_Layout.png" alt="" title="/images/P4A_Arcade_Layout.png"></p>
+<p>Pour connaître l’effet des différentes touches et combinaisons,
+consultez l’article <a href="P4A/M%C3%A9canismes" title="wikilink">mécanismes généraux</a>.</p>
+<h1 id="interface" tabindex="-1">Interface</h1>
+<p>Afin de comprendre quels sont les différents éléments de l’interface,
+étudions l’image suivante prise en jeu :</p>
+<p><img src="/images/HUD.jpg" alt="" title="/images/HUD.jpg"></p>
+<h2 id="sant%C3%A9" tabindex="-1">Santé</h2>
+<p><img src="/images/Sant%C3%A9.jpg" alt="" title="/images/Santé.jpg"></p>
+<ul>
+<li>La donnée fondamentale dans tout jeu de combat. L’objectif est d’avoir
+plus de santé que l’adversaire à la fin du round.</li>
+<li>Dans certaines situations, une partie de la barre de santé changera de
+couleur et deviendra bleue (<em>santé bleue</em> ou <em>barre bleue</em>). Cette
+santé correspond en fait à des dégâts temporairement subis qui se
+régénère automatiquement au bout de 5 secondes sans avoir subit de
+dégâts. Si des dégâts sont subis avant d’avoir récupéré toute la santé
+bleue, le restant de barre bleue disparaîtra en plus des dégâts subis
+à cause de l’attaque les ayant provoqués.</li>
+</ul>
+<p><img src="/images/Sant%C3%A9_bleue.jpg" alt="" title="/images/Santé_bleue.jpg"></p>
+<h2 id="sp" tabindex="-1">SP</h2>
+<p><img src="/images/Sp.jpg" alt="" title="/images/Sp.jpg"></p>
+<ul>
+<li>Correspond au <em>meter</em>, dans le cas de tous les personnages (sauf
+Elizabeth), la barre se charge lorsque le personnage attaque ou bloque
+ou dans certaines situations particulières (dans le cas d’Akihiko par
+exemple). Les attaques spéciales, les super, les <em>One More Cancel</em>
+ainsi que les <em>Instant Kill</em> consomment des points de SP.</li>
+<li>Lorsque le personnage entre en <em>awakening</em>, la barre est étendue de 50
+SP qui sont automatiquement fournis, son apparence change également.</li>
+<li>Des informations spécifiques au personnage joué sont affichées au
+dessus de la barre de SP (parfois sous la barre de points Persona),
+celles-ci sont détaillées sur la page des personnages correspondant.</li>
+</ul>
+<h2 id="timer" tabindex="-1">Timer</h2>
+<p><img src="/images/Timer.jpg" alt="" title="/images/Timer.jpg"></p>
+<ul>
+<li>Le compteur temporel qui indique le temps restant avant la fin du
+round dans le cas où aucun des deux adversaires n’est mis K.O. Si le
+round finit de cette manière, le personnage ayant le plus de points de
+vie remporte le round.</li>
+</ul>
+<h2 id="round" tabindex="-1">Round</h2>
+<p><img src="/images/Round.jpg" alt="" title="/images/Round.jpg"></p>
+<ul>
+<li>Indique le nombre de rounds remportés par chaque personnage. Un carré
+jaune correspond à un round restant à remporter pour gagner le match,
+un carré rouge et blanc à un round déjà remporté.</li>
+</ul>
+<h2 id="burst" tabindex="-1">Burst</h2>
+<p><img src="/images/Burst_hud.jpg" alt="" title="/images/Burst_hud.jpg"></p>
+<ul>
+<li>Indique la disponibilité du Burst (++). Cette barre se remplit
+automatiquement au cours du round. Lorsqu’elle se charge, un simple B
+est affiché et lorsqu’elle est pleine, le mot BURST est affiché en
+rose.</li>
+<li>Dans certaines situations (certains coups spéciaux ou les supers), il
+est impossible d’exécuter un Burst. Cela est alors indiqué par un
+changement de l’affichage de la barre de Burst :</li>
+</ul>
+<p><img src="/images/No_burst.jpg" alt="" title="/images/No_burst.jpg"></p>
+<h2 id="points-persona" tabindex="-1">Points Persona</h2>
+<p><img src="/images/Points_Persona.jpg" alt="" title="/images/Points_Persona.jpg"></p>
+<ul>
+<li>À chaque fois que le Persona est touché, le joueur perd un point.</li>
+<li>Lorsque le joueur n’a plus de point Persona, il ne peut plus exécuter
+les actions qui le nécessitent telles que les attaques Persona (/) ou
+les Burst. Le joueur doit alors attendre dix secondes avant de nouveau
+bénéficier de tous ses points.</li>
+</ul>
+
+         <footer>
+        Initially last edited: 2012-08-06 by Kabai.
+      </footer>
+      </article>
+    </main>
+   
+  </body>
+</html>
