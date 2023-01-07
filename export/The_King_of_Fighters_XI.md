@@ -141,14 +141,18 @@ width="300" alt="Ecran de jeux" />
     aquis
 
   
-==Règles du duel== Un match se dispute entre deux équipes composées
-chacune de trois membres et se termine à la défaite de tous les membres
-d'une des équipes. Si le match n'est pas terminé à la fin du décompte de
-temps, le vainqueur de celui-ci est décidé par la jauge de jugement
-(voir Judgement Indicator).
+
+## Règles du duel
+
+Un match se dispute entre deux équipes composées chacune de trois
+membres et se termine à la défaite de tous les membres d'une des
+équipes. Si le match n'est pas terminé à la fin du décompte de temps, le
+vainqueur de celui-ci est décidé par la jauge de jugement (voir
+Judgement Indicator).
 
   
-==Description des points de gameplay==
+
+## Description des points de gameplay
 
 ### Normal Shift
 
@@ -265,21 +269,28 @@ savoir quel est le joueur qui à l'avantage pendant le match. Elle sert
 aussi à déterminer le vainqueur si le décompte de temps arrive à zéro.
 
   
-==Choix de la couleur du personnage== On peut choisir la couleur de son
-personnage avec une des manipulations suivantes au moment du choix du
-personnage.
 
-|          |     | Maintenir E | Maintenir Start |
-|----------|-----|:-----------:|:---------------:|
-| <b>A</b> | 1   |      5      |        9        |
-| <b>B</b> | 2   |      6      |       10        |
-| <b>C</b> | 3   |      7      |       11        |
-| <b>D</b> | 4   |      6      |       12        |
+## Choix de la couleur du personnage
+
+On peut choisir la couleur de son personnage avec une des manipulations
+suivantes au moment du choix du personnage.
+
+|       |     | Maintenir E | Maintenir Start |
+|-------|-----|:-----------:|:---------------:|
+| **A** | 1   |      5      |        9        |
+| **B** | 2   |      6      |       10        |
+| **C** | 3   |      7      |       11        |
+| **D** | 4   |      6      |       12        |
 
   
-==Débloquer les personnages==
+
+## Débloquer les personnages
+
+<figure>
 <img src="/images/kofxi-system-arcade.jpg" title="Système arcade"
 width="300" alt="Système arcade" />
+<figcaption aria-hidden="true">Système arcade</figcaption>
+</figure>
 
 ### Atomiswave
 
@@ -288,69 +299,72 @@ ceux-ci soit disponibles. Attention, le temps de jeux en freeplay n'est
 pas pris en compte et si l'on change de jeux, le temps sera réinitialisé
 à zéro.
 
-| Personnage                | Temps de jeux |
-|---------------------------|:-------------:|
-| <b>Adelheid Bernstein</b> |  720 heures   |
-| <b>Gai Tendo</b>          |  960 heures   |
-| <b>Jazu</b>               |  1200 heures  |
-| <b>Syo Hayate</b>         |  1440 heures  |
-| <b>Silver</b>             |  1200 heures  |
+| Personnage             | Temps de jeux |
+|------------------------|:-------------:|
+| **Adelheid Bernstein** |  720 heures   |
+| **Gai Tendo**          |  960 heures   |
+| **Jazu**               |  1200 heures  |
+| **Syo Hayate**         |  1440 heures  |
+| **Silver**             |  1200 heures  |
 
 ### Playstation 2
 
 Si vous terminez le mode challenge dans son intégralité alors tous sera
 débloqué dans le jeux.
 
-| Personnage                |                                                 Action pour débloquer le personnage                                                 |
-|---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| <b>Adelheid Bernstein</b> |                                                              Le battre                                                              |
-| <b>EX Kyo Kusanagi</b>    |                                                         Finir challenge 30                                                          |
-| <b>Gai Tendo</b>          | Faire un Super Special Leader Move durant un des trois premier match sans perdre un seul personnage pour le rencontrer et le battre |
-| <b>Geese Howard</b>       |                                           Finir le challenge 40 ou le recommencer 20 fois                                           |
-| <b>Hotaru Futaba</b>      |                                                        Finir le challenge 15                                                        |
-| <b>Jazu</b>               |  Faire 6 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
-| <b>Magaki</b>             |                                                        Finir le challenge 6                                                         |
-| <b>Mai Shiranui</b>       |                                                        Finir le challenge 20                                                        |
-| <b>Mr. Big</b>            |                                                        Finir le challenge 35                                                        |
-| <b>Robert Garcia</b>      |                                                        Finir le challenge 10                                                        |
-| <b>Shion</b>              |                                                        Finir le challenge 5                                                         |
-| <b>Syo Hayate</b>         |  Faire 3 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
-| <b>Silver</b>             |  Faire 6 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
-| <b>Tung Fu Rue</b>        |                                                         Finir challenge 25                                                          |
+| Personnage             |                                                 Action pour débloquer le personnage                                                 |
+|------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| **Adelheid Bernstein** |                                                              Le battre                                                              |
+| **EX Kyo Kusanagi**    |                                                         Finir challenge 30                                                          |
+| **Gai Tendo**          | Faire un Super Special Leader Move durant un des trois premier match sans perdre un seul personnage pour le rencontrer et le battre |
+| **Geese Howard**       |                                           Finir le challenge 40 ou le recommencer 20 fois                                           |
+| **Hotaru Futaba**      |                                                        Finir le challenge 15                                                        |
+| **Jazu**               |  Faire 6 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
+| **Magaki**             |                                                        Finir le challenge 6                                                         |
+| **Mai Shiranui**       |                                                        Finir le challenge 20                                                        |
+| **Mr. Big**            |                                                        Finir le challenge 35                                                        |
+| **Robert Garcia**      |                                                        Finir le challenge 10                                                        |
+| **Shion**              |                                                        Finir le challenge 5                                                         |
+| **Syo Hayate**         |  Faire 3 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
+| **Silver**             |  Faire 6 Super Special Leader Move durant les trois premiers match sans perdre un seul personnage pour le rencontrer et le battre   |
+| **Tung Fu Rue**        |                                                         Finir challenge 25                                                          |
 
   
-==Stages==
 
-Image:kofxi-ruins-stage.gif \| Ruins Image:kofxi-temple-stage.gif \|
-Temple Image:kofxi-alley-stage.gif \| Alley
-Image:kofxi-ice-festival-stage.gif \| Ice Festival
-Image:kofxi-beach-stage.gif \| Beach Image:kofxi-white-town-stage.gif \|
-White Town Image:kofxi-aqueduct-stage.gif \| Aqueduct
-Image:kofxi-the-final-hall-stage.gif \| The final hall
-Image:kofxi-the-different-space-stage.gif \| The different space
+## Stages
+
+![ Ruins](/images/kofxi-ruins-stage.gif " Ruins") ![
+Temple](/images/kofxi-temple-stage.gif " Temple") ![ Alley \|
+](/images/kofxi-alley-stage.gif " Alley | ") ![ Ice
+Festival](/images/kofxi-ice-festival-stage.gif " Ice Festival") ![
+Beach](/images/kofxi-beach-stage.gif " Beach") ![ White
+Town](/images/kofxi-white-town-stage.gif " White Town") ![
+Aqueduct](/images/kofxi-aqueduct-stage.gif " Aqueduct") ![ The final
+hall](/images/kofxi-the-final-hall-stage.gif " The final hall") ![ The
+different
+space](/images/kofxi-the-different-space-stage.gif " The different space")
+
+## Personnages
 
   
 <img src="/images/kofxi-personnage.jpg" title="Choix des personnages"
 width="400" alt="Choix des personnages" />
 
-## Personnages
-
-|               Liste des équipes               |
-|:---------------------------------------------:|
-|               <b>Hero Team</b>                |
-|                <b>K' Team</b>                 |
-|            <b>Fatal Fury Team</b>             |
-|     <b>Garou: Mark of the Wolves Team</b>     |
-|            <b>Kyo & Iori Team</b>             |
-|               <b>Agent Team</b>               |
-|          <b>Ikari Warriors Team</b>           |
-|          <b>Art of Fighting Team</b>          |
-|        <b>Anti Kyokugen Style Team</b>        |
-|               <b>Rival Team</b>               |
-|          <b>Psycho Soldier Team</b>           |
-|              <b>Boss du jeux</b>              |
-|       [Silver](kofxi-silver "wikilink")       |
-|       [Magaki](kofxi_magaki "wikilink")       |
-|   <b>Personnage exclusif Playstation 2</b>    |
-|  [Tung Fu Rue](kofxi-tung-fu-rue "wikilink")  |
-| [Geese Howard](kofxi-geese-howard "wikilink") |
+|                                   |                                                                 |                                                                 |                                                       |
+|-----------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|
+| Hero Team                         | [Ash Crimson](kofxi-ash-crimson "wikilink")                     | [Oswald](kofxi-oswald "wikilink")                               | [Shen Woo](kofxi-shen-woo "wikilink")                 |
+| K Team                            | [K](kofxi-k "wikilink")                                         | [Kula Diamond](kofxi-kula-diamond "wikilink")                   | [Maxima](kofxi-maxima "wikilink")                     |
+| Fatal Fury Team                   | [Terry Bogard](kofxi-terry-bogard "wikilink")                   | [Kim Kaphwan](kofxi-kim-kaphwan "wikilink")                     | [Duck King](kofxi-duck-king "wikilink")               |
+| Garou: Mark of the Wolves Team    | [B.Jenet](kofxi-bonne-jenet "wikilink")                         | [Gato Futaba](The_King_of_Fighters_XI_-_Gato_Futaba "wikilink") | [Griffon](kofxi-griffon "wikilink")                   |
+| Kyo & Iori Team                   | [Kyo Kusanagi](kofxi-kyo-kusanagi "wikilink")                   | [Iori Yagami](kofxi-iori-yagami "wikilink")                     | [Shingo Yabuki](kofxi-shingo-yabuki "wikilink")       |
+| Agent Team                        | [Vanessa](kofxi-vanessa "wikilink")                             | [Blue Mary](kofxi-blue-mary "wikilink")                         | [Ramon](kofxi-ramon "wikilink")                       |
+| Ikari Warriors Team               | [Ralf Jones](kofxi-ralf-jones "wikilink")                       | [Clark Steel](kofxi-clark-steel "wikilink")                     | [Whip](kofxi-whip "wikilink")                         |
+| Art of Fighting Team              | [Ryo Sakazaki](kofxi-ryo-sakazaki "wikilink")                   | [Yuri Sakazaki](kofxi-yuri-sakazaki "wikilink")                 | [King](kofxi-king "wikilink")                         |
+| Anti Kyokugen Style Team          | [Malin](kofxi-malin "wikilink")                                 | [Kasumi Todoh](kofxi-kasumi-todoh "wikilink")                   | [Eiji Kisaragi](kofxi-eiji-kisaragi "wikilink")       |
+| Rival Team                        | [Elisabeth Blanctorche](kofxi-elisabeth-blanctorche "wikilink") | [Duo Lon](kofxi-duo-lon "wikilink")                             | [Benimaru Nikaido](kofxi-benimaru-nikaido "wikilink") |
+| Psycho Soldier Team               | [Athena Asamiya](kofxi-athena-asamiya "wikilink")               | [Sie Kensou](kofxi-sie-kensou "wikilink")                       | [Momoko](kofxi-momoko "wikilink")                     |
+| Boss du jeux                      | [Gai Tendo](kofxi-gai-tendo "wikilink")                         | [Syo Hayate](kofxi-syo-hayate "wikilink")                       | [Jazu](kofxi-jazu "wikilink")                         |
+|                                   | [Magaki](kofxi_magaki "wikilink")                               |                                                                 |                                                       |
+| Personnage exclusif Playstation 2 | [Robert Garcia](kofxi-robert-garcia "wikilink")                 | [Hotaru Futaba](kofxi-hotaru-futaba "wikilink")                 | [Mai Shiranui](kofxi-mai-shiranui "wikilink")         |
+|                                   | [Tung Fu Rue](kofxi-tung-fu-rue "wikilink")                     | [EX Kyo Kusanagi](kofxi-ex-kyo-kusanagi "wikilink")             | [Mr. Big](kofxi-mr-big "wikilink")                    |
+|                                   | [Geese Howard](kofxi-geese-howard "wikilink")                   |                                                                 |                                                       |

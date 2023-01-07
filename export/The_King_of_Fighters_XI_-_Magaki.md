@@ -9,7 +9,8 @@ redirect: "Kofxi_magaki"
 old_id: 950
 ---
 
-Image:kofxi-magaki1.jpg Image:kofxi-magaki2.jpg
+![](/images/kofxi-magaki1.jpg "/images/kofxi-magaki1.jpg")
+\[\[Image:/images/kofxi-magaki2.jpg
 
 ## Introduction
 

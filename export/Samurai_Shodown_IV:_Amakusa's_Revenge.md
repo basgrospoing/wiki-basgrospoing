@@ -46,14 +46,14 @@ le Sakoku (littéralement « fermeture du pays »).
 
 ### Série et dates de sortie
 
-<b>Préquelles</b>
+**Préquelles**
 
 - 1993 - Samurai Shodown / Samurai Spirits
 - 1994 - Samurai Shodown 2 / Shin Samurai Spirits: Haohmaru jigokuhen
 - 1995 - Samurai Shodown 3: Blades of Blood / Samurai Spirits: Zankurou
   Musouken / Fighters Swords
 
-<b>Séquelles</b>
+**Séquelles**
 
 - 1997 - Samurai Shodown 64 / Samurai Spirits: Samurai Tamashii
 - 1998 - Samurai Shodown Warriors Rage / Samurai Spirits 2: Asura
@@ -116,8 +116,11 @@ rencontrerez. ![Ecran de titre](/images/ss4-title.png "Ecran de titre")
 | Zankuro Minazuki             |                   |
 
   
-=== Limite de temps === Lorsque l'on débute une partie, on a un temps
-limité pour atteindre le château d'Amakusa.  
+
+### Limite de temps
+
+Lorsque l'on débute une partie, on a un temps limité pour atteindre le
+château d'Amakusa.  
 \* Si l'on dépasse cette limite de temps, on ne se battra ni avec
 Amakusa et ni avec Zankuro. On rencontrera directement son ennemi de
 prédilection et si l'on gagne, on obtiendra la mauvaise fin.
@@ -138,17 +141,17 @@ width="300" alt="Instruction Card" />
 
 ### Attaque
 
-<b>Avec son arme</b>
+**Avec son arme**
 
 - A : coup faible avec son arme
 - B : coup moyen avec son arme
 - C : coup fort avec son arme
 
-<b>Sans son arme</b>
+**Sans son arme**
 
 - A ou B ou C : coup de poing
 
-<b>Autre</b>
+**Autre**
 
 - D : coup de pied
 - → ou ↘ D : coup de pied fort
@@ -250,7 +253,7 @@ plus votre "Rage Meter" sera remplie.
 La "Rage Meter" se vide très rapidement avec le temps et lors de
 l'utilisation des nouvelles attaques disponibles.  
   
-<b>Nouvelles attaques disponibles :</b>
+**Nouvelles attaques disponibles :**
 
 - A+B+C : Combination Slash : consume votre "Rage Meter". Peut-être
   utiliser jusqu'à quatre fois si la "Rage Meter" est pleine.
@@ -420,24 +423,24 @@ Image:ss4-amakusa-castle-stage5.gif \| Amakusa Castle stage 5
 
 ## Tiers list
 
-<b>Godlike : </b>Zankuro \[s/b\]
+**Godlike :**Zankuro \[s/b\]
 
-<b>Hight Top : </b>Hanzo \[s\], Haohmaru \[b\], Galford \[s\], Nakoruru
+**Hight Top :**Hanzo \[s\], Haohmaru \[b\], Galford \[s\], Nakoruru
 \[s\]
 
-<b>Hight Mid : </b>Charlotte \[b\], Amakusa \[b\], Gaira \[s\], Sogetsu
+**Hight Mid :**Charlotte \[b\], Amakusa \[b\], Gaira \[s\], Sogetsu
 \[s\], Haohmaru \[s\]
 
-<b>Medium Hight : </b>Basara \[s\], Charlotte \[s\], Ukyo \[b\], Sogetsu
+**Medium Hight :**Basara \[s\], Charlotte \[s\], Ukyo \[b\], Sogetsu
 \[b\], Kazuki \[b\], Amakusa \[s\], Genjuro \[s/b\], Hanzo \[b\]
 
-<b>Medium Low : </b>Rimururu \[s\], Kazuki \[s\], Ukyo \[s\], Galford
-\[b\], Gaira \[b\]
+**Medium Low :**Rimururu \[s\], Kazuki \[s\], Ukyo \[s\], Galford \[b\],
+Gaira \[b\]
 
-<b>Low Mid : </b>Kyoshiro \[s\], Jubei \[s/b\], Shizumaru \[b\], Basara
+**Low Mid :**Kyoshiro \[s\], Jubei \[s/b\], Shizumaru \[b\], Basara
 \[b\], Rimururu \[b\]
 
-<b>Low Bottom : </b>Kyoshiro \[b\], Tam Tam \[s/b\], Nakoruru \[b\],
+**Low Bottom :**Kyoshiro \[b\], Tam Tam \[s/b\], Nakoruru \[b\],
 Shizumaru \[s\]
 
   

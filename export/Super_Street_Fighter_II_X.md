@@ -1428,12 +1428,12 @@ arcade Américaine:
 <tr>
 <td>
 
-<b>Version Américaine</b>
+**Version Américaine**
 
 </td>
 <td>
 
-<b>Version Japonaise</b>
+**Version Japonaise**
 
 </td>
 </tr>

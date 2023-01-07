@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-slug:  "Accueil"
+slug:  "index"
 id: 1
 author: "Admin"
 permalink:  "{{ slug }}.html"

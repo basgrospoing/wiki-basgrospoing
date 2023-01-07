@@ -10,7 +10,8 @@ layout:  "index.njk"
 <img src="/images/jaquette_windjammers.jpg"
 title="/images/jaquette_windjammers.jpg" width="400"
 alt="/images/jaquette_windjammers.jpg" />  
-== Présentation ==
+
+## Présentation
 
 ### Informations générales
 

@@ -154,22 +154,22 @@ fiches de personnage)
 The King Of Fighters XIII utilise plusieurs types de sauts, chacun ayant
 des propriétés et portés différentes:
 
-- <font color="#FFBB00"><b>Normal jump</b> : Sauter (↖ ou ↑ ou ↗) et
+- <font color="#FFBB00">**Normal jump** : Sauter (↖ ou ↑ ou ↗) et
   maintenir la direction.
 
 Startup frame :
 
-- <font color="#FF0000"><b>Hyper jump</b> : appuyer en bas (↙ ou ↓ ou ↘)
+- <font color="#FF0000">**Hyper jump** : appuyer en bas (↙ ou ↓ ou ↘)
   puis rapidement sauter (↖ ou ↑ ou ↗) et maintenir la direction.
 
 Startup frame :
 
-- <font color="#00FF00"><b>Hop</b> : Sauter (↖ ou ↑ ou ↗) et relâcher
-  tout de suite la direction.
+- <font color="#00FF00">**Hop** : Sauter (↖ ou ↑ ou ↗) et relâcher tout
+  de suite la direction.
 
 Startup frame :
 
-- <font color="#0000FF"><b>Hyper Hop</b> : appuyer en bas (↙ ou ↓ ou ↘)
+- <font color="#0000FF">**Hyper Hop** : appuyer en bas (↙ ou ↓ ou ↘)
   puis rapidement sauter (↖ ou ↑ ou ↗) et relâcher tout de suite la
   direction.
 
@@ -255,7 +255,7 @@ en 3 Frame.
 Certain perso possède également des choppes aériennes, ou des choppes
 spéciales (dit choppe a manip). Ces dernières vous seront présentés dans
 les movelist de chaque perso.  
-<font color="#FF0000"><b>/!\\</b>Attention on **ne peut pas** de-chopper
+<font color="#FF0000">**/!\\**Attention on **ne peut pas** de-chopper
 accroupie.
 
 ### Attaque EX
@@ -273,8 +273,8 @@ un dragon punch classique se fera ainsi:
 → ↓ ↘ + A(ou C).  
 alors que le dragon punch EX:  
 → ↓ ↘ +A+C.  
-<font color="#FF0000"><b>/!\\</b>Certain SDM ne peuvent pas être
-réalisés en EX, mais cela sera notifié dans les Movelist.
+<font color="#FF0000">**/!\\**Certain SDM ne peuvent pas être réalisés
+en EX, mais cela sera notifié dans les Movelist.
 
 ### Desperation Move(DM)
 

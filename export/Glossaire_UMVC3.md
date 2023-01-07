@@ -250,10 +250,13 @@ idiosyncrasies on how they can be used in Chain Combos. But for the most
 part, almost every character has a sequence derived from one of four
 "base" Magic Series.  
   
-=== Zig-Zag Magic Series === In the Zig-Zag Magic Series, you have the
-ability to chain all 6 different forms of attacks (L, M, and H while
-standing and L, M, and H while crouching) into each other. The order
-which you can perform your moves is as follows:
+
+### Zig-Zag Magic Series
+
+In the Zig-Zag Magic Series, you have the ability to chain all 6
+different forms of attacks (L, M, and H while standing and L, M, and H
+while crouching) into each other. The order which you can perform your
+moves is as follows:
 
 1.  Standing ![](/images/Lumvc3.png "/images/Lumvc3.png")
 2.  Crouching ![](/images/Lumvc3.png "/images/Lumvc3.png")
@@ -357,7 +360,8 @@ connects on you during Block Stun is considered a true Block String.
 These are very important concepts to know about, and they will be talked
 about a lot throughout this guide.  
   
-=== Frames ===
+
+### Frames
 
 The word "Frame" is going to be used a lot in this guide. We're going to
 be talking about Active Frames, Frame Advantage, animation frames, etc.

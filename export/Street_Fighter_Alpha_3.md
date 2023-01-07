@@ -368,12 +368,12 @@ des couleurs et leurs codes de déverrouillage est la suivante:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><font color="#FDF1B8"><b>Crème</b></p></td>
+<td><p><font color="#FDF1B8"><strong>Crème</strong></p></td>
 <td><p>aucun</p></td>
 <td><p>Système par défaut</p></td>
 </tr>
 <tr class="even">
-<td><p><font color="#FF0000"><b>Rouge clair</b></p></td>
+<td><p><font color="#FF0000"><strong>Rouge clair</strong></p></td>
 <td><p>Balrog, Juni, and Juli peuvent être sélectionnés</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -381,7 +381,7 @@ suivante:<br />
 Un message 'HERE COME NEW CHALLENGERS' devrait apparaître.</p></td>
 </tr>
 <tr class="odd">
-<td><p><font color="#00FF00"><b>Vert clair</b></p></td>
+<td><p><font color="#00FF00"><strong>Vert clair</strong></p></td>
 <td><p>Classic Mode</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -389,7 +389,7 @@ suivante:<br />
 Un message 'TRADITIONAL FIGHT BEGINS' devrait apparaître.</p></td>
 </tr>
 <tr class="even">
-<td><p><font color="#A10684"><b>Violet clair</b></p></td>
+<td><p><font color="#A10684"><strong>Violet clair</strong></p></td>
 <td><p>Mazi Mode et Saikyou Mode</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />
@@ -398,7 +398,7 @@ suivante:<br />
 Un message 'ENJOY NEW FIGHTING STYLE' devrait apparaître.</p></td>
 </tr>
 <tr class="odd">
-<td><p><font color="#318CE7"><b>Bleu clair</b></p></td>
+<td><p><font color="#318CE7"><strong>Bleu clair</strong></p></td>
 <td><p>Les 3 modes de jeu peuvent être sélectionnés.</p></td>
 <td><p>Aller dans l'Input Test Mode et effectuer la manipulation
 suivante:<br />

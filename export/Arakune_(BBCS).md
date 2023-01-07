@@ -183,7 +183,8 @@ Arakune envoie un insecte qui touche middle, touche 2 fois.
   apparait en faisant 4, 1, 2, 3 ou 6.
 
   
-===Fonctionnement des Insectes===
+
+### Fonctionnement des Insectes
 
 Les Insectes sortent quand l'adversaire est maudit. Vous pouvez avoir
 plusieurs Insectes en même temps, mais jamais 2 du même type. Les
