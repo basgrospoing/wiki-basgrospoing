@@ -4,7 +4,9 @@ slug:  "Andy_Bogard_(98um)"
 id: 208
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-04"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Ippatsuman_(TvC:UAS)"
 id: 521
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"

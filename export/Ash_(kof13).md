@@ -4,7 +4,9 @@ slug:  "Ash_(kof13)"
 id: 1115
 author: "206.122.158.4"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-18"
 redirect: "Ash_(KOF_XIII)"
 old_id: 1570
 ---

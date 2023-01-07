@@ -4,7 +4,9 @@ slug:  "Omega_Rugal_(KoF_'98)"
 id: 202
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-02"
 ---
 
 ## Introduction

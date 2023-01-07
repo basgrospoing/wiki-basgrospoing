@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Aoko_Aozaki"
 id: 1739
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Aozaki Aoko (蒼崎青子)  —  **Nicknames:**   Miss Blue,

@@ -4,7 +4,9 @@ slug:  "Kain_R._Heinlein_(Garou)"
 id: 17
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-28"
 ---
 
 ![](/images/KainRHeinlein_win_portrait.gif "/images/KainRHeinlein_win_portrait.gif")

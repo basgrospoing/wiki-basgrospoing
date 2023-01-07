@@ -4,7 +4,9 @@ slug:  "Yuri_Sakazaki_(2k2um)"
 id: 151
 author: "Hynkel"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-24"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Whip_(2k2um)"
 id: 53
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-02"
 redirect: "Whip"
 old_id: 104
 ---

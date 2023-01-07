@@ -4,7 +4,9 @@ slug:  "Terry_Bogard_(2k2um)"
 id: 67
 author: "82.247.229.243"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-31"
 redirect: "Terry_Bogard"
 old_id: 75
 ---

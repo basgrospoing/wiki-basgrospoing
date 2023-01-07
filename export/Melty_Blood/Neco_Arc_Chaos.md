@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Neco_Arc_Chaos"
 id: 1819
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Neco Arc Chaos

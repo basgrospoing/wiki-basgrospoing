@@ -4,7 +4,9 @@ slug:  "K'_(kof13)"
 id: 1087
 author: "Maj"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-22"
 ---
 
 ![K'](/images/Kdash-kof13-stance.gif "K'") [Retour à la fiche du

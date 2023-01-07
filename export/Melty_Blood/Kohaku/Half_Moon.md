@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Kohaku/Half_Moon"
 id: 1778
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-20"
 ---
 
 # Combos

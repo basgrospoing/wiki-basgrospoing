@@ -4,7 +4,9 @@ slug:  "Benimaru"
 id: 22
 author: "Bberita"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-10-26"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Len"
 id: 1791
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len

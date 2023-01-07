@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Satsuki_Yumiduka"
 id: 1853
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 \[\[Image:/images/Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚

@@ -4,7 +4,9 @@ slug:  "Orochi_Yashiro_(2k2um)"
 id: 60
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-03"
 redirect: "Orochi_Yashiro"
 old_id: 113
 ---

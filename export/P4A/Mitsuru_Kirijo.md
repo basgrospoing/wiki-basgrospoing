@@ -4,7 +4,9 @@ slug:  "P4A/Mitsuru_Kirijo"
 id: 2638
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Mitsuru_Kirijo"
 old_id: 2648
 ---

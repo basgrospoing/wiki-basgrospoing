@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Powerd_Ciel/Full_Moon"
 id: 1833
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2015-01-17"
 ---
 
 # Combos

@@ -4,7 +4,9 @@ slug:  "Persona_4_Arena"
 id: 2568
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-08-08"
 redirect: "P4A"
 old_id: 2569
 ---

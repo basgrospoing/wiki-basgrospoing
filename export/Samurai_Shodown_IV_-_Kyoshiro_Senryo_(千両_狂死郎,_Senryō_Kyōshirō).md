@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Kyoshiro_Senryo_(千両_狂死郎,_Senryō_Kyōshir
 id: 650
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Kyoshiro"
 old_id: 667
 ---

@@ -4,7 +4,9 @@ slug:  "Comprendre_le_jeu_de_combat_3D"
 id: 2705
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "other.njk"
+tags: "other"
+date: "2014-01-09"
 ---
 
 # Les règles de base

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Tohno/Half_Moon"
 id: 1874
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-12-19"
 ---
 
 # Combos

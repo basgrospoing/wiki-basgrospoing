@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_King"
 id: 909
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Kofxi-king"
 old_id: 910
 ---

@@ -4,7 +4,9 @@ slug:  "P4A/Elizabeth"
 id: 2637
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Elizabeth"
 old_id: 2647
 ---

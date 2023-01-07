@@ -4,7 +4,9 @@ slug:  "Cammy_(ST)"
 id: 453
 author: "Rej"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-09"
 ---
 
 ## Introduction

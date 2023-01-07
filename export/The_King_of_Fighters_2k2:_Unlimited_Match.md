@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_2k2:_Unlimited_Match"
 id: 20
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 ---
 
 ![caption](/images/2002um.jpg "caption")

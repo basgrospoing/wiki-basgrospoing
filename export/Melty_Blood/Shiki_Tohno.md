@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Tohno"
 id: 1870
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2015-01-15"
 ---
 
 ![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki

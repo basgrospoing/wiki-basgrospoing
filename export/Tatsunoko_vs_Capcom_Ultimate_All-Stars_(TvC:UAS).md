@@ -4,7 +4,9 @@ slug:  "Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)"
 id: 568
 author: "Dan Sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-01-04"
 ---
 
 ![](/images/Tvc-uas.jpg "/images/Tvc-uas.jpg")

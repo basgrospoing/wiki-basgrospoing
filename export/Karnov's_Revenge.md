@@ -4,7 +4,9 @@ slug:  "Karnov's_Revenge"
 id: 383
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-29"
 ---
 
 ## Personnages

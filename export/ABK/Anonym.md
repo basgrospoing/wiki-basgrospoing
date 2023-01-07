@@ -4,7 +4,9 @@ slug:  "ABK/Anonym"
 id: 2269
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Anonym_ABK.jpg "/images/Anonym_ABK.jpg")

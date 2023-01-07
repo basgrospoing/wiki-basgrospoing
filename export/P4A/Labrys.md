@@ -4,7 +4,9 @@ slug:  "P4A/Labrys"
 id: 2645
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Labrys"
 old_id: 2658
 ---

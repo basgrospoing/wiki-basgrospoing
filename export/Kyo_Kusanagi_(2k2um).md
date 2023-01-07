@@ -4,7 +4,9 @@ slug:  "Kyo_Kusanagi_(2k2um)"
 id: 70
 author: "JPX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-06"
 redirect: "Kyo_Kusanagi"
 old_id: 78
 ---

@@ -4,7 +4,9 @@ slug:  "Karas_(TvC:UAS)"
 id: 526
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-15"
 ---
 
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"

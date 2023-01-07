@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Magaki"
 id: 949
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-21"
 redirect: "Kofxi_magaki"
 old_id: 950
 ---

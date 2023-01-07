@@ -4,7 +4,9 @@ slug:  "Nina_(SFxT)"
 id: 2193
 author: "Hynkel"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-19"
 ---
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")

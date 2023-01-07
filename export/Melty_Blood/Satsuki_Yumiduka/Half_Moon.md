@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Satsuki_Yumiduka/Half_Moon"
 id: 1857
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-02"
 ---
 
 # Combos

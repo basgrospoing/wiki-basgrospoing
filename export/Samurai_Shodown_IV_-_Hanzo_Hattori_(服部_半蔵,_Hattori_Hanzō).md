@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Hanzo_Hattori_(服部_半蔵,_Hattori_Hanzō)"
 id: 651
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Hanzo"
 old_id: 668
 ---

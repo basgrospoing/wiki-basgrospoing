@@ -4,7 +4,9 @@ slug:  "Chin_(2k2um)"
 id: 41
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "Chin"
 old_id: 92
 ---

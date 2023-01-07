@@ -4,7 +4,9 @@ slug:  "Megaman_Volnutt_(TvC:UAS)"
 id: 565
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Rockvolnutt.jpg" title="/images/Rockvolnutt.jpg"

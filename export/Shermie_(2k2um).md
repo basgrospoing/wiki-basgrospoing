@@ -4,7 +4,9 @@ slug:  "Shermie_(2k2um)"
 id: 49
 author: "200.169.245.58"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-09"
 redirect: "Shermie"
 old_id: 100
 ---

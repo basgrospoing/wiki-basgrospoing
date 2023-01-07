@@ -4,7 +4,9 @@ slug:  "Chizuru_Kagura_(98um)"
 id: 219
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-04"
 ---
 
 ## Introduction

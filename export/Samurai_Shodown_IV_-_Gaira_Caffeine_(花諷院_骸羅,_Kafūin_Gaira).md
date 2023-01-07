@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Gaira_Caffeine_(花諷院_骸羅,_Kafūin_Gaira)"
 id: 645
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-10"
 redirect: "Ss4-Gaira"
 old_id: 663
 ---

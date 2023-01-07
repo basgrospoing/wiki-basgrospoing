@@ -4,7 +4,9 @@ slug:  "Glossaire_UMVC3"
 id: 2924
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-10"
 ---
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")

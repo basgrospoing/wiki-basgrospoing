@@ -4,7 +4,9 @@ slug:  "Melty_Blood/White_Len"
 id: 1894
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>

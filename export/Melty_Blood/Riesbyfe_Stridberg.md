@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Riesbyfe_Stridberg"
 id: 1841
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Riesbyfe Stridberg

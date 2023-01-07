@@ -4,7 +4,9 @@ slug:  "Capcom_vs_SNK_2"
 id: 1608
 author: "Alx"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2011-10-29"
 ---
 
 ![](/images/Cvs2.jpg "/images/Cvs2.jpg")

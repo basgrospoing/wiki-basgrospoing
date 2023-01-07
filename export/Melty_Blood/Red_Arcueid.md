@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Red_Arcueid"
 id: 1835
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-07-23"
 ---
 
 ![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red

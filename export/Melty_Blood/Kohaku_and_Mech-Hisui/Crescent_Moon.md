@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Kohaku_and_Mech-Hisui/Crescent_Moon"
 id: 1782
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-30"
 ---
 
 # Combos

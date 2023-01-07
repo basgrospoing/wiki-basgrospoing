@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Links"
 id: 1717
 author: "Naast"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 ### Sites

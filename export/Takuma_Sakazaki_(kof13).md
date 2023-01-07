@@ -4,7 +4,9 @@ slug:  "Takuma_Sakazaki_(kof13)"
 id: 1076
 author: "Kula'"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-25"
 ---
 
 ![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  

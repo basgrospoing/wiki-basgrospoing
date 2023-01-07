@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Aoko_Aozaki/Crescent_Moon"
 id: 1741
 author: "Toto"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-16"
 ---
 
 # Combos

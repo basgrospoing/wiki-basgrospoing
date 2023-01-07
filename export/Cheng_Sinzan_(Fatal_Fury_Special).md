@@ -4,7 +4,9 @@ slug:  "Cheng_Sinzan_(Fatal_Fury_Special)"
 id: 731
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-02"
 ---
 
 ![](/images/Ffspcheng.PNG)  

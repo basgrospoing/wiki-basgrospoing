@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Vermillion/Half_Moon"
 id: 1733
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-06-01"
 ---
 
 # Combos

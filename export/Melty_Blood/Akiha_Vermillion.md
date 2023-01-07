@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Vermillion"
 id: 1731
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red

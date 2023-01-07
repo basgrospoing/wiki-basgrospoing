@@ -4,7 +4,9 @@ slug:  "Yashiro_Nanakase_(2k2um)"
 id: 130
 author: "JPX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-27"
 ---
 
 ## Introduction

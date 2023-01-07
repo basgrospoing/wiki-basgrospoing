@@ -4,7 +4,9 @@ slug:  "Gold_Lightan_(TvC:UAS)"
 id: 520
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-18"
 ---
 
 <img src="/images/Goldlightan.jpg" title="/images/Goldlightan.jpg"

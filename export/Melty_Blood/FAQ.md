@@ -4,7 +4,9 @@ slug:  "Melty_Blood/FAQ"
 id: 1710
 author: "Zind"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 ## Généralités

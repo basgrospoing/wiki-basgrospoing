@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Aoko_Aozaki/Full_Moon"
 id: 1743
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-17"
 ---
 
 # Combos

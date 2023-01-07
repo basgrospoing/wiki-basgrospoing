@@ -4,7 +4,9 @@ slug:  "Takuma_Sakazaki_(2k2um)"
 id: 66
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-01"
 redirect: "Takuma_Sakazaki"
 old_id: 74
 ---

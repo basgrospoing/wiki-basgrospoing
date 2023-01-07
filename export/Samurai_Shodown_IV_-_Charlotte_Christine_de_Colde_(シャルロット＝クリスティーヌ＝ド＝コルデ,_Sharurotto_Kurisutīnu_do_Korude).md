@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Charlotte_Christine_de_Colde_(シャルロット＝
 id: 640
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Charlotte"
 old_id: 658
 ---

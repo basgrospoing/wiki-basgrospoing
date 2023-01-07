@@ -4,7 +4,9 @@ slug:  "P4A/Aigis"
 id: 2635
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Aigis"
 old_id: 2649
 ---

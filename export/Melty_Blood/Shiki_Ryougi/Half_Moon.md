@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Ryougi/Half_Moon"
 id: 1868
 author: "Skenn"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-08-27"
 ---
 
 # Combos

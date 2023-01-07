@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Kouma_Kishima/Full_Moon"
 id: 1790
 author: "88.167.173.143"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-21"
 ---
 
 # Combos

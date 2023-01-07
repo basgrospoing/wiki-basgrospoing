@@ -4,7 +4,9 @@ slug:  "Hazama_(BBCS)"
 id: 302
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-01"
 ---
 
 <figure>

@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Shiro_Tokisada_Amakusa_(天草_四郎_時貞,_Amaku
 id: 638
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Shiro"
 old_id: 656
 ---

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Controls"
 id: 1716
 author: "Zind"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 ## Contrôles

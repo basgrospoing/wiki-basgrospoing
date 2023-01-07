@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Tohno/Full_Moon"
 id: 1723
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 # Combos

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Neco_Arc_Chaos/Crescent_Moon"
 id: 1821
 author: "Ninjigen"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 # Combos

@@ -4,7 +4,9 @@ slug:  "Blue_Mary_(2k2um)"
 id: 46
 author: "Hynkel"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-24"
 redirect: "Blue_Mary"
 old_id: 97
 ---

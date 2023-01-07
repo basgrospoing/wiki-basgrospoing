@@ -4,7 +4,9 @@ slug:  "Laurence_Blood_(Fatal_Fury_Special)"
 id: 745
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-10"
 redirect: "Laurence_Blood(Fatal_Fury_Special)"
 old_id: 746
 ---

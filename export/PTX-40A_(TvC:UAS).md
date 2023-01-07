@@ -4,7 +4,9 @@ slug:  "PTX-40A_(TvC:UAS)"
 id: 530
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-18"
 ---
 
 <img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"

@@ -4,7 +4,9 @@ slug:  "Arcana_Heart_3"
 id: 1612
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 ---
 
 \_\_TOC\_\_

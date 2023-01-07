@@ -4,7 +4,9 @@ slug:  "ABK/Marylin_Sue"
 id: 2267
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Marylin_Sue_ABK.jpg "/images/Marylin_Sue_ABK.jpg")

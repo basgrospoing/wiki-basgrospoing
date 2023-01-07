@@ -4,7 +4,9 @@ slug:  "Gill_(3S)"
 id: 273
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-04"
 ---
 
 ![Character Select

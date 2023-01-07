@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc"
 id: 1798
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -

@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI"
 id: 895
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 redirect: "Kofxi"
 old_id: 896
 ---
@@ -350,21 +352,21 @@ space](/images/kofxi-the-different-space-stage.gif " The different space")
 <img src="/images/kofxi-personnage.jpg" title="Choix des personnages"
 width="400" alt="Choix des personnages" />
 
-|                                   |                                                                 |                                                                 |                                                       |
-|-----------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|
-| Hero Team                         | [Ash Crimson](kofxi-ash-crimson "wikilink")                     | [Oswald](kofxi-oswald "wikilink")                               | [Shen Woo](kofxi-shen-woo "wikilink")                 |
-| K Team                            | [K](kofxi-k "wikilink")                                         | [Kula Diamond](kofxi-kula-diamond "wikilink")                   | [Maxima](kofxi-maxima "wikilink")                     |
-| Fatal Fury Team                   | [Terry Bogard](kofxi-terry-bogard "wikilink")                   | [Kim Kaphwan](kofxi-kim-kaphwan "wikilink")                     | [Duck King](kofxi-duck-king "wikilink")               |
-| Garou: Mark of the Wolves Team    | [B.Jenet](kofxi-bonne-jenet "wikilink")                         | [Gato Futaba](The_King_of_Fighters_XI_-_Gato_Futaba "wikilink") | [Griffon](kofxi-griffon "wikilink")                   |
-| Kyo & Iori Team                   | [Kyo Kusanagi](kofxi-kyo-kusanagi "wikilink")                   | [Iori Yagami](kofxi-iori-yagami "wikilink")                     | [Shingo Yabuki](kofxi-shingo-yabuki "wikilink")       |
-| Agent Team                        | [Vanessa](kofxi-vanessa "wikilink")                             | [Blue Mary](kofxi-blue-mary "wikilink")                         | [Ramon](kofxi-ramon "wikilink")                       |
-| Ikari Warriors Team               | [Ralf Jones](kofxi-ralf-jones "wikilink")                       | [Clark Steel](kofxi-clark-steel "wikilink")                     | [Whip](kofxi-whip "wikilink")                         |
-| Art of Fighting Team              | [Ryo Sakazaki](kofxi-ryo-sakazaki "wikilink")                   | [Yuri Sakazaki](kofxi-yuri-sakazaki "wikilink")                 | [King](kofxi-king "wikilink")                         |
-| Anti Kyokugen Style Team          | [Malin](kofxi-malin "wikilink")                                 | [Kasumi Todoh](kofxi-kasumi-todoh "wikilink")                   | [Eiji Kisaragi](kofxi-eiji-kisaragi "wikilink")       |
-| Rival Team                        | [Elisabeth Blanctorche](kofxi-elisabeth-blanctorche "wikilink") | [Duo Lon](kofxi-duo-lon "wikilink")                             | [Benimaru Nikaido](kofxi-benimaru-nikaido "wikilink") |
-| Psycho Soldier Team               | [Athena Asamiya](kofxi-athena-asamiya "wikilink")               | [Sie Kensou](kofxi-sie-kensou "wikilink")                       | [Momoko](kofxi-momoko "wikilink")                     |
-| Boss du jeux                      | [Gai Tendo](kofxi-gai-tendo "wikilink")                         | [Syo Hayate](kofxi-syo-hayate "wikilink")                       | [Jazu](kofxi-jazu "wikilink")                         |
-|                                   | [Magaki](kofxi_magaki "wikilink")                               |                                                                 |                                                       |
-| Personnage exclusif Playstation 2 | [Robert Garcia](kofxi-robert-garcia "wikilink")                 | [Hotaru Futaba](kofxi-hotaru-futaba "wikilink")                 | [Mai Shiranui](kofxi-mai-shiranui "wikilink")         |
-|                                   | [Tung Fu Rue](kofxi-tung-fu-rue "wikilink")                     | [EX Kyo Kusanagi](kofxi-ex-kyo-kusanagi "wikilink")             | [Mr. Big](kofxi-mr-big "wikilink")                    |
-|                                   | [Geese Howard](kofxi-geese-howard "wikilink")                   |                                                                 |                                                       |
+|                                   |                                                                                     |                                                                     |                                                                           |
+|-----------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Hero Team                         | [Ash Crimson](The_King_of_Fighters_XI_-_Ash_Crimson "wikilink")                     | [Oswald](The_King_of_Fighters_XI_-_Oswald "wikilink")               | [Shen Woo](The_King_of_Fighters_XI_-_Shen_Woo "wikilink")                 |
+| K Team                            | [K](The_King_of_Fighters_XI_-_K "wikilink")                                         | [Kula Diamond](The_King_of_Fighters_XI_-_Kula-diamond "wikilink")   | [Maxima](The_King_of_Fighters_XI_-_Maxima "wikilink")                     |
+| Fatal Fury Team                   | [Terry Bogard](The_King_of_Fighters_XI_-_Terry_Bogard "wikilink")                   | [Kim Kaphwan](The_King_of_Fighters_XI_-_Kim-kaphwan "wikilink")     | [Duck King](The_King_of_Fighters_XI_-_Duck_King "wikilink")               |
+| Garou: Mark of the Wolves Team    | [B.Jenet](The_King_of_Fighters_XI_-_Bonne_Jenet "wikilink")                         | [Gato Futaba](The_King_of_Fighters_XI_-_Gato_Futaba "wikilink")     | [Griffon](The_King_of_Fighters_XI_-_Griffon "wikilink")                   |
+| Kyo & Iori Team                   | [Kyo Kusanagi](The_King_of_Fighters_XI_-_Kyo-kusanagi "wikilink")                   | [Iori Yagami](The_King_of_Fighters_XI_-_Iori_Yagami "wikilink")     | [Shingo Yabuki](The_King_of_Fighters_XI_-_Shingo_Yabuki "wikilink")       |
+| Agent Team                        | [Vanessa](The_King_of_Fighters_XI_-_Vanessa "wikilink")                             | [Blue Mary](The_King_of_Fighters_XI_-_Blue_Mary "wikilink")         | [Ramon](The_King_of_Fighters_XI_-_Ramon "wikilink")                       |
+| Ikari Warriors Team               | [Ralf Jones](The_King_of_Fighters_XI_-_Ralf_Jones "wikilink")                       | [Clark Steel](The_King_of_Fighters_XI_-_Clark_Steel "wikilink")     | [Whip](The_King_of_Fighters_XI_-_Whip "wikilink")                         |
+| Art of Fighting Team              | [Ryo Sakazaki](The_King_of_Fighters_XI_-_Ryo_Sakazaki "wikilink")                   | [Yuri Sakazaki](The_King_of_Fighters_XI_-_Yuri_Sakazaki "wikilink") | [King](The_King_of_Fighters_XI_-_King "wikilink")                         |
+| Anti Kyokugen Style Team          | [Malin](The_King_of_Fighters_XI_-_Malin "wikilink")                                 | [Kasumi Todoh](The_King_of_Fighters_XI_-_Kasumi_Todoh "wikilink")   | [Eiji Kisaragi](The_King_of_Fighters_XI_-_Eiji_Kisaragi "wikilink")       |
+| Rival Team                        | [Elisabeth Blanctorche](The_King_of_Fighters_XI_-_Elisabeth_Blanctorche "wikilink") | [Duo Lon](The_King_of_Fighters_XI_-_Duo_Lon "wikilink")             | [Benimaru Nikaido](The_King_of_Fighters_XI_-_Benimaru_Nikaido "wikilink") |
+| Psycho Soldier Team               | [Athena Asamiya](The_King_of_Fighters_XI_-_Athena_Asamiya "wikilink")               | [Sie Kensou](The_King_of_Fighters_XI_-_Sie_Kensou "wikilink")       | [Momoko](The_King_of_Fighters_XI_-_Momoko "wikilink")                     |
+| Boss du jeux                      | [Gai Tendo](kofxi-gai-tendo "wikilink")                                             | [Syo Hayate](kofxi-syo-hayate "wikilink")                           | [Jazu](kofxi-jazu "wikilink")                                             |
+|                                   | [Magaki](The_King_of_Fighters_XI_-_Magaki "wikilink")                               |                                                                     |                                                                           |
+| Personnage exclusif Playstation 2 | [Robert Garcia](kofxi-robert-garcia "wikilink")                                     | [Hotaru Futaba](kofxi-hotaru-futaba "wikilink")                     | [Mai Shiranui](kofxi-mai-shiranui "wikilink")                             |
+|                                   | [Tung Fu Rue](kofxi-tung-fu-rue "wikilink")                                         | [EX Kyo Kusanagi](kofxi-ex-kyo-kusanagi "wikilink")                 | [Mr. Big](kofxi-mr-big "wikilink")                                        |
+|                                   | [Geese Howard](kofxi-geese-howard "wikilink")                                       |                                                                     |                                                                           |

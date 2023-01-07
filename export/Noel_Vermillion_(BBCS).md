@@ -4,7 +4,9 @@ slug:  "Noel_Vermillion_(BBCS)"
 id: 298
 author: "78.237.64.48"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-16"
 ---
 
 <figure>

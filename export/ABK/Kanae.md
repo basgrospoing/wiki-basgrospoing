@@ -4,7 +4,9 @@ slug:  "ABK/Kanae"
 id: 2265
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Kanae_ABK.jpg "/images/Kanae_ABK.jpg")

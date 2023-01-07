@@ -4,7 +4,9 @@ slug:  "Doronjo_(TvC:UAS)"
 id: 527
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-15"
 ---
 
 <img src="/images/Doronjo.jpg" title="/images/Doronjo.jpg" width="220"

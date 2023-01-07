@@ -4,7 +4,9 @@ slug:  "Takuma"
 id: 29
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-20"
 ---
 
 ## Introduction

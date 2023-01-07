@@ -4,7 +4,9 @@ slug:  "Kaijin_No_Soki_(TvC:UAS)"
 id: 562
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"

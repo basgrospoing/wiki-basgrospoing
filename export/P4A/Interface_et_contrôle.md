@@ -4,7 +4,9 @@ slug:  "P4A/Interface_et_contrôle"
 id: 2570
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 ---
 
 # Commandes

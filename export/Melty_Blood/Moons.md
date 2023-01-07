@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Moons"
 id: 1712
 author: "109.209.196.225"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-06-14"
 ---
 
 Melty Blood Actress Again introduit les moons, qui sont des sortes de

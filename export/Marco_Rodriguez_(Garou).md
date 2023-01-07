@@ -4,7 +4,9 @@ slug:  "Marco_Rodriguez_(Garou)"
 id: 8
 author: "Timmytheturtle"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-13"
 redirect: "Khushnood_Butt_(Garou)"
 old_id: 1070
 ---

@@ -4,7 +4,9 @@ slug:  "Foxy_(2k2um)"
 id: 129
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-03"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Sion_TATARI"
 id: 1882
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -

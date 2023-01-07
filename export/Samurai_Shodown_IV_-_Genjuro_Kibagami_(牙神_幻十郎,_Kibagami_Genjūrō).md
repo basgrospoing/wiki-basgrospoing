@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Genjuro_Kibagami_(牙神_幻十郎,_Kibagami_Genjū
 id: 642
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Genjuro"
 old_id: 660
 ---

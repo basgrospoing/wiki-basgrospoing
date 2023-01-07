@@ -4,7 +4,9 @@ slug:  "Vanessa_(2k2um)"
 id: 54
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-02"
 redirect: "Vanessa"
 old_id: 105
 ---

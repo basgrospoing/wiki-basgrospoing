@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Archetype_Earth/Full_Moon"
 id: 1749
 author: "90.0.52.30"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-06"
 ---
 
 # Combos

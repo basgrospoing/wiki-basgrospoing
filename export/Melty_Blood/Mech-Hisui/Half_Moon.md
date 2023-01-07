@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Mech-Hisui/Half_Moon"
 id: 1802
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 # Combos

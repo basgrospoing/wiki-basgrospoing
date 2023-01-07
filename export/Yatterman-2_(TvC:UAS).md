@@ -4,7 +4,9 @@ slug:  "Yatterman-2_(TvC:UAS)"
 id: 525
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Yatterman-2.jpg" title="/images/Yatterman-2.jpg"

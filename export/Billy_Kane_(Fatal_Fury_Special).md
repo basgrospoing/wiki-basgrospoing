@@ -4,7 +4,9 @@ slug:  "Billy_Kane_(Fatal_Fury_Special)"
 id: 741
 author: "Atomskyu690"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-02-29"
 ---
 
 ![](/images/Ffspbilly.PNG)  

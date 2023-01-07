@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Shen_Woo"
 id: 913
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-09"
 redirect: "Kofxi-shen-woo"
 old_id: 914
 ---

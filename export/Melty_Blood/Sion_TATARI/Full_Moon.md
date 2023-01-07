@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Sion_TATARI/Full_Moon"
 id: 1885
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-10"
 ---
 
 # Combos

@@ -4,7 +4,9 @@ slug:  "Goro_Daimon_(kof13)"
 id: 1113
 author: "Natchooo"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-07"
 ---
 
 ![Goro Daimon](/images/Gorokof13.gif "Goro Daimon") [Retour à la fiche

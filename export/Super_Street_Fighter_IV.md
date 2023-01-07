@@ -4,7 +4,9 @@ slug:  "Super_Street_Fighter_IV"
 id: 314
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-01-10"
 ---
 
 <figure>

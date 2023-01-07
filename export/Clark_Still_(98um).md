@@ -4,7 +4,9 @@ slug:  "Clark_Still_(98um)"
 id: 215
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-04"
 ---
 
 ## Introduction

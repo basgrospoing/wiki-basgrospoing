@@ -4,7 +4,9 @@ slug:  "Gato_(Garou)"
 id: 14
 author: "83.199.55.44"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-07"
 ---
 
 [Retour à la fiche du

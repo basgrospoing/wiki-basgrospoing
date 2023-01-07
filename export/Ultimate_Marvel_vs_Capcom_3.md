@@ -4,7 +4,9 @@ slug:  "Ultimate_Marvel_vs_Capcom_3"
 id: 2707
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-05-06"
 ---
 
 ![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")

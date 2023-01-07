@@ -4,7 +4,9 @@ slug:  "Mai_Shiranui_(Real_Bout_Fatal_Fury_version)_(98um)"
 id: 258
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-07"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Hakumen_(BBCS)"
 id: 303
 author: "Yolsgens"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-17"
 ---
 
 <figure>

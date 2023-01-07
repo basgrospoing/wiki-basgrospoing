@@ -4,7 +4,9 @@ slug:  "Yuri_Sakazaki_(kof13)"
 id: 1078
 author: "90.47.247.53"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-20"
 ---
 
 [Retour à la fiche du

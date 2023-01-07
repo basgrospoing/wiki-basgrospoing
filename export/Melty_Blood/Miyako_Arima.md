@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Miyako_Arima"
 id: 1809
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-07-23"
 ---
 
 ![ **Name:**   Arima Miyako (有間 都古)  —  **Nicknames:**   China Girl

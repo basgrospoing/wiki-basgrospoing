@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Warachia/Half_Moon"
 id: 1892
 author: "95.182.218.13"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-23"
 ---
 
 # Combos

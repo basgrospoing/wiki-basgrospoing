@@ -4,7 +4,9 @@ slug:  "Windjammers"
 id: 466
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-01-10"
 ---
 
 <img src="/images/jaquette_windjammers.jpg"

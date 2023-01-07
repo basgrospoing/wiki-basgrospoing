@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon"
 id: 1730
 author: "Naast"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-02"
 ---
 
 # Combos

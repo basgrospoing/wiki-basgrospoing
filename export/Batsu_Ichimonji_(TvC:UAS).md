@@ -4,7 +4,9 @@ slug:  "Batsu_Ichimonji_(TvC:UAS)"
 id: 561
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 ---
 
 <img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"

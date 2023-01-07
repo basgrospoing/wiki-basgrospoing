@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Nanaya/Full_Moon"
 id: 1861
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2015-01-15"
 ---
 
 # Combos

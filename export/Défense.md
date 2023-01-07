@@ -4,7 +4,9 @@ slug:  "Défense"
 id: 500
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-01-07"
 ---
 
 ## Introduction

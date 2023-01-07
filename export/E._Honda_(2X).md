@@ -4,7 +4,9 @@ slug:  "E._Honda_(2X)"
 id: 449
 author: "93.1.10.245"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-27"
 ---
 
 ## Introduction

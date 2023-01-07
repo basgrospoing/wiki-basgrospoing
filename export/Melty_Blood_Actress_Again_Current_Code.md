@@ -4,7 +4,9 @@ slug:  "Melty_Blood_Actress_Again_Current_Code"
 id: 1708
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 ---
 
 \[\[Image:/images/Mbcc.jpg\|

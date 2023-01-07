@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Roa/Crescent_Moon"
 id: 1852
 author: "82.234.188.250"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-02-02"
 ---
 
 # Combos

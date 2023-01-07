@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Tohno/Full_Moon"
 id: 1875
 author: "Ninjigen"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 # Combos

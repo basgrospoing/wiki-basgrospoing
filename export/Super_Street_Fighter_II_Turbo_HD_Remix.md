@@ -4,7 +4,9 @@ slug:  "Super_Street_Fighter_II_Turbo_HD_Remix"
 id: 563
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-02-26"
 ---
 
 

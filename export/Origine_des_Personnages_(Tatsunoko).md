@@ -4,7 +4,9 @@ slug:  "Origine_des_Personnages_(Tatsunoko)"
 id: 2767
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 Personnages Série / Jeu d' origine Nom occidental / français Année

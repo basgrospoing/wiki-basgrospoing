@@ -4,7 +4,9 @@ slug:  "Q_(3S)"
 id: 280
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-04"
 ---
 
 ![Character Select

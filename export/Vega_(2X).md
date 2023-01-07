@@ -4,7 +4,9 @@ slug:  "Vega_(2X)"
 id: 463
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-13"
 ---
 
 ## Introduction

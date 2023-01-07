@@ -4,7 +4,9 @@ slug:  "Yun_(AE)_(SSFIV)"
 id: 2147
 author: "Atomskyu690"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-02-27"
 ---
 
 ## 1 Vue d'ensemble

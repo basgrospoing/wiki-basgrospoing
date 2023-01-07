@@ -4,7 +4,9 @@ slug:  "Joe_Higashi_(kof13)"
 id: 1099
 author: "82.238.249.39"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-17"
 ---
 
 [Retour à la fiche du

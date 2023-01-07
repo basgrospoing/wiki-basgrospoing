@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Rimururu_(リムルル,_Rimururu)"
 id: 644
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Rimururu"
 old_id: 662
 ---

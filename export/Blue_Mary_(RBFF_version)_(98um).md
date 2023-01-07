@@ -4,7 +4,9 @@ slug:  "Blue_Mary_(RBFF_version)_(98um)"
 id: 261
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-09"
 ---
 
 ## Introduction

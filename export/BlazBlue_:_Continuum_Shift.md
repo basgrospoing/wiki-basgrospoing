@@ -4,7 +4,9 @@ slug:  "BlazBlue_:_Continuum_Shift"
 id: 289
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2010-12-12"
 redirect: "Blazblue_:_Continuum_Shift"
 old_id: 313
 ---

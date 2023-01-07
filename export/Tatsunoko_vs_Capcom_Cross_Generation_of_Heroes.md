@@ -4,7 +4,9 @@ slug:  "Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes"
 id: 567
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-15"
 ---
 
 ![](/images/cgoh.jpg "/images/cgoh.jpg")

@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara)"
 id: 653
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Basara"
 old_id: 670
 ---

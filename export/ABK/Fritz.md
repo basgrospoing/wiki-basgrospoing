@@ -4,7 +4,9 @@ slug:  "ABK/Fritz"
 id: 2266
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-06"
 ---
 
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")

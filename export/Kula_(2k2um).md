@@ -4,7 +4,9 @@ slug:  "Kula_(2k2um)"
 id: 58
 author: "194.158.70.15"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-08-21"
 redirect: "Kula"
 old_id: 108
 ---

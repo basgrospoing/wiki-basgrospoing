@@ -4,7 +4,9 @@ slug:  "Andy_Bogard_(kof13)"
 id: 1081
 author: "Lolo"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-19"
 ---
 
 ![Andy Bogard](/images/andykof13.gif "Andy Bogard") [Retour à la fiche

@@ -4,7 +4,9 @@ slug:  "Ragna_the_Bloodedge_(BBCS)"
 id: 296
 author: "78.240.92.62"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-03-02"
 ---
 
 <figure>

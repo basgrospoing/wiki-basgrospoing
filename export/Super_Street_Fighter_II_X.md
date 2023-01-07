@@ -4,7 +4,9 @@ slug:  "Super_Street_Fighter_II_X"
 id: 435
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-12"
 ---
 
 ![](/images/Ssf2x-logo.png "/images/Ssf2x-logo.png")

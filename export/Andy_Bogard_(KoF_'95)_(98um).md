@@ -4,7 +4,9 @@ slug:  "Andy_Bogard_(KoF_'95)_(98um)"
 id: 252
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-07"
 ---
 
 ## Introduction

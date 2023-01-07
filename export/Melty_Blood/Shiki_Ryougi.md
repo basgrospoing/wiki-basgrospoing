@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Ryougi"
 id: 1864
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織

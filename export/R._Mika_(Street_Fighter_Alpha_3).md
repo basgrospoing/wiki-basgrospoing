@@ -4,7 +4,9 @@ slug:  "R._Mika_(Street_Fighter_Alpha_3)"
 id: 1251
 author: "Tonio"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-15"
 ---
 
 ## Introduction

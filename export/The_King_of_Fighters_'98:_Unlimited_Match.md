@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_'98:_Unlimited_Match"
 id: 19
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2010-11-25"
 ---
 
 ## Personnages

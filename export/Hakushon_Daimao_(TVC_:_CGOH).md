@@ -4,7 +4,9 @@ slug:  "Hakushon_Daimao_(TVC_:_CGOH)"
 id: 518
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-15"
 redirect: "Hakushon_Daimao_(Tatsunoko_Vs._Capcom_:Cross_Generation_of_Heroes)"
 old_id: 786
 ---

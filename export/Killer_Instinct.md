@@ -4,7 +4,9 @@ slug:  "Killer_Instinct"
 id: 572
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2011-05-03"
 ---
 
 <img src="/images/Kiflyer.jpg" title="/images/Kiflyer.jpg" width="250"

@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Kazuki_Kazama_(風間_火月,_Kazama_Kazuki)"
 id: 639
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Kazuki"
 old_id: 657
 ---

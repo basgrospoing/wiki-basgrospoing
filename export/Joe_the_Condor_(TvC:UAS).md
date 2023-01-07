@@ -4,7 +4,9 @@ slug:  "Joe_the_Condor_(TvC:UAS)"
 id: 515
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Joethecondor.jpg" title="/images/Joethecondor.jpg"

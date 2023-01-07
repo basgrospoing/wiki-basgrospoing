@@ -4,7 +4,9 @@ slug:  "Mai_Shiranui_(Fatal_Fury_Special)"
 id: 735
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-11"
 ---
 
 ![](/images/Ffspmai.PNG)  

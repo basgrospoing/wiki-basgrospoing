@@ -4,7 +4,9 @@ slug:  "Jin_(SFxT)"
 id: 2185
 author: "KizanCPC"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-15"
 ---
 
 [Retour à la fiche du jeu](Street_Fighter_x_Tekken "wikilink")

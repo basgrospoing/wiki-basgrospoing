@@ -4,7 +4,9 @@ slug:  "Balrog_(ST)"
 id: 451
 author: "Hynkel"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-04"
 ---
 
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")

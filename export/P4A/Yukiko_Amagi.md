@@ -4,7 +4,9 @@ slug:  "P4A/Yukiko_Amagi"
 id: 2644
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Yukiko_Amagi"
 old_id: 2656
 ---

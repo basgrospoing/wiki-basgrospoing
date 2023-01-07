@@ -4,7 +4,9 @@ slug:  "ABK/FAQ"
 id: 2249
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-05"
 ---
 
 ## Généralités

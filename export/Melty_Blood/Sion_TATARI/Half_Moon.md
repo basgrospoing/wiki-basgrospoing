@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Sion_TATARI/Half_Moon"
 id: 1886
 author: "Ninjigen"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 # Combos

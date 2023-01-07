@@ -4,7 +4,9 @@ slug:  "Kyo_Kusanagi_(kof13)"
 id: 1107
 author: "82.238.249.39"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-17"
 ---
 
 ![Kyo Kusanagi](/images/Kyokof13.gif "Kyo Kusanagi")  

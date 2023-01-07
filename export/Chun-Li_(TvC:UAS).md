@@ -4,7 +4,9 @@ slug:  "Chun-Li_(TvC:UAS)"
 id: 564
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 <img src="/images/Tvc-chunli.jpg" title="/images/Tvc-chunli.jpg"

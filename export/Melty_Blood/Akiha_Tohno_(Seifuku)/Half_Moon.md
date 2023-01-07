@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon"
 id: 1728
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-09"
 ---
 
 # Combos

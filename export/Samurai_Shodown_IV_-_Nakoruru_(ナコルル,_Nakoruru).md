@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Nakoruru_(ナコルル,_Nakoruru)"
 id: 641
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Nakoruru"
 old_id: 659
 ---

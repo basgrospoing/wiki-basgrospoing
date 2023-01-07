@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Arcueid_Brunestud"
 id: 1750
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Arcueid Brunestud (アルクェイド・ブリュ

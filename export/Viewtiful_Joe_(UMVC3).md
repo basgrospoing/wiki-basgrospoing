@@ -4,7 +4,9 @@ slug:  "Viewtiful_Joe_(UMVC3)"
 id: 3013
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-10"
 ---
 
 **EN TRAVAUX**

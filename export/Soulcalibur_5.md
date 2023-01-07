@@ -4,7 +4,9 @@ slug:  "Soulcalibur_5"
 id: 2139
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-24"
 ---
 
 <figure>

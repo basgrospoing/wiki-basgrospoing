@@ -4,7 +4,9 @@ slug:  "Ryu_(TvC:UAS)"
 id: 566
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-05"
 ---
 
 <img src="/images/Tvcryu.jpg" title="/images/Tvcryu.jpg" width="250"

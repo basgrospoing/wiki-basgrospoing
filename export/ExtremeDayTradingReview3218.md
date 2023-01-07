@@ -4,7 +4,9 @@ slug:  "ExtremeDayTradingReview3218"
 id: 2660
 author: "ExtremeDayTradingReview3218"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 ---
 
 With regards to scalp trading, Day investors attempt to make use of the

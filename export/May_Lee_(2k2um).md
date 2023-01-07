@@ -4,7 +4,9 @@ slug:  "May_Lee_(2k2um)"
 id: 38
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "May_Lee"
 old_id: 86
 ---

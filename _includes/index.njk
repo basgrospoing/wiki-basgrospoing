@@ -5,17 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{{ title }} - Wiki Bas Gros Poing</title>
-    <link rel="stylesheet" href="/assets/pico.min.css">
+    
+    <link rel="stylesheet" href="assets/pico.min.css">
     <style>
+
       iframe {
         max-width: 100%;
         aspect-ratio: 16/9;
       }
 
+      article img {
+        float:initial;
+        display:inline;
+        margin:unset;
+      }
+
       .toc * {
         all: revert;
       }
+
+      thead {
+        background:var(--form-element-background-color);
+      }
     </style>
+
     <meta name="description" content="Page de wiki au sujet de {{ title }}">
     <meta property="og:title" content="{{ title }} - Wiki Bas Gros Poing">
     <meta property="og:description" content="Page de wiki au sujet de {{ title }}">
@@ -32,21 +45,52 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/my.webmanifest">
     <meta name="theme-color" content="#FF00FF">
+
   </head>
 
   <body>
-    <nav>
-     Navigation: Soon
-    </nav>
     <main class="container">
+      <nav>
+        <ul>
+          <li>
+            <strong>Wiki Bas Gros Poing</strong>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/">Accueil</a>
+          </li>
+          <li>
+            <a href="https://github.com/Thomasorus/wiki-basgrospoing">Code source</a>
+          </li>
+
+        </ul>
+      </nav>
       <article>
-        <h1>{{ title }} </h1>
-        <details>
-            <summary>Sommaire</summary>
-          {{ content | toc | safe }}
-          </details>
+        <h1>{{ title }}
+        </h1>
         {{ content | safe }}
+        <h2>Les jeux</h2>
+        <ul>
+          {%- for game in collections.game -%}
+            <li>
+              <a href="{{ game.data.slug }}">{{ game.data.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+        <h2>Guides divers</h2>
+        <ul>
+          {%- for other in collections.other -%}
+            <li>
+              <a href="{{ other.data.slug }}">{{ other.data.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+         <footer>
+        Initially last edited: {{ date }} by {{ author }}.
+      </footer>
       </article>
     </main>
+   
   </body>
 </html>

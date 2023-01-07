@@ -4,7 +4,9 @@ slug:  "K'_(2k2um)"
 id: 51
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-02"
 redirect: "K'"
 old_id: 102
 ---

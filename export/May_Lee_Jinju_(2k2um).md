@@ -4,7 +4,9 @@ slug:  "May_Lee_Jinju_(2k2um)"
 id: 138
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-01"
 ---
 
 ## Introduction

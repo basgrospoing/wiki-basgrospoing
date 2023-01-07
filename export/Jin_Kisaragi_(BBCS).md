@@ -4,7 +4,9 @@ slug:  "Jin_Kisaragi_(BBCS)"
 id: 300
 author: "83.194.122.230"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-06"
 ---
 
 <figure>

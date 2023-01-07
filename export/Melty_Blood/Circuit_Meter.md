@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Circuit_Meter"
 id: 1711
 author: "Naast"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 Le Meter est le terme officiel pour la barre de furie à Melty Blood. Un

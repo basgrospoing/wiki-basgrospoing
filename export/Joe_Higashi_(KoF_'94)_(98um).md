@@ -4,7 +4,9 @@ slug:  "Joe_Higashi_(KoF_'94)_(98um)"
 id: 253
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-07"
 ---
 
 ## Introduction

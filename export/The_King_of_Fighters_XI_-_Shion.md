@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Shion"
 id: 951
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-21"
 redirect: "Kofxi-shion"
 old_id: 952
 ---

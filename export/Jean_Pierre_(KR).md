@@ -4,7 +4,9 @@ slug:  "Jean_Pierre_(KR)"
 id: 385
 author: "Zarghatt"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-29"
 ---
 
 ## Généralités

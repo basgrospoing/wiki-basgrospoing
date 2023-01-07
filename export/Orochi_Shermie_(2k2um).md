@@ -4,7 +4,9 @@ slug:  "Orochi_Shermie_(2k2um)"
 id: 61
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-03"
 redirect: "Orochi_Shermie"
 old_id: 112
 ---

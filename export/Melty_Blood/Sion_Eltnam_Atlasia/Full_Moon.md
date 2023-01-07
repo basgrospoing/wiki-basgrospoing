@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon"
 id: 1881
 author: "Ouytsu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-26"
 ---
 
 # Combos

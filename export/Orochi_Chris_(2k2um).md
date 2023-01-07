@@ -4,7 +4,9 @@ slug:  "Orochi_Chris_(2k2um)"
 id: 62
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-03"
 redirect: "Orochi_Chris"
 old_id: 111
 ---

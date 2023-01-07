@@ -4,7 +4,9 @@ slug:  "Ralf_(2k2um)"
 id: 31
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "Ralf"
 old_id: 87
 ---

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Warachia/Crescent_Moon"
 id: 1893
 author: "82.234.188.250"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-22"
 ---
 
 # Combos

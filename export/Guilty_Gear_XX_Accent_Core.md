@@ -4,7 +4,9 @@ slug:  "Guilty_Gear_XX_Accent_Core"
 id: 288
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-06-14"
 ---
 
 ## Introduction

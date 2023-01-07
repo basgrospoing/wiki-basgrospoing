@@ -4,7 +4,9 @@ slug:  "Morrigan_Aensland_(TvC:UAS)"
 id: 552
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 ---
 
 <img src="/images/Tvcmorrigan.jpg" title="/images/Tvcmorrigan.jpg"

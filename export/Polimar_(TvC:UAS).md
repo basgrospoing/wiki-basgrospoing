@@ -4,7 +4,9 @@ slug:  "Polimar_(TvC:UAS)"
 id: 523
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-02-01"
 ---
 
 <img src="/images/Polimar.jpg" title="/images/Polimar.jpg" width="250"

@@ -4,7 +4,9 @@ slug:  "Alex_(TvC:UAS)"
 id: 528
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 ---
 
 <img src="/images/Tvc-alex.jpg" title="/images/Tvc-alex.jpg" width="220"

@@ -4,7 +4,9 @@ slug:  "Makoto_Nanaya_(BBCS)"
 id: 290
 author: "84.103.225.237"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-13"
 ---
 
 <figure>

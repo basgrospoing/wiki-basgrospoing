@@ -4,7 +4,9 @@ slug:  "P4A/Chie_Satonaka"
 id: 2634
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-14"
 redirect: "Chie_Satonaka"
 old_id: 2650
 ---

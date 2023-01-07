@@ -4,7 +4,9 @@ slug:  "P4A/Mécanismes"
 id: 2571
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-08"
 ---
 
 Cette page décrit les mécanismes de base d'un jeu de combat disponibles

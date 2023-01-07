@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Satsuki_Yumiduka/Crescent_Moon"
 id: 1856
 author: "Kairisu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-09"
 ---
 
 # Combos

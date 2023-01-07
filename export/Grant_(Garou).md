@@ -4,7 +4,9 @@ slug:  "Grant_(Garou)"
 id: 18
 author: "82.67.45.176"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-12"
 ---
 
 ![](/images/vignette.png "/images/vignette.png")

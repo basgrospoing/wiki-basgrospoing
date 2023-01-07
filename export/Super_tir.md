@@ -4,7 +4,9 @@ slug:  "Super_tir"
 id: 502
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-01"
 ---
 
 ## Introduction

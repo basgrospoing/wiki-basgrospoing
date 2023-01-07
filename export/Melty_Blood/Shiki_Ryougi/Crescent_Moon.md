@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Ryougi/Crescent_Moon"
 id: 1869
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-16"
 ---
 
 # Combos

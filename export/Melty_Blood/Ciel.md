@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Ciel"
 id: 1757
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Ciel (シエル)  —  **Nicknames:**    Curry

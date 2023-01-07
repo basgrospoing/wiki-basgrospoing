@@ -4,7 +4,9 @@ slug:  "Robert_Garcia_(KoF_'98)"
 id: 159
 author: "85.171.23.44"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-13"
 ---
 
 ## Introduction

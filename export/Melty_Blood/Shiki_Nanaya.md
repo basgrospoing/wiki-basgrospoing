@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Nanaya"
 id: 1756
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-07-23"
 ---
 
 ![ **Name:**   Shiki Nanaya (七夜 志貴)  —  **Nicknames:**    Satsujinki

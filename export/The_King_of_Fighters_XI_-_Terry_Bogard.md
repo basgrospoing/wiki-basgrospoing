@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Terry_Bogard"
 id: 915
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-09"
 redirect: "Kofxi-terry-bogard"
 old_id: 916
 ---

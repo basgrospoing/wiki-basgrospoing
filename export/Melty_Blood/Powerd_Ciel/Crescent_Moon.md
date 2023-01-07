@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Powerd_Ciel/Crescent_Moon"
 id: 1831
 author: "62.241.104.102"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-31"
 ---
 
 # Combos

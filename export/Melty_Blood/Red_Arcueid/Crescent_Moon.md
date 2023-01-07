@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Red_Arcueid/Crescent_Moon"
 id: 1838
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 # Combos

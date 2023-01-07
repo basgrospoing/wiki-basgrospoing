@@ -4,7 +4,9 @@ slug:  "P4A/Yu_Narukami"
 id: 2643
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Yu_Narukami"
 old_id: 2652
 ---

@@ -4,7 +4,9 @@ slug:  "Vice_(98um)"
 id: 233
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-06"
 ---
 
 ## Introduction

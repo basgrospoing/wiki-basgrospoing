@@ -4,7 +4,9 @@ slug:  "P4A/Teddie"
 id: 2641
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Teddie"
 old_id: 2657
 ---

@@ -4,7 +4,9 @@ slug:  "Tsubaki_Yayoi_(BBCS)"
 id: 294
 author: "Yolsgens"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-20"
 ---
 
 <figure>

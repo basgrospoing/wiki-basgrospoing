@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Roa"
 id: 1847
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン

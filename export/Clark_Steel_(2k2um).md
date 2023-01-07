@@ -4,7 +4,9 @@ slug:  "Clark_Steel_(2k2um)"
 id: 123
 author: "200.169.245.58"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-09"
 ---
 
 ## Introduction

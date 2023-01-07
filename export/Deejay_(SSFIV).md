@@ -4,7 +4,9 @@ slug:  "Deejay_(SSFIV)"
 id: 372
 author: "Atomskyu698"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-09"
 ---
 
 [Retour à la fiche du

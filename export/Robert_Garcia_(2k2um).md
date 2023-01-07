@@ -4,7 +4,9 @@ slug:  "Robert_Garcia_(2k2um)"
 id: 65
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-02"
 redirect: "Robert_Garcia"
 old_id: 72
 ---

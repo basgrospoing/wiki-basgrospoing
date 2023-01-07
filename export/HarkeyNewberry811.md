@@ -4,7 +4,9 @@ slug:  "HarkeyNewberry811"
 id: 2295
 author: "HarkeyNewberry811"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-06-15"
 ---
 
 Learning building your own PERSONAL COMPUTER from scratch can be quite a

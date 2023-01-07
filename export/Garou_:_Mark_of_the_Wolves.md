@@ -4,7 +4,9 @@ slug:  "Garou_:_Mark_of_the_Wolves"
 id: 4
 author: "Timmytheturtle"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2011-06-14"
 ---
 
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")

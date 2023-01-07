@@ -4,7 +4,9 @@ slug:  "Terry_Bogard_(kof13)"
 id: 1077
 author: "Maj"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-08-08"
 ---
 
 ![Terry Bogard](/images/terrykof13.gif "Terry Bogard") [Retour à la

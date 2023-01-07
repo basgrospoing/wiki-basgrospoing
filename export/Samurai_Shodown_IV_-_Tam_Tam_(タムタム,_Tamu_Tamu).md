@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Tam_Tam_(タムタム,_Tamu_Tamu)"
 id: 636
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-TamTam"
 old_id: 654
 ---

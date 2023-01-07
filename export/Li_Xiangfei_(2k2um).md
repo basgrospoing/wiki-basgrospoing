@@ -4,7 +4,9 @@ slug:  "Li_Xiangfei_(2k2um)"
 id: 136
 author: "89.3.166.69"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-21"
 ---
 
 ## Introduction

@@ -4,7 +4,9 @@ slug:  "Liste_des_Jeux"
 id: 311
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-04"
 ---
 
 ## Liste des jeux présents sur le wiki
@@ -71,11 +73,12 @@ SNK
   UM](The_King_of_Fighters_'98:_Unlimited_Match "wikilink")
 - [King of Fighters 2k2
   UM](The_King_of_Fighters_2k2:_Unlimited_Match "wikilink")
-- [The King of Fighters XI](kofxi "wikilink")
+- [The King of Fighters XI](The_King_of_Fighters_XI "wikilink")
   ![](/images/icone-pdf-16.png "/images/icone-pdf-16.png")
 - [The King of Fighters XIII](The_King_of_Fighters_XIII "wikilink")
 - [Garou : Mark of the Wolves](Garou_:_Mark_of_the_Wolves "wikilink")
-- [Samurai Shodown IV: Amakusa's Revenge](ss4 "wikilink")
+- [Samurai Shodown IV: Amakusa's
+  Revenge](Samurai_Shodown_IV:_Amakusa's_Revenge "wikilink")
   ![](/images/icone-pdf-16.png "/images/icone-pdf-16.png")
 - [Fatal Fury Special](Fatal_Fury_Special "wikilink")
 - [The Last Blade 2](The_Last_Blade_2 "wikilink")

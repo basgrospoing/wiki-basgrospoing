@@ -4,7 +4,9 @@ slug:  "Jordi_Costa"
 id: 471
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-06-14"
 ---
 
 <figure>

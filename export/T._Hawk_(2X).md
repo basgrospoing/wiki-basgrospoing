@@ -4,7 +4,9 @@ slug:  "T._Hawk_(2X)"
 id: 462
 author: "77.201.57.249"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-24"
 ---
 
 ## Introduction

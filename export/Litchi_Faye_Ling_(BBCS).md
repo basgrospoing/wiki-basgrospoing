@@ -4,7 +4,9 @@ slug:  "Litchi_Faye_Ling_(BBCS)"
 id: 299
 author: "83.196.107.5"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-01-10"
 ---
 
 <figure>

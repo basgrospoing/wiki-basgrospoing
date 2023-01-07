@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)"
 id: 1725
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little

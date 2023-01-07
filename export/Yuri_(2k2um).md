@@ -4,7 +4,9 @@ slug:  "Yuri_(2k2um)"
 id: 37
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "Yuri"
 old_id: 85
 ---

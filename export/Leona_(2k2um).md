@@ -4,7 +4,9 @@ slug:  "Leona_(2k2um)"
 id: 30
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "Leona"
 old_id: 89
 ---

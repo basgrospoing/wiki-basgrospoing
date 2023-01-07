@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Galford_D._Weller_(ガルフォード＝Ｄ＝ウ�
 id: 647
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Galford"
 old_id: 665
 ---

@@ -4,7 +4,9 @@ slug:  "Kula_(kof13)"
 id: 1079
 author: "Maj"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-21"
 ---
 
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  

@@ -4,7 +4,9 @@ slug:  "Valkenhayn=R=Hellsing_(BBCS)"
 id: 293
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-05"
 ---
 
 <figure>

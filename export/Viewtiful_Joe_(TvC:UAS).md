@@ -4,7 +4,9 @@ slug:  "Viewtiful_Joe_(TvC:UAS)"
 id: 551
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"

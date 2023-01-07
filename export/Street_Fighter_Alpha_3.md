@@ -4,7 +4,9 @@ slug:  "Street_Fighter_Alpha_3"
 id: 1025
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-01-09"
 ---
 
 ![](/images/Street_Fighter_Alpha_3_Logo.png "/images/Street_Fighter_Alpha_3_Logo.png")

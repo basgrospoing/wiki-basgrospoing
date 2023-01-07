@@ -4,7 +4,9 @@ slug:  "ABK/Murakumo"
 id: 2273
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-05"
 ---
 
 ![](/images/Murakumo_ABK.jpg "/images/Murakumo_ABK.jpg")

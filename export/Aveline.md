@@ -4,7 +4,9 @@ slug:  "Aveline"
 id: 2513
 author: "Aveline"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-26"
 ---
 
 There's a trend to acquire own autos these days because the tariff of

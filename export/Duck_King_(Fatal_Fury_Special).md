@@ -4,7 +4,9 @@ slug:  "Duck_King_(Fatal_Fury_Special)"
 id: 737
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-10"
 ---
 
 ![](/images/Ffspduck.PNG)  

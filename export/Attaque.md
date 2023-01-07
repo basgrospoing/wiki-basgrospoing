@@ -4,7 +4,9 @@ slug:  "Attaque"
 id: 501
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-08"
 ---
 
 ## Introduction

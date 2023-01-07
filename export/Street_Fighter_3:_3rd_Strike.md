@@ -4,7 +4,9 @@ slug:  "Street_Fighter_3:_3rd_Strike"
 id: 3
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-05-04"
 ---
 
 ![](/images/3s_logo.gif "/images/3s_logo.gif")

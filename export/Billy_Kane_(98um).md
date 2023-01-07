@@ -4,7 +4,9 @@ slug:  "Billy_Kane_(98um)"
 id: 230
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-06"
 ---
 
 ## Introduction

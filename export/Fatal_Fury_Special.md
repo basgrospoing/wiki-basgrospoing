@@ -4,7 +4,9 @@ slug:  "Fatal_Fury_Special"
 id: 718
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 ---
 
 <img src="/images/ffsp.jpg" title="/images/ffsp.jpg" width="200"

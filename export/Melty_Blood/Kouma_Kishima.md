@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Kouma_Kishima"
 id: 1785
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion

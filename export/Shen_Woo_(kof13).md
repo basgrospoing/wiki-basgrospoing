@@ -4,7 +4,9 @@ slug:  "Shen_Woo_(kof13)"
 id: 1096
 author: "Lolo"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-23"
 ---
 
 [Retour à la fiche du

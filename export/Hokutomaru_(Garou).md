@@ -4,7 +4,9 @@ slug:  "Hokutomaru_(Garou)"
 id: 9
 author: "Aerendir"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-24"
 ---
 
 ## Introduction

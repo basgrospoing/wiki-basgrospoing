@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Satsuki_Yumiduka/Full_Moon"
 id: 1858
 author: "Kigal"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-18"
 ---
 
 # Combos

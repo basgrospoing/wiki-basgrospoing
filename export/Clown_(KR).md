@@ -4,7 +4,9 @@ slug:  "Clown_(KR)"
 id: 384
 author: "Zarghatt"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-29"
 ---
 
 ## Généralités

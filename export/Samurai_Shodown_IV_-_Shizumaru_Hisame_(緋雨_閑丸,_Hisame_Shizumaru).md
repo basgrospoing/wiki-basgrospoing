@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)"
 id: 649
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Shizumaru"
 old_id: 666
 ---

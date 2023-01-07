@@ -4,7 +4,9 @@ slug:  "Jhun_Hoon_(2k2um)"
 id: 131
 author: "Kaldanm"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-26"
 ---
 
 ## Introduction

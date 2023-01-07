@@ -4,7 +4,9 @@ slug:  "Kano_Ryoko_(KR)"
 id: 386
 author: "Zarghatt"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-29"
 ---
 
 ## Movelist

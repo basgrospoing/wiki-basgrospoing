@@ -4,7 +4,9 @@ slug:  "Nash_(Street_Fighter_Alpha_3)"
 id: 1246
 author: "Tonio"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-08-12"
 ---
 
 <figure>

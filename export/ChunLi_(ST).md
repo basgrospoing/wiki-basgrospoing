@@ -4,7 +4,9 @@ slug:  "ChunLi_(ST)"
 id: 454
 author: "Moun-B"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-23"
 ---
 
 <figure>

@@ -4,7 +4,9 @@ slug:  "Alex_(3S)"
 id: 269
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-10"
 ---
 
 ![Character Select

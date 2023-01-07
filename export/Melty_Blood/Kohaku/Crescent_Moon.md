@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Kohaku/Crescent_Moon"
 id: 1777
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2015-01-15"
 ---
 
 # Combos

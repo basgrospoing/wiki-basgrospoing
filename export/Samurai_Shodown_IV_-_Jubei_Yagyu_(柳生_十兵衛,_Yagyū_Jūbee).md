@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Jubei_Yagyu_(柳生_十兵衛,_Yagyū_Jūbee)"
 id: 652
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Jubei"
 old_id: 669
 ---

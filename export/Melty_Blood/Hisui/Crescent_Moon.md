@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Hisui/Crescent_Moon"
 id: 1766
 author: "Ninjigen"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-20"
 ---
 
 # Combos

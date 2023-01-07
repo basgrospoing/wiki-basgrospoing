@@ -4,7 +4,9 @@ slug:  "Mai_(2k2um)"
 id: 36
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-07-23"
 redirect: "Mai"
 old_id: 84
 ---

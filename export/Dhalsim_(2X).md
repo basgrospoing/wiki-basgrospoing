@@ -4,7 +4,9 @@ slug:  "Dhalsim_(2X)"
 id: 456
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-13"
 ---
 
 ## Introduction

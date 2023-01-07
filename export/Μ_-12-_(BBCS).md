@@ -4,7 +4,9 @@ slug:  "Μ_-12-_(BBCS)"
 id: 307
 author: "83.194.242.114"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-28"
 ---
 
 <figure>

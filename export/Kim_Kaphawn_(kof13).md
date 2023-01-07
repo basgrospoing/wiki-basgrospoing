@@ -4,7 +4,9 @@ slug:  "Kim_Kaphawn_(kof13)"
 id: 1139
 author: "Sharnt"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-27"
 ---
 
 [Retour à la fiche du

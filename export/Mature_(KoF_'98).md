@@ -4,7 +4,9 @@ slug:  "Mature_(KoF_'98)"
 id: 180
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-02"
 ---
 
 ## Introduction

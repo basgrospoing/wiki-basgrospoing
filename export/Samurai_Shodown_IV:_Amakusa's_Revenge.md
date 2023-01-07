@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV:_Amakusa's_Revenge"
 id: 635
 author: "Atomskyu690"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-08-30"
 redirect: "Ss4"
 old_id: 671
 ---
@@ -487,7 +489,8 @@ Quatrième ligne
 - [Hanzo Hattori (服部 半蔵, Hattori Hanzō)](ss4-Hanzo "wikilink")
 - Choix aléatoire du personnage (sauf Zankuro)
 - [Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)](ss4-Jubei "wikilink")
-- [Basara (首切り 破沙羅, Kubikiri Basara)](ss4-Basara "wikilink")
+- [Basara (首切り 破沙羅, Kubikiri
+  Basara)](Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara) "wikilink")
 
   
 Personnage caché

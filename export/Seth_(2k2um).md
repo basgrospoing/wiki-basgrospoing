@@ -4,7 +4,9 @@ slug:  "Seth_(2k2um)"
 id: 55
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-02"
 redirect: "Seth"
 old_id: 106
 ---

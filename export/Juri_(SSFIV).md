@@ -4,7 +4,9 @@ slug:  "Juri_(SSFIV)"
 id: 354
 author: "Atomskyu698"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-09"
 ---
 
 [Retour à la fiche du

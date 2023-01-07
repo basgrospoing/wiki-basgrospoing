@@ -4,7 +4,9 @@ slug:  "Comment_contribuer_?"
 id: 312
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ## Comment contribuer au wiki ?

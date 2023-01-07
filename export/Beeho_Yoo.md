@@ -4,7 +4,9 @@ slug:  "Beeho_Yoo"
 id: 469
 author: "Wolmar"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-02"
 ---
 
 <figure>

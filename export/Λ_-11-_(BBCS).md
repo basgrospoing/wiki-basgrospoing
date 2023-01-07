@@ -4,7 +4,9 @@ slug:  "Λ_-11-_(BBCS)"
 id: 292
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-23"
 ---
 
 <figure>

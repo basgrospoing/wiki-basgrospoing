@@ -4,7 +4,9 @@ slug:  "Ryu_(SSFIV)"
 id: 353
 author: "Atomskyu690"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-21"
 ---
 
 [Retour à la fiche du

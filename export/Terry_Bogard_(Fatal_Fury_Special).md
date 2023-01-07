@@ -4,7 +4,9 @@ slug:  "Terry_Bogard_(Fatal_Fury_Special)"
 id: 720
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-24"
 ---
 
 ![](/images/Ffspterry.PNG)  

@@ -4,7 +4,9 @@ slug:  "Roll_(TvC:UAS)"
 id: 529
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-18"
 ---
 
 <img src="/images/Roll.jpg" title="/images/Roll.jpg" width="250"

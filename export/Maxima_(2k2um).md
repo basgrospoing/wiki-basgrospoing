@@ -4,7 +4,9 @@ slug:  "Maxima_(2k2um)"
 id: 52
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-02"
 redirect: "Maxima"
 old_id: 103
 ---

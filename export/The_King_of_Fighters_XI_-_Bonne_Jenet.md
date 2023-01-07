@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Bonne_Jenet"
 id: 899
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-09"
 redirect: "Kofxi-bonne-jenet"
 old_id: 900
 ---

@@ -4,7 +4,9 @@ slug:  "Glossaire"
 id: 359
 author: "Atomskyu698"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "other.njk"
+tags: "other"
+date: "2014-05-09"
 ---
 
 ## Introduction

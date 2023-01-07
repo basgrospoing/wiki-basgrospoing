@@ -4,7 +4,9 @@ slug:  "Le_pire_de_la_baston"
 id: 2706
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "other.njk"
+tags: "other"
+date: "2014-01-09"
 ---
 
 # La petite boutique des horreurs compilée par Haten-dan

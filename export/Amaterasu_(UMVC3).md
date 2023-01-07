@@ -4,7 +4,9 @@ slug:  "Amaterasu_(UMVC3)"
 id: 2962
 author: "ALX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-05-06"
 ---
 
 **EN TRAVAUX**

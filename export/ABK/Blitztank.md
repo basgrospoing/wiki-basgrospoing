@@ -4,7 +4,9 @@ slug:  "ABK/Blitztank"
 id: 2271
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Blitztank.jpg "/images/Blitztank.jpg")

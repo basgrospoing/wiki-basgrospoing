@@ -4,7 +4,9 @@ slug:  "Akatsuki_Blitzkampf"
 id: 2248
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-04-27"
 ---
 
 ![](/images/abk_main.png "/images/abk_main.png")

@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon"
 id: 1880
 author: "82.234.188.250"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-26"
 ---
 
 # Combos

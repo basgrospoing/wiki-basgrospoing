@@ -4,7 +4,9 @@ slug:  "Tatsunoko_vs_Capcom"
 id: 382
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2014-01-10"
 ---
 
 ![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")

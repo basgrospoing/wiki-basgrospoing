@@ -4,7 +4,9 @@ slug:  "Marvel_vs_Capcom_3"
 id: 579
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-03-17"
 ---
 
 ## Personnages

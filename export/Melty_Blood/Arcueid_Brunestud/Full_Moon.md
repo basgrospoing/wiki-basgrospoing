@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Arcueid_Brunestud/Full_Moon"
 id: 1755
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-06-14"
 ---
 
 # Combos

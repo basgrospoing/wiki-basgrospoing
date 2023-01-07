@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XIII"
 id: 1074
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-07-24"
 ---
 
 ![](/images/KoFXIII.png)

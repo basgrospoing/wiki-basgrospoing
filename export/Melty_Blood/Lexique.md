@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Lexique"
 id: 1713
 author: "82.234.188.250"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-12"
 redirect: "Melty_Blood/Glossary"
 old_id: 1714
 ---

@@ -4,7 +4,9 @@ slug:  "P4A/Naoto_Shirogane"
 id: 2640
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Naoto_Shirogane"
 old_id: 2654
 ---

@@ -4,7 +4,9 @@ slug:  "Ryo_Sakazaki_(2k2um)"
 id: 64
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-02"
 redirect: "Ryo_Sakazaki"
 old_id: 73
 ---

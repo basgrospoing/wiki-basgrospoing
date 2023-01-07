@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Arcueid_Brunestud/Crescent_Moon"
 id: 1753
 author: "Rouxin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-20"
 ---
 
 # Combos

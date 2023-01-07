@@ -4,7 +4,9 @@ slug:  "P4A/Kanji_Tatsumi"
 id: 2639
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-06"
 redirect: "Kanji_Tatsumi"
 old_id: 2655
 ---

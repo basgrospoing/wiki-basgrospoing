@@ -4,7 +4,9 @@ slug:  "Melty_Blood/White_Len/Full_Moon"
 id: 1896
 author: "88.173.34.60"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-03-05"
 ---
 
 # Combos

@@ -4,7 +4,9 @@ slug:  "Raiden_(kof13)"
 id: 1137
 author: "Kula'"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-25"
 ---
 
 [Retour à la fiche du

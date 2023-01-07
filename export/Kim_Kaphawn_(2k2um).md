@@ -4,7 +4,9 @@ slug:  "Kim_Kaphawn_(2k2um)"
 id: 116
 author: "86.208.29.31"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-21"
 ---
 
 ## Introduction

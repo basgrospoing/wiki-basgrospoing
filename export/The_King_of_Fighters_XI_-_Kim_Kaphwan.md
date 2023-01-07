@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Kim_Kaphwan"
 id: 945
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-09"
 redirect: "Kofxi-kim-kaphwan"
 old_id: 946
 ---

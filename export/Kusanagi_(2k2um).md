@@ -4,7 +4,9 @@ slug:  "Kusanagi_(2k2um)"
 id: 63
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-01"
 redirect: "Kusanagi"
 old_id: 114
 ---

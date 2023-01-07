@@ -4,7 +4,9 @@ slug:  "Benimaru_Nikaido_(2k2um)"
 id: 71
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-03"
 redirect: "Benimaru_Nikaido"
 old_id: 79
 ---

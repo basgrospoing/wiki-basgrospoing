@@ -4,7 +4,9 @@ slug:  "ABK/Wei"
 id: 2268
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Wei_ABK.jpg "/images/Wei_ABK.jpg")

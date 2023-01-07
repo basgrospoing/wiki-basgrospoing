@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Archetype:_Earth"
 id: 1745
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Nom:**   Archetype:Earth (真祖アルクエイド)  —  **Surnoms:**   

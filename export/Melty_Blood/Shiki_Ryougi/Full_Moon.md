@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Shiki_Ryougi/Full_Moon"
 id: 1867
 author: "Skenn"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-06-01"
 ---
 
 # Combos

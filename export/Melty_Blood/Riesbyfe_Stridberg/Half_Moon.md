@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Riesbyfe_Stridberg/Half_Moon"
 id: 1843
 author: "Ninjigen"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 # Combos

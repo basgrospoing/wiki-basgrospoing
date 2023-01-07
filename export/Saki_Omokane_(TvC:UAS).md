@@ -4,7 +4,9 @@ slug:  "Saki_Omokane_(TvC:UAS)"
 id: 553
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Saki-omokane.jpg" title="/images/Saki-omokane.jpg"

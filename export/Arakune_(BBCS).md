@@ -4,7 +4,9 @@ slug:  "Arakune_(BBCS)"
 id: 291
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-02"
 ---
 
 <figure>

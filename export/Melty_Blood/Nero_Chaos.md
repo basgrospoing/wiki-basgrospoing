@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Nero_Chaos"
 id: 1824
 author: "Sannos"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-01-10"
 ---
 
 ![ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   

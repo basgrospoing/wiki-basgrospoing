@@ -4,7 +4,9 @@ slug:  "ABK/Mycale"
 id: 2263
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-06"
 ---
 
 ![](/images/Mycale_ABK.jpg "/images/Mycale_ABK.jpg")

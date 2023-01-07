@@ -4,7 +4,9 @@ slug:  "P4A/Mécanismes_avancés"
 id: 2680
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-08-13"
 ---
 
 # Status spéciaux

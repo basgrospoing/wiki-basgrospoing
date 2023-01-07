@@ -4,7 +4,9 @@ slug:  "Ryo_Sakazaki_(kof13)"
 id: 1075
 author: "Lolo"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-07-19"
 ---
 
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")

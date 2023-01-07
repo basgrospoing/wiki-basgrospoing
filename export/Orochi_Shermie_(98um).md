@@ -4,7 +4,9 @@ slug:  "Orochi_Shermie_(98um)"
 id: 245
 author: "Corbeau Bleu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-07"
 ---
 
 ## Introduction

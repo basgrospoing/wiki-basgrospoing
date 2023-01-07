@@ -4,7 +4,9 @@ slug:  "Carl_Clover_(BBCS)"
 id: 304
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-12-02"
 ---
 
 <figure>

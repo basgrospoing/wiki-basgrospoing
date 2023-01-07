@@ -4,7 +4,9 @@ slug:  "The_King_of_Fighters_XI_-_Malin"
 id: 929
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-06-09"
 redirect: "Kofxi-malin"
 old_id: 930
 ---

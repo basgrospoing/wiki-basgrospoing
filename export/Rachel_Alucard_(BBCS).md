@@ -4,7 +4,9 @@ slug:  "Rachel_Alucard_(BBCS)"
 id: 297
 author: "Achoral"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-23"
 ---
 
 <figure>

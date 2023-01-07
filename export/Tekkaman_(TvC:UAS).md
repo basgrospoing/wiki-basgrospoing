@@ -4,7 +4,9 @@ slug:  "Tekkaman_(TvC:UAS)"
 id: 516
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-19"
 ---
 
 <img src="/images/Tekkaman.jpg" title="/images/Tekkaman.jpg" width="200"

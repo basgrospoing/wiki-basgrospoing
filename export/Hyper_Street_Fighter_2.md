@@ -4,7 +4,9 @@ slug:  "Hyper_Street_Fighter_2"
 id: 371
 author: "Hynkel"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-24"
 ---
 
 

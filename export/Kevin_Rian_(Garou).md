@@ -4,7 +4,9 @@ slug:  "Kevin_Rian_(Garou)"
 id: 10
 author: "Sp1p3"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-24"
 ---
 
 ## Introduction

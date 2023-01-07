@@ -4,7 +4,9 @@ slug:  "Andy_Bogard_(2k2um)"
 id: 68
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-02"
 redirect: "Andy_Bogard"
 old_id: 76
 ---

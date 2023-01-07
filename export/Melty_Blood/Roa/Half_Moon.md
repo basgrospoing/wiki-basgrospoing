@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Roa/Half_Moon"
 id: 1851
 author: "Zind"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-02-02"
 ---
 
 # Combos

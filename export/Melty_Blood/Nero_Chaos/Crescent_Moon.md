@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Nero_Chaos/Crescent_Moon"
 id: 1827
 author: "Rapeur"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-30"
 ---
 
 # Combos

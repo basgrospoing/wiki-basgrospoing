@@ -4,7 +4,9 @@ slug:  "Jun_the_Swan_(TvC:UAS)"
 id: 514
 author: "Dan sakazaki"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-04-15"
 ---
 
 <img src="/images/Juntheswan.jpg" title="/images/Juntheswan.jpg"

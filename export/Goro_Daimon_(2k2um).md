@@ -4,7 +4,9 @@ slug:  "Goro_Daimon_(2k2um)"
 id: 23
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-03"
 redirect: "Goro_Daimon"
 old_id: 80
 ---

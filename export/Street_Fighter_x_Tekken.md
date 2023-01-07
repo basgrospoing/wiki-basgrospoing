@@ -4,7 +4,9 @@ slug:  "Street_Fighter_x_Tekken"
 id: 2161
 author: "MaxDaStereo"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "game.njk"
+tags: "game"
+date: "2012-08-11"
 ---
 
 ## LES CONTROLES / MOUVEMENTS

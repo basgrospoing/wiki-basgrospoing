@@ -4,7 +4,9 @@ slug:  "Samurai_Shodown_IV_-_Ukyo_Tachibana_(橘_右京,_Tachibana_Ukyō)"
 id: 646
 author: "Olivic"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2011-05-22"
 redirect: "Ss4-Ukyo"
 old_id: 664
 ---

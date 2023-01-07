@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Defense"
 id: 1709
 author: "Naast"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-17"
 ---
 
 Dans Melty Blood Actress Again Current Code, tous les personnages

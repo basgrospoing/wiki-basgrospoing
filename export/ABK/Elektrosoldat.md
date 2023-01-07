@@ -4,7 +4,9 @@ slug:  "ABK/Elektrosoldat"
 id: 2270
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-04-27"
 ---
 
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")

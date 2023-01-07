@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Miyako_Arima/Crescent_Moon"
 id: 1812
 author: "Ouytsu"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2015-06-27"
 ---
 
 # Style du perso

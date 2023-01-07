@@ -4,7 +4,9 @@ slug:  "Kasumi_Todoh_(2k2um)"
 id: 121
 author: "Admin"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-08-03"
 ---
 
 ## Introduction

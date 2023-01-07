@@ -4,7 +4,9 @@ slug:  "ABK/Akatsuki"
 id: 2262
 author: "Kabai"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-07-05"
 ---
 
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")

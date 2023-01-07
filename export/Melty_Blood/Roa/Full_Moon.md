@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Roa/Full_Moon"
 id: 1850
 author: "Zind"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2012-01-19"
 ---
 
 # Introduction

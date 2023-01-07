@@ -4,7 +4,9 @@ slug:  "Melty_Blood/Hisui_&_Kohaku"
 id: 1763
 author: "Oufan"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2014-04-29"
 ---
 
 ![ **Name:**   Hisui (翡翠)  —  **Nicknames:**    Brainwasher Detective

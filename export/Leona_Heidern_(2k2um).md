@@ -4,7 +4,9 @@ slug:  "Leona_Heidern_(2k2um)"
 id: 124
 author: "JPX"
 permalink:  "{{ slug }}.html"
-layout:  "index.njk"
+layout: "character.njk"
+tags: "character"
+date: "2010-11-28"
 ---
 
 ## Introduction
