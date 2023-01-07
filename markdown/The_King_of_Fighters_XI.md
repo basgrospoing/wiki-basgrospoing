@@ -278,7 +278,7 @@ On peut choisir la couleur de son personnage avec une des manipulations
 suivantes au moment du choix du personnage.
 
 |       |     | Maintenir E | Maintenir Start |
-|-------|-----|:-----------:|:---------------:|
+| ----- | --- | :---------: | :-------------: |
 | **A** | 1   |      5      |        9        |
 | **B** | 2   |      6      |       10        |
 | **C** | 3   |      7      |       11        |
@@ -302,7 +302,7 @@ pas pris en compte et si l'on change de jeux, le temps sera réinitialisé
 à zéro.
 
 | Personnage             | Temps de jeux |
-|------------------------|:-------------:|
+| ---------------------- | :-----------: |
 | **Adelheid Bernstein** |  720 heures   |
 | **Gai Tendo**          |  960 heures   |
 | **Jazu**               |  1200 heures  |
@@ -315,7 +315,7 @@ Si vous terminez le mode challenge dans son intégralité alors tous sera
 débloqué dans le jeux.
 
 | Personnage             |                                                 Action pour débloquer le personnage                                                 |
-|------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| ---------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
 | **Adelheid Bernstein** |                                                              Le battre                                                              |
 | **EX Kyo Kusanagi**    |                                                         Finir challenge 30                                                          |
 | **Gai Tendo**          | Faire un Super Special Leader Move durant un des trois premier match sans perdre un seul personnage pour le rencontrer et le battre |
@@ -353,12 +353,12 @@ space](/images/kofxi-the-different-space-stage.gif " The different space")
 width="400" alt="Choix des personnages" />
 
 |                                   |                                                                                     |                                                                     |                                                                           |
-|-----------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| --------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Hero Team                         | [Ash Crimson](The_King_of_Fighters_XI_-_Ash_Crimson "wikilink")                     | [Oswald](The_King_of_Fighters_XI_-_Oswald "wikilink")               | [Shen Woo](The_King_of_Fighters_XI_-_Shen_Woo "wikilink")                 |
-| K Team                            | [K](The_King_of_Fighters_XI_-_K "wikilink")                                         | [Kula Diamond](The_King_of_Fighters_XI_-_Kula-diamond "wikilink")   | [Maxima](The_King_of_Fighters_XI_-_Maxima "wikilink")                     |
-| Fatal Fury Team                   | [Terry Bogard](The_King_of_Fighters_XI_-_Terry_Bogard "wikilink")                   | [Kim Kaphwan](The_King_of_Fighters_XI_-_Kim-kaphwan "wikilink")     | [Duck King](The_King_of_Fighters_XI_-_Duck_King "wikilink")               |
+| K Team                            | [K](The_King_of_Fighters_XI_-_K'"wikilink")                                         | [Kula Diamond](The_King_of_Fighters_XI_-_Kula_Diamond "wikilink")   | [Maxima](The_King_of_Fighters_XI_-_Maxima "wikilink")                     |
+| Fatal Fury Team                   | [Terry Bogard](The_King_of_Fighters_XI_-_Terry_Bogard "wikilink")                   | [Kim Kaphwan](The_King_of_Fighters_XI_-_Kim_Kaphwan "wikilink")     | [Duck King](The_King_of_Fighters_XI_-_Duck_King "wikilink")               |
 | Garou: Mark of the Wolves Team    | [B.Jenet](The_King_of_Fighters_XI_-_Bonne_Jenet "wikilink")                         | [Gato Futaba](The_King_of_Fighters_XI_-_Gato_Futaba "wikilink")     | [Griffon](The_King_of_Fighters_XI_-_Griffon "wikilink")                   |
-| Kyo & Iori Team                   | [Kyo Kusanagi](The_King_of_Fighters_XI_-_Kyo-kusanagi "wikilink")                   | [Iori Yagami](The_King_of_Fighters_XI_-_Iori_Yagami "wikilink")     | [Shingo Yabuki](The_King_of_Fighters_XI_-_Shingo_Yabuki "wikilink")       |
+| Kyo & Iori Team                   | [Kyo Kusanagi](The_King_of_Fighters_XI_-_Kyo_Kusanagi "wikilink")                   | [Iori Yagami](The_King_of_Fighters_XI_-_Iori_Yagami "wikilink")     | [Shingo Yabuki](The_King_of_Fighters_XI_-_Shingo_Yabuki "wikilink")       |
 | Agent Team                        | [Vanessa](The_King_of_Fighters_XI_-_Vanessa "wikilink")                             | [Blue Mary](The_King_of_Fighters_XI_-_Blue_Mary "wikilink")         | [Ramon](The_King_of_Fighters_XI_-_Ramon "wikilink")                       |
 | Ikari Warriors Team               | [Ralf Jones](The_King_of_Fighters_XI_-_Ralf_Jones "wikilink")                       | [Clark Steel](The_King_of_Fighters_XI_-_Clark_Steel "wikilink")     | [Whip](The_King_of_Fighters_XI_-_Whip "wikilink")                         |
 | Art of Fighting Team              | [Ryo Sakazaki](The_King_of_Fighters_XI_-_Ryo_Sakazaki "wikilink")                   | [Yuri Sakazaki](The_King_of_Fighters_XI_-_Yuri_Sakazaki "wikilink") | [King](The_King_of_Fighters_XI_-_King "wikilink")                         |
@@ -366,7 +366,7 @@ width="400" alt="Choix des personnages" />
 | Rival Team                        | [Elisabeth Blanctorche](The_King_of_Fighters_XI_-_Elisabeth_Blanctorche "wikilink") | [Duo Lon](The_King_of_Fighters_XI_-_Duo_Lon "wikilink")             | [Benimaru Nikaido](The_King_of_Fighters_XI_-_Benimaru_Nikaido "wikilink") |
 | Psycho Soldier Team               | [Athena Asamiya](The_King_of_Fighters_XI_-_Athena_Asamiya "wikilink")               | [Sie Kensou](The_King_of_Fighters_XI_-_Sie_Kensou "wikilink")       | [Momoko](The_King_of_Fighters_XI_-_Momoko "wikilink")                     |
 | Boss du jeux                      | [Gai Tendo](kofxi-gai-tendo "wikilink")                                             | [Syo Hayate](kofxi-syo-hayate "wikilink")                           | [Jazu](kofxi-jazu "wikilink")                                             |
-|                                   | [Magaki](The_King_of_Fighters_XI_-_Magaki "wikilink")                               |                                                                     |                                                                           |
+|                                   | [Magaki](The_King_of_Fighters_XI_-_Magaki "wikilink")                               | [Shion](The_King_of_Fighters_XI_-_Shion)                           |                                                                           |
 | Personnage exclusif Playstation 2 | [Robert Garcia](kofxi-robert-garcia "wikilink")                                     | [Hotaru Futaba](kofxi-hotaru-futaba "wikilink")                     | [Mai Shiranui](kofxi-mai-shiranui "wikilink")                             |
 |                                   | [Tung Fu Rue](kofxi-tung-fu-rue "wikilink")                                         | [EX Kyo Kusanagi](kofxi-ex-kyo-kusanagi "wikilink")                 | [Mr. Big](kofxi-mr-big "wikilink")                                        |
 |                                   | [Geese Howard](kofxi-geese-howard "wikilink")                                       |                                                                     |                                                                           |
