@@ -36,7 +36,7 @@ def create_folder(folder):
 
 # # Writing to sample.json
 # json_object = json.dumps(pagelist, ensure_ascii=False)
-# with open("base_cache2.json", "w") as outfile:
+# with open("links.json", "w") as outfile:
 #     outfile.write(json_object)
 
 
@@ -171,15 +171,16 @@ def create_folder(folder):
 
 
 
-cache_path = "cleaned_data/formated_data.json"
+
+## PAGE GENERATOR
+
+cache_path = "cleaned_data/api_cache.json"
 cache_file = open(cache_path, "r")
 cache_text = cache_file.read()
 cache_content = json.loads(cache_text)
 cache_file.close()
 
-create_folder("../export")
-
-
+# create_folder("../export")
 
 for entry in cache_content:
     # # Writing to sample.json
@@ -193,7 +194,7 @@ for entry in cache_content:
         print(src)
         create_folder("../export/" + src[0] + "/" + src[1] + "/" + src[2])
 
-    frontmatter = '---\ntitle: "' + entry["text"] + '"\nslug:  "' + entry["src"] + '"\nid: ' + entry["id"] + '\nauthor: "' + entry["author"] + '"\n' + 'permalink:  "{{ slug }}.html"\n'  + 'layout:  "index.njk"\n' 
+    frontmatter = '---\ntitle: "' + entry["text"] + '"\nslug:  "' + entry["src"] + '"\nid: ' + str(entry["id"]) + '\nauthor: "' + entry["author"] + '"\n' + 'permalink:  "{{ slug }}.html"\n'  + 'layout:  "index.njk"\n' 
 
     
     if "old_src" in entry:
@@ -212,3 +213,35 @@ for entry in cache_content:
         outfile.write(md)
 
 # subprocess.run('cp -R cleaned_data/images ../export/images ')
+
+
+
+
+
+
+## API BASED
+
+# cache_path = "cleaned_data/formated_data.json"
+# cache_file = open(cache_path, "r")
+# cache_text = cache_file.read()
+# cache_content = json.loads(cache_text)
+# cache_file.close()
+
+
+# newCache = []
+# for entry in cache_content:
+#     url = "https://wiki.basgrospoing.fr/api.php?action=query&prop=revisions&titles=" + entry["src"] + "&rvprop=timestamp|user|content&formatversion=2&format=json"
+#     resp = requests.get(url)
+#     resp_dict = resp.json()
+#     entry["date"] = resp_dict["query"]["pages"][0]["revisions"][0]["timestamp"]
+#     entry["content"] = resp_dict["query"]["pages"][0]["revisions"][0]["content"]
+#     entry["author"] = resp_dict["query"]["pages"][0]["revisions"][0]["user"]
+#     entry["id"] = resp_dict["query"]["pages"][0]["pageid"]
+#     print(entry["text"], entry["date"], entry["author"],entry["id"],)
+#     newCache.append(entry)
+
+
+# json_object = json.dumps(newCache, ensure_ascii=False)
+# with open("api_cache.json", "w") as outfile:
+#     outfile.write(str(json_object))
+
