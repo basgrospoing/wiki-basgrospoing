@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
 
     dir: {
       input: ".",
-      output: "dist"
+      output: "html"
     }
   }
 };
