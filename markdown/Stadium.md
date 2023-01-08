@@ -3,7 +3,7 @@ title: "Stadium"
 slug:  "Stadium"
 id: 489
 author: "Wolmar"
-permalink:  "{{ slug }}.html"
+permalink: "stadium.html"
 layout: "character.njk"
 tags: "character"
 date: "2010-12-20"

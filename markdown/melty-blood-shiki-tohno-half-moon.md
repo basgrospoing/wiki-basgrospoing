@@ -1,0 +1,244 @@
+---
+title: "Melty Blood/Shiki Tohno/Half Moon"
+slug:  "Melty_Blood/Shiki_Tohno/Half_Moon"
+id: 1874
+author: "Sannos"
+permalink: "melty-blood-shiki-tohno-half-moon.html"
+layout: "character.njk"
+tags: "character"
+date: "2014-12-19"
+---
+
+# Combos
+
+\~ = Signifie que le combo peut commencer avec n'importe quel normal.
+
+**Combo ender**
+
+- **j.BC (s)dj j.BC airthrow**
+
+<!-- -->
+
+- **j.BC (s)dj j.BC adc j.B airthrow**
+
+<!-- -->
+
+- **J.CB (s)dj j.BC airthrow**
+
+**Combo midscreen**
+
+- **\~ 2C 5BB combo ender**
+
+<!-- -->
+
+- **\~ 2C 5C (5B/6C) combo ender**
+
+<!-- -->
+
+- **\~ 2C 6C (5B(B)) combo ender**
+
+<!-- -->
+
+- **\~ 5A 6AA 6\[C\] iad j.C land 623B**
+
+  
+Donne un bon oki
+
+- **\~ 5A 6AA 6\[C\] iad j.C land 5BB 2Awhiff combo ender**
+
+<!-- -->
+
+- **6\[C\] 5BB combo ender**
+
+**Combo en corner**
+
+- **\~ 5A 6AA 6\[C\] 22\[A\] 5BB/5A 5B combo ender**
+
+<!-- -->
+
+- **\~ 214C 22D 2C 6C 5BB combo ender**
+
+<!-- -->
+
+- **\~ 214C 5Awhiff 6\[C\] link 2C 6C 5BB combo ender**
+
+<!-- -->
+
+- **\~ 214C 5Awhiff 5Bwhiff\[B\] 22D 2C 6C 5B(B) combo ender**
+
+<!-- -->
+
+- **\~ 2C 214C instant air back dash j.Cwhiff land 2C 214C 5Awhiff
+  5Bwhiff \> \[B\] 2Awhiff jump j.(B)C dj j.BC airthrow**
+
+# Stratégie globale
+
+Tohno Shiki est un personnage équilibré qui est basé sur des bons
+normaux, surtout le JC, qui est un air-sol très efficace et 2C, un coup
+low qui touche très loin et permet de launcher avec un 5B ou 5C pour
+pouvoir enchainer le air combo. C'est un perso aussi très mobile, son
+dash et backdash au sol très rapide qui peut aboutir à des tick throw ou
+des press violents, son airdash permet de vite atteindre son adversaire
+et mettre sous pression rapidement. Point faible du personnage, son jeu
+air to air défavorable avec son JA modifié par rapport au crescent et
+son JB, qui est son meilleur coup air to air, ayant une portée minimal
+par rapport à ses autres coups.
+
+## Half
+
+La gestion de la barre en half est très particulière, Tohno Shiki
+utilisant très peu de meter par rapport au reste du cast, on a vite fait
+de perdre 200% de barre après un heat automatique. Par contre, ses
+nouveaux coups 6C, son airdash modifié et ses dégâts rendent le perso en
+half à la limite du indispensable par rapport aux autres moons.
+
+## Spacing
+
+N'hésitez pas à abuser du JC et 2C, attention aux shields par contre,
+les pokes deviennent vite visible. Pour les débutants, il est conseillé
+de training les combos à partir d'un JC ou 2C, vu que vous allez casser
+la garde généralement avec ces coups.
+
+## Press
+
+Le coup exclusif half 6C permet de maintenir un pressing, ce coup permet
+d'avancer avec une hitbox correct, il est un bon moyen de pression. Un
+petit combo pressing dans le coin: 5A 6C 5B 2B 2C 5C 22D. Vous pouvez
+changer le 22D par un 22A ou voir même un 22B, ces différentes
+téléportations ou feinte de téléportation pour le 22D permet de mixer et
+de continuer un nouveau pressing ou de piéger l'adversaire en variant.
+
+# Command list
+
+## Coups Normaux
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>2A</strong></p>
+<p>Liste des coups par ordre de puissance.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>5A</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5B</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>6C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>#C</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JA</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>JB</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>JC</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>J6C</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+## Coups Speciaux
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Name 「JP name」 - 22ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> - Décrire à quoi sert le coup</li>
+<li><strong>(A version)</strong> - Description de la version A du
+coup.</li>
+<li><strong>(B version)</strong> - Description de la version B du
+coup</li>
+<li><strong>(EX version)</strong> - Description de la version EX du
+coup</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>「」- 236ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> -</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>「」- 28ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> - ...</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>　「」- 623ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> - ...</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>「」- 214ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> - ...</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>「」- 421ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong> - ...</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>「」- J22ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong>...</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>「」- 426ABC</strong></p>
+<ul>
+<li><strong>(Description)</strong>...</li>
+<li><strong>(A version)</strong> -</li>
+<li><strong>(B version)</strong> -</li>
+<li><strong>(EX version)</strong> -</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>「」- BC</strong></p>
+<ul>
+<li><strong>(Description)</strong>...</li>
+<li><strong>(Standing)</strong> -</li>
+<li><strong>(Crouching)</strong> -</li>
+<li><strong>(Airborne)</strong> -</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## Arc Drive
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>「」</strong></p>
+<ul>
+<li><strong>(Description)</strong> - AD description</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+[Category:Melty Blood Actress Again Current
+Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")

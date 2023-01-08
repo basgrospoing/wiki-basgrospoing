@@ -3,7 +3,7 @@ title: "Glossaire"
 slug:  "Glossaire"
 id: 359
 author: "Atomskyu698"
-permalink:  "{{ slug }}.html"
+permalink: "glossaire.html"
 layout: "other.njk"
 tags: "other"
 date: "2014-05-09"

@@ -3,7 +3,7 @@ title: "Concrete"
 slug:  "Concrete"
 id: 491
 author: "Wolmar"
-permalink:  "{{ slug }}.html"
+permalink: "concrete.html"
 layout: "character.njk"
 tags: "character"
 date: "2010-12-20"

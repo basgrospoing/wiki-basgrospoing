@@ -3,7 +3,7 @@ title: "Terry"
 slug:  "Terry"
 id: 24
 author: "Corbeau Bleu"
-permalink:  "{{ slug }}.html"
+permalink: "terry.html"
 layout: "character.njk"
 tags: "character"
 date: "2010-07-20"

@@ -3,7 +3,7 @@ title: "Aveline"
 slug:  "Aveline"
 id: 2513
 author: "Aveline"
-permalink:  "{{ slug }}.html"
+permalink: "aveline.html"
 layout: "character.njk"
 tags: "character"
 date: "2012-07-26"

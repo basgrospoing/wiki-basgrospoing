@@ -3,7 +3,7 @@ title: "HarkeyNewberry811"
 slug:  "HarkeyNewberry811"
 id: 2295
 author: "HarkeyNewberry811"
-permalink:  "{{ slug }}.html"
+permalink: "harkeynewberry811.html"
 layout: "character.njk"
 tags: "character"
 date: "2012-06-15"

@@ -3,7 +3,7 @@ title: "Attaque"
 slug:  "Attaque"
 id: 501
 author: "Wolmar"
-permalink:  "{{ slug }}.html"
+permalink: "attaque.html"
 layout: "character.njk"
 tags: "character"
 date: "2011-04-08"

@@ -74,7 +74,7 @@
         <ul>
           {%- for game in collections.game -%}
             <li>
-              <a href="{{ game.data.slug }}">{{ game.data.title }}</a>
+              <a href="{{ game.data.permalink }}">{{ game.data.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
@@ -82,10 +82,35 @@
         <ul>
           {%- for other in collections.other -%}
             <li>
-              <a href="{{ other.data.slug }}">{{ other.data.title }}</a>
+              <a href="{{ other.data.permalink }}">{{ other.data.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
+        <pre>
+          [
+          {%- for character in collections.character -%}
+            {
+              "slug": "{{ character.data.slug }}",
+              "old": "{{ character.data.redirect }}",
+              "slugify": "{{character.data.slug | slugify }}"
+            },
+          {%- endfor -%}
+           {%- for game in collections.game -%}
+            {
+              "slug": "{{ game.data.slug }}",
+              "old": "{{ game.data.redirect }}",
+              "slugify": "{{game.data.slug | slugify }}"
+            },
+          {%- endfor -%}
+          {%- for other in collections.other -%}
+            {
+              "slug": "{{ other.data.slug }}",
+              "old": "{{ other.data.redirect }}",
+              "slugify": "{{other.data.slug | slugify }}"
+            },
+          {%- endfor -%}
+          ]
+          </pre>
          <footer>
         Initially last edited: {{ date }} by {{ author }}.
       </footer>

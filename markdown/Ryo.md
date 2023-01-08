@@ -3,7 +3,7 @@ title: "Ryo"
 slug:  "Ryo"
 id: 27
 author: "Corbeau Bleu"
-permalink:  "{{ slug }}.html"
+permalink: "ryo.html"
 layout: "character.njk"
 tags: "character"
 date: "2010-07-20"

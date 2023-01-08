@@ -3,7 +3,7 @@ title: "Benimaru"
 slug:  "Benimaru"
 id: 22
 author: "Bberita"
-permalink:  "{{ slug }}.html"
+permalink: "benimaru.html"
 layout: "character.njk"
 tags: "character"
 date: "2011-10-26"

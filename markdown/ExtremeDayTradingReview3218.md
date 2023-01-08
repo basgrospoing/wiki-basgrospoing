@@ -3,7 +3,7 @@ title: "ExtremeDayTradingReview3218"
 slug:  "ExtremeDayTradingReview3218"
 id: 2660
 author: "ExtremeDayTradingReview3218"
-permalink:  "{{ slug }}.html"
+permalink: "extremedaytradingreview3218.html"
 layout: "character.njk"
 tags: "character"
 date: "2012-08-06"

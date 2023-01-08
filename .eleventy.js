@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias('default', 'index.njk')
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("old/images");
+  eleventyConfig.addPassthroughCopy({"markdown/.htaccess": ".htaccess"});
   eleventyConfig.addPassthroughCopy({ "old/images": "images" });
   const pluginTOC = require('eleventy-plugin-nesting-toc');
   eleventyConfig.addPlugin(pluginTOC);

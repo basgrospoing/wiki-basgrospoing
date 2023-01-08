@@ -3,7 +3,7 @@ title: "Beach"
 slug:  "Beach"
 id: 494
 author: "Wolmar"
-permalink:  "{{ slug }}.html"
+permalink: "beach.html"
 layout: "character.njk"
 tags: "character"
 date: "2010-12-23"

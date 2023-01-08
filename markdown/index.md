@@ -3,7 +3,7 @@ title: "Accueil"
 slug:  "index"
 id: 1
 author: "Admin"
-permalink:  "{{ slug }}.html"
+permalink: "index.html"
 layout: "index.njk"
 tags: "index"
 date: "2014-01-09"
