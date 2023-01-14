@@ -367,7 +367,7 @@ Image:ss4-play-zankuro.png
 
 ### Obtenir la vrai fin
 
-Voir : [Limite de temps](ss4#Limite_de_temps "wikilink")
+Voir : [Limite de temps](ss4#Limite_de_temps)
 
   
 
@@ -448,49 +448,49 @@ Shizumaru \[s\]
 
 Première ligne
 
-- [Tam Tam (タムタム, Tamu Tamu)](ss4-TamTam "wikilink")
-- [Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)](ss4-Sogetsu "wikilink")
+- [Tam Tam (タムタム, Tamu Tamu)](ss4-TamTam)
+- [Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)](ss4-Sogetsu)
 - [Shiro Tokisada Amakusa (天草 四郎 時貞, Amakusa Shirō
-  Tokisada)](ss4-Shiro "wikilink")
-- [Kazuki Kazama (風間 火月, Kazama Kazuki)](ss4-Kazuki "wikilink")
+  Tokisada)](ss4-Shiro)
+- [Kazuki Kazama (風間 火月, Kazama Kazuki)](ss4-Kazuki)
 - [Charlotte Christine de Colde
   (シャルロット＝クリスティーヌ＝ド＝コルデ, Sharurotto Kurisutīnu do
-  Korude)](ss4-Charlotte "wikilink")
+  Korude)](ss4-Charlotte)
 
   
 ![Ecran de choix du
 personnage](/images/ss4-personnage.png "Ecran de choix du personnage")
 Deuxième ligne
 
-- [Nakoruru (ナコルル, Nakoruru)](ss4-Nakoruru "wikilink")
+- [Nakoruru (ナコルル, Nakoruru)](ss4-Nakoruru)
 - [Genjuro Kibagami (牙神 幻十郎, Kibagami
-  Genjūrō)](ss4-Genjuro "wikilink")
-- [Haohmaru (覇王丸, Haōmaru)](ss4-Haohmaru "wikilink")
-- [Rimururu (リムルル, Rimururu)](ss4-Rimururu "wikilink")
+  Genjūrō)](ss4-Genjuro)
+- [Haohmaru (覇王丸, Haōmaru)](ss4-Haohmaru)
+- [Rimururu (リムルル, Rimururu)](ss4-Rimururu)
 
   
 Troisième ligne
 
-- [Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)](ss4-Gaira "wikilink")
-- [Ukyo Tachibana (橘 右京, Tachibana Ukyō)](ss4-Ukyo "wikilink")
+- [Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)](ss4-Gaira)
+- [Ukyo Tachibana (橘 右京, Tachibana Ukyō)](ss4-Ukyo)
 - [Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī
-  Werā)](ss4-Galford "wikilink")
+  Werā)](ss4-Galford)
 - [Shizumaru Hisame (緋雨 閑丸, Hisame
-  Shizumaru)](ss4-Shizumaru "wikilink")
+  Shizumaru)](ss4-Shizumaru)
 
   
 Quatrième ligne
 
 - [Kyoshiro Senryo (千両 狂死郎, Senryō
-  Kyōshirō)](ss4-Kyoshiro "wikilink")
-- [Hanzo Hattori (服部 半蔵, Hattori Hanzō)](ss4-Hanzo "wikilink")
+  Kyōshirō)](ss4-Kyoshiro)
+- [Hanzo Hattori (服部 半蔵, Hattori Hanzō)](ss4-Hanzo)
 - Choix aléatoire du personnage (sauf Zankuro)
-- [Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)](ss4-Jubei "wikilink")
+- [Jubei Yagyu (柳生 十兵衛, Yagyū Jūbee)](ss4-Jubei)
 - [Basara (首切り 破沙羅, Kubikiri
-  Basara)](Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara) "wikilink")
+  Basara)](Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara))
 
   
 Personnage caché
 
 - [Zankuro Minazuki (壬無月 斬紅郎, Minazuki
-  Zankurō)](Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō) "wikilink")
+  Zankurō)](Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō))

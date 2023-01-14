@@ -30,7 +30,7 @@ date: "2015-01-15"
 
 **Shiki Tohno**
 
-[Crescent](Melty_Blood/Shiki_Tohno/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Shiki_Tohno/Crescent_Moon)  
 **Jack of all trades, master of none.**  
 *Avantages :*  
 + Bon normaux  
@@ -42,7 +42,7 @@ adverses...
 longues distances (Warachia,...) ou un bon zoning (Aoko,...)  
 - Dégâts en dessous de la moyenne
 
-[Half](Melty_Blood/Shiki_Tohno/Half_Moon "wikilink")  
+[Half](Melty_Blood/Shiki_Tohno/Half_Moon)  
 **Moon un peu plus accès rushdown et press.**  
 *Avantages :*  
 + Bon normaux  
@@ -51,7 +51,7 @@ longues distances (Warachia,...) ou un bon zoning (Aoko,...)
 *Désavantages :*  
 - Les pires dégâts des 3 moons
 
-[Full](Melty_Blood/Shiki_Tohno/Full_Moon "wikilink")  
+[Full](Melty_Blood/Shiki_Tohno/Full_Moon)  
 **Moon utile contre les personnages où le neutral est compliqué pour les
 2 autres moons.**  
 *Avantages :*  
@@ -84,7 +84,7 @@ distances ou un bon zoning
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

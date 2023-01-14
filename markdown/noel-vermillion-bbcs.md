@@ -29,18 +29,18 @@ Elle dit que, lorsqu'elle se bat, Bolverk se bat pour elle, contrôlant
 ses mouvements.
 
 Elle a été dans la même université que
-[Tsubaki](Tsubaki_Yayoi_(BBCS) "wikilink"),
-[Makoto](Makoto_Nanaya_(BBCS) "wikilink"),
-[Jin](Jin_Kisaragi_(BBCS) "wikilink") et
-[Carl](Carl_Clover_(BBCS) "wikilink"), et adore les pandas, en
+[Tsubaki](Tsubaki_Yayoi_(BBCS)),
+[Makoto](Makoto_Nanaya_(BBCS)),
+[Jin](Jin_Kisaragi_(BBCS)) et
+[Carl](Carl_Clover_(BBCS)), et adore les pandas, en
 particulier le bébé panda de Litchi.
 
 ## Anecdote
 
 L'actrice de doublage ayant prêté sa voix à Noel, Kanako Kondou, a aussi
-doublé [Λ -11-](Λ_-11-_(BBCS) "wikilink"), [ν
+doublé [Λ -11-](Λ_-11-_(BBCS)), [ν
 -13-](http://basgrospoing.fr/wiki/index.php?title=Λ_-11-_(BBCS)#Version_Unlimited_.28.CE.BD_-13-.29),
-[µ -12-](Μ_-12-_(BBCS) "wikilink") ainsi que l'Imperator Librarium dans
+[µ -12-](Μ_-12-_(BBCS)) ainsi que l'Imperator Librarium dans
 le même jeu. Elle a aussi chanté 3 chansons de la bande originale :
 *Pandora Tears*, *Love so Blue* et *Hekira no Sora e Izanaedo*.
 

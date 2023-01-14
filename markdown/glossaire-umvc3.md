@@ -401,7 +401,7 @@ following link for the full page of details regarding Damage Scaling and
 Damage Scaling Minimum Values.
 
 - [ Damage
-  Scaling](Ultimate_Marvel_vs_Capcom_3/damagescaling "wikilink")
+  Scaling](Ultimate_Marvel_vs_Capcom_3/damagescaling)
 
 ### Extra Terminology
 

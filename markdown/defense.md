@@ -41,7 +41,7 @@ profiter de tous les bénéfices de ce déplacement. C'est un mouvement de
 défense de premier ordre puisqu'il va permettre de rattraper les disques
 les plus éloignés. Bien que rectiligne, le déplacement permis est très
 rapide. C'est aussi un mouvement offensif, dont les propriétés sont
-détaillées dans la section appropriée ([Attaque](Attaque "wikilink")).
+détaillées dans la section appropriée ([Attaque](Attaque)).
 
 ### Stun
 
@@ -69,7 +69,7 @@ de bénéfices.
 
 ### Rattraper les normaux, lobs et effets
 
-Référez vous à l'article [Attaque](Attaque "wikilink") pour connaître
+Référez vous à l'article [Attaque](Attaque) pour connaître
 les spécificités de chacun de ces tirs, ainsi que des stratégies
 avancées que l'on peut mettre en place (cela permet naturellement aussi
 de penser sa situation de défense). Il existe, de manière simple, deux
@@ -100,7 +100,7 @@ Il s'agit d'un point à la fois très complexe et très simple, qui peut
 être en tout cas résumé en une méthode, sans doute la plus efficace. Il
 existe en effet dans le jeu ce que l'on pourrait appeler un "sweet
 spot", où emplacement idéal, qui permet de pouvoir recevoir n'importe
-quel [super tir](super_tir "wikilink"). Cet emplacement peut se voir sur
+quel [super tir](super_tir). Cet emplacement peut se voir sur
 l'image, et le choix du terrain n'est pas anodin. En effet, sur Tiled,
 au niveau du T, le personnage placé sur l'intersection des lignes
 (suffisamment avancé) est assuré de pouvoir sans se faire enfoncer dans

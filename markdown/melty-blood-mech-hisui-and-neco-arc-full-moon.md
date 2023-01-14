@@ -36,12 +36,12 @@ contrepartie, elle a beaucoup de mal a se déplacer.
 
 **Mech-Hisui**
 
-[Crescent](Melty_Blood/Mech-Hisui/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Mech-Hisui/Crescent_Moon)  
 Possède les "jetpacks" qui contrôle énormément les chemins aériens. Il
 est très difficile d'approcher cette Mech-Hisui par au dessus. Son jeu
 est relativement diversifié avec en plus quelques mixups et reversals.
 
-[Half](Melty_Blood/Mech-Hisui/Half_Moon "wikilink")  
+[Half](Melty_Blood/Mech-Hisui/Half_Moon)  
 Possède une panoplie de coup avec énormément de portée vers l'avant.
 Elle attaque très facilement a l'horizontale, mais peine à se couvrir
 contre des attaques verticales. Pour pallier à ça, elle peut invoquer
@@ -50,7 +50,7 @@ pour gêner les attaques verticales adverses... Il s'agit de la moon la
 plus agressive à distance, capable d'infliger de très bon dégâts de
 l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
 
-[Full](Melty_Blood/Mech-Hisui/Full_Moon "wikilink")  
+[Full](Melty_Blood/Mech-Hisui/Full_Moon)  
 ...
 
 # Statistics
@@ -77,7 +77,7 @@ l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

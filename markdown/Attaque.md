@@ -22,7 +22,7 @@ d'expérience, on peut arriver à comprendre de façon générale l'ensemble
 des patterns possibles, et ne plus vraiment être surpris par ceux-ci. De
 fait, le positionnement sur l'aire de jeu, permettant de faire se
 développer plus ou moins la trajectoire de tirs, est capital.  
-Bien que séparés dans ce Wiki, Attaque et [Défense](Défense "wikilink")
+Bien que séparés dans ce Wiki, Attaque et [Défense](Défense)
 sont dans le jeu totalement mêlés. Les retournements de situation, de
 l'un à l'autre domaine, sont incessants, et obligent à maîtriser
 l'ensemble des configurations du jeu. Connaître la panoplie de tirs
@@ -43,10 +43,10 @@ alt="/images/Toss.jpg" />
 
 Plus le toss est effectué près de la réception du disque, plus la cible
 est proche du personnage (selon la caractéristique "Dexterity", voir
-page de présentation [Windjammers](Windjammers "wikilink")). Cette
+page de présentation [Windjammers](Windjammers)). Cette
 cible, lors d'un toss bien réalisé, peut donc même être pointée juste
 au-dessus du personnage, qui commence alors à charger un [Super
-tir](Super_tir "wikilink") instantanément. Si le toss est moins bien
+tir](Super_tir) instantanément. Si le toss est moins bien
 coordonné au niveau du timing, la cible sera à mesure de ce fait,
 éloignée du personnage. Cela l'oblige ainsi pour charger à aller
 au-dessous de cette cible (de préférence par un dash, pour être plus
@@ -81,15 +81,15 @@ alt="/images/Normaux.jpg" />
 Il faut aussi noter que les normaux suivent une trajectoire symétrique
 (comparable à une réflexion de miroir), une fois un mur touché.  
 Les normaux sont des armes évidemment à privilégier avec des personnages
-puissants : avec [Hiromi Mita](Hiromi_Mita "wikilink") et [Beeho
-Yoo](Beeho_Yoo "wikilink") par exemple, il faut tenter dès que possible
-d'enclencher un [Super tir](Super_tir "wikilink") (ce qui n'est pas le
-cas avec un [Klaus Wessel](Klaus_Wessel "wikilink") ou un [Gary
-Scott](Gary_Scott "wikilink") par exemple). Pour Mita même, les normaux
+puissants : avec [Hiromi Mita](Hiromi_Mita) et [Beeho
+Yoo](Beeho_Yoo) par exemple, il faut tenter dès que possible
+d'enclencher un [Super tir](Super_tir) (ce qui n'est pas le
+cas avec un [Klaus Wessel](Klaus_Wessel) ou un [Gary
+Scott](Gary_Scott) par exemple). Pour Mita même, les normaux
 sont assez souvent à remplacer par des EA de préférence.  
 Ceci sera rappelé bien d'autres fois, mais il faut aussi avoir à
 l'esprit qu'au filet, un normal est souvent plus efficace qu'un [Super
-tir](Super_tir "wikilink"). C'est donc dans une configuration de jeu au
+tir](Super_tir). C'est donc dans une configuration de jeu au
 filet que l'utilisation de normaux doit être plus soutenue avec des
 personnages moins puissants.  
 Entre 2 et 3 secondes (le temps est fixe) d'inactivité, un tir
@@ -327,7 +327,7 @@ personnel(plus facile), se diriger vers le disque de façon à ce que le
 dash rallonge ou même dévie (dans le cas d'un tir adverse) la
 trajectoire du disque. On peut ainsi amener le disque pratiquement à
 l'autre bout d'un terrain réduit avec un personnage à dash puissant
-([Klaus Wessel](Klaus_Wessel "wikilink")).  
+([Klaus Wessel](Klaus_Wessel)).  
 Attention toutefois, lorsque le dash est utilisé comme dash spécial, et
 que l'on cherche à en tirer parti trop fortement, des erreurs type
 "miss" peuvent assez souvent advenir
@@ -339,7 +339,7 @@ Il s'agit là d'une des stratégies les plus payantes quand on parle
 d'offensive. Le procédé est le suivant : lors d'un toss qui envoie le
 disque le plus en avant de votre camp possible, dirigez vous vers la
 cible de retombée comme pour aller charger un [Super
-tir](Super_tir "wikilink"). Seulement, soit 1/ restez à côté de la cible
+tir](Super_tir). Seulement, soit 1/ restez à côté de la cible
 pour ne pas charger, soit 2/ (plus avancé) allez sous la cible comme
 pour charger *sachant très bien* que le temps ne permettra pas une
 charge réelle de Super tir, pour en fin de compte envoyer un tir normal

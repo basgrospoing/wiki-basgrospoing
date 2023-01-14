@@ -30,14 +30,14 @@ d'éléments sur l'univers du jeu dans la mini-série "Tell Me Mrs.
 Litchi!".
 
 Taokaka ainsi que son clan ont peur
-d'[Arakune](Arakune_(BBCS) "wikilink") qui vit en dessous du village
+d'[Arakune](Arakune_(BBCS)) qui vit en dessous du village
 Kaka. Ce dernier tente en effet de dévorer les membres du clan Kaka qui
 tombent au niveau inférieur ou quand il attaque le village.
 
 Taokaka est une guerrière redoutable mais extrêmement bête. Elle aime
 dormir et manger des boulettes de viande. Elle considère comme gentille
 toute personne lui offrant à manger : venue tuer [Ragna the
-Bloodedge](Ragna_the_Bloodedge_(BBCS) "wikilink") dans l'épisode CT,
+Bloodedge](Ragna_the_Bloodedge_(BBCS)) dans l'épisode CT,
 elle ne le reconnaît pas quand elle le croise dans un restaurant et se
 lie d'amitié avec lui quand ce dernier l'invite à sa table quand cette
 dernière manifeste son appétit.

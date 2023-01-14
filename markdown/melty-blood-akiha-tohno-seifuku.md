@@ -33,15 +33,15 @@ sister"
 
 **Akiha Tohno (Seifuku)**
 
-[Crescent](Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon)  
 Solide, inflige de gros dégâts a partir de n'importe quelle situation,
 même en l'air sans counter. Très bon pressing également.
 
-[Half](Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon "wikilink")  
+[Half](Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon)  
 Possiblement la moon qui inflige le plus de dégâts. Demande beaucoup
 d’exécution.
 
-[Full](Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon "wikilink")  
+[Full](Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon)  
 Très bon contrôle de terrain et okizeme/mixups très safe.
 
 # Statistics
@@ -66,7 +66,7 @@ Très bon contrôle de terrain et okizeme/mixups très safe.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

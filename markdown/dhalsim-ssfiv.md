@@ -48,7 +48,7 @@ d'encaissement d'un coup.
 Les zones violettes pleines correspondent à des zones d'attaque du coup
 *(Note : Ces zones ne respectent pas la charte des hitboxes décrite dans
 la page principale de [Super Street Fighter
-IV](Super_Street_Fighter_IV "wikilink"), elles ont été représentées en
+IV](Super_Street_Fighter_IV), elles ont été représentées en
 violet seulement pour illustrer le cas décrit ici)*.
 
 Les zones rouges pleines correspondent à des zones qui sont à la fois

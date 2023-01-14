@@ -39,16 +39,16 @@ moyennement mobile/rapide.
 
 **Arcueid Brunestud**
 
-[Crescent](Melty_Blood/Arcueid_Brunestud/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Arcueid_Brunestud/Crescent_Moon)  
 La plus versatile de toutes les moons, très solide et fait à peu près
 tout ce que l'on attend d'un personnage de meltyblood.
 
-[Half](Melty_Blood/Arcueid_Brunestud/Half_Moon "wikilink")  
+[Half](Melty_Blood/Arcueid_Brunestud/Half_Moon)  
 Légèrement moins solide que C-moon (mais toujours très solide). En
 contrepartie, elle build beaucoup de meter et va baser son jeu sur la
 régénération. Très tanky donc...
 
-[Full](Melty_Blood/Arcueid_Brunestud/Full_Moon "wikilink")  
+[Full](Melty_Blood/Arcueid_Brunestud/Full_Moon)  
 Des coups plus lents, mais avec plus de portées.
 
 # Statistics
@@ -73,7 +73,7 @@ Des coups plus lents, mais avec plus de portées.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

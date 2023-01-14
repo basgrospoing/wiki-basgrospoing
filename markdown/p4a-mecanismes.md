@@ -10,9 +10,9 @@ date: "2012-08-08"
 ---
 
 Cette page décrit les mécanismes de base d'un jeu de combat disponibles
-dans *[Persona 4 Arena](Persona_4_Arena "wikilink")*. Pour un aperçu des
+dans *[Persona 4 Arena](Persona_4_Arena)*. Pour un aperçu des
 fonctionnalités spécifiques, consultez l'article [mécanismes
-avancés](P4A/Mécanismes_avancés "wikilink").
+avancés](P4A/Mécanismes_avancés).
 
 # Déplacement
 

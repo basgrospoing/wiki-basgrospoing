@@ -39,16 +39,16 @@ joueurs appréciant un style passif-agressif.
 
 **Len**
 
-[Crescent](Melty_Blood/Len/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Len/Crescent_Moon)  
 Possède de nombreux mixups, et la barre de meter lui permet d'y accéder
 très facilement. Peut plier le match très vite.
 
-[Half](Melty_Blood/Len/Half_Moon "wikilink")  
+[Half](Melty_Blood/Len/Half_Moon)  
 Possède le meilleur neutral des 3 lens, avec des icepikes qui gardent le
 momentum en l'air. Elle possède de bons mixups, mais des dégâts assez
 inégaux.
 
-[Full](Melty_Blood/Len/Full_Moon "wikilink")  
+[Full](Melty_Blood/Len/Full_Moon)  
 Inflige beaucoup de dégâts en peu de coup. L'utilisation des chats est
 remplacé par des miroirs, très lent et difficile à activer. Ceux-ci
 zonent sur de plus courtes distances, mais sont plus agressifs. Ils
@@ -76,7 +76,7 @@ permettent en bonus de renvoyer certains projectiles.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

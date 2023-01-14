@@ -241,7 +241,7 @@ manipulation suivante: **QCF + taunt**
 - **X-ISM** :![](/images/Gif_X-ISM.gif "/images/Gif_X-ISM.gif")
 
 Pour jouer le personnage à la manière de [Super Street Fighter II
-X](Super_Street_Fighter_II_X "wikilink").
+X](Super_Street_Fighter_II_X).
 
 Le personnage disposera d'une seule barre de Super, sera légèrement plus
 fort, encaissera moins bien, sera dépourvu du Air guard, Ground

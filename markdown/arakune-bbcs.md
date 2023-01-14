@@ -30,8 +30,8 @@ incomplètes, et qui, parfois, manquent de sens.
 
 On ne sait pas grand chose de son passé, si ce n'est que son véritable
 nom est **Lotte Carmille**, et qu'il a fait ses recherches aux côtés de
-[Tager](Iron_Tager_(BBCS) "wikilink"), Kokonoe et
-[Litchi](Litchi_Faye_Ling_(BBCS) "wikilink").
+[Tager](Iron_Tager_(BBCS)), Kokonoe et
+[Litchi](Litchi_Faye_Ling_(BBCS)).
 
 ### Gameplay
 

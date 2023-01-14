@@ -15,7 +15,7 @@ date: "2012-03-04"
 
 Boxer est le puncheur du casting 2X, le boucher de service. Un
 personnage hors-nomes pour des capacités hors-normes... en d'autres
-termes : un *top [tiers](tiers "wikilink")* du jeu.  
+termes : un *top [tiers](tiers)* du jeu.  
 Il est, au même titre qu'un E.Honda, un personnage relativement
 accessible aux débutants, techniquement parlant.  
 Mais, personnage nécessitant de la rigueur et une bonne concentration,
@@ -29,7 +29,7 @@ Souffrant de peu de match ups "défavorables" au sens propre du terme,
 boxer aura malgré tout fort à faire face à certains personnages (à haut
 niveau) tels qu' E.Honda, Claw, Sagat, Chun-li, Ryu, Zangief et Dhalsim
 pour ce qui est de la gestion de la distance (où, et c'est l'un des
-rares cas, le [zoning](zoning "wikilink") devra être forcé et
+rares cas, le [zoning](zoning) devra être forcé et
 judicieusement géré). Mais tous les affrontements constitueront un
 challenge à relever.
 
@@ -37,38 +37,38 @@ challenge à relever.
 Les qualités que tout boxer digne de ce nom se doit de posséder sont
 assez communes à celles demandées pour les autres personnages, à
 quelques nuances près :  
-- [Zoning](Zoning "wikilink") : Boxer est, comme dit plus haut, un
+- [Zoning](Zoning) : Boxer est, comme dit plus haut, un
 puncheur.  
 Ses armes sont ses poings (et sa tête), et uniquement ceux-ci. Cela
 conduit donc inévitablement à construire un jeu agressif, très proche de
 l'adversaire, en lui infligeant une pression constante pour l'asphyxier
-sous les coups... ce qui, par rapport au [zoning](zoning "wikilink") qui
+sous les coups... ce qui, par rapport au [zoning](zoning) qui
 incombe à d'autres personnages, permet aux joueurs de Rog d'être moins
 enclins à "zoner" l'adversaire. Ce dernier se faisant naturellement au
-gré des [dash](dash "wikilink") dans la majeure partie des cas.
-[Dash](Dash "wikilink") qui seront d'ailleurs le corollaire d'un
-[Mind-Game](Mind-Game "wikilink") poussé pour qu'ils puissent porter
+gré des [dash](dash) dans la majeure partie des cas.
+[Dash](Dash) qui seront d'ailleurs le corollaire d'un
+[Mind-Game](Mind-Game) poussé pour qu'ils puissent porter
 leurs fruits.  
   
 - Exécution : L'exécution propre à ce personnage pourrait sembler
 simpliste, comme la plupart des protagonistes dits
-"[CHARGE](CHARGE "wikilink")" de 2X, à la différence des
-"[SHOTOS](SHOTOS "wikilink")" souvent jugés plus difficiles d'accès de
+"[CHARGE](CHARGE)" de 2X, à la différence des
+"[SHOTOS](SHOTOS)" souvent jugés plus difficiles d'accès de
 par leur manipulation propre (cela reste très subjectif).  
 Ceci est discutable à faible niveau, où Rog peut potentiellement faire
 d'énormes ravages sans avoir au préalable à construire un jeu très
 poussé, mais on ne peut plus faux à haut niveau où le moindre écart de
-[frames](frames "wikilink") lors d'une pression exercée est
-immédiatement puni par un [reversal](reversal "wikilink") adverse, quel
+[frames](frames) lors d'une pression exercée est
+immédiatement puni par un [reversal](reversal) adverse, quel
 qu'il soit. Doit donc découler une exécution parfaite et une rigueur à
 toute épreuve pour éviter les dérapages.  
   
-- Rigueur (et [Mind-Game](Mind-Game "wikilink")) : Au même titre que
+- Rigueur (et [Mind-Game](Mind-Game)) : Au même titre que
 d'autres personnages, à haut niveau, Balrog demande une rigueur et une
 concentration sans faille.  
 Son jeu étant essentiellement basé sur la capacité de pression que le
 joueur sera amené à assener sur l'adversaire à l'aide d'une succession
-d'attaques/[dash](dash "wikilink"), le joueur devra donc se contraindre
+d'attaques/[dash](dash), le joueur devra donc se contraindre
 à être très carré, tout au long du combat, afin d'éviter tout temps-mort
 susceptible de lui faire perdre l'avantage acquis.  
 Mais la rigueur dans l'exécution n'est pas synonyme d'uniformité, elle
@@ -88,8 +88,8 @@ niveau où la puissance du personnage compense allégrement ce manque dans
 bon nombre de cas.  
   
 Exécution : A moindre niveau, la capacité d'un adversaire à
-[reversal](reversal "wikilink") « entre les
-[frames](frames "wikilink") » d'exécution des coups de boxer étant bien
+[reversal](reversal) « entre les
+[frames](frames) » d'exécution des coups de boxer étant bien
 moins significative, l' « éxé » s'en retrouve souvent bafouée au prix
 d'un jeu relativement laid en apparence mais très souvent payant... à en
 agacer plus d'un.  
@@ -146,7 +146,7 @@ Peuvent cross-up certains personnages.
 sur la gauche ou la droite. Un bon coup pour faire double touche sur le
 zoning de Dhalsim.
 
---[Marinstech](Utilisateur:Marinstech "wikilink") 23 décembre 2010 à
+--[Marinstech](Utilisateur:Marinstech) 23 décembre 2010 à
 10:00 (UTC)
 
 ### Coups spéciaux
@@ -200,7 +200,7 @@ hit de la chope fait 19,5% de dégâts, puis 3% par hits supplémentaires.
 Bizarrement la chope avec MP a plus de portée que celle avec HP. Donc
 privilégiez celle avec MP. Elle est d'un gros atout pour Boxer qui peut
 faire de gros mix-ups derrière celle-ci.  
---[Marinstech](Utilisateur:Marinstech "wikilink") 23 décembre 2010 à
+--[Marinstech](Utilisateur:Marinstech) 23 décembre 2010 à
 10:25 (UTC)
 
 ## Bases
@@ -390,7 +390,7 @@ dépendra de votre capacité à briser celle-ci également.
 conservant une charge bas/arrière maintenue. Néanmoins le jeu en TAP est
 particulier, pouvant annuler certaines options de boxer si le joueur ne
 sait pas comment procéder (voir [negative
-edge](negative_edge "wikilink")).  
+edge](negative_edge)).  
 
 Une fois l'ouverture passée, suivant que vous soyez parvenu ou non à
 casser la distance, votre jeu sera plus ou moins différent.  
@@ -452,7 +452,7 @@ comboter par un cr.mk to hado, ou une balayette HK (voire même une
 chope/dragon).  
   
 On retrouvera également une phase très délicate à gérer pour boxer :
-celle du [hado-trap](hado-trap "wikilink") en corner. Ici ce n'est plus
+celle du [hado-trap](hado-trap) en corner. Ici ce n'est plus
 une histoire de distance (les deux joueurs sont quasi en close
 position), mais de Mind-Game et de technicité. Si Ryu gère bien ses
 hado, il est très difficile pour boxer de s'en sortir. Le meilleur des
@@ -481,7 +481,7 @@ auprès de Ryu seront l'amorce des mix-up qui vont ponctuer celle-ci.
 Une arme extrêmement efficace, à en être presque dissuasive lorsque rog
 est en close position, est sa chope MP (qu'on peut doubler du HP pour
 plus d'efficacité) en follow-up de mix-ups ou simplement en
-[Tick-throw](Tick-throw "wikilink") (la SUPER jouera un gros rôle
+[Tick-throw](Tick-throw) (la SUPER jouera un gros rôle
 dissuasif également).  
 La seule manière pour Ryu de se sortir d'un mix-up suivi d'une chope
 résidera dans sa capacité à réagir aux coups qui ne seront pas linkés
@@ -492,7 +492,7 @@ C'est là que l'erreur dans l'exécution deviendra impardonnable.
   
 Dès que vous êtes au corps à corps après un dash (ou un TAP, voire
 headbutt), pensez à spam des cr.mk pour anticiper les éventuels cr.mk de
-Ryu ([trade](trade "wikilink")) qui casseraient une tentative de chope,
+Ryu ([trade](trade)) qui casseraient une tentative de chope,
 ou de dash de votre part.  
 Notez que la plupart des mix-ups confirmés de balrog aboutissent à la
 mise à terre de l'adversaire, ce qui vous amenera à attaquer souvent en
@@ -519,7 +519,7 @@ pouvez la claquer avec un dashground Upp cancellé. Ca constitue un pif
 rarement rentable, car souvent gardé, mais le cas contraire peut vous
 faire gagner le round/match. De plus, ça reste safe pour vous.  
   
-Evitez les jump en [meaty-attack](meaty-attack "wikilink"), souvent
+Evitez les jump en [meaty-attack](meaty-attack), souvent
 reversal par un dragon voire même par un tatsu LK qui aurait pour
 finalité de vous faire changer de garde et de charge. Néanmoins, le j.LK
 \> cr.lp \> cr.lp to dashground Upp reste souvent safe, et permet

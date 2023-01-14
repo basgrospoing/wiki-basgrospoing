@@ -23,16 +23,16 @@ nouvelle manipulation pour la chope (en appuyant sur
 ![](/images/MK.png "/images/MK.png")), le choix de son adversaire en
 mode Arcade, le retour du stage bonus où l'on détruit une voiture, une
 nouvelle bande son, de nouveaux stages, et 5 nouveaux personnages.
-([Chun-Li](Chun-Li_(3S) "wikilink"), [Q](Q_(3S) "wikilink"),
-[Twelve](Twelve_(3S) "wikilink"), [Remy](Remy_(3S) "wikilink") et
-[Makoto](Makoto_(3S) "wikilink"))
+([Chun-Li](Chun-Li_(3S)), [Q](Q_(3S)),
+[Twelve](Twelve_(3S)), [Remy](Remy_(3S)) et
+[Makoto](Makoto_(3S)))
 
 Des versions consoles de Street Fighter 3: 3rd Strike existent sur
 Dreamcast, Ps2 et Xbox. La version Dreamcast est sortie en 2000 avec
 quelques différences par rapport à la version arcade. En 2004, Capcom a
 sorti 3rd Strike dans un coffret "Street Fighter Anniversary Collection"
 pour la Xbox et la Playstation 2 et qui comprenait aussi [Hyper Street
-Fighter 2](Hyper_Street_Fighter_2 "wikilink"). Toutefois il existe
+Fighter 2](Hyper_Street_Fighter_2). Toutefois il existe
 quelques différences toujours débattues, la version Xbox étant souvent
 considérée comme un peu plus rapide et la version PS2 un peu plus lente.
 Cela affecte surtout le gameplay quand le parry est employé.
@@ -1026,26 +1026,26 @@ Voici quelques conseils pour bien débuter :
 | ![](/images/Alexmini3s.jpg "/images/Alexmini3s.jpg")           | ![](/images/Twelvemini3s.jpg "/images/Twelvemini3s.jpg") | ![](/images/Kenmini3s.jpg "/images/Kenmini3s.jpg")       |
 | ![](/images/Emptyface_small.png "/images/Emptyface_small.png") | ![](/images/Yangmini3s.jpg "/images/Yangmini3s.jpg")     | ![](/images/Gillmini3s.jpg "/images/Gillmini3s.jpg")     |
 
-- [Akuma](Akuma_(3S) "wikilink")
-- [Alex](Alex_(3S) "wikilink")
-- [Chun-Li](Chun-Li_(3S) "wikilink")
-- [Dudley](Dudley_(3S) "wikilink")
-- [Elena](Elena_(3S) "wikilink")
-- [Gill](Gill_(3S) "wikilink")
-- [Hugo](Hugo_(3S) "wikilink")
-- [Ibuki](Ibuki_(3S) "wikilink")
-- [Ken](Ken_(3S) "wikilink")
-- [Makoto](Makoto_(3S) "wikilink")
-- [Necro](Necro_(3S) "wikilink")
-- [Oro](Oro_(3S) "wikilink")
-- [Q](Q_(3S) "wikilink")
-- [Remy](Remy_(3S) "wikilink")
-- [Ryu](Ryu_(3S) "wikilink")
-- [Sean](Sean_(3S) "wikilink")
-- [Twelve](Twelve_(3S) "wikilink")
-- [Urien](Urien_(3S) "wikilink")
-- [Yang](Yang_(3S) "wikilink")
-- [Yun](Yun_(3S) "wikilink")
+- [Akuma](Akuma_(3S))
+- [Alex](Alex_(3S))
+- [Chun-Li](Chun-Li_(3S))
+- [Dudley](Dudley_(3S))
+- [Elena](Elena_(3S))
+- [Gill](Gill_(3S))
+- [Hugo](Hugo_(3S))
+- [Ibuki](Ibuki_(3S))
+- [Ken](Ken_(3S))
+- [Makoto](Makoto_(3S))
+- [Necro](Necro_(3S))
+- [Oro](Oro_(3S))
+- [Q](Q_(3S))
+- [Remy](Remy_(3S))
+- [Ryu](Ryu_(3S))
+- [Sean](Sean_(3S))
+- [Twelve](Twelve_(3S))
+- [Urien](Urien_(3S))
+- [Yang](Yang_(3S))
+- [Yun](Yun_(3S))
 
 ## Danisen
 

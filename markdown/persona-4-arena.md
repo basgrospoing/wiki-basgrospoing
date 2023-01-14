@@ -41,9 +41,9 @@ personnages sont issus des jeux *Persona 3* et *Persona 4*.
 
 ## Mécanismes généraux
 
-- [Interface et contrôle](P4A/Interface_et_contrôle "wikilink")
-- [Mécanismes généraux](P4A/Mécanismes "wikilink")
-- [Mécanismes avancés](P4A/Mécanismes_avancés "wikilink")
+- [Interface et contrôle](P4A/Interface_et_contrôle)
+- [Mécanismes généraux](P4A/Mécanismes)
+- [Mécanismes avancés](P4A/Mécanismes_avancés)
 
 ## Liste des personnages
 
@@ -51,27 +51,27 @@ Par jeu d'origine :
 
 ### Persona 3
 
-- [Aigis](P4A/Aigis "wikilink")
-- [Akihiko Sanada](P4A/Akihiko_Sanada "wikilink")
-- [Elizabeth](P4A/Elizabeth "wikilink")
-- [Mitsuru Kirijo](P4A/Mitsuru_Kirijo "wikilink")
+- [Aigis](P4A/Aigis)
+- [Akihiko Sanada](P4A/Akihiko_Sanada)
+- [Elizabeth](P4A/Elizabeth)
+- [Mitsuru Kirijo](P4A/Mitsuru_Kirijo)
 
 ### Persona 4
 
-- [Chie Satonaka](P4A/Chie_Satonaka "wikilink")
-- [Kanji Tatsumi](P4A/Kanji_Tatsumi "wikilink")
-- [Naoto Shirogane](P4A/Naoto_Shirogane "wikilink")
-- [Teddie](P4A/Teddie "wikilink") (*Kuma* dans la version japonaise)
-- [Yousuke Hanamura](P4A/Yousuke_Hanamura "wikilink")
-- [Yu Narukami](P4A/Yu_Narukami "wikilink") (le personnage principal de
+- [Chie Satonaka](P4A/Chie_Satonaka)
+- [Kanji Tatsumi](P4A/Kanji_Tatsumi)
+- [Naoto Shirogane](P4A/Naoto_Shirogane)
+- [Teddie](P4A/Teddie) (*Kuma* dans la version japonaise)
+- [Yousuke Hanamura](P4A/Yousuke_Hanamura)
+- [Yu Narukami](P4A/Yu_Narukami) (le personnage principal de
   *Persona 4*, baptisé pour des raisons de narration notamment dans
   *Persona 4: The Animation*)
-- [Yukiko Amagi](P4A/Yukiko_Amagi "wikilink")
+- [Yukiko Amagi](P4A/Yukiko_Amagi)
 
 ### Personnages exclusifs
 
-En plus de ces personnages, [Labrys](P4A/Labrys "wikilink") et sa
-version [Shadow](P4A/Shadow_Labrys "wikilink") font leur première
+En plus de ces personnages, [Labrys](P4A/Labrys) et sa
+version [Shadow](P4A/Shadow_Labrys) font leur première
 apparition dans un jeu de la série après avoir été mentionnés dans le
 drama CD *Persona 3 Moonlight*.
 

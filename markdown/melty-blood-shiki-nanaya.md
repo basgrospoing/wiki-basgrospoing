@@ -31,7 +31,7 @@ date: "2014-07-23"
 
 **Shiki Nanaya**
 
-[Crescent](Melty_Blood/Shiki_Nanaya/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Shiki_Nanaya/Crescent_Moon)  
 *Avantages :*  
 + Très bon press.  
 + Peut avoir un excellent oki en faisant de bon dégâts au prix de 100%
@@ -39,7 +39,7 @@ de meter.
 + Bon mixup overhead/low en press grâce au 5C.  
 + Bon mixup à l'oki.
 
-[Half](Melty_Blood/Shiki_Nanaya/Half_Moon "wikilink")  
+[Half](Melty_Blood/Shiki_Nanaya/Half_Moon)  
 *Avantages :*  
 + Le meilleur neutral des 3 moons.  
 + Le meilleur press des 3 moons.  
@@ -49,7 +49,7 @@ de meter.
 - Doit dépenser 100% de meter et faire peux de dégâts pour avoir un bon
 oki.
 
-[Full](Melty_Blood/Shiki_Nanaya/Full_Moon "wikilink")  
+[Full](Melty_Blood/Shiki_Nanaya/Full_Moon)  
 *Avantages :*  
 + Bon mixup à l'oki.  
 + Possède un bon dive kick.  
@@ -79,7 +79,7 @@ oki.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

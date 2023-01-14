@@ -37,9 +37,9 @@ s'approcher a mi-distance pour tuer l'adversaire très rapidement.
 
 **Riesbyfe Stridberg**
 
-[Crescent](Melty_Blood/Riesbyfe_Stridberg/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Riesbyfe_Stridberg/Half_Moon "wikilink")  
-[Full](Melty_Blood/Riesbyfe_Stridberg/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Riesbyfe_Stridberg/Crescent_Moon)  
+[Half](Melty_Blood/Riesbyfe_Stridberg/Half_Moon)  
+[Full](Melty_Blood/Riesbyfe_Stridberg/Full_Moon)  
 
 # Statistics
 
@@ -63,7 +63,7 @@ s'approcher a mi-distance pour tuer l'adversaire très rapidement.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

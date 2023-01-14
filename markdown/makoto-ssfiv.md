@@ -15,7 +15,7 @@ jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
 Ceci n'est qu'une ébauche et je n'ai pas la prétention d'être le
 meilleur joueur de Makoto, loin de là !
 
---[Jojozekil](Utilisateur:Jojozekil "wikilink") 12 mai 2011 à 08:50
+--[Jojozekil](Utilisateur:Jojozekil) 12 mai 2011 à 08:50
 (UTC)
 
 <figure>

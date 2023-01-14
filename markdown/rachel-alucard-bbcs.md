@@ -24,7 +24,7 @@ tous les personnages et leurs destins respectifs, à force de voir
 l'histoire se répéter.
 
 Elle vit en compagnie de son majordome
-[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS) "wikilink"), ainsi que ses
+[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS)), ainsi que ses
 serviteurs Nago (un chat) et Gii (une chauve-souris obèse). Ces deux
 derniers se battent d'ailleurs avec elle, voire pour elle, dans la
 mesure où lorsque Rachel est touchée, le sprite montre en général que

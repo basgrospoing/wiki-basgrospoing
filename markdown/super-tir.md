@@ -28,11 +28,11 @@ chargement du super tir.
 Regarder les fiches de chaque personnage pour comprendre comment
 envisager la défense par rapport à chacun.  
 Le super custom le plus performant est sans doute celui de [Hiromi
-Mita](Hiromi_Mita "wikilink"), puisqu'il peut se décliner sous trois
+Mita](Hiromi_Mita), puisqu'il peut se décliner sous trois
 formes, et qu'il est rapide et balaye beaucoup de surface à l'écran (ce
 qui le rend très difficile à lire).  
 Le super custom le moins performant est sans conteste celui de [Beeho
-Yoo](Beeho_Yoo "wikilink"), très linéaire et lent.
+Yoo](Beeho_Yoo), très linéaire et lent.
 
 ## Super lob
 
@@ -71,7 +71,7 @@ width="300" alt="/images/lob_parfait.jpg" />
 </figure>
 
 Il existe peu de différences dans l'envoi de super lob entre les
-personnages. Néanmoins, [Jordi Costa](Jordi_Costa "wikilink") semble
+personnages. Néanmoins, [Jordi Costa](Jordi_Costa) semble
 avoir le meilleur de tous puisque son startup est le plus rapide.
 
 ## Super spin

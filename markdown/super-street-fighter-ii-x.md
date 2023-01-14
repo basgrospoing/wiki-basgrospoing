@@ -263,7 +263,7 @@ personnages comme Cammy, Fei Long ou Dictateur, vous vous mettez
 potentiellement dans une situation à risque (risque de phase de
 crossdown [http://www.youtube.com/watch?v=yY3Yx9mT6Ks#t=1m04 exemple de
 phase avec
-Honda](http://www.youtube.com/watch?v=yY3Yx9mT6Ks#t=1m04_exemple_de_phase_avec_Honda "wikilink")),
+Honda](http://www.youtube.com/watch?v=yY3Yx9mT6Ks#t=1m04_exemple_de_phase_avec_Honda)),
 et êtes aussi exposés aux attaques immédiates dès que vous êtes au sol.
 Alors, faites attention même si vous déchoppez car vous n'êtes pas
 encore à l'abri.
@@ -1255,24 +1255,24 @@ aucun enjeu, aucun sérieux, ou contre le CPU).
 ### Stratégies
 
   
-\* [Balrog (Boxer)](Balrog_(ST) "wikilink") - Code version Old: RLLR
+\* [Balrog (Boxer)](Balrog_(ST)) - Code version Old: RLLR
 
-- [Blanka](Blanka_(ST) "wikilink") - Code version Old: RLLL
-- [Cammy](Cammy_(ST) "wikilink") - Code version Old: UUDD
-- [ChunLi](ChunLi_(ST) "wikilink") - Code version Old: DDDU
-- [Dee Jay](DeeJay_(2X) "wikilink") - Code version Old: DDUU
-- [Dhalsim](Dhalsim_(2X) "wikilink") - Code version Old: DUUU
-- [E. Honda](E._Honda_(2X) "wikilink") - Code version Old: UUUD
-- [Fei Long](Fei_Long_(2X) "wikilink") - Code version Old: LLRR
-- [Guile](Guile_(2X) "wikilink") - Code version Old: UDDD
-- [Ken](Ken_(2X) "wikilink") - Code version Old: LLLR
-- [M. Bison (Dictator)](M._Bison_(2X) "wikilink") - Code version Old:
+- [Blanka](Blanka_(ST)) - Code version Old: RLLL
+- [Cammy](Cammy_(ST)) - Code version Old: UUDD
+- [ChunLi](ChunLi_(ST)) - Code version Old: DDDU
+- [Dee Jay](DeeJay_(2X)) - Code version Old: DDUU
+- [Dhalsim](Dhalsim_(2X)) - Code version Old: DUUU
+- [E. Honda](E._Honda_(2X)) - Code version Old: UUUD
+- [Fei Long](Fei_Long_(2X)) - Code version Old: LLRR
+- [Guile](Guile_(2X)) - Code version Old: UDDD
+- [Ken](Ken_(2X)) - Code version Old: LLLR
+- [M. Bison (Dictator)](M._Bison_(2X)) - Code version Old:
   DUUD
-- [Ryu](Ryu_(2X) "wikilink") - Code version Old: RRRL
-- [O.Sagat](Sagat_(2X) "wikilink") - Code version Old: UDDU
-- [T. Hawk](T._Hawk_(2X) "wikilink") - Code version Old: RRLL
-- [Vega (Claw)](Vega_(2X) "wikilink") - Code version Old: LRRL
-- [Zangief](Zangief_(2X) "wikilink") - Code version Old: LRRR
+- [Ryu](Ryu_(2X)) - Code version Old: RRRL
+- [O.Sagat](Sagat_(2X)) - Code version Old: UDDU
+- [T. Hawk](T._Hawk_(2X)) - Code version Old: RRLL
+- [Vega (Claw)](Vega_(2X)) - Code version Old: LRRL
+- [Zangief](Zangief_(2X)) - Code version Old: LRRR
 
   
   

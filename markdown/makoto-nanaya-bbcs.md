@@ -20,10 +20,10 @@ aria-hidden="true">/images/Bbcs_makoto_artwork_01.png</figcaption>
 ## Description
 
 Makoto est une fille-écureuil qui vient de la même université que
-[Noel](Noel_Vermillion_(BBCS) "wikilink"),
-[Jin](Jin_Kisaragi_(BBCS) "wikilink"),
-[Tsubaki](Tsubaki_Yayoi_(BBCS) "wikilink") et
-[Carl](Carl_Clover_(BBCS) "wikilink").
+[Noel](Noel_Vermillion_(BBCS)),
+[Jin](Jin_Kisaragi_(BBCS)),
+[Tsubaki](Tsubaki_Yayoi_(BBCS)) et
+[Carl](Carl_Clover_(BBCS)).
 
 Elle se bat à l'aide de 2 tonfas (matraque japonaise).
 
@@ -164,7 +164,7 @@ même bouger. Ce glitch apparaît très rarement en version 1.02.
 
 Makoto lance un gland dans les airs qui vise l'adversaire. Celui-ci
 cause très peu de dégâts et de hitstun. Ce coup fait référence à la
-taunt de [Dudley](Dudley_(3S) "wikilink") de la série Street Fighter,
+taunt de [Dudley](Dudley_(3S)) de la série Street Fighter,
 qui lance une rose dans les airs.
 
 - **Shooting Star** - *63214 + D*
@@ -173,27 +173,27 @@ Le coup peut être chargé.
 
 - **Machine Gun Blow** - *41236 + B*
 
-Ce coup est un hommage à [Dudley](Dudley_(3S) "wikilink") de la série
+Ce coup est un hommage à [Dudley](Dudley_(3S)) de la série
 Street Fighter.
 
 - **Duck-in** - *41236 + C*
 
-Ce coup est un hommage à [Dudley](Dudley_(3S) "wikilink") de la série
+Ce coup est un hommage à [Dudley](Dudley_(3S)) de la série
 Street Fighter. Possède des frames invincibles et peut être cancellé en
 garde. Follow-ups avec B (direct) ou C (uppercut).
 
 - **Cross Counter** - *63214 + B*
 
-Ce coup est un hommage à [Dudley](Dudley_(3S) "wikilink") de la série
+Ce coup est un hommage à [Dudley](Dudley_(3S)) de la série
 Street Fighter.
 
 - **Abare Tosanami** - *214 214 + C*
 
-Ce coup est un hommage à [Makoto](Makoto_(3S) "wikilink") de la série
+Ce coup est un hommage à [Makoto](Makoto_(3S)) de la série
 Street Fighter. Makoto visera toujours l'adversaire pour le premier hit.
 
 - **Rolling Thunder** - *236 236 + B, puis tapez B rapidement*
 
-Ce coup est un hommage à [Dudley](Dudley_(3S) "wikilink") de la série
+Ce coup est un hommage à [Dudley](Dudley_(3S)) de la série
 Street Fighter. Nécéssite 100% de heat et peut atteindre environ 10000
 dégâts.

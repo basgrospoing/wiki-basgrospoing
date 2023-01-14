@@ -42,7 +42,7 @@ personnage à forte stature lors de phases de défense.
 ### Normaux et lobs
 
 De bons normaux, qui permettent de faire la différence au filet. une
-stratégie de lob court(voir article [Attaque](Attaque "wikilink"))est
+stratégie de lob court(voir article [Attaque](Attaque))est
 souvent payante avec ce personnage.
 
 ### Effets

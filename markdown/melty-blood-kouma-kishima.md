@@ -46,7 +46,7 @@ Utilisable au sol et en l'air, avec de légères variations selon la moon.
 
 **Kouma**
 
-[Crescent](Melty_Blood/Kouma_Kishima/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Kouma_Kishima/Crescent_Moon)  
 + Possibilité de faire plusieurs coups en l'air  
 + Un véritable overhead  
 + Un pressing long et qui laisse beaucoup de possibilité de choppe  
@@ -60,7 +60,7 @@ autres style. Ce style est à considérer contre les personnages tels que
 kohaku ou Riesbyfe, contre qui il est difficile d'approcher quel que
 soit le style... Autant profiter de ses mixups en pressing donc...
 
-[Half](Melty_Blood/Kouma_Kishima/Half_Moon "wikilink")  
+[Half](Melty_Blood/Kouma_Kishima/Half_Moon)  
 + De nombreuses variations de mouvement permettant de coller
 l'adversaire  
 + Un pressing long  
@@ -73,7 +73,7 @@ son mode Crescent. Toutefois, il possède très peu de mixup. Ce style est
 à considerer contre les personnages disposant de peu de moyen de defense
 et/ou d'une faible mobilité, tel que Nero ou Hime.
 
-[Full](Melty_Blood/Kouma_Kishima/Full_Moon "wikilink")  
+[Full](Melty_Blood/Kouma_Kishima/Full_Moon)  
 + Peut faire des dégâts respectables a partir d'à peu près n'importe
 quelle situation  
 + Possède très souvent un bon Okizeme  
@@ -109,7 +109,7 @@ matchups, quand les styles Crescent et Half ne s'appliquent pas.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

@@ -43,7 +43,7 @@ plus grand cuisiner de la planète.
 
 **Aoko Aozaki**
 
-[Crescent](Melty_Blood/Aoko_Aozaki/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Aoko_Aozaki/Crescent_Moon)  
 Controle du terrain maximum/polyvalence '''
 
 *Avantages*: excellente mobilité dans les airs, très bon jeu en keep
@@ -55,7 +55,7 @@ repose énormement sur la gestion des orbes: difficultées contre des
 persos ayant des armes limitant leur mise en place (nanaya, nero,
 akiha...)
 
-[Half](Melty_Blood/Aoko_Aozaki/Half_Moon "wikilink")  
+[Half](Melty_Blood/Aoko_Aozaki/Half_Moon)  
 Bon controle de terrain et plus agressif
 
 *Avantages*: conserve les possibilitées de campe/keep away tout en ayant
@@ -64,7 +64,7 @@ un potentiel offensif accru
 *Désavantages*: légère perte de mobilité dans les airs (ne possède plus
 de 3eme jump comparé au C moon), combos infligeant moins de dommages
 
-[Full](Melty_Blood/Aoko_Aozaki/Full_Moon "wikilink")  
+[Full](Melty_Blood/Aoko_Aozaki/Full_Moon)  
 Rushdown
 
 *Avantages*: très bon rushdown,iad jc extrémement rapide, bonne damage
@@ -95,7 +95,7 @@ de polyvalence, manque d'allonge et de priorité en jeu neutral
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

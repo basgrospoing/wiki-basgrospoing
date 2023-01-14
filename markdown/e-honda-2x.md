@@ -18,19 +18,19 @@ l'adversaire est important. Il se débrouille très bien contre les
 personnages sans boule de feu, et rencontre de gros problèmes contre
 ceux qui en possèdent.  
 **Qualités exigées :**  
-- [Zoning](Zoning "wikilink") : Il faut obligatoirement posséder des
+- [Zoning](Zoning) : Il faut obligatoirement posséder des
 qualités de zoning au-delà de la moyenne pour espérer jouer Honda
-correctement. Sa lourdeur relative, sa [hitbox](hitbox "wikilink")
+correctement. Sa lourdeur relative, sa [hitbox](hitbox)
 personnelle étendue, les patterns "prisons" de personnages
-[shotos](shotos "wikilink") sont autant de points qui exigent une
+[shotos](shotos) sont autant de points qui exigent une
 maîtrise impeccable du déplacement dans l'aire de jeu. Toutefois,
 l'énergie conséquente du personnage permet une certaine marge
 d'erreur.  
-- [Mind-game](Mind-game "wikilink") (cas de matchs difficiles) :
+- [Mind-game](Mind-game) (cas de matchs difficiles) :
 Devancer l'adversaire dans ses réactions va de pair avec un zoning
 impeccable. Mais si le zoning concerne la partie défensive, le mind-game
 est recquis à propos de l'attaque. Juger des
-[reversals](reversals "wikilink"), les provoquer, jouer des coups de
+[reversals](reversals), les provoquer, jouer des coups de
 bluffs et savoir changer ses boucles offensives si besoin, est un art
 nécessaire pour les matchs les plus délicats, et utile pour les
 autres.  
@@ -46,8 +46,8 @@ tout droit sans trop réfléchir à des coups de bluffs emberlificotés. La
 puissance des coups du personnage et leur caractère particulièrement
 agaçant pour l'adversaire comblent bien souvent dans ces matchs un
 mind-game médiocre. Des matchs comme ceux contre
-[Fei-long](Fei-long "wikilink"), [Zangief](Zangief "wikilink"),
-[Blanka](Blanka "wikilink") et d'autres encore sont dans ce cas.
+[Fei-long](Fei-long), [Zangief](Zangief),
+[Blanka](Blanka) et d'autres encore sont dans ce cas.
 
 -wolmar-
 
@@ -192,7 +192,7 @@ celui de chacun contre Honda, en l'occurence.
 à distance équivalente (ceci est crucial, et valable pour tout match-up
 de tout personnage en général).  
 - Les rédacteurs font évidemment part de leur vécu dans les stratégies
-données. Toute note ou appréciation de [match up](match_up "wikilink")
+données. Toute note ou appréciation de [match up](match_up)
 qui sort du convenu est plutôt bonne à prendre ; cela peut éclairer
 d'une nouvelle lumière un match que l'on croyait soit trop facile, soit
 trop difficile.
@@ -200,7 +200,7 @@ trop difficile.
 ### Ryu
 
 **Vue d'ensemble**  
-Un match très difficile, pour peu que [Ryu](Ryu "wikilink") sache
+Un match très difficile, pour peu que [Ryu](Ryu) sache
 comment jouer. De nombreuses trappes sont présentes, et semblent parfois
 grillager le match. Un des points clés, avec le fait d'aller de l'avant,
 est la provocation de reversals, notamment lors de ticks sur buttslams
@@ -208,18 +208,18 @@ HK. De bons joueurs reverseront avant que vous ne puissiez suivre sur
 une choppe, alors sachez attendre, et variez. Observez la fréquence des
 reversals dans de telles situations et jugez de la pertinence de la
 suite que vous choisissez. Quand sera d'ailleurs évoqué des situations
-de [tick-throw](tick-throw "wikilink"), je ne mentionnerai pas cette
+de [tick-throw](tick-throw), je ne mentionnerai pas cette
 possibilité d'attendre et provoquer le reversal ; mais cette possibilité
 est *toujours* présente.  
 **Ouvertures**  
 Le mind-game ici est essentiel. Nous allons voir deux ouvertures plutôt
 mal jouées pour Ryu, puis enchaîner sur les ouvertures les plus vues car
-les plus [safe](safe "wikilink") pour lui.  
+les plus [safe](safe) pour lui.  
 I- Si vous mindez un saut avant de Ryu (ou une course en avant ? Dans ce
 cas Ryu est fou et vous n'avez pas besoin d'appliquer ces conseils) :
 faîtes par prévention une position bas/arrière, et déclenchez le
 buttslam MK dès que Ryu est à portée. Un
-[follow-up](follow-up "wikilink") de mise à terre (par exemple cross-up
+[follow-up](follow-up) de mise à terre (par exemple cross-up
 HK / bas LP / ochio) peut suivre et donner tous ses dégâts. Un saut
 neutre en ouverture est punissable (ou au moins, on peut obtenir un
 trade) par un headbutt HP.  
@@ -231,13 +231,13 @@ de la victoire d'un round. Ryu perd au minimum 50% de vie sur ce type de
 phases.  
 2/ Il existe aussi une ouverture plus classique et moins réfléchie, qui
 consiste à envoyer les HHS d'entrée ( bouton moyen, car le
-[start-up](start-up "wikilink") est plus court). Ceci permet
-généralement un [trade](trade "wikilink") sur un hadoken ; c'est donc
+[start-up](start-up) est plus court). Ceci permet
+généralement un [trade](trade) sur un hadoken ; c'est donc
 quelque chose à placer contre un adversaire qui ouvre souvent en
 hadoken, ou en garde. Vu les dégâts décrits au-dessus d'une ouverture
 buttslam HK, on peut se demander quel intérêt d'ouvrir en HHS. Il en
 existe un pourtant. Même si les HHS sont bloquées par un shoryuken ou un
-bas MP ([counter](counter "wikilink") étonnant mais propre), ouvrir
+bas MP ([counter](counter) étonnant mais propre), ouvrir
 souvent en HHS peut amener l'adversaire à les minder simplement, et
 ainsi avoir à tendance à ouvrir avec un shoryuken (risqué) ou un bas MP
 (presque safe, mais la possibilité d'une riposte est présente ; on peut
@@ -264,7 +264,7 @@ phase d'attaque. Commençons donc par la plus délicate et la plus longue,
 la phase d'approche.  
 Le plus difficile dans ce match est d'être loin de Ryu, et de se faire
 asperger d'hadokens, pour quand on saute par-dessus se faire contrer
-proprement par un [anti-air](anti-air "wikilink"). Ce match peut
+proprement par un [anti-air](anti-air). Ce match peut
 décourager tellement il est dur face à un bon Ryu.  
 *Lorsque vous êtes en bout d'écran*, pris dans les hadokens, ne faîtes
 rien à part soit contrer, soit sauter verticalement à l'aide de la
@@ -287,7 +287,7 @@ point, si vous observez un Ryu coutumier de cette pratique, profitez-en
 pour le punir avec un ochio enregistré lors du buttslam, et un mashing
 de poings : à la redescente, il aura la surprise de prendre un ochionage
 des familles (le mashing de poings est en plus doublé du [negative
-edge](negative_edge "wikilink"), d'où deux fois plus de chances de
+edge](negative_edge), d'où deux fois plus de chances de
 chopper).  
 *Lorsque vous êtes juste en deçà du plein écran, puis à mi-distance* :
 La position qui consiste à être juste sorti du plein écran sans être à
@@ -306,7 +306,7 @@ peut les casser. Cependant, vous pouvez arrêter les HHS avant le
 shoryuken (et même le provoquer pour pouvoir ENFIN être au corps à
 corps, et punir) ; la solution d'appuyer avant (avec feintes de HHS par
 stand LP qui est un excellent normal et très court en
-[recovery](recovery "wikilink"), qui permet donc de passer vite en
+[recovery](recovery), qui permet donc de passer vite en
 garde)est plus safe mais plus délicate pour passer au corps à corps.  
 Notes :  
 - Le headbutt est votre ennemi (à haut niveau) : il touche vraiment
@@ -368,7 +368,7 @@ headbutt le tuerait. De façon facilitée par la direction avant qui peut
 bout de l'écran de hadokens (situation classique d'utilisaion de la
 super contre Ryu). Enclenchez un punch (de préférence le petit, en cas
 d'erreur d'éxecution le recovery sera plus court). Attention au [damage
-scaling](damage_scaling "wikilink"), qui sur la fin, fait que Ryu a
+scaling](damage_scaling), qui sur la fin, fait que Ryu a
 virtuellement plus d'énergie (tenter le coup aux alentours des 500
 points de vie). La super utilisée en plein match, contre un bon Ryu, est
 synonyme d'un reversal sur le deuxième hit de la super, même si Ryu est

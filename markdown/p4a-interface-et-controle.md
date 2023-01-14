@@ -12,14 +12,14 @@ date: "2012-08-06"
 # Commandes
 
 Comme la plupart des autres jeux récemment développés par Arc System
-Works, [Persona 4 Arena](Persona_4_Arena "wikilink") se joue avec 8
+Works, [Persona 4 Arena](Persona_4_Arena) se joue avec 8
 directions et 4 boutons. Voici la disposition officielle des boutons sur
 la version arcade :
 
 ![](/images/P4A_Arcade_Layout.png "/images/P4A_Arcade_Layout.png")
 
 Pour connaître l'effet des différentes touches et combinaisons,
-consultez l'article [mécanismes généraux](P4A/Mécanismes "wikilink").
+consultez l'article [mécanismes généraux](P4A/Mécanismes).
 
 # Interface
 

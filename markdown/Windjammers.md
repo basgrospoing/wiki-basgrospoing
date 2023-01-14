@@ -55,8 +55,8 @@ fois une partie lancée.
 personnage propose une animation stylisée différente.  
 - Les commandes ici présentées sont celles de base. Pour une analyse
 détaillée des commandes du jeu, lire les articles
-[Défense](Défense "wikilink"), [Attaque](Attaque "wikilink") et [Super
-tir](Super_tir "wikilink").
+[Défense](Défense), [Attaque](Attaque) et [Super
+tir](Super_tir).
 
 ### Bonus stages
 
@@ -147,9 +147,9 @@ hautement probable mais non certifié exact.
 
 Lors de la sélection des personnages, est proposé à l'écran une synthèse
 des caractéristiques de chacun d'eux. Si la proportion speed / power est
-à peu près fidèle (à l'exception de [Gary Scott](Gary_Scott "wikilink"),
+à peu près fidèle (à l'exception de [Gary Scott](Gary_Scott),
 un peu plus puissant en fait que [Klaus
-Wessel](Klaus_Wessel "wikilink")), les indications "for beginner", "for
+Wessel](Klaus_Wessel)), les indications "for beginner", "for
 medium", et "for expert" sont assez imprécises.  
 Prenons les personnages un par un :  
 - Mita dite "for beginner", n'est pas en soit un personnage à
@@ -293,17 +293,17 @@ Klaus Wessel.
 
 ## Personnages
 
-[Hiromi Mita](Hiromi_Mita "wikilink")
+[Hiromi Mita](Hiromi_Mita)
 
-[Beeho Yoo](Beeho_Yoo "wikilink")
+[Beeho Yoo](Beeho_Yoo)
 
-[Jordi Costa](Jordi_Costa "wikilink")
+[Jordi Costa](Jordi_Costa)
 
-[Loris Biaggi](Loris_Biaggi "wikilink")
+[Loris Biaggi](Loris_Biaggi)
 
-[Gary Scott](Gary_Scott "wikilink")
+[Gary Scott](Gary_Scott)
 
-[Klaus Wessel](Klaus_Wessel "wikilink")
+[Klaus Wessel](Klaus_Wessel)
 
 ### Tier list
 
@@ -367,17 +367,17 @@ dans l'ordre dans lequel ils sont proposés dans l'écran de sélection du
 jeu. Il faut savoir que ces terrains présentent deux types de formats :
 un format de terrain réduit et un format large.
 
-[Beach](Beach "wikilink")
+[Beach](Beach)
 
-[Lawn](Lawn "wikilink")
+[Lawn](Lawn)
 
-[Tiled](Tiled "wikilink")
+[Tiled](Tiled)
 
-[Concrete](Concrete "wikilink")
+[Concrete](Concrete)
 
-[Clay](Clay "wikilink")
+[Clay](Clay)
 
-[Stadium](Stadium "wikilink")
+[Stadium](Stadium)
 
 ### Tableau terrains / personnages
 

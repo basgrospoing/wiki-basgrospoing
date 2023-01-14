@@ -22,13 +22,13 @@ aria-hidden="true">/images/Bbcs_ragna_artwork_01.png</figcaption>
 Ragna the Bloodedge est un criminel recherché par le NOL. Sa tête est
 mise à prix, et sa rançon très élevée, ce qui fait de lui un criminel
 très recherché. Il est le grand frère de
-[Jin](Jin_Kisaragi_(BBCS) "wikilink").
+[Jin](Jin_Kisaragi_(BBCS)).
 
 Son nom de "Bloodedge" vient de la personne à qui appartenait ses
 vêtements, un ancien ami de Jubei.
 
 Il a failli mourir et a perdu son bras dans son enfance. C'est à ce
-moment que [Rachel](Rachel_Alucard_(BBCS) "wikilink") est venue le
+moment que [Rachel](Rachel_Alucard_(BBCS)) est venue le
 mordre pour le sauver, ce qui a eu pour effet de le transformer en
 vampire, et donc, le rendre immortel.
 

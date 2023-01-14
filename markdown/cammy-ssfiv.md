@@ -286,7 +286,7 @@ Quick Spin Knuckle \> Gyro Drive Smasher (Ultra 1)
 
 - Le spiral arrow peut se faire *air choppé* !
 - Le spiral arrow peut se faire casser par le LP de
-  [Ryu\_(SSFIV)](Ryu_(SSFIV) "wikilink")...
+  [Ryu\_(SSFIV)](Ryu_(SSFIV))...
 - Un Cannon spike peut sortir à la place d'un Instant Cannon Spike si le
   K est mal délayé.
 

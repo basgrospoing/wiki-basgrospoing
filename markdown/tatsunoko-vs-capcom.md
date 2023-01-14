@@ -35,15 +35,15 @@ personnage d' Hakushon Daimao
 
 ### Origine des Personnages
 
-- [Côté Tatsunoko](Origine_des_Personnages_(Tatsunoko) "wikilink")
-- [Côté Capcom](Origine_des_Personnages_(Capcom) "wikilink")
+- [Côté Tatsunoko](Origine_des_Personnages_(Tatsunoko))
+- [Côté Capcom](Origine_des_Personnages_(Capcom))
 
 ### Contenu
 
 - [Cross Generation of
-  Heroes](Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes "wikilink")
+  Heroes](Tatsunoko_vs_Capcom_Cross_Generation_of_Heroes)
 - [Ultimate
-  All-Stars](Tatsunoko_vs_Capcom_Ultimate_All-Stars "wikilink")
+  All-Stars](Tatsunoko_vs_Capcom_Ultimate_All-Stars)
 
 ### Liens
 
@@ -227,7 +227,7 @@ assist et pas d' hyper combination
 ### Tier-list
 
 La \*[tier
-list](Tatsunoko_vs_Capcom_Ultimate_All_Stars_(tier_list) "wikilink")
+list](Tatsunoko_vs_Capcom_Ultimate_All_Stars_(tier_list))
 (revelée par le site
 [eventhubs](http://www.eventhubs.com/news/2010/mar/17/early-tatsunoko-vs-capcom-ultimate-all-stars-tiers-list/)),
 comme sur d' autres jeux, est sujet à spéculations et ne peut être
@@ -237,37 +237,37 @@ considerée comme définitive
 
 ### Coté Capcom
 
-- [Ryu](Ryu_(TvC:UAS) "wikilink")
-- [Chun-Li](Chun-Li_(TvC:UAS) "wikilink")
-- [Morrigan Aensland](Morrigan_Aensland_(TvC:UAS) "wikilink")
-- [Alex](Alex_(TvC:UAS) "wikilink")
-- [Batsu Ichimonji](Batsu_Ichimonji_(TvC:UAS) "wikilink")
-- [Megaman Volnutt](Megaman_Volnutt_(TvC:UAS) "wikilink")
-- [Kaijin No Soki](Kaijin_No_Soki_(TvC:UAS) "wikilink")
-- [Roll](Roll_(TvC:UAS) "wikilink")
-- [Saki Omokane](Saki_Omokane_(TvC:UAS) "wikilink")
-- [Viewtiful Joe](Viewtiful_Joe_(TvC:UAS) "wikilink")
-- [PTX-40A](PTX-40A_(TvC:UAS) "wikilink")
-- [Frank West](Frank_West_(TvC:UAS) "wikilink")
-- [Zero](Zero_(TvC:UAS) "wikilink")
+- [Ryu](Ryu_(TvC:UAS))
+- [Chun-Li](Chun-Li_(TvC:UAS))
+- [Morrigan Aensland](Morrigan_Aensland_(TvC:UAS))
+- [Alex](Alex_(TvC:UAS))
+- [Batsu Ichimonji](Batsu_Ichimonji_(TvC:UAS))
+- [Megaman Volnutt](Megaman_Volnutt_(TvC:UAS))
+- [Kaijin No Soki](Kaijin_No_Soki_(TvC:UAS))
+- [Roll](Roll_(TvC:UAS))
+- [Saki Omokane](Saki_Omokane_(TvC:UAS))
+- [Viewtiful Joe](Viewtiful_Joe_(TvC:UAS))
+- [PTX-40A](PTX-40A_(TvC:UAS))
+- [Frank West](Frank_West_(TvC:UAS))
+- [Zero](Zero_(TvC:UAS))
 
 ### Coté Tatsunoko
 
-- [Ken the Eagle](Ken_the_Eagle_(TvC:UAS) "wikilink")
-- [Jun the Swan](Jun_the_Swan_(TvC:UAS) "wikilink")
-- [Casshern](Casshan_(TvC:UAS) "wikilink")
-- [Tekkaman](Tekkaman_(TvC:UAS) "wikilink")
-- [Polymar](Polimar_(TvC:UAS) "wikilink")
-- [Yatterman-1](Yatterman-1_(TvC:UAS) "wikilink")
-- [Karas](Karas_(TvC:UAS) "wikilink")
-- [Doronjo](Doronjo_(TvC:UAS) "wikilink")
-- [Ippatsuman](Ippatsuman_(TvC:UAS) "wikilink")
-- [Gold Lightan](Gold_Lightan_(TvC:UAS) "wikilink")
-- [Tekkaman Blade](Tekkaman_Blade_(TvC:UAS) "wikilink")
-- [Joe the Condor](Joe_the_Condor_(TvC:UAS) "wikilink")
-- [Yatterman-2](Yatterman-2_(TvC:UAS) "wikilink")
+- [Ken the Eagle](Ken_the_Eagle_(TvC:UAS))
+- [Jun the Swan](Jun_the_Swan_(TvC:UAS))
+- [Casshern](Casshan_(TvC:UAS))
+- [Tekkaman](Tekkaman_(TvC:UAS))
+- [Polymar](Polimar_(TvC:UAS))
+- [Yatterman-1](Yatterman-1_(TvC:UAS))
+- [Karas](Karas_(TvC:UAS))
+- [Doronjo](Doronjo_(TvC:UAS))
+- [Ippatsuman](Ippatsuman_(TvC:UAS))
+- [Gold Lightan](Gold_Lightan_(TvC:UAS))
+- [Tekkaman Blade](Tekkaman_Blade_(TvC:UAS))
+- [Joe the Condor](Joe_the_Condor_(TvC:UAS))
+- [Yatterman-2](Yatterman-2_(TvC:UAS))
 
 <!-- -->
 
-- [Hakushon Daimao](Hakushon_Daimao_(TvC:CGOH) "wikilink") (Cross
+- [Hakushon Daimao](Hakushon_Daimao_(TvC:CGOH)) (Cross
   Generation of Heroes Wii uniquement)

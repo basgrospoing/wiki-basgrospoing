@@ -37,13 +37,13 @@ s'agit possiblement du personnage le plus rapide du jeu en l'air, et
 
 **Akiha Vermillion**
 
-[Crescent](Melty_Blood/Akiha_Vermillion/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Akiha_Vermillion/Crescent_Moon)  
 Base son jeu sur le lifesteal
 
-[Half](Melty_Blood/Akiha_Vermillion/Half_Moon "wikilink")  
+[Half](Melty_Blood/Akiha_Vermillion/Half_Moon)  
 Base son jeu sur la régénération de vie
 
-[Full](Melty_Blood/Akiha_Vermillion/Full_Moon "wikilink")  
+[Full](Melty_Blood/Akiha_Vermillion/Full_Moon)  
 La plus solide des 3 moons, inflige énormément de dégâts, possède de
 bonne priorité et bouge encore mieux que les autres.
 
@@ -69,7 +69,7 @@ bonne priorité et bouge encore mieux que les autres.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

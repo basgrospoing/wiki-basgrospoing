@@ -46,7 +46,7 @@ contenu de ce wiki est dédié à ce portage.
 
 (traduit de l'anglais depuis le [http://wiki.mizuumi.net/w/Melty_Blood
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi "wikilink"))
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi))
 
 ***Melty Blood Actress Again Current Code***
 

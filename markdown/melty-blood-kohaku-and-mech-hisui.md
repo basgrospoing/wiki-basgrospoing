@@ -33,7 +33,7 @@ Synchronizer
 
 **Kohaku**
 
-[Crescent](Melty_Blood/Kohaku/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Kohaku/Crescent_Moon)  
 **Une des deux moons à utiliser pour la majorité des matchups. Press un
 peu moins dangereux que Half, mais a un excellent jeu à l'oki.**  
 *Avantages :*  
@@ -44,7 +44,7 @@ suffisant pour poser une plante (22X).
 *Désavantages :*  
 - Demande une bonne éxécution.
 
-[Half](Melty_Blood/Kohaku/Half_Moon "wikilink")  
+[Half](Melty_Blood/Kohaku/Half_Moon)  
 **Une des deux moons à utiliser pour la majorité des matchups. Press
 plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**  
 *Avantages :*  
@@ -55,7 +55,7 @@ plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**
 *Désavantages :*  
 - Perte des plantes disponibles en C et F.
 
-[Full](Melty_Blood/Kohaku/Full_Moon "wikilink")  
+[Full](Melty_Blood/Kohaku/Full_Moon)  
 **La moon à utiliser contre les personnages utilisant des projectiles ou
 étant principalement dans les airs.**  
 *Avantages :*  
@@ -89,7 +89,7 @@ plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

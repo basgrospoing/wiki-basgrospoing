@@ -38,9 +38,9 @@ en jeu de combat.
 
 **Hisui**
 
-[Crescent](Melty_Blood/Hisui/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Hisui/Half_Moon "wikilink")  
-[Full](Melty_Blood/Hisui/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Hisui/Crescent_Moon)  
+[Half](Melty_Blood/Hisui/Half_Moon)  
+[Full](Melty_Blood/Hisui/Full_Moon)  
 
 # Statistics
 
@@ -64,7 +64,7 @@ en jeu de combat.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

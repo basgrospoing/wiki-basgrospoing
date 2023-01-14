@@ -153,7 +153,7 @@ width="228" alt="/images/Gouken_alt_3-6.jpg" />
 # Principaux normaux
 
 *[Explications sur les images des
-hitbox](Super_Street_Fighter_IV#Explications_sur_les_hitbox_data "wikilink")*
+hitbox](Super_Street_Fighter_IV#Explications_sur_les_hitbox_data)*
 
 ### Accroupi
 
@@ -1001,7 +1001,7 @@ matière à bricoler des combos plus spécifiques aux situations
 rencontrées et aux niveaux d'exécution de chacun.
 
 *[Voir les notations utilisées pour les
-combos](Super_Street_Fighter_IV#Notation_des_combos "wikilink")*
+combos](Super_Street_Fighter_IV#Notation_des_combos)*
 
 ### Les BnB
 

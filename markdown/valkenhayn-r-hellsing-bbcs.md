@@ -22,13 +22,13 @@ aria-hidden="true">/images/Bbcs_valkenhayn_artwork_01.png</figcaption>
 Il est dît que Valkenhayn est issu d'une grande famille qui a toujours
 servi la famille Alucard au fil du temps depuis plusieurs siècles.
 Ainsi, il est actuellement l'heureux majordome de
-[Rachel](Rachel_Alucard_(BBCS) "wikilink"). Il sait bien préparer le thé
+[Rachel](Rachel_Alucard_(BBCS)). Il sait bien préparer le thé
 et a une passion pour les montres de poche, qu'il collectionne.
 
 Valkenhayn est un loup-garou, et est un des six héros de la guerre ayant
 affronté la Black Beast, et est donc connu comme quelqu'un de très
 puissant. Cela dit, il reste loyalement au service de
-[Rachel](Rachel_Alucard_(BBCS) "wikilink"), est très calme, poli et
+[Rachel](Rachel_Alucard_(BBCS)), est très calme, poli et
 formel.
 
 ## Couleurs
@@ -148,15 +148,15 @@ Valkenhayn ne peut pas bloquer ou se baisser sous forme de Loup.
 
 ## Glitches
 
--Contre [Carl](Carl_Clover_(BBCS) "wikilink"), pendant l'intro qui se
+-Contre [Carl](Carl_Clover_(BBCS)), pendant l'intro qui se
 déroule avant le combat, si Valkenhayn effectue son entrée en traversant
 l'écran en loup, il se peut que Nirvana se retourne pour lui faire face
 à chaque aller-retour, pour finalement commencer le round au milieu de
 l'écran, au lieu d'être derrière Carl. Ce glitch disparait si les
 joueurs passent l'intro avant qu'elle ne se termine.
 
--Contre [Bang](Bang_Shishigami_(BBCS) "wikilink") et
-[Arakune](Arakune_(BBCS) "wikilink"), si Valkenhayn effectue un rapid
+-Contre [Bang](Bang_Shishigami_(BBCS)) et
+[Arakune](Arakune_(BBCS)), si Valkenhayn effectue un rapid
 cancel aussi tôt que possible après avoir chopé un adversaire et
 effectue autre chope, Valkenhayn va glisser derrière le Bang ou le
 Arakune jeté en whiffant une chope, et lui permettra de ramasser son
@@ -213,5 +213,5 @@ transformant en loup.
 - **Wild Circular** - *j.236 236 + B\[L\] ou j.214 214 + B\[L\]*
 
 Ce coup est un hommage à Jon Talbain (Gallon) de la série
-[Darkstalkers](Darkstalkers "wikilink"). Valkenhayn bondit, et si il
+[Darkstalkers](Darkstalkers). Valkenhayn bondit, et si il
 rentre en contact avec l'adversaire, lui effectue une choppe spéciale.

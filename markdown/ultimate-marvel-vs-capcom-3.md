@@ -535,4 +535,4 @@ Les gens utilisent parfois le mot "mouvement" en parlant d'une notation.
 ## Glossaire
 
 Le glossaire de Marvel étant assez conséquent, une page entière lui est
-dédié : [Glossaire](Glossaire_UMVC3 "wikilink").
+dédié : [Glossaire](Glossaire_UMVC3).

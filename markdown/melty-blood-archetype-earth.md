@@ -30,9 +30,9 @@ Personnage longue distance
 
 **Archetype Earth**
 
-[Crescent](Melty_Blood/Archetype_Earth/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Archetype_Earth/Half_Moon "wikilink")  
-[Full](Melty_Blood/Archetype_Earth/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Archetype_Earth/Crescent_Moon)  
+[Half](Melty_Blood/Archetype_Earth/Half_Moon)  
+[Full](Melty_Blood/Archetype_Earth/Full_Moon)  
 
 # Statistics
 
@@ -59,7 +59,7 @@ Personnage longue distance
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

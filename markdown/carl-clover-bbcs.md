@@ -20,10 +20,10 @@ aria-hidden="true">/images/Bbcs_carl_artwork_01.png</figcaption>
 ## Description
 
 Carl est un jeune garçon qui avait commencé des études dans la même
-université que [Noel](Noel_Vermillion_(BBCS) "wikilink"),
-[Jin](Jin_Kisaragi_(BBCS) "wikilink"),
-[Tsubaki](Tsubaki_Yayoi_(BBCS) "wikilink") et
-[Makoto](Makoto_Nanaya_(BBCS) "wikilink"), et qui était considéré comme
+université que [Noel](Noel_Vermillion_(BBCS)),
+[Jin](Jin_Kisaragi_(BBCS)),
+[Tsubaki](Tsubaki_Yayoi_(BBCS)) et
+[Makoto](Makoto_Nanaya_(BBCS)), et qui était considéré comme
 un enfant prodige, avant de finalement tout abandonner pour devenir
 chasseur de primes, accompagné de sa marionette, Nirvana. Il est très
 poli et formel, mais souvent sadique, peu social et renfermé. Il parle
@@ -74,12 +74,12 @@ personnages ne marchent pas sur lui
 \- Très vulnérable sans la marionnette
 
 \- Pire barre de vie du jeu : 9 500 (comme
-[Taokaka](Taokaka_(BBCS) "wikilink"))
+[Taokaka](Taokaka_(BBCS)))
 
 ## Anecdotes
 
 -L'actrice japonaise qui a prêté sa voix à Carl dans la série BlazBlue a
-aussi doublé [Cammy](Cammy_(SSFIV) "wikilink") dans Street Fighter 4 et
+aussi doublé [Cammy](Cammy_(SSFIV)) dans Street Fighter 4 et
 Super Street Fighter 4.
 
 -D'après un épisode de *"Teach Me, Mrs. Litchi !"* du mode histoire de
@@ -271,16 +271,16 @@ base.
 deux distortions drives l'appliquant), quelque soit l'endroit où elle se
 trouve, elle subira aussi les dégâts que Carl subira.
 
--Contre [Valkenhayn](Valkenhayn=R=Hellsing_(BBCS) "wikilink"), pendant
+-Contre [Valkenhayn](Valkenhayn=R=Hellsing_(BBCS)), pendant
 l'intro qui se déroule avant le combat, si
-[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS) "wikilink") effectue son
+[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS)) effectue son
 entrée en traversant l'écran en loup, il se peut que Nirvana se retourne
 pour lui faire face à chaque aller-retour, pour finalement commencer le
 round au milieu de l'écran, au lieu d'être derrière Carl. Ce glitch
 disparait si les joueurs passent l'intro avant qu'elle ne se termine.
 
 \-*En effectuant Cantabile contre la grenouille George de
-[Rachel](Rachel_Alucard_(BBCS) "wikilink"), celui-ci se met à flotter au
+[Rachel](Rachel_Alucard_(BBCS)), celui-ci se met à flotter au
 dessus du sol.* Ce glitch a été corrigé dans le patch 1.02 et ne peut
 être réeffectué qu'en paramétrant le jeu en version 1.01 ou inférieure
 dans les options du jeu.
@@ -324,7 +324,7 @@ Le coup dure plus longtemps, fait plus de hit, fait plus de dégâts, fait
 - **Con Volante** - *421 + D (Possible de le faire en l'air)*
 
 Le projectile a un effet similaire à la Spark Bolt de
-[Tager](Iron_Tager_(BBCS) "wikilink") : extrêmement rapide et fait
+[Tager](Iron_Tager_(BBCS)) : extrêmement rapide et fait
 rebondir sur le mur.
 
 - **Rhapsody of Memories** (追憶のラプソディ Tsuioku no rhapsody) - *236

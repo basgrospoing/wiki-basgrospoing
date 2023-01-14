@@ -49,7 +49,7 @@ Commun a tous les styles :
 
 **White Len**
 
-[Crescent](Melty_Blood/White_Len/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/White_Len/Crescent_Moon)  
 + Zoning très puissant, personne n'ose rushdown cette white len.  
 + Peut cancel ses coups par des dash, même en block, ce qui lui offre le
 meilleur dash\>5A en pressing du jeu.  
@@ -61,7 +61,7 @@ air sur un bon angle et très dur a punir.
 C'est généralement l'adversaire qui se positionne et white len doit s'en
 défendre.
 
-[Half](Melty_Blood/White_Len/Half_Moon "wikilink")  
+[Half](Melty_Blood/White_Len/Half_Moon)  
 + Un dash extrèmement rapide, avec pour propriété la possibilité de
 garder le momentum du début du dash dans les coups spéciaux.  
 + Un jeu en anti-air plutot bon.  
@@ -75,7 +75,7 @@ fortement.
 - Beaucoup de combo character specific, et utiliser son dash demande
 beaucoup d'execution.
 
-[Full](Melty_Blood/White_Len/Full_Moon "wikilink")  
+[Full](Melty_Blood/White_Len/Full_Moon)  
 + Control de terrain extrèmement fort pour camper.  
 + Des projectiles rapide pour agresser tout comme pour reculer.  
 + Pressing assez gimmicks, mais pouvant être extremement dangereux.  
@@ -107,7 +107,7 @@ beaucoup d'execution.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

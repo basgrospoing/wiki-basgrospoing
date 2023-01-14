@@ -48,14 +48,14 @@ donna lieu à la naissance des *Mystic Eyes* de Red Arcueid.
 
 **Red Arcueid**
 
-[Crescent](Melty_Blood/Red_Arcueid/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Red_Arcueid/Crescent_Moon)  
 Bon pressing et mouvements en l'air. La seule moon avec un vrai
 reversal.
 
-[Half](Melty_Blood/Red_Arcueid/Half_Moon "wikilink")  
+[Half](Melty_Blood/Red_Arcueid/Half_Moon)  
 Très versatile avec l'ajout d'un bon jeu a distance et un meilleur 2A.
 
-[Full](Melty_Blood/Red_Arcueid/Full_Moon "wikilink")  
+[Full](Melty_Blood/Red_Arcueid/Full_Moon)  
 Légère réduction de la domination aérienne en échange de priorités
 air\>sol et sol\>air. Facile a prendre en main.
 
@@ -82,7 +82,7 @@ air\>sol et sol\>air. Facile a prendre en main.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

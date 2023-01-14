@@ -105,9 +105,9 @@ Last-Arcs.
 
 Il est à noter qu'il existe des différences entre le HEAT des 3 Moons.
 Veuillez vous référer à la page [Melty
-Blood/Moons](Melty_Blood/Moons "wikilink") pour plus d'informations.
+Blood/Moons](Melty_Blood/Moons) pour plus d'informations.
 
-Lire aussi: [Circuit Meter](Melty_Blood/Circuit_Meter "wikilink")
+Lire aussi: [Circuit Meter](Melty_Blood/Circuit_Meter)
 
 **Last-Arc (LA)**
 
@@ -119,7 +119,7 @@ mouvement de l'opposant et le contre pour des dégats importants.
 **Magic Circuit**
 
 Aussi appelé Circuit Meter ou juste Meter. Lire [Circuit
-Meter](Melty_Blood/Circuit_Meter "wikilink") pour plus d'informations.
+Meter](Melty_Blood/Circuit_Meter) pour plus d'informations.
 
 **Meaty**
 
@@ -137,7 +137,7 @@ Ces abréviations peuvent aussi être utilisées pour parler d'un
 personnage dans une Moon donnée. Par exemple : H-Riesbyfe, F-Satsuki,
 C-Seifuku etc.
 
-Lire [Melty Blood/Moons](Melty_Blood/Moons "wikilink") pour plus
+Lire [Melty Blood/Moons](Melty_Blood/Moons) pour plus
 d'informations sur les différences entre les Moons.
 
 **Okizeme**
@@ -242,7 +242,7 @@ renversé en fonction de la direction où le personnage fait face.
 | **Dragon punch**    |     | 623   |     | 421     |
 | **Demi cercle**     |     | 41236 |     | 63214   |
 
-Lire aussi : [Melty Blood/Controls](Melty_Blood/Controls "wikilink")
+Lire aussi : [Melty Blood/Controls](Melty_Blood/Controls)
 
 ### Notations Standard
 
@@ -321,7 +321,7 @@ personnage) et met en mode HEAT.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

@@ -22,7 +22,7 @@ du jeu, et est assez trompeusement conseillée aux débutants. Or, elle
 demande une maîtrise avancée du jeu pour pouvoir livrer l'ensemble de
 ses qualités : elle est minée par une puissance la plus faible du jeu
 (ce qui est un gros défaut, voir "caractéristiques détaillées" dans la
-page de présentation [Windjammers](Windjammers "wikilink")), et par un
+page de présentation [Windjammers](Windjammers)), et par un
 dash aussi le plus faible. Cependant, ses effets sont très marqués et
 surtout son super custom est le meilleur du jeu, ayant clairement 2
 patterns, voire trois (cf. article super custom), et étant
@@ -43,7 +43,7 @@ de retours ou de contre-attaque ne suffisent généralement pas à faire
 gagner les points. Il faut avoir une attitude résolument offensive.
 Servez-vous de ses atouts et mettez de côté ses lacunes : optez pour des
 EA fréquents, des stratégies de lob offensif et de fake super (voir
-[Attaque](Attaque "wikilink")) visant à asphyxier l'adversaire.
+[Attaque](Attaque)) visant à asphyxier l'adversaire.
 Appliquez vous sur les toss et n'hésitez pas à utiliser votre super
 custom.  
 Un ordre d'idée d'utilisation optimale des Super tirs serait globalement
@@ -55,7 +55,7 @@ Ses insuffisances en caractéristiques de puissance se sentent surtout en
 défense : son déplacement est très rapide, mais les dash (indispensable
 pour des réactions de dernière seconde), sont très courts, et surtout,
 la propension a se faire enfoncer dans les cages est élevée. Par rapport
-au sweet spot montré dans l'article [Défense](Défense "wikilink"),
+au sweet spot montré dans l'article [Défense](Défense),
 avancez d'un pas très léger (une touche très rapide en avant sur le
 joystick) afin d'éviter ce désagrément. Pensez à reprendre le dessus dès
 que possible offensivement.
@@ -99,7 +99,7 @@ de la trajectoire, est l'ensemble de flammes autour du disque lors du
 tir, faisant souvent évaluer une hitbox fallacieuse. Il faut donc bien
 se concentrer pour le défenseur sur la courbe non pas des flammes, mais
 de leur centre. Autre difficulté en défense : rester au milieu du
-terrain (voir [Défense](Défense "wikilink")) est souvent une option
+terrain (voir [Défense](Défense)) est souvent une option
 vouée à l'échec, car la prise de décision d'un côté est souvent trop
 tardive. Il faut ainsi légèrement avancer par rapport au sweet spot
 habituel dès que vous apercevez (ou entendez) le super custom partir,

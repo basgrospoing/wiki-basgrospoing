@@ -30,9 +30,9 @@ date: "2014-01-10"
 
 **Neco Arc Chaos**
 
-[Crescent](Melty_Blood/Neco_Arc_Chaos/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Neco_Arc_Chaos/Half_Moon "wikilink")  
-[Full](Melty_Blood/Neco_Arc_Chaos/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Neco_Arc_Chaos/Crescent_Moon)  
+[Half](Melty_Blood/Neco_Arc_Chaos/Half_Moon)  
+[Full](Melty_Blood/Neco_Arc_Chaos/Full_Moon)  
 
 # Statistics
 
@@ -56,7 +56,7 @@ date: "2014-01-10"
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

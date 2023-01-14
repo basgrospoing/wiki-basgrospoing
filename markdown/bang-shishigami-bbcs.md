@@ -21,13 +21,13 @@ aria-hidden="true">/images/Bbcs_bang_artwork_01.png</figcaption>
 
 Bang est un ninja d'Ikaruga qui croît en sa propre justice et qui a pour
 but de la faire régner sur Kagutsushi. Il éprouve une grande haine
-envers [Jin](Jin_Kisaragi_(BBCS) "wikilink"), qui a tué son maître
+envers [Jin](Jin_Kisaragi_(BBCS)), qui a tué son maître
 durant une guerre civile quelques années auparavant.
 
-Il a pris [Carl](Carl_Clover_(BBCS) "wikilink") et
-[Taokaka](Taokaka_(BBCS) "wikilink") comme disciples plus ou moins
+Il a pris [Carl](Carl_Clover_(BBCS)) et
+[Taokaka](Taokaka_(BBCS)) comme disciples plus ou moins
 indépendamment. Il est le chef d'une armée de ninja, et est amoureux de
-[Litchi](Litchi_Faye_Ling_(BBCS) "wikilink").
+[Litchi](Litchi_Faye_Ling_(BBCS)).
 
 ## Couleurs
 

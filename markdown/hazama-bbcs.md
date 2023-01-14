@@ -20,13 +20,13 @@ aria-hidden="true">/images/Bbcs_hazama_artwork_01.png</figcaption>
 ## Description
 
 Hazama est le capitaine du NOL, supérieur de
-[Jin](Jin_Kisaragi_(BBCS) "wikilink"),
-[Noel](Noel_Vermillion_(BBCS) "wikilink"),
-[Makoto](Makoto_Nanaya_(BBCS) "wikilink") et de
-[Tsubaki](Tsubaki_Yayoi_(BBCS) "wikilink").
+[Jin](Jin_Kisaragi_(BBCS)),
+[Noel](Noel_Vermillion_(BBCS)),
+[Makoto](Makoto_Nanaya_(BBCS)) et de
+[Tsubaki](Tsubaki_Yayoi_(BBCS)).
 
 Il méprise les chats et dit en être allergique. Ainsi, il se montre très
-hostile envers Kokonoe, Jubei et [Taokaka](Taokaka_(BBCS) "wikilink").
+hostile envers Kokonoe, Jubei et [Taokaka](Taokaka_(BBCS)).
 
 ***Attention, ce qui suit dévoile des moments clés de l'intrigue***
 
@@ -46,10 +46,10 @@ Noel.
 Hazama est le seul personnage à avoir trois banques de voix au lieu de
 deux. Sa troisième banque de voix est en fait la voix de Terumi, et
 n'est utilisée que lorsqu'il affronte
-[Rachel](Rachel_Alucard_(BBCS) "wikilink"),
-[Ragna](Ragna_the_Bloodedge_(BBCS) "wikilink"),
-[Hakumen](Hakumen_(BBCS) "wikilink") et
-[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS) "wikilink").
+[Rachel](Rachel_Alucard_(BBCS)),
+[Ragna](Ragna_the_Bloodedge_(BBCS)),
+[Hakumen](Hakumen_(BBCS)) et
+[Valkenhayn](Valkenhayn=R=Hellsing_(BBCS)).
 
 ## Couleurs
 

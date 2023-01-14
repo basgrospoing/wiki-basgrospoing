@@ -20,11 +20,11 @@ aria-hidden="true">/images/Bbcs_jin_artwork_01.png</figcaption>
 ## Description
 
 Jin vient de la même université que
-[Noel](Noel_Vermillion_(BBCS) "wikilink"),
-[Makoto](Makoto_Nanaya_(BBCS) "wikilink"),
-[Tsubaki](Tsubaki_Yayoi_(BBCS) "wikilink") et
-[Carl](Carl_Clover_(BBCS) "wikilink") et est le petit frère de
-[Ragna](Ragna_the_Bloodedge_(BBCS) "wikilink").
+[Noel](Noel_Vermillion_(BBCS)),
+[Makoto](Makoto_Nanaya_(BBCS)),
+[Tsubaki](Tsubaki_Yayoi_(BBCS)) et
+[Carl](Carl_Clover_(BBCS)) et est le petit frère de
+[Ragna](Ragna_the_Bloodedge_(BBCS)).
 
 Il est aujourd'hui un commandant du NOL et vu comme le héros de la
 guerre d'Ikaruga.
@@ -33,7 +33,7 @@ Il possède une épée depuis sa jeunesse, *Yukianesa*, qui lui permet de
 maitriser la glace. Cela dît, cette épée le contrôle par la même
 occasion, et le rend fou à chaque fois qu'il croise Ragna ou Noel. Il
 est sous entendu à un moment de l'histoire
-qu'[Hazama](Hazama_(BBCS) "wikilink") le contrôle via celle-ci, mais ce
+qu'[Hazama](Hazama_(BBCS)) le contrôle via celle-ci, mais ce
 n'est pas clair.
 
 ### Gameplay

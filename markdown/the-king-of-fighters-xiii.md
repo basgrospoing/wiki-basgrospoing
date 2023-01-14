@@ -559,67 +559,67 @@ et est donnée à titre indicatif.
 
 **Art of Fighting Team**
 
-- [Ryo Sakazaki ](Ryo_Sakazaki_(kof13) "wikilink")
-- [Robert Garcia ](Robert_Garcia_(kof13) "wikilink")
-- [Takuma Sakazaki](Takuma_Sakazaki_(kof13) "wikilink")
+- [Ryo Sakazaki ](Ryo_Sakazaki_(kof13))
+- [Robert Garcia ](Robert_Garcia_(kof13))
+- [Takuma Sakazaki](Takuma_Sakazaki_(kof13))
 
 **Elisabeth Team**
 
-- [Elisabeth](Elisabeth_(kof13) "wikilink")
-- [Duo Lon](Duo_Lon_(kof13) "wikilink")
-- [Shen Woo](Shen_Woo_(kof13) "wikilink")
+- [Elisabeth](Elisabeth_(kof13))
+- [Duo Lon](Duo_Lon_(kof13))
+- [Shen Woo](Shen_Woo_(kof13))
 
 **Fatal Fury Team**
 
-- [Terry Bogard](Terry_Bogard_(kof13) "wikilink")
-- [Andy Bogard](Andy_Bogard_(kof13) "wikilink")
-- [Joe Higashi](Joe_Higashi_(kof13) "wikilink")
+- [Terry Bogard](Terry_Bogard_(kof13))
+- [Andy Bogard](Andy_Bogard_(kof13))
+- [Joe Higashi](Joe_Higashi_(kof13))
 
 **Ikari Team**
 
-- [Ralf Jones](Ralf_Jones_(kof13) "wikilink")
-- [Clark Steel](Clark_Steel_(kof13) "wikilink")
-- [Leona Heidern](Leona_Heidern_(kof13) "wikilink")
+- [Ralf Jones](Ralf_Jones_(kof13))
+- [Clark Steel](Clark_Steel_(kof13))
+- [Leona Heidern](Leona_Heidern_(kof13))
 
 **Japan Team**
 
-- [Kyo Kusanagi](Kyo_Kusanagi_(kof13) "wikilink")
-- [Benimaru Nikaido](Benimaru_Nikaido_(kof13) "wikilink")
-- [Goro Daimon](Goro_Daimon_(kof13) "wikilink")
+- [Kyo Kusanagi](Kyo_Kusanagi_(kof13))
+- [Benimaru Nikaido](Benimaru_Nikaido_(kof13))
+- [Goro Daimon](Goro_Daimon_(kof13))
 
 **K' Team**
 
-- [K'](K'_(kof13) "wikilink")
-- [Kula](Kula_(kof13) "wikilink")
-- [Maxima](Maxima_(kof13) "wikilink")
+- [K'](K'_(kof13))
+- [Kula](Kula_(kof13))
+- [Maxima](Maxima_(kof13))
 
 **Kim Team**
 
-- [Kim Kaphawn](Kim_Kaphawn_(kof13) "wikilink")
-- [Hwa Jai](Hwa_Jai_(kof13) "wikilink")
-- [Raiden](Raiden_(kof13) "wikilink")
+- [Kim Kaphawn](Kim_Kaphawn_(kof13))
+- [Hwa Jai](Hwa_Jai_(kof13))
+- [Raiden](Raiden_(kof13))
 
 **Psycho Soldier Team**
 
-- [Athena Asamiya](Athena_Asamiya_(kof13) "wikilink")
-- [Sie Kensou](Sie_Kensou_(kof13) "wikilink")
-- [Chin](Chin(kof13) "wikilink")
+- [Athena Asamiya](Athena_Asamiya_(kof13))
+- [Sie Kensou](Sie_Kensou_(kof13))
+- [Chin](Chin(kof13))
 
 **Women's Team**
 
-- [Mai Shiranui](Mai_Shiranui_(kof13) "wikilink")
-- [King](King_(kof13) "wikilink")
-- [Yuri Sakazaki](Yuri_Sakazaki_(kof13) "wikilink")
+- [Mai Shiranui](Mai_Shiranui_(kof13))
+- [King](King_(kof13))
+- [Yuri Sakazaki](Yuri_Sakazaki_(kof13))
 
 **Yagami Team**
 
-- [Iori Yagami](Iori_Yagami_(kof13) "wikilink")
-- [Mature](Mature_(kof13) "wikilink")
-- [Vice](Vice_(kof13) "wikilink")
+- [Iori Yagami](Iori_Yagami_(kof13))
+- [Mature](Mature_(kof13))
+- [Vice](Vice_(kof13))
 
 **Edit Only**
 
-- [Ash](Ash_(kof13) "wikilink")
+- [Ash](Ash_(kof13))
 
 Bosses
 

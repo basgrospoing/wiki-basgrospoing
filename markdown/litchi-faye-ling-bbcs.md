@@ -20,9 +20,9 @@ aria-hidden="true">/images/Bbcs_litchi_artwork_01.png</figcaption>
 ## Description
 
 Ancienne scientifique ayant travaillé avec
-[Tager](Iron_Tager_(BBCS) "wikilink"), Kokonoe et Lotte, elle a quitté
+[Tager](Iron_Tager_(BBCS)), Kokonoe et Lotte, elle a quitté
 ceux-ci suite à la disparition de Lotte et à l'apparition
-d'[Arakune](Arakune_(BBCS) "wikilink").
+d'[Arakune](Arakune_(BBCS)).
 
 Ayant entendu la rumeur qu'Arakune persécuterait les membres du village
 Kaka, Litchi décida de s'installer et fonder son propre hôpital à Orient

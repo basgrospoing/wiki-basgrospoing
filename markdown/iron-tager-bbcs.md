@@ -24,9 +24,9 @@ qu'il a subi lors de la guerre civile d'Ikaruga, Kokonoe parvint à le
 sauver en le "transformant" en l'espèce de cyborg qu'il est à présent.
 
 Il est actuellement un scientifique qui travaille aux côtés de Kokonoe
-et de [Lambda](Λ_-11-_(BBCS) "wikilink"), ancien collègue de
-[Litchi](Litchi_Faye_Ling_(BBCS) "wikilink") et de
-[Lotte](Arakune_(BBCS) "wikilink"). Il rend service à Kokonoe en
+et de [Lambda](Λ_-11-_(BBCS)), ancien collègue de
+[Litchi](Litchi_Faye_Ling_(BBCS)) et de
+[Lotte](Arakune_(BBCS)). Il rend service à Kokonoe en
 effectuant des missions pour elle, pour la remercier de lui avoir sauvé
 la vie.
 

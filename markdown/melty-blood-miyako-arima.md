@@ -45,9 +45,9 @@ s'inscrit donc au tournoi Melty Blood sachant qu'elle n'a aucune chance.
 
 **Miyako Arima**
 
-[Crescent](Melty_Blood/Miyako_Arima/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Miyako_Arima/Half_Moon "wikilink")  
-[Full](Melty_Blood/Miyako_Arima/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Miyako_Arima/Crescent_Moon)  
+[Half](Melty_Blood/Miyako_Arima/Half_Moon)  
+[Full](Melty_Blood/Miyako_Arima/Full_Moon)  
 
 # Statistics
 
@@ -71,7 +71,7 @@ s'inscrit donc au tournoi Melty Blood sachant qu'elle n'a aucune chance.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

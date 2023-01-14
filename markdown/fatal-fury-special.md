@@ -139,25 +139,25 @@ peuvent être executées à volonté
 
 ## Personnages
 
-- [Terry Bogard](Terry_Bogard_(Fatal_Fury_Special) "wikilink")
-- [Andy Bogard](Andy_Bogard_(Fatal_Fury_Special) "wikilink")
-- [Joe Higashi](Joe_Higashi_(Fatal_Fury_Special) "wikilink")
-- [Big Bear](Big_Bear_(Fatal_Fury_Special) "wikilink")
-- [Jubei Yamada](Jubei_Yamada_(Fatal_Fury_Special) "wikilink")
-- [Cheng Sinzan](Cheng_Sinzan_(Fatal_Fury_Special) "wikilink")
-- [Kim Kaphwan](Kim_Kaphwan_(Fatal_Fury_Special) "wikilink")
-- [Mai Shiranui](Mai_Shiranui_(Fatal_Fury_Special) "wikilink")
-- [Duck King](Duck_King_(Fatal_Fury_Special) "wikilink")
-- [Tung Fu Rue](Tung_Fu_Rue_(Fatal_Fury_Special) "wikilink")
-- [Billy Kane](Billy_Kane_(Fatal_Fury_Special) "wikilink")
-- [Axel Hawk](Axel_Hawk_(Fatal_Fury_Special) "wikilink")
-- [Laurence Blood](Laurence_Blood_(Fatal_Fury_Special) "wikilink")
-- [Geese Howard](Geese_Howard_(Fatal_Fury_Special) "wikilink")
-- [Wolfgang Krauser](Wolfgang_Krauser_(Fatal_Fury_Special) "wikilink")
+- [Terry Bogard](Terry_Bogard_(Fatal_Fury_Special))
+- [Andy Bogard](Andy_Bogard_(Fatal_Fury_Special))
+- [Joe Higashi](Joe_Higashi_(Fatal_Fury_Special))
+- [Big Bear](Big_Bear_(Fatal_Fury_Special))
+- [Jubei Yamada](Jubei_Yamada_(Fatal_Fury_Special))
+- [Cheng Sinzan](Cheng_Sinzan_(Fatal_Fury_Special))
+- [Kim Kaphwan](Kim_Kaphwan_(Fatal_Fury_Special))
+- [Mai Shiranui](Mai_Shiranui_(Fatal_Fury_Special))
+- [Duck King](Duck_King_(Fatal_Fury_Special))
+- [Tung Fu Rue](Tung_Fu_Rue_(Fatal_Fury_Special))
+- [Billy Kane](Billy_Kane_(Fatal_Fury_Special))
+- [Axel Hawk](Axel_Hawk_(Fatal_Fury_Special))
+- [Laurence Blood](Laurence_Blood_(Fatal_Fury_Special))
+- [Geese Howard](Geese_Howard_(Fatal_Fury_Special))
+- [Wolfgang Krauser](Wolfgang_Krauser_(Fatal_Fury_Special))
 
 <!-- -->
 
-- [Ryo Sakazaki](Ryo_Sakazaki_(Fatal_Fury_Special) "wikilink")
+- [Ryo Sakazaki](Ryo_Sakazaki_(Fatal_Fury_Special))
 
 ### Tier-list
 

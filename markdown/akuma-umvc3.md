@@ -38,7 +38,7 @@ Justin Wong, SumBrwnKid, Knives, ChrisG
 | Character Data                                                            |
 |---------------------------------------------------------------------------|
 | Health:                                                                   |
-| [Base Ground Magic Series](Glossaire_UMVC3#Base_Magic_Series "wikilink"): |
+| [Base Ground Magic Series](Glossaire_UMVC3#Base_Magic_Series): |
 | Double Jump:                                                              |
 | Air Dash                                                                  |
 | Air Action Count                                                          |
@@ -290,7 +290,7 @@ title="/images/Mumvc3.png" alt="/images/Mumvc3.png" /></p></td>
 
 |                   |                                                                                       |             |                                                                                                             |
 |-------------------|---------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------|
-| **Nom**           | **Commande**                                                                          | **Dommage** | **Propriétés spéciale** ([Glossaire](Glossaire_UMVC3 "wikilink"))                                           |
+| **Nom**           | **Commande**                                                                          | **Dommage** | **Propriétés spéciale** ([Glossaire](Glossaire_UMVC3))                                           |
 | Forward Throw     | ![](/images/f.png "/images/f.png") + ![](/images/Humvc3.png "/images/Humvc3.png")     | 80 000      | ![](/images/throw.png "/images/throw.png") ![](/images/hardknockdown.png "/images/hardknockdown.png")       |
 | Back Throw        | ![](/images/b.png "/images/b.png") + ![](/images/Humvc3.png "/images/Humvc3.png")     | 80 000      | ![](/images/throw.png "/images/throw.png") ![](/images/hardknockdown.png "/images/hardknockdown.png")       |
 | Forward Air Throw | air ![](/images/f.png "/images/f.png") + ![](/images/Humvc3.png "/images/Humvc3.png") | 80 000      | ![](/images/airthrow.png "/images/airthrow.png") ![](/images/hardknockdown.png "/images/hardknockdown.png") |

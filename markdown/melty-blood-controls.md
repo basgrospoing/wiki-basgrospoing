@@ -22,7 +22,7 @@ Ceci est la configuration classique, sur la version Arcade.
 respectivement
 
 **le bouton D** permet de déclencher le shield, qui a des propriétés
-dépendantes des Moons, voir [la page dédiée](shield "wikilink").
+dépendantes des Moons, voir [la page dédiée](shield).
 
   
 **236D/j.236D (après avoir réussi à shield):** Followup du shield qui
@@ -33,13 +33,13 @@ la direction utilisée.
 
   
 **5E:** Active le [mode
-Heat](Circuit_Meter#Comment_monter_son_meter "wikilink") ou le mode
-[Blood Heat](Circuit_Meter#Blood_Heat "wikilink") en [mode
-MAX](Circuit_Meter#Le_mode_MAX "wikilink"), peut aussi être fait avec
+Heat](Circuit_Meter#Comment_monter_son_meter) ou le mode
+[Blood Heat](Circuit_Meter#Blood_Heat) en [mode
+MAX](Circuit_Meter#Le_mode_MAX), peut aussi être fait avec
 A+B+C.
 
 **5E/j.5E (pendant que vous vous faites toucher):** [Circuit
-Spark(Burst)](Circuit_meter#Circuit_Spark "wikilink") (Crescent, Full).
+Spark(Burst)](Circuit_meter#Circuit_Spark) (Crescent, Full).
 Peut aussi être fait avec A+B+C.
 
 **4/6E:** choppe ou déchoppe. Peuvent être faites avec 1/4/6/3 A+D.
@@ -127,7 +127,7 @@ l'ennemi.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

@@ -32,9 +32,9 @@ date: "2014-01-10"
 
 **Sion TATARI**
 
-[Crescent](Melty_Blood/Sion_TATARI/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Sion_TATARI/Half_Moon "wikilink")  
-[Full](Melty_Blood/Sion_TATARI/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Sion_TATARI/Crescent_Moon)  
+[Half](Melty_Blood/Sion_TATARI/Half_Moon)  
+[Full](Melty_Blood/Sion_TATARI/Full_Moon)  
 Imma vampire
 
 # Statistics
@@ -59,7 +59,7 @@ Imma vampire
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

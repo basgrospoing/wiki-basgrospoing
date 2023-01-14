@@ -26,7 +26,7 @@ que de tenter des normaux gagnants. Maîtriser les super tirs est ici
 indispensable car les angles possibles avec des normaux sont souvent
 insuffisants pour tromper l'adversaire.  
 Pour affoler le jeu, comme dans tout terrain, on peut appliquer une
-stratégie de lob court (voir article [Attaque](Attaque "wikilink")).
+stratégie de lob court (voir article [Attaque](Attaque)).
 
 ## Particularités
 

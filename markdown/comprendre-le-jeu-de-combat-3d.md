@@ -285,7 +285,7 @@ savoir qui a l'avantage positionnel.
 
 Il existe des enchainements appelés *"string"* dans les jeux de combats
 3D qui sont une suite de coups scriptées dans le jeu. [Les strings ne
-sont pas des combos](Les_strings_ne_sont_pas_des_combos "wikilink"). Ce
+sont pas des combos](Les_strings_ne_sont_pas_des_combos). Ce
 qu'on appelle un combo dans un jeu de combat 3D, c'est une suite de
 coups que le joueur réalise lorsque l'adversaire ne peut pas garder s'il
 mange le premier coup.

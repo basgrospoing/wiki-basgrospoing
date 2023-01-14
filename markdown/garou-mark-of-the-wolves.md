@@ -16,7 +16,7 @@ date: "2011-06-14"
 Sorti en 1999, Garou : Mark of the Wolves est l'épisode le plus récent
 de la saga Fatal Fury. Le jeu est considéré par beaucoup comme étant la
 réponse de SNK à [Street Fighter 3: 3rd
-Strike](Street_Fighter_3:_3rd_Strike "wikilink") en partie par le
+Strike](Street_Fighter_3:_3rd_Strike) en partie par le
 changement quasi-total du casting d'origine du jeu (seul Terry Bogard
 fut gardé). Des portages sur consoles sont disponibles sur Dreamcast,
 Playstation 2, et Neo-Geo AES. Le format d'origine est le MVS en arcade.
@@ -575,33 +575,33 @@ Bottom Tier
 ## Personnages
 
 - ![](/images/00%.gif "/images/00%.gif")[Rock
-  Howard](Rock_(Garou) "wikilink")
+  Howard](Rock_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Kim Dong
-  Hwan](Kim_Dong_Hwan_(Garou) "wikilink")
+  Hwan](Kim_Dong_Hwan_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Hotaru
-  Futaba](Hotaru_Futaba_(Garou) "wikilink")
+  Futaba](Hotaru_Futaba_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Kushnood Butt (Marco
-  Rodriguez)](Marco_Rodriguez_(Garou) "wikilink")
-- ![](/images/00%.gif "/images/00%.gif")[Hokutomaru](Hokutomaru_(Garou) "wikilink")
+  Rodriguez)](Marco_Rodriguez_(Garou))
+- ![](/images/00%.gif "/images/00%.gif")[Hokutomaru](Hokutomaru_(Garou))
 - ![](/images/20%.gif "/images/20%.gif")[Kevin
-  Rian](Kevin_Rian_(Garou) "wikilink")
-- ![](/images/00%.gif "/images/00%.gif")[Freeman](Freeman_(Garou) "wikilink")
+  Rian](Kevin_Rian_(Garou))
+- ![](/images/00%.gif "/images/00%.gif")[Freeman](Freeman_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Tizoc (The Griffon
-  Mask)](Tizoc_(Garou) "wikilink")
+  Mask)](Tizoc_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[B.
-  Jenet](B._Jenet_(Garou) "wikilink")
-- ![](/images/100%.gif "/images/100%.gif")[Gato](Gato_(Garou) "wikilink")
+  Jenet](B._Jenet_(Garou))
+- ![](/images/100%.gif "/images/100%.gif")[Gato](Gato_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Kim Jae
-  Hoon](Kim_Jae_Hoon_(Garou) "wikilink")
+  Hoon](Kim_Jae_Hoon_(Garou))
 - ![](/images/00%.gif "/images/00%.gif")[Terry
-  Bogard](Terry_Bogard_(Garou) "wikilink")
+  Bogard](Terry_Bogard_(Garou))
 - ![](/images/50%.gif "/images/50%.gif")[Kain R.
-  Heinlein](Kain_R._Heinlein_(Garou) "wikilink")
-- ![](/images/20%.gif "/images/20%.gif")[Grant](Grant_(Garou) "wikilink")
+  Heinlein](Kain_R._Heinlein_(Garou))
+- ![](/images/20%.gif "/images/20%.gif")[Grant](Grant_(Garou))
 
 Note: Les noms entre parenthèses sont les noms japonais.
 
 ## Miscellaneous
 
 [Category:Garou: Mark of the
-Wolves](Category:Garou:_Mark_of_the_Wolves "wikilink")
+Wolves](Category:Garou:_Mark_of_the_Wolves)

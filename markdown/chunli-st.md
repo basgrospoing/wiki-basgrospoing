@@ -25,7 +25,7 @@ jouable)
 
 Chun-Li a des normaux complètement monstrueux pour le zoning, une throw
 très prioritaire, un jeu de boule très bien construit, et une des
-meilleurs super du jeu. --[Moun-B](Utilisateur:Moun-B "wikilink") 22
+meilleurs super du jeu. --[Moun-B](Utilisateur:Moun-B) 22
 décembre 2010 à 12:10 (UTC)
 
 ## Analyse de coups
@@ -128,7 +128,7 @@ lorsqu'on est collé à l'adversaire mais cela reste néamoins très
 difficile à garder. Attention ne surtout pas l'utiliser lorsque
 l'adversaire est debout car très visible.
 
---[Moun-B](Utilisateur:Moun-B "wikilink") 22 décembre 2010 à 12:09 (UTC)
+--[Moun-B](Utilisateur:Moun-B) 22 décembre 2010 à 12:09 (UTC)
 
 ### Coups spéciaux
 
@@ -182,7 +182,7 @@ punch et très rapidement gauche droite et on reste sur droite. Chun-Li
 est invincible aux projectiles sur les premières frames et vu la
 facilité de sortir la super avec juste le bouton de kick cela peut être
 très facilement fait en réflexe.
---[Moun-B](Utilisateur:Moun-B "wikilink") 22 décembre 2010 à 13:01 (UTC)
+--[Moun-B](Utilisateur:Moun-B) 22 décembre 2010 à 13:01 (UTC)
 
 ### Projections
 
@@ -198,7 +198,7 @@ complètement différente à chaque match up, elle n'a pas vraiment de
 stratégie de base. Néanmoins il y a une petite stratégie de base,
 spammer des kikoken à bonne distance, rendez les imprévisible, n'hésitez
 pas d'abuser des cr.medium kick pour contrôler l'espace de jeu, sinon
-tout se joue au match up. --[Moun-B](Utilisateur:Moun-B "wikilink") 23
+tout se joue au match up. --[Moun-B](Utilisateur:Moun-B) 23
 décembre 2010 à 11:44 (UTC)
 
 ## Strategie avancée
@@ -232,7 +232,7 @@ malencontreux wall jump), qui fait très mal.
 contre Dee Jay pour maintenant une distance parfaite pour le spam des
 milles pieds lorsque l'adversaire ne peut rien faire sans arracher la
 double touche totalement favorable à vous.
---[Moun-B](Utilisateur:Moun-B "wikilink") 23 décembre 2010 à 11:56 (UTC)
+--[Moun-B](Utilisateur:Moun-B) 23 décembre 2010 à 11:56 (UTC)
 
 ## Match ups
 

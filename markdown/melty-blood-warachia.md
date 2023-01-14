@@ -36,14 +36,14 @@ avancant dessus.
 
 **Warachia**
 
-[Crescent](Melty_Blood/Warachia/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Warachia/Crescent_Moon)  
 + Command Airdash en l'air lui permettant de airdash deux fois et de
 différentes facon.
 
-[Half](Melty_Blood/Warachia/Half_Moon "wikilink")  
+[Half](Melty_Blood/Warachia/Half_Moon)  
 + Un gros jeu en anti air
 
-[Full](Melty_Blood/Warachia/Full_Moon "wikilink")  
+[Full](Melty_Blood/Warachia/Full_Moon)  
 + Meilleur contrôle de terrain  
 + Mixups violents  
 - Perte des anti airs.
@@ -71,7 +71,7 @@ différentes facon.
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

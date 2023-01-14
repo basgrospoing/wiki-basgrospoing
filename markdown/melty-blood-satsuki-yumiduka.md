@@ -29,20 +29,20 @@ date: "2014-01-10"
 
 **Satsuki Yumiduka**
 
-[Crescent](Melty_Blood/Satsuki_Yumiduka/Crescent_Moon "wikilink")  
+[Crescent](Melty_Blood/Satsuki_Yumiduka/Crescent_Moon)  
 - Gestion du meter permet de plus gros dégats en moyenne, et de bon
 okizeme.  
 - Overhead plutot fort  
 - 22 est un anti air violent
 
-[Half](Melty_Blood/Satsuki_Yumiduka/Half_Moon "wikilink")  
+[Half](Melty_Blood/Satsuki_Yumiduka/Half_Moon)  
 - Facile a prendre en main  
 - Air combo/blockstrings  
 - Tres bon pressing  
 - Moins de mixups (sauf fuzzy guard ?)  
 - Moins de dégats, mais reste au dessus de la moyenne
 
-[Full](Melty_Blood/Satsuki_Yumiduka/Full_Moon "wikilink")  
+[Full](Melty_Blood/Satsuki_Yumiduka/Full_Moon)  
 - Meilleur neutral contre les campeurs  
 - 5B poke/anti air peut poser de gros problème a certains personnages
 adverse  
@@ -71,7 +71,7 @@ adverse
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

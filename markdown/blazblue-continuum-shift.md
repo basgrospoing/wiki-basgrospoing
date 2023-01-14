@@ -27,15 +27,15 @@ Les principaux changements par rapport à Calamity Trigger :
 
 **6 nouveaux personnages :**
 
-- [Hazama](Hazama_(BBCS) "wikilink")
-- [Tsubaki Yayoi](Tsubaki_Yayoi_(BBCS) "wikilink")
-- [μ -12-](μ_-12-_(BBCS) "wikilink"), sur console uniquement, se
+- [Hazama](Hazama_(BBCS))
+- [Tsubaki Yayoi](Tsubaki_Yayoi_(BBCS))
+- [μ -12-](μ_-12-_(BBCS)), sur console uniquement, se
   débloque en terminant le mode Story du jeu
-- [Makoto Nanaya](Makoto_Nanaya_(BBCS) "wikilink"), sur console
+- [Makoto Nanaya](Makoto_Nanaya_(BBCS)), sur console
   uniquement, DLC à télécharger pour 7€ environ
-- [Valkenhayn=R=Hellsing](Valkenhayn=R=Hellsing_(BBCS) "wikilink"), sur
+- [Valkenhayn=R=Hellsing](Valkenhayn=R=Hellsing_(BBCS)), sur
   console uniquement, DLC à télécharger pour 7€ environ
-- [Platinum the Trinity](Platinum_the_Trinity_(BBCS) "wikilink"), sur
+- [Platinum the Trinity](Platinum_the_Trinity_(BBCS)), sur
   console uniquement, DLC à télécharger pour 7€ environ (personnage
   actuellement - 06/11/2010 - en cours de développement)
 
@@ -2020,29 +2020,29 @@ que vous prenez 125% de dégâts en plus, soyez attentifs !
 
 ## Personnages
 
-- [Arakune](Arakune_(BBCS) "wikilink")
-- [Bang Shishigami](Bang_Shishigami_(BBCS) "wikilink")
-- [Carl Clover](Carl_Clover_(BBCS) "wikilink")
-- [Hakumen](Hakumen_(BBCS) "wikilink")
-- [Hazama](Hazama_(BBCS) "wikilink")
-- [Iron Tager](Iron_Tager_(BBCS) "wikilink")
-- [Jin Kisaragi](Jin_Kisaragi_(BBCS) "wikilink")
-- [Litchi Faye Ling](Litchi_Faye_Ling_(BBCS) "wikilink")
-- [Makoto Nanaya](Makoto_Nanaya_(BBCS) "wikilink")
-- [Noel Vermillion](Noel_Vermillion_(BBCS) "wikilink")
-- [Platinum the Trinity](Platinum_the_Trinity_(BBCS) "wikilink")
-- [Rachel Alucard](Rachel_Alucard_(BBCS) "wikilink")
-- [Ragna the Bloodedge](Ragna_the_Bloodedge_(BBCS) "wikilink")
-- [Taokaka](Taokaka_(BBCS) "wikilink")
-- [Tsubaki Yayoi](Tsubaki_Yayoi_(BBCS) "wikilink")
-- [Valkenhayn=R=Hellsing](Valkenhayn=R=Hellsing_(BBCS) "wikilink")
-- [Λ -11-](Λ_-11-_(BBCS) "wikilink")
-- [μ -12-](μ_-12-_(BBCS) "wikilink")
+- [Arakune](Arakune_(BBCS))
+- [Bang Shishigami](Bang_Shishigami_(BBCS))
+- [Carl Clover](Carl_Clover_(BBCS))
+- [Hakumen](Hakumen_(BBCS))
+- [Hazama](Hazama_(BBCS))
+- [Iron Tager](Iron_Tager_(BBCS))
+- [Jin Kisaragi](Jin_Kisaragi_(BBCS))
+- [Litchi Faye Ling](Litchi_Faye_Ling_(BBCS))
+- [Makoto Nanaya](Makoto_Nanaya_(BBCS))
+- [Noel Vermillion](Noel_Vermillion_(BBCS))
+- [Platinum the Trinity](Platinum_the_Trinity_(BBCS))
+- [Rachel Alucard](Rachel_Alucard_(BBCS))
+- [Ragna the Bloodedge](Ragna_the_Bloodedge_(BBCS))
+- [Taokaka](Taokaka_(BBCS))
+- [Tsubaki Yayoi](Tsubaki_Yayoi_(BBCS))
+- [Valkenhayn=R=Hellsing](Valkenhayn=R=Hellsing_(BBCS))
+- [Λ -11-](Λ_-11-_(BBCS))
+- [μ -12-](μ_-12-_(BBCS))
 
 ## Liens utiles/Sources
 
 - [Dustloop](http://www.dustloop.com) : Site anglosaxon dédié à [Guilty
-  Gear XX Accent Core](Guilty_Gear_XX_Accent_Core "wikilink") et
+  Gear XX Accent Core](Guilty_Gear_XX_Accent_Core) et
   BlazBlue : Continuum Shift. La section
   [guides](http://dustloop.com/guides/bbcs/) du site contient des
   informations sur le système de jeu ainsi que les frame data et

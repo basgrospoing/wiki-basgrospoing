@@ -79,7 +79,7 @@ d'autres avantages. Pour plus d'infos, allez sur Melty Blood/Moons.
 
 Traduit de l'anglais depuis le [http://wiki.mizuumi.net/w/Melty_Blood
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

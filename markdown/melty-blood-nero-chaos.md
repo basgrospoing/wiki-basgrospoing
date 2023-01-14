@@ -32,9 +32,9 @@ Professor Chaos
 
 **Nero Chaos**
 
-[Crescent](Melty_Blood/Nero_Chaos/Crescent_Moon "wikilink")  
-[Half](Melty_Blood/Nero_Chaos/Half_Moon "wikilink")  
-[Full](Melty_Blood/Nero_Chaos/Full_Moon "wikilink")  
+[Crescent](Melty_Blood/Nero_Chaos/Crescent_Moon)  
+[Half](Melty_Blood/Nero_Chaos/Half_Moon)  
+[Full](Melty_Blood/Nero_Chaos/Full_Moon)  
 
 # Statistics
 
@@ -59,7 +59,7 @@ Professor Chaos
 
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
-mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi "wikilink")
+mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
 
 [Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code "wikilink")
+Code](Category:Melty_Blood_Actress_Again_Current_Code)

@@ -866,25 +866,25 @@ En voici la frame data:
 
 - **Ceci s'applique à tout les personnages du jeu**
 
-[Coup faible exécuté au sol](Coup_faible_exécuté_au_sol "wikilink") :
+[Coup faible exécuté au sol](Coup_faible_exécuté_au_sol) :
 Hit stun : 11 frames Block stun : 9 frames
 
 [Coup fort exécuté au sol : Hit
-stun](Coup_fort_exécuté_au_sol_:_Hit_stun "wikilink") : 19 frames Block
+stun](Coup_fort_exécuté_au_sol_:_Hit_stun) : 19 frames Block
 stun : 17 frames
 
 [Coup faible exécuté lors d'une attaque
-aérienne](Coup_faible_exécuté_lors_d'une_attaque_aérienne "wikilink") :
+aérienne](Coup_faible_exécuté_lors_d'une_attaque_aérienne) :
 Hit stun : 11 frames Block stun : 9 frames
 
 [Coup fort exécuté lors d'une attaque
-aérienne](Coup_fort_exécuté_lors_d'une_attaque_aérienne "wikilink") :
+aérienne](Coup_fort_exécuté_lors_d'une_attaque_aérienne) :
 Hit stun : 11 frames Block stun : 17 frames
 
-[Coup spécial/ furie](Coup_spécial/_furie "wikilink") : Hit Stun : 19
+[Coup spécial/ furie](Coup_spécial/_furie) : Hit Stun : 19
 frames Block Stun: 17 frames
 
-[CD](CD "wikilink") ( que ce soit le Jump CD ou le Guard Cancel CD ) :
+[CD](CD) ( que ce soit le Jump CD ou le Guard Cancel CD ) :
 Block Stun : 21 frames ( Le hit stun n'est pas une valeur possible car
 le CD est un coup qui knockdown votre adversaire ).
 
@@ -902,15 +902,15 @@ la proprièté du coup. Donc le hit stop est l'avantage que vous gagnerez
 lors de cet échange, et en voici la frame data des avantages que vous
 obtiendrez :
 
-[Avec un coup faible](Avec_un_coup_faible "wikilink") : 7 frames
+[Avec un coup faible](Avec_un_coup_faible) : 7 frames
 d'avantages après le hit stop
 
-[Avec un coup fort](Avec_un_coup_fort "wikilink") : 11 frames
+[Avec un coup fort](Avec_un_coup_fort) : 11 frames
 
-[Avec un CD](Avec_un_CD "wikilink") : 11 frames
+[Avec un CD](Avec_un_CD) : 11 frames
 
 [Projectile ( Seulement pour
-l'adversaire)](Projectile_(_Seulement_pour_l'adversaire) "wikilink") :
+l'adversaire)](Projectile_(_Seulement_pour_l'adversaire)) :
 11 frames
 
 ### Atterrissage lors d'un saut
@@ -959,126 +959,126 @@ Le Break Roulade est de 25 frames.
 
 **Art of Fighting Team**
 
-- [Ryo Sakazaki ](Ryo_Sakazaki_(2k2um) "wikilink")
-- [Robert Garcia ](Robert_Garcia_(2k2um) "wikilink")
-- [Yuri Sakazaki](Yuri_Sakazaki_(2k2um) "wikilink")
+- [Ryo Sakazaki ](Ryo_Sakazaki_(2k2um))
+- [Robert Garcia ](Robert_Garcia_(2k2um))
+- [Yuri Sakazaki](Yuri_Sakazaki_(2k2um))
 
 **Fatal Fury Team**
 
-- [Terry Bogard](Terry_Bogard_(2k2um) "wikilink")
-- [Andy Bogard](Andy_Bogard_(2k2um) "wikilink")
-- [Joe Higashi](Joe_Higashi_(2k2um) "wikilink")
+- [Terry Bogard](Terry_Bogard_(2k2um))
+- [Andy Bogard](Andy_Bogard_(2k2um))
+- [Joe Higashi](Joe_Higashi_(2k2um))
 
 **Esaka Team**
 
-- [Kyo Kusanagi](Kyo_Kusanagi_(2k2um) "wikilink")
-- [Benimaru Nikaido](Benimaru_Nikaido_(2k2um) "wikilink")
-- [Goro Daimon](Goro_Daimon_(2k2um) "wikilink")
+- [Kyo Kusanagi](Kyo_Kusanagi_(2k2um))
+- [Benimaru Nikaido](Benimaru_Nikaido_(2k2um))
+- [Goro Daimon](Goro_Daimon_(2k2um))
 
 **Kim Team**
 
-- [Kim Kaphawn](Kim_Kaphawn_(2k2um) "wikilink")
-- [Chang Koehan](Chang_Koehan_(2k2um) "wikilink")
-- [Choi Bounge](Choi_Bounge_(2k2um) "wikilink")
+- [Kim Kaphawn](Kim_Kaphawn_(2k2um))
+- [Chang Koehan](Chang_Koehan_(2k2um))
+- [Choi Bounge](Choi_Bounge_(2k2um))
 
 **Women's Team**
 
-- [Mai Shiranui](Mai_Shiranui_(2k2um) "wikilink")
-- [King](King_(2k2um) "wikilink")
-- [Kasumi Todoh](Kasumi_Todoh_(2k2um) "wikilink")
+- [Mai Shiranui](Mai_Shiranui_(2k2um))
+- [King](King_(2k2um))
+- [Kasumi Todoh](Kasumi_Todoh_(2k2um))
 
 **Ikari Team**
 
-- [Ralf Jones](Ralf_Jones_(2k2um) "wikilink")
-- [Clark Steel](Clark_Steel_(2k2um) "wikilink")
-- [Leona Heidern](Leona_Heidern_(2k2um) "wikilink")
+- [Ralf Jones](Ralf_Jones_(2k2um))
+- [Clark Steel](Clark_Steel_(2k2um))
+- [Leona Heidern](Leona_Heidern_(2k2um))
 
 **Psycho Soldier Team**
 
-- [Athena Asamiya](Athena_Asamiya_(2k2um) "wikilink")
-- [Sie Kensou](Sie_Kensou_(2k2um) "wikilink")
-- [Bao](Bao_(2k2um) "wikilink")
+- [Athena Asamiya](Athena_Asamiya_(2k2um))
+- [Sie Kensou](Sie_Kensou_(2k2um))
+- [Bao](Bao_(2k2um))
 
 **Team '96**
 
-- [Iori Yagami](Iori_Yagami_(2k2um) "wikilink")
-- [Mature](Mature_(2k2um) "wikilink")
-- [Vice](Vice_(2k2um) "wikilink")
+- [Iori Yagami](Iori_Yagami_(2k2um))
+- [Mature](Mature_(2k2um))
+- [Vice](Vice_(2k2um))
 
 **Team '97**
 
-- [Billy Kane](Billy_Kane_(2k2um) "wikilink")
-- [Blue Mary](Blue_Mary_(2k2um) "wikilink")
-- [Yamazaki](Ryuji_Yamazaki_(2k2um) "wikilink")
+- [Billy Kane](Billy_Kane_(2k2um))
+- [Blue Mary](Blue_Mary_(2k2um))
+- [Yamazaki](Ryuji_Yamazaki_(2k2um))
 
 **Team '99**
 
-- [K'](K'_(2k2um) "wikilink")
-- [Maxima](Maxima_(2k2um) "wikilink")
-- [Whip](Whip_(2k2um) "wikilink")
+- [K'](K'_(2k2um))
+- [Maxima](Maxima_(2k2um))
+- [Whip](Whip_(2k2um))
 
 **Team '2K**
 
-- [Vanessa](Vanessa_(2k2um) "wikilink")
-- [Seth](Seth_(2k2um) "wikilink")
-- [Ramon](Ramon_(2k2um) "wikilink")
+- [Vanessa](Vanessa_(2k2um))
+- [Seth](Seth_(2k2um))
+- [Ramon](Ramon_(2k2um))
 
 **Team '2k1**
 
-- [Kula](Kula_(2k2um) "wikilink")
-- [Foxy](Foxy_(2k2um) "wikilink")
-- [Angel](Angel_(2k2um) "wikilink")
+- [Kula](Kula_(2k2um))
+- [Foxy](Foxy_(2k2um))
+- [Angel](Angel_(2k2um))
 
 **Orochi Team**
 
-- [Yashiro Nanakase](Yashiro_Nanakase_(2k2um) "wikilink")
-- [Shermie](Shermie_(2k2um) "wikilink")
-- [Chris](Chris_(2k2um) "wikilink")
+- [Yashiro Nanakase](Yashiro_Nanakase_(2k2um))
+- [Shermie](Shermie_(2k2um))
+- [Chris](Chris_(2k2um))
 
 **Ura Orochi Team**
 
-- [Orochi Chris](Orochi_Chris_(2k2um) "wikilink")
-- [Orochi Shermie](Orochi_Shermie_(2k2um) "wikilink")
-- [Orochi Yashiro](Orochi_Yashiro_(2k2um) "wikilink")
+- [Orochi Chris](Orochi_Chris_(2k2um))
+- [Orochi Shermie](Orochi_Shermie_(2k2um))
+- [Orochi Yashiro](Orochi_Yashiro_(2k2um))
 
 **Jhun Team**
 
-- [Jhun Hoon](Jhun_Hoon_(2k2um) "wikilink")
-- [Lin](Lin_(2k2um) "wikilink")
-- [Shingo Yabuki](Shingo_Yabuki_(2k2um) "wikilink")
+- [Jhun Hoon](Jhun_Hoon_(2k2um))
+- [Lin](Lin_(2k2um))
+- [Shingo Yabuki](Shingo_Yabuki_(2k2um))
 
 **Masters Team**
 
-- [Heidern](Heidern_(2k2um) "wikilink")
-- [Takuma Sakazaki](Takuma_Sakazaki_(2k2um) "wikilink")
-- [Chin Gentsai](Chin_Gentsai_(2k2um) "wikilink")
+- [Heidern](Heidern_(2k2um))
+- [Takuma Sakazaki](Takuma_Sakazaki_(2k2um))
+- [Chin Gentsai](Chin_Gentsai_(2k2um))
 
 **Pretty Girls Team**
 
-- [Li Xiangfei](Li_Xiangfei_(2k2um) "wikilink")
-- [Hinako Shijou](Hinako_Shijou_(2k2um) "wikilink")
-- [May Lee Jinju](May_Lee_Jinju_(2k2um) "wikilink")
+- [Li Xiangfei](Li_Xiangfei_(2k2um))
+- [Hinako Shijou](Hinako_Shijou_(2k2um))
+- [May Lee Jinju](May_Lee_Jinju_(2k2um))
 
 **Clone Team**
 
-- [Kyo-1](Kyo-1_(2k2um) "wikilink")
-- [Kyo-2](Kyo-2_(2k2um) "wikilink")
-- [Kusanagi](Kusanagi_(2k2um) "wikilink")
+- [Kyo-1](Kyo-1_(2k2um))
+- [Kyo-2](Kyo-2_(2k2um))
+- [Kusanagi](Kusanagi_(2k2um))
 
 **Edit Only**
 
-- [Nameless](Nameless_(2k2um) "wikilink")
-- [Geese](Geese_(2k2um) "wikilink")
-- [Goenitz](Goenitz_(2k2um) "wikilink")
-- [EX Kensou](EX_Kensou_(2k2um) "wikilink")
-- [EX Takuma](EX_Takuma_(2k2um) "wikilink")
-- [EX Robert](EX_Robert_(2k2um) "wikilink")
-- [EX Geese](EX_Geese_(2k2um) "wikilink")
+- [Nameless](Nameless_(2k2um))
+- [Geese](Geese_(2k2um))
+- [Goenitz](Goenitz_(2k2um))
+- [EX Kensou](EX_Kensou_(2k2um))
+- [EX Takuma](EX_Takuma_(2k2um))
+- [EX Robert](EX_Robert_(2k2um))
+- [EX Geese](EX_Geese_(2k2um))
 
 **Bosses**
 
-- [Kryzalid](Kryzalid_(2k2um) "wikilink")
-- [Clone Zero](Clone_Zero_(2k2um) "wikilink")
-- [Omega Rugal](Omega_Rugal_(2k2um) "wikilink")
-- [Original Zero](Original_Zero_(2k2um) "wikilink")
-- [Igniz](Igniz_(2k2um) "wikilink")
+- [Kryzalid](Kryzalid_(2k2um))
+- [Clone Zero](Clone_Zero_(2k2um))
+- [Omega Rugal](Omega_Rugal_(2k2um))
+- [Original Zero](Original_Zero_(2k2um))
+- [Igniz](Igniz_(2k2um))
