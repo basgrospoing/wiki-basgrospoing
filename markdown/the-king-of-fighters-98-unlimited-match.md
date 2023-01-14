@@ -2,7 +2,7 @@
 title: "The King of Fighters '98: Unlimited Match"
 slug:  "The_King_of_Fighters_'98:_Unlimited_Match"
 id: 19
-author: "Admin"
+author: "Corbeau Bleu"
 permalink: "the-king-of-fighters-98-unlimited-match.html"
 layout: "game.njk"
 tags: "game"

@@ -2,7 +2,7 @@
 title: "The King of Fighters 2k2: Unlimited Match"
 slug:  "The_King_of_Fighters_2k2:_Unlimited_Match"
 id: 20
-author: "Admin"
+author: "Corbeau Bleu, Shin Rickyo95"
 permalink: "the-king-of-fighters-2k2-unlimited-match.html"
 layout: "game.njk"
 tags: "game"

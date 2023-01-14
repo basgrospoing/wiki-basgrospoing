@@ -2,7 +2,7 @@
 title: "Gato (Garou)"
 slug:  "Gato_(Garou)"
 id: 14
-author: "83.199.55.44"
+author: "Timmytheturtle"
 permalink: "gato-garou.html"
 layout: "character.njk"
 tags: "character"
