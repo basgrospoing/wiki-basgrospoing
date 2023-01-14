@@ -81,5 +81,4 @@ Traduit de l'anglais depuis le [http://wiki.mizuumi.net/w/Melty_Blood
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi)
 
-[Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code)
+

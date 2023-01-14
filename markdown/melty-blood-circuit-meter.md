@@ -197,5 +197,4 @@ traduction de l'anglais du
 [http://wiki.mizuumi.net/w/Melty_Blood/Circuit_Meter wiki
 mizuumi.net](http://wiki.mizuumi.net/w/Melty_Blood/Circuit_Meter_wiki_mizuumi.net)
 
-[Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code)
+

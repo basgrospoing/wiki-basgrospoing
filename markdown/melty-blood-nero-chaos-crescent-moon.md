@@ -230,5 +230,4 @@ background:#E8E8E8; J6C
 `style=`  
 `cellspacing=`
 
-[Category:Melty Blood Actress Again Current
-Code](Category:Melty_Blood_Actress_Again_Current_Code)
+

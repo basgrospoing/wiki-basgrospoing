@@ -600,8 +600,3 @@ Bottom Tier
 - ![](/images/20%.gif "/images/20%.gif")[Grant](Grant_(Garou))
 
 Note: Les noms entre parenthèses sont les noms japonais.
-
-## Miscellaneous
-
-[Category:Garou: Mark of the
-Wolves](Category:Garou:_Mark_of_the_Wolves)
