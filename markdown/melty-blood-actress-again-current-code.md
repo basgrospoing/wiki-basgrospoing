@@ -9,7 +9,7 @@ tags: "game"
 date: "2012-07-24"
 ---
 
-[](/images/Mbcc.jpg)
+![](/images/Mbcc.jpg)
 
 **Le site officiel:** [Ici](http://meltyblood.info/)  
 **Le site du développeur:** [Ecole](http://www.e56.info/mbaaps2/index.html)
