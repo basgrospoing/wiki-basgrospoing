@@ -9,7 +9,7 @@ tags: "character"
 date: "2012-03-12"
 ---
 
-[Retour à la fiche du jeu](Street_Fighter_x_Tekken)
+
 
 ## Vue d'ensemble
 

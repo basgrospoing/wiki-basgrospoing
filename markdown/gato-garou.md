@@ -9,8 +9,7 @@ tags: "character"
 date: "2011-07-07"
 ---
 
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=Garou_:_Mark_of_the_Wolves)
+
 ![](/images/Gato.png "/images/Gato.png")
 
 ## Introduction

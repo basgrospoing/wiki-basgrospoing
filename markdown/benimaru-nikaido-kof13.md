@@ -10,8 +10,7 @@ date: "2011-07-17"
 ---
 
 ![Benimaru Nikaido](/images/Benimarukof13.gif "Benimaru Nikaido")
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+
 
 ## Introduction
 

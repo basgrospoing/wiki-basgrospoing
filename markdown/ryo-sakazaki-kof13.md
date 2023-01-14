@@ -11,8 +11,7 @@ date: "2011-07-19"
 
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")
 
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+
 
 ## Introduction
 

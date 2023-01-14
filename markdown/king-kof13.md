@@ -9,8 +9,7 @@ tags: "character"
 date: "2011-07-17"
 ---
 
-![King](/images/Kingkof13.gif "King") [Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+![King](/images/Kingkof13.gif "King") 
 
 ## Introduction
 

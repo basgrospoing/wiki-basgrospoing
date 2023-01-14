@@ -11,8 +11,7 @@ redirect: "Ash_(KOF_XIII)"
 old_id: 1570
 ---
 
-![Ash](/images/Ashkof13.gif "Ash") [Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+![Ash](/images/Ashkof13.gif "Ash") 
 
 ## Introduction
 

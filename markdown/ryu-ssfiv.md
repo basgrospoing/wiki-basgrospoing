@@ -9,8 +9,7 @@ tags: "character"
 date: "2012-08-21"
 ---
 
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=Super_Street_Fighter_IV)
+
 
 ![](/images/Ssf4-Ryu.png "/images/Ssf4-Ryu.png")
 

@@ -9,8 +9,7 @@ tags: "character"
 date: "2011-07-20"
 ---
 
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+
 ![Yuri Sakazaki](/images/Yurikof13.gif "Yuri Sakazaki")  
 
 ## Introduction

@@ -10,8 +10,7 @@ date: "2011-07-21"
 ---
 
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  
-[Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+
 
 ## Introduction
 

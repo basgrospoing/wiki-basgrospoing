@@ -9,8 +9,7 @@ tags: "character"
 date: "2014-05-09"
 ---
 
-[Retour à la fiche du
-jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
+
 
 *You must defeat me to stand a chance !*
 

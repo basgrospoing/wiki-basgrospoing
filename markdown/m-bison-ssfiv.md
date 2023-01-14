@@ -9,8 +9,7 @@ tags: "character"
 date: "2014-05-09"
 ---
 
-[Retour à la fiche du
-jeu](http://wiki.basgrospoing.fr/index.php/Super_Street_Fighter_IV)
+
 
 *For you, the day Bison graced your village was the most important day
 of your life. But for me... it was Tuesday* - Raul Julia

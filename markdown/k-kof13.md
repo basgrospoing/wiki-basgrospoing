@@ -9,8 +9,7 @@ tags: "character"
 date: "2011-07-22"
 ---
 
-![K'](/images/Kdash-kof13-stance.gif "K'") [Retour à la fiche du
-jeu](http://basgrospoing.fr/wiki/index.php?title=The_King_of_Fighters_XIII)
+![K'](/images/Kdash-kof13-stance.gif "K'") 
 
 ## Introduction
 
