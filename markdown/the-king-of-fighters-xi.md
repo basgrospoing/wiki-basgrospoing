@@ -2,7 +2,7 @@
 title: "The King of Fighters XI"
 slug:  "The_King_of_Fighters_XI"
 id: 895
-author: "Admin"
+author: "Olivic"
 permalink: "the-king-of-fighters-xi.html"
 layout: "game.njk"
 tags: "game"
