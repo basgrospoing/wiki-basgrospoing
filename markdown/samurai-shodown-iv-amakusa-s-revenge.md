@@ -11,7 +11,8 @@ redirect: "Ss4"
 old_id: 671
 ---
 
-Image:ss4-flyer.jpg Image:ss4-flyer2.jpg
+![](/images/Ss4-flyer.jpg)
+![](/images/ss4-flyer2.jpg)
 
 ## Introduction
 
@@ -135,11 +136,7 @@ prédilection et si l'on gagne, on obtiendra la mauvaise fin.
 
 ## Mécaniques de jeu
 
-<figure>
-<img src="/images/ss4-instruction.jpg" title="Instruction Card"
-width="300" alt="Instruction Card" />
-<figcaption aria-hidden="true">Instruction Card</figcaption>
-</figure>
+![Instruction Card](/images/ss4-instruction.jpg)
 
 ### Attaque
 
