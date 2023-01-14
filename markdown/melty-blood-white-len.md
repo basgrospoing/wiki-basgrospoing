@@ -61,7 +61,7 @@ air sur un bon angle et très dur a punir.
 C'est généralement l'adversaire qui se positionne et white len doit s'en
 défendre.
 
-[Half](Melty_Blood/White_Len/Half_Moon)  
+[Half](melty-blood-white-len-half-moon.html)  
 + Un dash extrèmement rapide, avec pour propriété la possibilité de
 garder le momentum du début du dash dans les coups spéciaux.  
 + Un jeu en anti-air plutot bon.  
@@ -75,7 +75,7 @@ fortement.
 - Beaucoup de combo character specific, et utiliser son dash demande
 beaucoup d'execution.
 
-[Full](Melty_Blood/White_Len/Full_Moon)  
+[Full](melty-blood-white-len-full-moon.html)  
 + Control de terrain extrèmement fort pour camper.  
 + Des projectiles rapide pour agresser tout comme pour reculer.  
 + Pressing assez gimmicks, mais pouvant être extremement dangereux.  

@@ -37,11 +37,11 @@ sister"
 Solide, inflige de gros dégâts a partir de n'importe quelle situation,
 même en l'air sans counter. Très bon pressing également.
 
-[Half](Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon)  
+[Half](melty-blood-akiha-tohno-seifuku-half-moon.html)  
 Possiblement la moon qui inflige le plus de dégâts. Demande beaucoup
 d’exécution.
 
-[Full](Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon)  
+[Full](melty-blood-akiha-tohno-seifuku-full-moon.html)  
 Très bon contrôle de terrain et okizeme/mixups très safe.
 
 # Statistics

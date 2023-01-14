@@ -34,8 +34,8 @@ date: "2014-01-10"
 **Sion Eltnam Atlasia**
 
 [Crescent](melty-blood-sion-eltnam-atlasia-crescent-moon.html)  
-[Half](Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon)  
-[Full](Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon)  
+[Half](melty-blood-sion-eltnam-atlasia-half-moon.html)  
+[Full](melty-blood-sion-eltnam-atlasia-full-moon.html)  
 
 # Statistics
 

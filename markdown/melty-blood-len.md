@@ -43,12 +43,12 @@ joueurs appréciant un style passif-agressif.
 Possède de nombreux mixups, et la barre de meter lui permet d'y accéder
 très facilement. Peut plier le match très vite.
 
-[Half](Melty_Blood/Len/Half_Moon)  
+[Half](melty-blood-len-half-moon.html)  
 Possède le meilleur neutral des 3 lens, avec des icepikes qui gardent le
 momentum en l'air. Elle possède de bons mixups, mais des dégâts assez
 inégaux.
 
-[Full](Melty_Blood/Len/Full_Moon)  
+[Full](melty-blood-len-full-moon.html)  
 Inflige beaucoup de dégâts en peu de coup. L'utilisation des chats est
 remplacé par des miroirs, très lent et difficile à activer. Ceux-ci
 zonent sur de plus courtes distances, mais sont plus agressifs. Ils

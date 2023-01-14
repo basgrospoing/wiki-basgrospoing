@@ -35,14 +35,14 @@ okizeme.
 - Overhead plutot fort  
 - 22 est un anti air violent
 
-[Half](Melty_Blood/Satsuki_Yumiduka/Half_Moon)  
+[Half](melty-blood-satsuki-yumiduka-half-moon.html)  
 - Facile a prendre en main  
 - Air combo/blockstrings  
 - Tres bon pressing  
 - Moins de mixups (sauf fuzzy guard ?)  
 - Moins de dégats, mais reste au dessus de la moyenne
 
-[Full](Melty_Blood/Satsuki_Yumiduka/Full_Moon)  
+[Full](melty-blood-satsuki-yumiduka-full-moon.html)  
 - Meilleur neutral contre les campeurs  
 - 5B poke/anti air peut poser de gros problème a certains personnages
 adverse  

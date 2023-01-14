@@ -43,12 +43,12 @@ moyennement mobile/rapide.
 La plus versatile de toutes les moons, très solide et fait à peu près
 tout ce que l'on attend d'un personnage de meltyblood.
 
-[Half](Melty_Blood/Arcueid_Brunestud/Half_Moon)  
+[Half](melty-blood-arcueid-brunestud-half-moon.html)  
 Légèrement moins solide que C-moon (mais toujours très solide). En
 contrepartie, elle build beaucoup de meter et va baser son jeu sur la
 régénération. Très tanky donc...
 
-[Full](Melty_Blood/Arcueid_Brunestud/Full_Moon)  
+[Full](melty-blood-arcueid-brunestud-full-moon.html)  
 Des coups plus lents, mais avec plus de portées.
 
 # Statistics

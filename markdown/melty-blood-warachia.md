@@ -40,10 +40,10 @@ avancant dessus.
 + Command Airdash en l'air lui permettant de airdash deux fois et de
 différentes facon.
 
-[Half](Melty_Blood/Warachia/Half_Moon)  
+[Half](melty-blood-warachia-half-moon.html)  
 + Un gros jeu en anti air
 
-[Full](Melty_Blood/Warachia/Full_Moon)  
+[Full](melty-blood-warachia-full-moon.html)  
 + Meilleur contrôle de terrain  
 + Mixups violents  
 - Perte des anti airs.

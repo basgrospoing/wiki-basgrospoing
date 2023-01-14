@@ -60,7 +60,7 @@ autres style. Ce style est à considérer contre les personnages tels que
 kohaku ou Riesbyfe, contre qui il est difficile d'approcher quel que
 soit le style... Autant profiter de ses mixups en pressing donc...
 
-[Half](Melty_Blood/Kouma_Kishima/Half_Moon)  
+[Half](melty-blood-kouma-kishima-half-moon.html)  
 + De nombreuses variations de mouvement permettant de coller
 l'adversaire  
 + Un pressing long  
@@ -73,7 +73,7 @@ son mode Crescent. Toutefois, il possède très peu de mixup. Ce style est
 à considerer contre les personnages disposant de peu de moyen de defense
 et/ou d'une faible mobilité, tel que Nero ou Hime.
 
-[Full](Melty_Blood/Kouma_Kishima/Full_Moon)  
+[Full](melty-blood-kouma-kishima-full-moon.html)  
 + Peut faire des dégâts respectables a partir d'à peu près n'importe
 quelle situation  
 + Possède très souvent un bon Okizeme  

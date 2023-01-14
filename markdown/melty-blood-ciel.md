@@ -42,11 +42,11 @@ n'importe quoi en réaction fullscreen. Ses couteaux ont pour but de
 toucher l'adversaire à distance, et apportent peu d'avantage en terme de
 contrôle de terrain.
 
-[Half](Melty_Blood/Ciel/Half_Moon)  
+[Half](melty-blood-ciel-half-moon.html)  
 Cette ciel possède un très bon pressing, principalement grâce a ses 624.
 Son pressing reste toutefois assez gimmicky. Peu d’intérêt à part ça...
 
-[Full](Melty_Blood/Ciel/Full_Moon)  
+[Full](melty-blood-ciel-full-moon.html)  
 Beaucoup plus de priorité que les autres moons, et un pressing plus
 crédible. Son jeu se base sur ses 236, des coups très rapide, avec une
 extension de hitbox assez spéciale qui donnent l'impression de

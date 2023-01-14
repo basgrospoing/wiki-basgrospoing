@@ -79,7 +79,7 @@ manière passive rajoute une autre dimension à son press. Elle possède
 également un instant overhead avec son tk j2C, qui est désormais
 combotable plus facilement pour de plus gros dégats.
 
-[Half](Melty_Blood/Akiha_Tohno/Half_Moon)  
+[Half](melty-blood-akiha-tohno-half-moon.html)  
 Ce mode est le mode mixup d'Akiha, qui lui permet de mettre des mixups
 complètement safe, sans craindre de prendre un reversal à l'aide de ses
 pits qui s'activent toutes seules. Son jC lui permet de grandes
@@ -89,7 +89,7 @@ ce mode très inefficace. Il s'agit d'un personnage qui a du mal à
 arriver au knockdown, mais qui, une fois l'adversaire au sol, ne le
 lâche jamais.
 
-[Full](Melty_Blood/Akiha_Tohno/Full_Moon)  
+[Full](melty-blood-akiha-tohno-full-moon.html)  
 Ce mode est celui qui offre le meilleur zoning et le meilleur press de
 toutes les moons. Il propose un press très long, et excessivement safe,
 et un bon jeu antirair avec ses pits/airtraps qui peuvent récupérer un

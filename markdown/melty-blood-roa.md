@@ -38,8 +38,8 @@ concurrence.
 **Roa**
 
 [Crescent](melty-blood-roa-crescent-moon.html)  
-[Half](Melty_Blood/Roa/Half_Moon)  
-[Full](Melty_Blood/Roa/Full_Moon)  
+[Half](melty-blood-roa-half-moon.html)  
+[Full](melty-blood-roa-full-moon.html)  
 
 # Statistics
 

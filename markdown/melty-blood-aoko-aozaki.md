@@ -55,7 +55,7 @@ repose énormement sur la gestion des orbes: difficultées contre des
 persos ayant des armes limitant leur mise en place (nanaya, nero,
 akiha...)
 
-[Half](Melty_Blood/Aoko_Aozaki/Half_Moon)  
+[Half](melty-blood-aoko-aozaki-half-moon.html)  
 Bon controle de terrain et plus agressif
 
 *Avantages*: conserve les possibilitées de campe/keep away tout en ayant
@@ -64,7 +64,7 @@ un potentiel offensif accru
 *Désavantages*: légère perte de mobilité dans les airs (ne possède plus
 de 3eme jump comparé au C moon), combos infligeant moins de dommages
 
-[Full](Melty_Blood/Aoko_Aozaki/Full_Moon)  
+[Full](melty-blood-aoko-aozaki-full-moon.html)  
 Rushdown
 
 *Avantages*: très bon rushdown,iad jc extrémement rapide, bonne damage

@@ -34,8 +34,8 @@ Curry"
 **Powerd Ciel**
 
 [Crescent](melty-blood-powerd-ciel-crescent-moon.html)  
-[Half](Melty_Blood/Powerd_Ciel/Half_Moon)  
-[Full](Melty_Blood/Powerd_Ciel/Full_Moon)  
+[Half](melty-blood-powerd-ciel-half-moon.html)  
+[Full](melty-blood-powerd-ciel-full-moon.html)  
 
 # Statistics
 

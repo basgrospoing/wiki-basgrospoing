@@ -33,8 +33,8 @@ Professor Chaos
 **Nero Chaos**
 
 [Crescent](melty-blood-nero-chaos-crescent-moon.html)  
-[Half](Melty_Blood/Nero_Chaos/Half_Moon)  
-[Full](Melty_Blood/Nero_Chaos/Full_Moon)  
+[Half](melty-blood-nero-chaos-half-moon.html)  
+[Full](melty-blood-nero-chaos-full-moon.html)  
 
 # Statistics
 

@@ -52,10 +52,10 @@ donna lieu à la naissance des *Mystic Eyes* de Red Arcueid.
 Bon pressing et mouvements en l'air. La seule moon avec un vrai
 reversal.
 
-[Half](Melty_Blood/Red_Arcueid/Half_Moon)  
+[Half](melty-blood-red-arcueid-half-moon.html)  
 Très versatile avec l'ajout d'un bon jeu a distance et un meilleur 2A.
 
-[Full](Melty_Blood/Red_Arcueid/Full_Moon)  
+[Full](melty-blood-red-arcueid-full-moon.html)  
 Légère réduction de la domination aérienne en échange de priorités
 air\>sol et sol\>air. Facile a prendre en main.
 

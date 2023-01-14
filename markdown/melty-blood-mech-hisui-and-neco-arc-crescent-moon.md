@@ -39,7 +39,7 @@ Possède les "jetpacks" qui contrôle énormément les chemins aériens. Il
 est très difficile d'approcher cette Mech-Hisui par au dessus. Son jeu
 est relativement diversifié avec en plus quelques mixups et reversals.
 
-[Half](Melty_Blood/Mech-Hisui/Half_Moon)  
+[Half](melty-blood-mech-hisui-half-moon.html)  
 Possède une panoplie de coup avec énormément de portée vers l'avant.
 Elle attaque très facilement a l'horizontale, mais peine à se couvrir
 contre des attaques verticales. Pour pallier à ça, elle peut invoquer
@@ -48,7 +48,7 @@ pour gêner les attaques verticales adverses... Il s'agit de la moon la
 plus agressive à distance, capable d'infliger de très bon dégâts de
 l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
 
-[Full](Melty_Blood/Mech-Hisui/Full_Moon)  
+[Full](melty-blood-mech-hisui-full-moon.html)  
 ...
 
 # Statistics

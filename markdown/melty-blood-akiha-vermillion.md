@@ -40,10 +40,10 @@ s'agit possiblement du personnage le plus rapide du jeu en l'air, et
 [Crescent](melty-blood-akiha-vermillion-crescent-moon.html)  
 Base son jeu sur le lifesteal
 
-[Half](Melty_Blood/Akiha_Vermillion/Half_Moon)  
+[Half](melty-blood-akiha-vermillion-half-moon.html)  
 Base son jeu sur la régénération de vie
 
-[Full](Melty_Blood/Akiha_Vermillion/Full_Moon)  
+[Full](melty-blood-akiha-vermillion-full-moon.html)  
 La plus solide des 3 moons, inflige énormément de dégâts, possède de
 bonne priorité et bouge encore mieux que les autres.
 

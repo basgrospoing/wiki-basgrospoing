@@ -38,8 +38,8 @@ en jeu de combat.
 **Hisui**
 
 [Crescent](melty-blood-hisui-crescent-moon.html)  
-[Half](Melty_Blood/Hisui/Half_Moon)  
-[Full](Melty_Blood/Hisui/Full_Moon)  
+[Half](melty-blood-hisui-half-moon.html)  
+[Full](melty-blood-hisui-full-moon.html)  
 
 # Statistics
 

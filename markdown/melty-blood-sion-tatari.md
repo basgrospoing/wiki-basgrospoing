@@ -33,8 +33,8 @@ date: "2014-01-10"
 **Sion TATARI**
 
 [Crescent](melty-blood-sion-tatari-crescent-moon.html)  
-[Half](Melty_Blood/Sion_TATARI/Half_Moon)  
-[Full](Melty_Blood/Sion_TATARI/Full_Moon)  
+[Half](melty-blood-sion-tatari-half-moon.html)  
+[Full](melty-blood-sion-tatari-full-moon.html)  
 Imma vampire
 
 # Statistics

@@ -44,7 +44,7 @@ suffisant pour poser une plante (22X).
 *Désavantages :*  
 - Demande une bonne éxécution.
 
-[Half](Melty_Blood/Kohaku/Half_Moon)  
+[Half](melty-blood-kohaku-half-moon.html)  
 **Une des deux moons à utiliser pour la majorité des matchups. Press
 plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**  
 *Avantages :*  
@@ -55,7 +55,7 @@ plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**
 *Désavantages :*  
 - Perte des plantes disponibles en C et F.
 
-[Full](Melty_Blood/Kohaku/Full_Moon)  
+[Full](melty-blood-kohaku-full-moon.html)  
 **La moon à utiliser contre les personnages utilisant des projectiles ou
 étant principalement dans les airs.**  
 *Avantages :*  

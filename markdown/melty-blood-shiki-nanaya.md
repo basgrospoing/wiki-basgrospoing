@@ -39,7 +39,7 @@ de meter.
 + Bon mixup overhead/low en press grâce au 5C.  
 + Bon mixup à l'oki.
 
-[Half](Melty_Blood/Shiki_Nanaya/Half_Moon)  
+[Half](melty-blood-shiki-nanaya-half-moon.html)  
 *Avantages :*  
 + Le meilleur neutral des 3 moons.  
 + Le meilleur press des 3 moons.  
@@ -49,7 +49,7 @@ de meter.
 - Doit dépenser 100% de meter et faire peux de dégâts pour avoir un bon
 oki.
 
-[Full](Melty_Blood/Shiki_Nanaya/Full_Moon)  
+[Full](melty-blood-shiki-nanaya-full-moon.html)  
 *Avantages :*  
 + Bon mixup à l'oki.  
 + Possède un bon dive kick.  
