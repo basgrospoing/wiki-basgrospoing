@@ -10,7 +10,7 @@ def create_folder(folder):
         os.makedirs(folder)
 
 
-## PAGE GENERATOR
+# PAGE GENERATOR
 
 cache_path = "api_cache.json"
 cache_file = open(cache_path, "r")
@@ -20,7 +20,7 @@ cache_file.close()
 
 create_folder("../markdown")
 
-htaccess = "RewriteEngine On\nCheckSpelling On\nCheckCaseOnly On\nRewriteCond %{REQUEST_FILENAME} !-d\nRewriteCond %{REQUEST_FILENAME}\.html -f\nRewriteRule ^(.*)$ $1.html\n"
+htaccess = "RewriteEngine On\nCheckSpelling On\nCheckCaseOnly On\n"
 
 for entry in cache_content:
     src = entry["src"].split("/")
@@ -42,12 +42,15 @@ for entry in cache_content:
     with open("../markdown/" + entry["permalink"] +".md", "w") as outfile:
         outfile.write(md)
 
-    srcRedirect =  'RewriteRule ^(.*)'+ entry["src"] +'(.*)$ https://wiki.basgrospoing.fr/' + entry["permalink"] + '.html [L,R=301]\n'
-    oldSrcRedirect = ""
-    if "old_src" in entry:
-        oldSrcRedirect =  'RewriteRule ^(.*)'+ entry["old_src"] +'(.*)$ https://wiki.basgrospoing.fr/' + entry["permalink"] + '.html [L,R=301]\n'
-       
-    htaccess += srcRedirect + oldSrcRedirect
+    if entry["type"] != "index":
+        srcRedirect =  'Redirect 302 /'+ entry["src"] + ' /' + entry["permalink"] + '.html\n'
+        srcRedirect2 =  'Redirect 302 /index.php/'+ entry["src"] + ' /' + entry["permalink"] + '.html\n'
+        oldSrcRedirect = ""
+        if "old_src" in entry:
+            oldSrcRedirect =  'Redirect 302 /'+ entry["old_src"] + ' /' + entry["permalink"] + '.html\n'
+            oldSrcRedirect2 =  'Redirect 302 /index.php/'+ entry["old_src"] + ' /' + entry["permalink"] + '.html\n'
+        
+        htaccess += srcRedirect + srcRedirect2 + oldSrcRedirect + oldSrcRedirect2
 
 with open("../markdown/.htaccess", "w") as outfile:
     outfile.write(htaccess)
@@ -79,5 +82,3 @@ with open("../markdown/.htaccess", "w") as outfile:
 # json_object = json.dumps(new_cache, ensure_ascii=False)
 # with open("api_cache_permalinks.json", "w") as outfile:
 #     outfile.write(json_object)
-
-
