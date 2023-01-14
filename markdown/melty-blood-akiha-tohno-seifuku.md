@@ -9,13 +9,21 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Little
-sister" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
-南)  —  **Type:**   Human, Half-Demon   —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   Sept 22   —  **Sizes:**   73 / 57 /
-79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
-Color:**   Blue  —  **Hair Color:**   Black
-\|frame\|right](/images/sakiha1.png " Name:   Akiha Tohno (遠野秋葉)  —  Nicknames:    "Little sister" <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Human, Half-Demon   —  Gender:   Female <br\><br\> Birthday:   Sept 22   —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Black |frame|right")
+- **Name:** Akiha Tohno (遠野秋葉)
+- **Nicknames:** "Little
+sister"  
+- **Voiced by:**   Hokuto Minami (北都
+南)
+- **Type:**   Human, Half-Demon 
+- **Gender:**   Female
+ - **Birthday:**   Sept 22 
+- **Sizes:**   73 / 57 /
+79
+- **Height:**   160cm
+- **Weight:**   45kg
+- **Eye Color:**   Blue
+- **Hair Color:**   Black
+
 
 # Introduction
 

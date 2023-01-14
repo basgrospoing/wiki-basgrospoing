@@ -9,13 +9,20 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Sion TATARI (シオン タタリ)  —  **Nicknames:**    -
-\<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹
-リオ)  —  **Type:**   Vampire, Magus  —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   June 1  —  **Sizes:**   86 / 55 /
-83  —  **Height:**   161cm  —  **Weight:**   48kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Purple
-\|frame\|right](/images/vsion0.png " Name:   Sion TATARI (シオン タタリ)  —  Nicknames:    - <br\><br\> Voiced by:   Natsuki Rio (夏樹 リオ)  —  Type:   Vampire, Magus  —  Gender:   Female <br\><br\> Birthday:   June 1  —  Sizes:   86 / 55 / 83  —  Height:   161cm  —  Weight:   48kg <br\><br\> Eye Color:   Red  —  Hair Color:   Purple |frame|right")
+- **Name:** Sion TATARI (シオン タタリ)
+- **Nicknames:** -
+- **Voiced by:**   Natsuki Rio (夏樹
+リオ)
+- **Type:**   Vampire, Magus
+- **Gender:**   Female
+ - **Birthday:**   June 1
+- **Sizes:**   86 / 55 /
+83
+- **Height:**   161cm
+- **Weight:**   48kg
+- **Eye Color:**   Red
+- **Hair Color:**   Purple
+
 
 # Introduction
 

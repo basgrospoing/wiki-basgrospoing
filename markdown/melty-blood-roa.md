@@ -9,13 +9,16 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン
-)  —  **Nicknames:**    Serpent of Akasha \<br\\\>\<br\\\> **Voiced
-by:**   Ken Narita (成田 剣)  —  **Type:**   Dead Apostle Ancestor
-  —  **Gender:**   Male \<br\\\>\<br\\\> **Birthday:**   Sept 29
-  —  **Height:**   178cm  —  **Weight:**   65kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Black
-\|frame\|right](/images/Roa1.png " Name:   Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン )  —  Nicknames:    Serpent of Akasha <br\><br\> Voiced by:   Ken Narita (成田 剣)  —  Type:   Dead Apostle Ancestor   —  Gender:   Male <br\><br\> Birthday:   Sept 29   —  Height:   178cm  —  Weight:   65kg <br\><br\> Eye Color:   Red  —  Hair Color:   Black |frame|right")
+- **Name:** Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン)
+- **Nicknames:** Serpent of Akasha  
+- **Voiced by:**   Ken Narita (成田 剣)
+- **Type:**   Dead Apostle Ancestor
+- **Gender:**   Male  - **Birthday:**   Sept 29
+- **Height:**   178cm
+- **Weight:**   65kg
+- **Eye Color:**   Red
+- **Hair Color:**   Black
+
 
 # Introduction
 

@@ -9,14 +9,21 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Sion Eltnam Atlasia
-(シオン・エルトナム・アトラシア)  —  **Nicknames:**    -
-\<br\\\>\<br\\\> **Voiced by:**   Natsuki Rio (夏樹
-リオ)  —  **Type:**   Vampire, Magus  —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   June 1  —  **Sizes:**   86 / 55 /
-83  —  **Height:**   161cm  —  **Weight:**   48kg \<br\\\>\<br\\\> **Eye
-Color:**   Purple  —  **Hair Color:**   Purple
-\|frame\|right](/images/sion1.png " Name:   Sion Eltnam Atlasia (シオン・エルトナム・アトラシア)  —  Nicknames:    - <br\><br\> Voiced by:   Natsuki Rio (夏樹 リオ)  —  Type:   Vampire, Magus  —  Gender:   Female <br\><br\> Birthday:   June 1  —  Sizes:   86 / 55 / 83  —  Height:   161cm  —  Weight:   48kg <br\><br\> Eye Color:   Purple  —  Hair Color:   Purple |frame|right")
+- **Name:** Sion Eltnam Atlasia
+(シオン・エルトナム・アトラシア)
+- **Nicknames:** -
+- **Voiced by:**   Natsuki Rio (夏樹
+リオ)
+- **Type:**   Vampire, Magus
+- **Gender:**   Female
+ - **Birthday:**   June 1
+- **Sizes:**   86 / 55 /
+83
+- **Height:**   161cm
+- **Weight:**   48kg
+- **Eye Color:**   Purple
+- **Hair Color:**   Purple
+
 
 # Introduction
 

@@ -9,13 +9,20 @@ tags: "character"
 date: "2014-07-23"
 ---
 
-![ **Name:**   Arima Miyako (有間 都古)  —  **Nicknames:**   China Girl
-\<br\\\>\<br\\\> **Voiced by:**   Kouzuki Miwa (倖月
-美和)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>
-**Birthday:**   May 4  —  **Sizes:**   60 / 46 /
-62  —  **Height:**   131cm  —  **Weight:**   35kg \<br\\\>\<br\\\> **Eye
-Color:**   Green  —  **Hair Color:**   Brown
-\|frame\|right](/images/Miyako0.png " Name:   Arima Miyako (有間 都古)  —  Nicknames:   China Girl <br\><br\> Voiced by:   Kouzuki Miwa (倖月 美和)  —  Type:   Human   —  Gender:   Female <br\><br\> Birthday:   May 4  —  Sizes:   60 / 46 / 62  —  Height:   131cm  —  Weight:   35kg <br\><br\> Eye Color:   Green  —  Hair Color:   Brown |frame|right")
+- **Name:** Arima Miyako (有間 都古)
+- **Nicknames:**   China Girl
+- **Voiced by:**   Kouzuki Miwa (倖月
+美和)
+- **Type:**   Human 
+- **Gender:**   Female 
+- **Birthday:**   May 4
+- **Sizes:**   60 / 46 /
+62
+- **Height:**   131cm
+- **Weight:**   35kg
+- **Eye Color:**   Green
+- **Hair Color:**   Brown
+
 
 # Introduction
 

@@ -9,14 +9,21 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Aozaki Aoko (蒼崎青子)  —  **Nicknames:**   Miss Blue,
-Magic Gunner, Witch of Destruction \<br\\\>\<br\\\> **Voiced
-by:**   Kotono Mitsuishi  —  **Type:**   Human,
-Magus  —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   July
-7  —  **Sizes:**   88 / 56 /
-84  —  **Height:**   160cm  —  **Weight:**   50kg \<br\\\>\<br\\\> **Eye
-Color:**   Blue  —  **Hair Color:**   Brown (Originally) / Red (Dyed)
-\|frame\|right](/images/Aoko0.png " Name:   Aozaki Aoko (蒼崎青子)  —  Nicknames:   Miss Blue, Magic Gunner, Witch of Destruction <br\><br\> Voiced by:   Kotono Mitsuishi  —  Type:   Human, Magus  —  Gender:   Female <br\><br\> Birthday:   July 7  —  Sizes:   88 / 56 / 84  —  Height:   160cm  —  Weight:   50kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Brown (Originally) / Red (Dyed) |frame|right")
+- **Name:** Aozaki Aoko (蒼崎青子)
+- **Nicknames:**   Miss Blue,
+Magic Gunner, Witch of Destruction  **Voiced
+by:**   Kotono Mitsuishi
+- **Type:**   Human,
+Magus
+- **Gender:**   Female  - **Birthday:**   July
+7
+- **Sizes:**   88 / 56 /
+84
+- **Height:**   160cm
+- **Weight:**   50kg
+- **Eye Color:**   Blue
+- **Hair Color:**   Brown (Originally) / Red (Dyed)
+
 
 # Introduction
 

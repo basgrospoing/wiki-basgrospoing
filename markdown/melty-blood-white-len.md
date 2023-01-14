@@ -9,14 +9,18 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   WHite Ren (白レン)  —  **Nicknames:**    <A renseigner>
-\<br\\\>\<br\\\> **Voiced by:**   Kaori Mizuhashi (水橋
-かおり)  —  **Type:**   Succubus familiar, TATARI
-  —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   Sept 9
-  —  **Sizes:**   B63 / W46 / H61  —  **Height:**   132
-cm  —  **Weight:**   33kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Light Gray
-\|frame\|right](/images/wren.png " Name:   WHite Ren (白レン)  —  Nicknames:     <br\><br\> Voiced by:   Kaori Mizuhashi (水橋 かおり)  —  Type:   Succubus familiar, TATARI   —  Gender:   Female <br\><br\> Birthday:   Sept 9   —  Sizes:   B63 / W46 / H61  —  Height:   132 cm  —  Weight:   33kg <br\><br\> Eye Color:   Red  —  Hair Color:   Light Gray |frame|right")
+- **Name:** WHite Ren (白レン)
+- **Nicknames:** <A renseigner>
+- **Voiced by:**   Kaori Mizuhashi (水橋
+かおり)
+- **Type:**   Succubus familiar, TATARI
+- **Gender:**   Female  - **Birthday:**   Sept 9
+- **Sizes:**   B63 / W46 / H61
+- **Height:**   132cm
+- **Weight:**   33kg
+- **Eye Color:**   Red
+- **Hair Color:**   Light Gray
+
 
 # Introduction
 

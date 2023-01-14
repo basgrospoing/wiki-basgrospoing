@@ -9,13 +9,21 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Akiha Vermillion (紅赤朱 秋葉)  —  **Nicknames:**    Red
-\<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
-南)  —  **Type:**   Human, Half-Demon  —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   Sept. 22  —  **Sizes:**   73 / 57 /
-79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
-Color:**   Blue  —  **Hair Color:**   Red
-\|frame\|right](/images/vakiha0.png " Name:   Akiha Vermillion (紅赤朱 秋葉)  —  Nicknames:    Red <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Human, Half-Demon  —  Gender:   Female <br\><br\> Birthday:   Sept. 22  —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Red |frame|right")
+- **Name:** Akiha Vermillion (紅赤朱 秋葉)
+- **Nicknames:** Red
+ 
+- **Voiced by:**   Hokuto Minami (北都
+南)
+- **Type:**   Human, Half-Demon
+- **Gender:**   Female
+ - **Birthday:**   Sept. 22
+- **Sizes:**   73 / 57 /
+79
+- **Height:**   160cm
+- **Weight:**   45kg
+- **Eye Color:**   Blue
+- **Hair Color:**   Red
+
 
 # Introduction
 

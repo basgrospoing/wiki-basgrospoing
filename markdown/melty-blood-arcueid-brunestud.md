@@ -9,14 +9,22 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Arcueid Brunestud (アルクェイド・ブリュ
-ンスタッド)  —  **Nicknames:**    White Princess of the Shinso, Arcade
-Bumstead \<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
-涼香)  —  **Type:**   True Ancestor   —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   Dec 25  —  **Sizes:**   88 / 55 /
-85  —  **Height:**   167cm  —  **Weight:**   52kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Blonde
-\|frame\|right](/images/arc1.png " Name:   Arcueid Brunestud (アルクェイド・ブリュ ンスタッド)  —  Nicknames:    White Princess of the Shinso, Arcade Bumstead <br\><br\> Voiced by:   Ryoka Yuzuki (柚木 涼香)  —  Type:   True Ancestor   —  Gender:   Female <br\><br\> Birthday:   Dec 25  —  Sizes:   88 / 55 / 85  —  Height:   167cm  —  Weight:   52kg <br\><br\> Eye Color:   Red  —  Hair Color:   Blonde |frame|right")
+- **Name:** Arcueid Brunestud (アルクェイド・ブリュ
+ンスタッド)
+- **Nicknames:** White Princess of the Shinso, Arcade
+Bumstead  
+- **Voiced by:**   Ryoka Yuzuki (柚木
+涼香)
+- **Type:**   True Ancestor 
+- **Gender:**   Female
+ - **Birthday:**   Dec 25
+- **Sizes:**   88 / 55 /
+85
+- **Height:**   167cm
+- **Weight:**   52kg
+- **Eye Color:**   Red
+- **Hair Color:**   Blonde
+
 
 # Introduction
 

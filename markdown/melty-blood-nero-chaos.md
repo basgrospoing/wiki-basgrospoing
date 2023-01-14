@@ -9,13 +9,20 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Nrvnqsr Chaos (ネロ・カオス)  —  **Nicknames:**   
-Professor Chaos \<br\\\>\<br\\\> **Voiced by:**   Joji Nakata (中田
-譲治)  —  **Type:**   Dead Apostle  —  **Gender:**   Male
-\<br\\\>\<br\\\> **Birthday:**   Feb
-13  —  **Height:**   188cm  —  **Weight:**   84kg \<br\\\>\<br\\\> **Eye
-Color:**   Gray  —  **Hair Color:**   Gray
-\|frame\|right](/images/Nero0.png " Name:   Nrvnqsr Chaos (ネロ・カオス)  —  Nicknames:    Professor Chaos <br\><br\> Voiced by:   Joji Nakata (中田 譲治)  —  Type:   Dead Apostle  —  Gender:   Male <br\><br\> Birthday:   Feb 13  —  Height:   188cm  —  Weight:   84kg <br\><br\> Eye Color:   Gray  —  Hair Color:   Gray |frame|right")
+- **Name:** Nrvnqsr Chaos (ネロ・カオス)
+- **Nicknames:**   
+Professor Chaos  
+- **Voiced by:**   Joji Nakata (中田
+譲治)
+- **Type:**   Dead Apostle
+- **Gender:**   Male
+ - **Birthday:**   Feb
+13
+- **Height:**   188cm
+- **Weight:**   84kg
+- **Eye Color:**   Gray
+- **Hair Color:**   Gray
+
 
 # Introduction
 

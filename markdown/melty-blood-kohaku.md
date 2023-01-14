@@ -9,15 +9,20 @@ tags: "character"
 date: "2014-07-23"
 ---
 
-![ **Name:**   Kohaku (琥珀)  —  **Nicknames:**    Magical Amber,
-Apronned Devil, Mister Chin, Thieving Cat \<br\\\>\<br\\\> **Voiced
-by:**   Takano Naoko （高野　直子）  —  **Type:**   Human Maid,
-Synchronizer   —  **Gender:**   Female \<br\\\>\<br\\\>
-**Birthday:**   March 12  —  **Sizes:**   78 / 58 /
-80  —  **Height:**   156cm  —  **Weight:**   43kg \<br\\\>\<br\\\> **Eye
-Color:**   Amber  —  **Hair Color:**   Pink
-\|frame\|right](/images/Kohaku0.png‎ " Name:   Kohaku (琥珀)  —  Nicknames:    Magical Amber, Apronned Devil, Mister Chin, Thieving Cat <br\><br\> Voiced by:   Takano Naoko （高野　直子）  —  Type:   Human Maid, Synchronizer   —  Gender:   Female <br\><br\> Birthday:   March 12  —  Sizes:   78 / 58 / 80  —  Height:   156cm  —  Weight:   43kg <br\><br\> Eye Color:   Amber  —  Hair Color:   Pink |frame|right")
-
+- **Name:** Kohaku (琥珀)
+- **Nicknames:** Magical Amber,
+Apronned Devil, Mister Chin, Thieving Cat  **Voiced
+by:**   Takano Naoko （高野　直子）
+- **Type:**   Human Maid,
+Synchronizer 
+- **Gender:**   Female 
+- **Birthday:**   March 12
+- **Sizes:**   78 / 58 /
+80
+- **Height:**   156cm
+- **Weight:**   43kg
+- **Eye Color:**   Amber
+- **Hair Color:**   Pink
 # Introduction
 
 # Histoire

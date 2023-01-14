@@ -9,13 +9,20 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Len (レン)  —  **Nicknames:**    Black Len
-\<br\\\>\<br\\\> **Voiced by:**   Mizuhashi Kaori (水橋
-かおり)  —  **Type:**    Succubus   —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   September 9  —  **Sizes:**   63 / 48 /
-61  —  **Height:**   132cm  —  **Weight:**   33kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Light Blue
-\|frame\|right](/images/len0.png " Name:   Len (レン)  —  Nicknames:    Black Len <br\><br\> Voiced by:   Mizuhashi Kaori (水橋 かおり)  —  Type:    Succubus   —  Gender:   Female <br\><br\> Birthday:   September 9  —  Sizes:   63 / 48 / 61  —  Height:   132cm  —  Weight:   33kg <br\><br\> Eye Color:   Red  —  Hair Color:   Light Blue |frame|right")
+- **Name:** Len (レン)
+- **Nicknames:** Black Len
+- **Voiced by:**   Mizuhashi Kaori (水橋
+かおり)
+- **Type:**    Succubus 
+- **Gender:**   Female
+ - **Birthday:**   September 9
+- **Sizes:**   63 / 48 /
+61
+- **Height:**   132cm
+- **Weight:**   33kg
+- **Eye Color:**   Red
+- **Hair Color:**   Light Blue
+
 
 # Introduction
 

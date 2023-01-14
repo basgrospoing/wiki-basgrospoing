@@ -9,13 +9,19 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Kouma Kishima (軋間 紅摩)  —  **Nicknames:**    Red Lion
-\<br\\\>\<br\\\> **Voiced by:**   Jurota Kosugi (小杉
-十郎太)  —  **Type:**   Crimson Red Vermillion   —  **Gender:**   Male
-\<br\\\>\<br\\\>
-**Birthday:**   Unknow  —  **Height:**   175cm  —  **Weight:**   80kg
-\<br\\\>\<br\\\> **Eye Color:**   Black  —  **Hair Color:**   Black
-\|frame\|right](/images/Kouma0.png " Name:   Kouma Kishima (軋間 紅摩)  —  Nicknames:    Red Lion <br\><br\> Voiced by:   Jurota Kosugi (小杉 十郎太)  —  Type:   Crimson Red Vermillion   —  Gender:   Male <br\><br\> Birthday:   Unknow  —  Height:   175cm  —  Weight:   80kg <br\><br\> Eye Color:   Black  —  Hair Color:   Black |frame|right")
+- **Name:** Kouma Kishima (軋間 紅摩)
+- **Nicknames:** Red Lion
+- **Voiced by:**   Jurota Kosugi (小杉
+十郎太)
+- **Type:**   Crimson Red Vermillion 
+- **Gender:**   Male
+
+- **Birthday:**   Unknow
+- **Height:**   175cm
+- **Weight:**   80kg
+ **Eye Color:**   Black
+- **Hair Color:**   Black
+
 
 # Introduction
 

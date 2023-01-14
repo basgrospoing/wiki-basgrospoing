@@ -9,13 +9,19 @@ tags: "character"
 date: "2014-07-23"
 ---
 
-![ **Nom:**   Nuit de Wallachia (ワラキアの夜)  —  **Alias:**   Zepia
-Eltnam Oberon\<br\\\>\<br\\\> **Doublé par:**   Yasunori Masutani (増谷
-康紀)  —  **Type:**   Phenomène   —  **Sexe:**   Male \<br\\\>\<br\\\>
+![ **Nom:**   Nuit de Wallachia (ワラキアの夜)
+**Alias:**   Zepia
+Eltnam Oberon 
+- **Doublé par:**   Yasunori Masutani (増谷
+康紀)
+- **Type:**   Phenomène 
+**Sexe:**   Male 
 **Date de naissance:**   30 Mai
-  —  **Taille:**   180cm  —  **Poids:**   67kg \<br\\\>\<br\\\>
-**Couleur des yeux:**   Rouge  —  **Couleur des cheveux:**   Blonds
-\|frame\|right](/images/Warachia1.png " Nom:   Nuit de Wallachia (ワラキアの夜)  —  Alias:   Zepia Eltnam Oberon<br\><br\> Doublé par:   Yasunori Masutani (増谷 康紀)  —  Type:   Phenomène   —  Sexe:   Male <br\><br\> Date de naissance:   30 Mai   —  Taille:   180cm  —  Poids:   67kg <br\><br\> Couleur des yeux:   Rouge  —  Couleur des cheveux:   Blonds |frame|right")
+**Taille:**   180cm
+**Poids:**   67kg 
+**Couleur des yeux:**   Rouge
+**Couleur des cheveux:**   Blonds
+
 
 # Introduction
 

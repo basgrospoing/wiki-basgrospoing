@@ -9,13 +9,18 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Neco Arc Chaos
-(ネコ　アルク　カオス)  —  **Nicknames:**    Pachineko \<br\\\>\<br\\\>
-**Voiced by:**   Joji Nakata (中田 譲治)  —  **Type:**    Neco
-  —  **Gender:**   Male \<br\\\>\<br\\\>
-**Birthday:**   ...  —  **Height:**   ...  —  **Weight:**   ...
-\<br\\\>\<br\\\> **Eye Color:**   ...  —  **Hair Color:**   Gray
-\|frame\|right](/images/Necochaos0.png " Name:   Neco Arc Chaos (ネコ　アルク　カオス)  —  Nicknames:    Pachineko <br\><br\> Voiced by:   Joji Nakata (中田 譲治)  —  Type:    Neco   —  Gender:   Male <br\><br\> Birthday:   ...  —  Height:   ...  —  Weight:   ... <br\><br\> Eye Color:   ...  —  Hair Color:   Gray |frame|right")
+- **Name:** Neco Arc Chaos
+(ネコ　アルク　カオス)
+- **Nicknames:** Pachineko 
+- **Voiced by:**   Joji Nakata (中田 譲治)
+- **Type:**    Neco
+- **Gender:**   Male 
+- **Birthday:**   ...
+- **Height:**   ...
+- **Weight:**   ...
+ **Eye Color:**   ...
+- **Hair Color:**   Gray
+
 
 # Introduction
 

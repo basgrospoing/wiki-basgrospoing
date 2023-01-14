@@ -9,13 +9,20 @@ tags: "character"
 date: "2014-07-23"
 ---
 
-![ **Nom :**    Red Arcueid (ワルク)  —  **Surnoms :**    Warc, Red
-Arc　 \<br\\\>\<br\\\> **Doublé par :**   Ryoka Yuzuki (柚木
-涼香)  —  **Type :**   Originel  —  **Genre :**   Femelle
-\<br\\\>\<br\\\> **Anniversaire :**   Dec 25  —  **Mensurations :**   88
-/ 55 / 85  —  **Taille :**   167cm  —  **Masse :**   52kg
-\<br\\\>\<br\\\> **Yeux :**   Or  —  **Cheveux :**   Blonde
-\|frame\|right](/images/warc0.png " Nom :    Red Arcueid (ワルク)  —  Surnoms :    Warc, Red Arc　 <br\><br\> Doublé par :   Ryoka Yuzuki (柚木 涼香)  —  Type :   Originel  —  Genre :   Femelle <br\><br\> Anniversaire :   Dec 25  —  Mensurations :   88 / 55 / 85  —  Taille :   167cm  —  Masse :   52kg <br\><br\> Yeux :   Or  —  Cheveux :   Blonde |frame|right")
+![ **Nom :**    Red Arcueid (ワルク)
+**Surnoms :**    Warc, Red
+Arc　  **Doublé par :**   Ryoka Yuzuki (柚木
+涼香)
+**Type :**   Originel
+**Genre :**   Femelle
+ **Anniversaire :**   Dec 25
+**Mensurations :**   88
+/ 55 / 85
+**Taille :**   167cm
+**Masse :**   52kg
+ **Yeux :**   Or
+**Cheveux :**   Blonde
+
 
 # Introduction
 

@@ -9,13 +9,18 @@ tags: "character"
 date: "2015-01-15"
 ---
 
-![ **Name:**   Shiki Tohno (遠野 志貴)  —  **Nicknames:**    Satsujinki
-\<br\\\>\<br\\\> **Voiced by:**   Kenji Noshima
-(野島　健児)  —  **Type:**   Human, Demon-Hunter   —  **Gender:**   Male
-\<br\\\>\<br\\\> **Birthday:**   Oct 15
-  —  **Height:**   169cm  —  **Weight:**   57kg \<br\\\>\<br\\\> **Eye
-Color:**   Black  —  **Hair Color:**   Black
-\|frame\|right](/images/Shiki2.png " Name:   Shiki Tohno (遠野 志貴)  —  Nicknames:    Satsujinki <br\><br\> Voiced by:   Kenji Noshima (野島　健児)  —  Type:   Human, Demon-Hunter   —  Gender:   Male <br\><br\> Birthday:   Oct 15   —  Height:   169cm  —  Weight:   57kg <br\><br\> Eye Color:   Black  —  Hair Color:   Black |frame|right")
+- **Name:** Shiki Tohno (遠野 志貴)
+- **Nicknames:** Satsujinki
+- **Voiced by:**   Kenji Noshima
+(野島　健児)
+- **Type:**   Human, Demon-Hunter 
+- **Gender:**   Male
+ - **Birthday:**   Oct 15
+- **Height:**   169cm
+- **Weight:**   57kg
+- **Eye Color:**   Black
+- **Hair Color:**   Black
+
 
 # Introduction
 

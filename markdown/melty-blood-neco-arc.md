@@ -9,13 +9,18 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Neco Arc (ネコ　アルク)  —  **Nicknames:**   -
-\<br\\\>\<br\\\> **Voiced by:**   Ryoka Yuzuki (柚木
-涼香)  —  **Type:**    Neco   —  **Gender:**   Female \<br\\\>\<br\\\>
-**Birthday:**   ...  —  **Height:**   ...  —  **Weight:**   ...
-\<br\\\>\<br\\\> **Eye Color:**   ...  —  **Hair Color:**   Blonde
-\|frame\|right](/images/Neco0.png " Name:   Neco Arc (ネコ　アルク)  —  Nicknames:   - <br\><br\> Voiced by:   Ryoka Yuzuki (柚木 涼香)  —  Type:    Neco   —  Gender:   Female <br\><br\> Birthday:   ...  —  Height:   ...  —  Weight:   ... <br\><br\> Eye Color:   ...  —  Hair Color:   Blonde |frame|right")
-
+- **Name:** Neco Arc (ネコ　アルク)
+- **Nicknames:**   -
+ 
+- **Voiced by:**   Ryoka Yuzuki (柚木
+涼香)
+- **Type:**    Neco 
+- **Gender:**   Female 
+- **Birthday:**   ...
+- **Height:**   ...
+- **Weight:**   ...
+ **Eye Color:**   ...
+- **Hair Color:**   Blonde
 # Introduction
 
 # Histoire

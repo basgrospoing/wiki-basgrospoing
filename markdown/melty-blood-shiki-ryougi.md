@@ -9,14 +9,20 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
-Male)  —  **Nicknames:**    "That woman" "Neko Shiki" \<br\\\>\<br\\\>
-**Voiced by:**   Maaya Sakamoto (坂本真綾)  —  **Type:**   Human, Demon
-Hunter  —  **Gender:**   Female \<br\\\>\<br\\\> **Birthday:**   October
-3rd  —  **Sizes:**   ? / ? /
-?  —  **Height:**   160cm  —  **Weight:**   47kg \<br\\\>\<br\\\> **Eye
-Color:**   Grey  —  **Hair Color:**   Brown
-\|frame\|right](/images/Ryougi0.png " Name:   Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織 Male)  —  Nicknames:    "That woman" "Neko Shiki" <br\><br\> Voiced by:   Maaya Sakamoto (坂本真綾)  —  Type:   Human, Demon Hunter  —  Gender:   Female <br\><br\> Birthday:   October 3rd  —  Sizes:   ? / ? / ?  —  Height:   160cm  —  Weight:   47kg <br\><br\> Eye Color:   Grey  —  Hair Color:   Brown |frame|right")
+- **Name:** Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
+Male)
+- **Nicknames:** "That woman" "Neko Shiki" 
+- **Voiced by:**   Maaya Sakamoto (坂本真綾)
+- **Type:**   Human, Demon
+Hunter
+- **Gender:**   Female  - **Birthday:**   October
+3rd
+- **Sizes:**   ? / ? / ?
+- **Height:**   160cm
+- **Weight:**   47kg
+- **Eye Color:**   Grey
+- **Hair Color:**   Brown
+
 
 # Introduction
 

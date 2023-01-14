@@ -9,13 +9,21 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Akiha Tohno (遠野秋葉)  —  **Nicknames:**    "Petite
-Soeur" \<br\\\>\<br\\\> **Voiced by:**   Hokuto Minami (北都
-南)  —  **Type:**   Humain, Demi-Démon   —  **Gender:**   Féminin
-\<br\\\>\<br\\\> **Birthday:**   22 Sept   —  **Sizes:**   73 / 57 /
-79  —  **Height:**   160cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
-Color:**   Bleus  —  **Hair Color:**   Noir
-\|frame\|right](/images/Akiha0.png " Name:   Akiha Tohno (遠野秋葉)  —  Nicknames:    "Petite Soeur" <br\><br\> Voiced by:   Hokuto Minami (北都 南)  —  Type:   Humain, Demi-Démon   —  Gender:   Féminin <br\><br\> Birthday:   22 Sept   —  Sizes:   73 / 57 / 79  —  Height:   160cm  —  Weight:   45kg <br\><br\> Eye Color:   Bleus  —  Hair Color:   Noir |frame|right")
+- **Name:** Akiha Tohno (遠野秋葉)
+- **Nicknames:** "Petite
+Soeur"  
+- **Voiced by:**   Hokuto Minami (北都
+南)
+- **Type:**   Humain, Demi-Démon 
+- **Gender:**   Féminin
+ - **Birthday:**   22 Sept 
+- **Sizes:**   73 / 57 /
+79
+- **Height:**   160cm
+- **Weight:**   45kg
+- **Eye Color:**   Bleus
+- **Hair Color:**   Noir
+
 
 # Introduction
 

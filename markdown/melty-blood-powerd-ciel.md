@@ -9,13 +9,21 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![ **Name:**   Powerd Ciel (完全武装シエル)  —  **Nicknames:**    "Powrd
-Curry" \<br\\\>\<br\\\> **Voiced by:**   Kumi Sakuma (佐久間
-紅美)  —  **Type:**   Human   —  **Gender:**   Female \<br\\\>\<br\\\>
-**Birthday:**   May 3   —  **Sizes:**   85 / 56 /
-88  —  **Height:**   165cm  —  **Weight:**   52kg \<br\\\>\<br\\\> **Eye
-Color:**   Blue  —  **Hair Color:**   Dark Blue
-\|frame\|right](/images/pciel.png " Name:   Powerd Ciel (完全武装シエル)  —  Nicknames:    "Powrd Curry" <br\><br\> Voiced by:   Kumi Sakuma (佐久間 紅美)  —  Type:   Human   —  Gender:   Female <br\><br\> Birthday:   May 3   —  Sizes:   85 / 56 / 88  —  Height:   165cm  —  Weight:   52kg <br\><br\> Eye Color:   Blue  —  Hair Color:   Dark Blue |frame|right")
+- **Name:** Powerd Ciel (完全武装シエル)
+- **Nicknames:** "Powrd
+Curry"  
+- **Voiced by:**   Kumi Sakuma (佐久間
+紅美)
+- **Type:**   Human 
+- **Gender:**   Female 
+- **Birthday:**   May 3 
+- **Sizes:**   85 / 56 /
+88
+- **Height:**   165cm
+- **Weight:**   52kg
+- **Eye Color:**   Blue
+- **Hair Color:**   Dark Blue
+
 
 # Introduction
 

@@ -9,14 +9,19 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Mech-Hisui (メカヒスイ)  —  **Nicknames:**    -
-\<br\\\>\<br\\\> **Voiced by:**   Miyu Matsuki
-(松来未祐)  —  **Type:**   Robot   —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**   ?  —  **Sizes:**   ? / ? /
-?  —  **Height:**   ?cm  —  **Weight:**   ?kg \<br\\\>\<br\\\> **Eye
-Color:**   Grey  —  **Hair Color:**   Purple
-\|frame\|right](/images/Mhisui0.png " Name:   Mech-Hisui (メカヒスイ)  —  Nicknames:    - <br\><br\> Voiced by:   Miyu Matsuki (松来未祐)  —  Type:   Robot   —  Gender:   Female <br\><br\> Birthday:   ?  —  Sizes:   ? / ? / ?  —  Height:   ?cm  —  Weight:   ?kg <br\><br\> Eye Color:   Grey  —  Hair Color:   Purple |frame|right")
-
+- **Name:** Mech-Hisui (メカヒスイ)
+- **Nicknames:** -
+- **Voiced by:**   Miyu Matsuki
+(松来未祐)
+- **Type:**   Robot 
+- **Gender:**   Female
+ - **Birthday:**   ?
+- **Sizes:**   ? / ? /
+?
+- **Height:**   ?cm
+- **Weight:**   ?kg
+- **Eye Color:**   Grey
+- **Hair Color:**   Purple
 # Introduction
 
 Le personnage de campe du jeu. Elle possède une variété de projectiles

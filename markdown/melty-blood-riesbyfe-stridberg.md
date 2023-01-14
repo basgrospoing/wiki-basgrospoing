@@ -9,14 +9,21 @@ tags: "character"
 date: "2014-04-29"
 ---
 
-![ **Name:**   Riesbyfe Stridberg
-(リーズバイフェ・ストリンドヴァリ)  —  **Nicknames:**    Maiden of the
-Holy Shield \<br\\\>\<br\\\> **Voiced by:**   Watanabe Akeno (渡辺
-明乃)  —  **Type:**   Human, Knight  —  **Gender:**   Female
-\<br\\\>\<br\\\> **Birthday:**    ?   —  **Sizes:**    ? / ? / ?
-  —  **Height:**   171cm  —  **Weight:**    ? \<br\\\>\<br\\\> **Eye
-Color:**   Silver  —  **Hair Color:**   Silver
-\|frame\|right](/images/Ries.gif " Name:   Riesbyfe Stridberg (リーズバイフェ・ストリンドヴァリ)  —  Nicknames:    Maiden of the Holy Shield <br\><br\> Voiced by:   Watanabe Akeno (渡辺 明乃)  —  Type:   Human, Knight  —  Gender:   Female <br\><br\> Birthday:    ?   —  Sizes:    ? / ? / ?   —  Height:   171cm  —  Weight:    ? <br\><br\> Eye Color:   Silver  —  Hair Color:   Silver |frame|right")
+- **Name:** Riesbyfe Stridberg
+(リーズバイフェ・ストリンドヴァリ)
+- **Nicknames:** Maiden of the
+Holy Shield  
+- **Voiced by:**   Watanabe Akeno (渡辺
+明乃)
+- **Type:**   Human, Knight
+- **Gender:**   Female
+ - **Birthday:**    ? 
+- **Sizes:**    ? / ? / ?
+- **Height:**   171cm
+- **Weight:**    ?
+- **Eye Color:**   Silver
+- **Hair Color:**   Silver
+
 
 # Introduction
 

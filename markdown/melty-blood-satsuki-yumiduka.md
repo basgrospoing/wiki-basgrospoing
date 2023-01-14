@@ -9,17 +9,17 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-\[\[Image:/images/Satsuki0.png\| **Name:**   Satsuki Yumiduka (弓塚
-さつき)  —  **Nicknames:**    Sacchin \<br\\\>\<br\\\> **Voiced
-by:**   Omi Minami (南 央美)  —  **Type:**    Dead Apostle
-
-`  —  `**`Gender:`**`   Female`
-
-\<br\\\>\<br\\\> **Birthday:**   Aug 15  —  **Sizes:**   79 / 59 /
-82  —  **Height:**   161cm  —  **Weight:**   45kg \<br\\\>\<br\\\> **Eye
-Color:**   Red  —  **Hair Color:**   Brown \|frame\|right\]\]
-
-# Introduction
+[](/images/Satsuki0.png)  - **Name:** Satsuki Yumiduka (弓塚さつき)
+- **Nicknames:** Sacchin  
+- **Voiced by:**   Omi Minami (南 央美)
+- **Type:**    Dead Apostle
+- **Gender:**  Female
+- **Birthday:**   Aug 15
+- **Sizes:**   79 / 59 / 82
+- **Height:**   161cm
+- **Weight:**   45kg
+- **Eye Color:**   Red
+- **Hair Color:**   Brown # Introduction
 
 # Histoire
 
