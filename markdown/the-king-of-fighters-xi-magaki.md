@@ -12,7 +12,6 @@ old_id: 950
 ---
 
 ![](/images/kofxi-magaki1.jpg "/images/kofxi-magaki1.jpg")
-\[\[Image:/images/kofxi-magaki2.jpg
 
 ## Introduction
 
