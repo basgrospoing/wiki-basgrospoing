@@ -11,11 +11,7 @@ redirect: "Kofxi"
 old_id: 896
 ---
 
-<figure>
-<img src="/images/kofxi-logo.jpg" title="/images/kofxi-logo.jpg"
-width="500" alt="/images/kofxi-logo.jpg" />
-<figcaption aria-hidden="true">/images/kofxi-logo.jpg</figcaption>
-</figure>
+![](images/kofxi-logo.jpg)
 
 ## Système de jeux
 
