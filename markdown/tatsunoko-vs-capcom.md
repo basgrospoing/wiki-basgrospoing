@@ -2,7 +2,7 @@
 title: "Tatsunoko vs Capcom"
 slug:  "Tatsunoko_vs_Capcom"
 id: 382
-author: "Admin"
+author: "Dan Sakazaki"
 permalink: "tatsunoko-vs-capcom.html"
 layout: "game.njk"
 tags: "game"

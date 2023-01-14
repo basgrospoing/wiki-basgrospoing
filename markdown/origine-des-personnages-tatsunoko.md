@@ -2,7 +2,7 @@
 title: "Origine des Personnages (Tatsunoko)"
 slug:  "Origine_des_Personnages_(Tatsunoko)"
 id: 2767
-author: "Admin"
+author: "Dan Sakazaki"
 permalink: "origine-des-personnages-tatsunoko.html"
 layout: "character.njk"
 tags: "character"

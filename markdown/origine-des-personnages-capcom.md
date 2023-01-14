@@ -2,7 +2,7 @@
 title: "Origine des Personnages (Capcom)"
 slug:  "Origine_des_Personnages_(Capcom)"
 id: 2768
-author: "Admin"
+author: "Dan Sakazaki"
 permalink: "origine-des-personnages-capcom.html"
 layout: "character.njk"
 tags: "character"
