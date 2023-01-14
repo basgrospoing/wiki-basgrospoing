@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Zero
 
-![](/images/Umvc3_zero_face.jpg‎ "/images/Umvc3_zero_face.jpg‎") Zero is a
+![](/images/Umvc3_zero_face.jpg "/images/Umvc3_zero_face.jpg") Zero is a
 Maverick Hunter from the future, tasked with hunting down rebel robots
 and defending those around him. Armed with his Z-Saber and Buster arm,
 he is renowned as one of the finest robot soldiers ever produced.

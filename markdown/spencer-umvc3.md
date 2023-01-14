@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Spencer
 
-![](/images/Umvc3_spencer_face.jpg‎ "/images/Umvc3_spencer_face.jpg‎") N/A
+![](/images/Umvc3_spencer_face.jpg "/images/Umvc3_spencer_face.jpg") N/A
 
 **In a nutshell** Spencer is one of the few "viable" characters in
 UMvC3. He is a fantastic anchor with great hypers, great DHC potential,

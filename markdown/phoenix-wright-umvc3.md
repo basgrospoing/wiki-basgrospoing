@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Phoenix Wright
 
-![](/images/Umvc3_phoenixwright_face.jpg‎ "/images/Umvc3_phoenixwright_face.jpg‎")
+![](/images/Umvc3_phoenixwright_face.jpg "/images/Umvc3_phoenixwright_face.jpg")
 The head of the Wright & Co. Law Offices, which formerly belonged to his
 long-time mentor Mia Fey (now deceased), Phoenix Wright is perhaps best
 known for his immense amount of luck and determination. Nick is willing

@@ -13,7 +13,7 @@ date: "2014-05-06"
 
 ## Crimson Viper
 
-![](/images/Umvc3_viper_face.jpg‎ "/images/Umvc3_viper_face.jpg‎") The
+![](/images/Umvc3_viper_face.jpg "/images/Umvc3_viper_face.jpg") The
 woman codenamed Crimson Viper is a secret agent working for the C.I.A.
 Her latest assignment from her superiors was to infiltrate the S.I.N.
 organization headed by Seth in order to gather information on the BLECE

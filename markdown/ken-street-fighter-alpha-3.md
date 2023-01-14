@@ -45,7 +45,7 @@ alt="/images/SFA3_Ken.jpg" />
 ## Hitbox des normaux
 
 ![](/images/Hitbox_Ken2.PNG "/images/Hitbox_Ken2.PNG")
-![](/images/Hitbox_Ken3.PNG‎ "/images/Hitbox_Ken3.PNG‎")
+![](/images/Hitbox_Ken3.PNG "/images/Hitbox_Ken3.PNG")
 
 ### Hitbox des Command Moves
 

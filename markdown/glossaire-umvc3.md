@@ -9,7 +9,7 @@ tags: "character"
 date: "2014-05-10"
 ---
 
-![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
+![](/images/Umvc3logo.png "/images/Umvc3logo.png")
 
 **EN TRAVAUX**
 

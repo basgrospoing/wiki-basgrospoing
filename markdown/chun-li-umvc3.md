@@ -13,7 +13,7 @@ date: "2014-05-07"
 
 ## Chun Li
 
-![](/images/Umvc3_chunli_face.jpg‎ "/images/Umvc3_chunli_face.jpg‎") TBW
+![](/images/Umvc3_chunli_face.jpg "/images/Umvc3_chunli_face.jpg") TBW
 
 **In a nutshell** TBW
 

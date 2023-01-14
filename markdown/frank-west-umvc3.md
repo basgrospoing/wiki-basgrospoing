@@ -13,7 +13,7 @@ date: "2014-05-07"
 
 ## Frank West
 
-![](/images/Umvc3_frankwest_face.jpg‎ "/images/Umvc3_frankwest_face.jpg‎")
+![](/images/Umvc3_frankwest_face.jpg "/images/Umvc3_frankwest_face.jpg")
 TBW
 
 **In a nutshell** Frank West is a unique character that was built for

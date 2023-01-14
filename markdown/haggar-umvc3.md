@@ -13,7 +13,7 @@ date: "2014-05-07"
 
 ## Haggar
 
-![](/images/Umvc3_haggar_face.jpg‎ "/images/Umvc3_haggar_face.jpg‎") Mike
+![](/images/Umvc3_haggar_face.jpg "/images/Umvc3_haggar_face.jpg") Mike
 Haggar, one time professional wrestler and Mayor of Metro City, took up
 his wrestling mantle once more to keep the streets of his fair city
 clean and to save his kidnapped daughter, Jessica. Now known as the

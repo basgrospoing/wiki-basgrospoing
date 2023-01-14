@@ -9,7 +9,7 @@ tags: "game"
 date: "2014-05-06"
 ---
 
-![](/images/Umvc3logo.png‎ "/images/Umvc3logo.png‎")
+![](/images/Umvc3logo.png "/images/Umvc3logo.png")
 
 ## Introduction
 

@@ -13,7 +13,7 @@ date: "2014-05-07"
 
 ## Firebrand
 
-![](/images/Umvc3_firebrand_face.jpg‎ "/images/Umvc3_firebrand_face.jpg‎")
+![](/images/Umvc3_firebrand_face.jpg "/images/Umvc3_firebrand_face.jpg")
 TBW
 
 **In a nutshell** Firebrand uses flight mixups and projectiles to open

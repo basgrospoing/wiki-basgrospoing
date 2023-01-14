@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Vergil
 
-![](/images/Umvc3_vergil_face.jpg‎ "/images/Umvc3_vergil_face.jpg‎") The
+![](/images/Umvc3_vergil_face.jpg "/images/Umvc3_vergil_face.jpg") The
 second Son of Sparda, and Dante's older twin brother who was thought to
 be dead by him but in reality was merely separated after their mother's
 murder. Unlike Dante, who is cocky, hot-blooded, and carefree, Vergil is

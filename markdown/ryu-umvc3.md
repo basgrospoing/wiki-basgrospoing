@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Ryu
 
-![](/images/Umvc3_ryu_face.jpg‎ "/images/Umvc3_ryu_face.jpg‎") Ryu trained
+![](/images/Umvc3_ryu_face.jpg "/images/Umvc3_ryu_face.jpg") Ryu trained
 for years with his friend Ken under the Shotokan master Gouken. As the
 champion of the first Street Fighter tournament, defeating the Muay Thai
 king Sagat, Ryu is known as one of the most dedicated fighters. Since

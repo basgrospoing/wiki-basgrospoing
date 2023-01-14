@@ -13,7 +13,7 @@ date: "2014-05-06"
 
 ## Amaterasu
 
-![](/images/Umvc3_amaterasu_face.jpg‎ "/images/Umvc3_amaterasu_face.jpg‎")
+![](/images/Umvc3_amaterasu_face.jpg "/images/Umvc3_amaterasu_face.jpg")
 Amaterasu, the sun goddess, lost her physical form defeating the True
 Orochi. 100 years later she was resurrected in the form of a wolf who
 now uses her powers to restore beauty to the islands of Japan.

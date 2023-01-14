@@ -45,7 +45,7 @@ width="150" alt="/images/Sfa3-ryu1.jpg" />
 ## Hitbox des normaux
 
 ![](/images/Hitbox_Ryu.PNG "/images/Hitbox_Ryu.PNG")
-![](/images/Hitbox_Ryu2.PNG‎ "/images/Hitbox_Ryu2.PNG‎") === Hitbox des
+![](/images/Hitbox_Ryu2.PNG "/images/Hitbox_Ryu2.PNG") === Hitbox des
 Command Moves === ![](/images/Hitbox_Ryu3.PNG "/images/Hitbox_Ryu3.PNG")
 
 ## Versus

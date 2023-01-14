@@ -111,19 +111,19 @@ versions Orochi Kevin Ryan
 
 ### Rock Howard
 
-![](/images/Rock.png‎ "/images/Rock.png‎")
+![](/images/Rock.png "/images/Rock.png")
 
 ### Kim Donw Hwan
 
-![](/images/Donghwan.png‎ "/images/Donghwan.png‎")
+![](/images/Donghwan.png "/images/Donghwan.png")
 
 ### Hotaru Futaba
 
-![](/images/Hotaru.png‎ "/images/Hotaru.png‎")
+![](/images/Hotaru.png "/images/Hotaru.png")
 
 ### Marco Rodriguez
 
-![](/images/Khushnood.png‎ "/images/Khushnood.png‎")
+![](/images/Khushnood.png "/images/Khushnood.png")
 
 ### Hokutomaru
 
@@ -131,31 +131,31 @@ versions Orochi Kevin Ryan
 
 ### Kevin
 
-![](/images/Kevin.png‎ "/images/Kevin.png‎")
+![](/images/Kevin.png "/images/Kevin.png")
 
 ### Freeman
 
-![](/images/Freeman.png‎ "/images/Freeman.png‎")
+![](/images/Freeman.png "/images/Freeman.png")
 
 ### Tizoc
 
-![](/images/Tizoc.png‎ "/images/Tizoc.png‎")
+![](/images/Tizoc.png "/images/Tizoc.png")
 
 ### B.Jenet
 
-![](/images/Bjenet.png‎ "/images/Bjenet.png‎")
+![](/images/Bjenet.png "/images/Bjenet.png")
 
 ### Gato
 
-![](/images/Gato.png‎ "/images/Gato.png‎")
+![](/images/Gato.png "/images/Gato.png")
 
 ### Jaehoon
 
-![](/images/Jaehoon.png‎ "/images/Jaehoon.png‎")
+![](/images/Jaehoon.png "/images/Jaehoon.png")
 
 ### Terry Bogard
 
-![](/images/Garou-terry.png‎ "/images/Garou-terry.png‎")
+![](/images/Garou-terry.png "/images/Garou-terry.png")
 
 ### Grant
 
@@ -163,7 +163,7 @@ versions Orochi Kevin Ryan
 
 ### Kain.R.Heilein
 
-![](/images/Kain.png‎ "/images/Kain.png‎")
+![](/images/Kain.png "/images/Kain.png")
 
 ## Divers
 

@@ -350,57 +350,57 @@ propriété d'Armure, utilisée pour la Focus Attack et les contres.
 <tr>
 <td width=50% valign=top>
 
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Abel](Abel_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Adon](Adon_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Akuma](Akuma_(SSFIV) "wikilink")
-- ![](/images/40%.gif‎ "/images/40%.gif‎")[Balrog
+- ![](/images/20%.gif "/images/20%.gif")[Abel](Abel_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Adon](Adon_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Akuma](Akuma_(SSFIV) "wikilink")
+- ![](/images/40%.gif "/images/40%.gif")[Balrog
   (Boxer)](Balrog_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Blanka](Blanka_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Cammy](Cammy_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Chun-Li](Chun-Li_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Cody](Cody_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[C.Viper](C._Viper_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Dan](Dan_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Deejay](Deejay_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Dhalsim](Dhalsim_(SSFIV) "wikilink")
-- ![](/images/40%.gif‎ "/images/40%.gif‎")[Dudley](Dudley_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[E.Honda](E._Honda_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[El
+- ![](/images/20%.gif "/images/20%.gif")[Blanka](Blanka_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Cammy](Cammy_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Chun-Li](Chun-Li_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Cody](Cody_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[C.Viper](C._Viper_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Dan](Dan_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Deejay](Deejay_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Dhalsim](Dhalsim_(SSFIV) "wikilink")
+- ![](/images/40%.gif "/images/40%.gif")[Dudley](Dudley_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[E.Honda](E._Honda_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[El
   Fuerte](El_Fuerte_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Evil
+- ![](/images/20%.gif "/images/20%.gif")[Evil
   Ryu](Evil_Ryu_(SSFIV) "wikilink") (**AE**)
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Fei
+- ![](/images/20%.gif "/images/20%.gif")[Fei
   Long](Fei_Long_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Gen](Gen_(SSFIV) "wikilink")
-- ![](/images/50%.gif‎ "/images/50%.gif‎")[Gouken](Gouken_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Gen](Gen_(SSFIV) "wikilink")
+- ![](/images/50%.gif "/images/50%.gif")[Gouken](Gouken_(SSFIV) "wikilink")
 
 </td>
 <td width=50% valign=top>
 
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Guile](Guile_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Guy](Guy_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Hakan](Hakan_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Ibuki](Ibuki_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Juri](Juri_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Ken](Ken_(SSFIV) "wikilink")
-- ![](/images/40%.gif‎ "/images/40%.gif‎")[Makoto](Makoto_(SSFIV) "wikilink")
-- ![](/images/40%.gif‎ "/images/40%.gif‎")[M.Bison
+- ![](/images/20%.gif "/images/20%.gif")[Guile](Guile_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Guy](Guy_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Hakan](Hakan_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Ibuki](Ibuki_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Juri](Juri_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Ken](Ken_(SSFIV) "wikilink")
+- ![](/images/40%.gif "/images/40%.gif")[Makoto](Makoto_(SSFIV) "wikilink")
+- ![](/images/40%.gif "/images/40%.gif")[M.Bison
   (Dictator)](M._Bison_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Oni](Oni_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Oni](Oni_(SSFIV) "wikilink")
   (**AE**)
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Rose](Rose_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Rufus](Rufus_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Ryu](Ryu_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Sagat](Sagat_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Sakura](Sakura_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Seth](Seth_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[T.Hawk](T._Hawk_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Vega
+- ![](/images/20%.gif "/images/20%.gif")[Rose](Rose_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Rufus](Rufus_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Ryu](Ryu_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Sagat](Sagat_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Sakura](Sakura_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Seth](Seth_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[T.Hawk](T._Hawk_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Vega
   (Claw)](Vega_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Zangief](Zangief_(SSFIV) "wikilink")
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Yang](Yang_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Zangief](Zangief_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Yang](Yang_(SSFIV) "wikilink")
   **(AE)**
-- ![](/images/20%.gif‎ "/images/20%.gif‎")[Yun](Yun_(SSFIV) "wikilink")
+- ![](/images/20%.gif "/images/20%.gif")[Yun](Yun_(SSFIV) "wikilink")
   **(AE)**
 
 N.B. : changez les pourcentages avec les différents noms des gifs

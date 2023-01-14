@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Strider
 
-![](/images/Umvc3_strider_face.jpg‎ "/images/Umvc3_strider_face.jpg‎") TBW
+![](/images/Umvc3_strider_face.jpg "/images/Umvc3_strider_face.jpg") TBW
 
 **In a nutshell** The fans asked for him, and he's back! Everyones
 favorite future ninja, Strider Hiryu, is almost exactly how you remember

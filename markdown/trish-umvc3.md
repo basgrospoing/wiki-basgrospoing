@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Trish
 
-![](/images/Umvc3_trish_face.jpg‎ "/images/Umvc3_trish_face.jpg‎") TBW
+![](/images/Umvc3_trish_face.jpg "/images/Umvc3_trish_face.jpg") TBW
 
 **In a nutshell** A wide array of projectiles and traps and amazing air
 mobility makes her a rather unique character. Although her strengths

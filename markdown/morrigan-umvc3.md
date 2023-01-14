@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Morrigan
 
-![](/images/Umvc3_morrigan_face.jpg‎ "/images/Umvc3_morrigan_face.jpg‎")
+![](/images/Umvc3_morrigan_face.jpg "/images/Umvc3_morrigan_face.jpg")
 TBW
 
 **In a nutshell** TBW

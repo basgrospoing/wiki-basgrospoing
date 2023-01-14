@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Viewtiful Joe
 
-![](/images/Umvc3_vjoe_face.jpg‎ "/images/Umvc3_vjoe_face.jpg‎") TBW
+![](/images/Umvc3_vjoe_face.jpg "/images/Umvc3_vjoe_face.jpg") TBW
 
 **In a nutshell** TBW
 

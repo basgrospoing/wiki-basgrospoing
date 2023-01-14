@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Nemesis
 
-![](/images/Umvc3_nemesis_face.jpg‎ "/images/Umvc3_nemesis_face.jpg‎") The
+![](/images/Umvc3_nemesis_face.jpg "/images/Umvc3_nemesis_face.jpg") The
 Nemesis T-Type is perhaps the greatest horror created by the Umbrella
 Corporation. The product of an unholy fusion of a Tyrant and the G-Virus
 parasite developed by William Birkin, it retains enough intelligence to

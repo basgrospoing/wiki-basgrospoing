@@ -13,7 +13,7 @@ date: "2014-05-06"
 
 ## Chris
 
-![](/images/Umvc3_chris_face.jpg‎ "/images/Umvc3_chris_face.jpg‎") As a
+![](/images/Umvc3_chris_face.jpg "/images/Umvc3_chris_face.jpg") As a
 member of Special Tactics And Rescue Service (S.T.A.R.S.) Chris Redfield
 was one of the first on the scene to investigate the strange occurrences
 in and around Raccoon City and continued on through the destruction of

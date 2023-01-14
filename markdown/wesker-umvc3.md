@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Wesker
 
-![](/images/Umvc3_wesker_face.jpg‎ "/images/Umvc3_wesker_face.jpg‎")
+![](/images/Umvc3_wesker_face.jpg "/images/Umvc3_wesker_face.jpg")
 Albert Wesker was one of the Umbrella Corporation's top scientists and
 executives, who had been stationed through connections as the leader of
 the S.T.A.R.S Alpha Team to save face in public. When his "team" was

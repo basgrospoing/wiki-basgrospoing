@@ -13,7 +13,7 @@ date: "2014-05-07"
 
 ## Dante
 
-![](/images/Umvc3_dante_face.jpg‎ "/images/Umvc3_dante_face.jpg‎") TBW
+![](/images/Umvc3_dante_face.jpg "/images/Umvc3_dante_face.jpg") TBW
 
 **In a nutshell** TBW
 

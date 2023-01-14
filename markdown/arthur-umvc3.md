@@ -13,7 +13,7 @@ date: "2014-05-06"
 
 ## Arthur
 
-![](/images/Umvc3_arthur_face.jpg‎ "/images/Umvc3_arthur_face.jpg‎") The
+![](/images/Umvc3_arthur_face.jpg "/images/Umvc3_arthur_face.jpg") The
 Knight Arthur, noble and strong, had spent many years in service of the
 king. He had won the heart of the kingdom, the people, and most of all
 he had won the heart of the king's daughter, Princess Prin-Prin. Terror

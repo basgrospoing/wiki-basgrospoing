@@ -13,7 +13,7 @@ date: "2014-05-10"
 
 ## Tron Bonne
 
-![](/images/Umvc3_tron_face.jpg‎ "/images/Umvc3_tron_face.jpg‎") TBW
+![](/images/Umvc3_tron_face.jpg "/images/Umvc3_tron_face.jpg") TBW
 
 **In a nutshell** TBW
 

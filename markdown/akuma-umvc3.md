@@ -13,7 +13,7 @@ date: "2014-05-09"
 
 ## Akuma
 
-![](/images/Umvc3_akuma_face.jpg‎ "/images/Umvc3_akuma_face.jpg‎") The
+![](/images/Umvc3_akuma_face.jpg "/images/Umvc3_akuma_face.jpg") The
 "Master of the Fist" trained with his brother Gouken. In time Akuma
 would kill Gouken and work to persuade Gouken's pupil, Ryu, to be
 seduced by the Satsui no Hadou. Akuma is very secretive and constantly
@@ -70,9 +70,9 @@ Justin Wong, SumBrwnKid, Knives, ChrisG
 <tr class="even">
 <td><p><img src="/images/Alpha.png" title="/images/Alpha.png"
 alt="/images/Alpha.png" /> Gohadoken L</p></td>
-<td><p><img src="/images/Shot.png‎" title="/images/Shot.png‎"
-alt="/images/Shot.png‎" /> <img src="/images/Front.png‎"
-title="/images/Front.png‎" alt="/images/Front.png‎" /></p></td>
+<td><p><img src="/images/Shot.png" title="/images/Shot.png"
+alt="/images/Shot.png" /> <img src="/images/Front.png"
+title="/images/Front.png" alt="/images/Front.png" /></p></td>
 <td><p>90 000</p></td>
 <td><figure>
 <img src="/images/proj.png" title="/images/proj.png"
@@ -88,8 +88,8 @@ alt="/images/Humvc3.png" /> for Ungyo</p></td>
 <td><p><img src="/images/Beta.png" title="/images/Beta.png"
 alt="/images/Beta.png" /> Tatsumaki Zankukyaku</p></td>
 <td><p><img src="/images/Direct.png" title="/images/Direct.png"
-alt="/images/Direct.png" /> <img src="/images/Front.png‎"
-title="/images/Front.png‎" alt="/images/Front.png‎" /></p></td>
+alt="/images/Direct.png" /> <img src="/images/Front.png"
+title="/images/Front.png" alt="/images/Front.png" /></p></td>
 <td><p>40 000 X 2<br />
 + 70 000<br />
 (132 600)</p></td>
@@ -102,8 +102,8 @@ title="/images/strk.png" alt="/images/strk.png" /></p></td>
 <td><p><img src="/images/Gamma.png" title="/images/Gamma.png"
 alt="/images/Gamma.png" /> Hyakki Gojin</p></td>
 <td><p><img src="/images/Direct.png" title="/images/Direct.png"
-alt="/images/Direct.png" /> <img src="/images/Tiltdown.png‎"
-title="/images/Tiltdown.png‎" alt="/images/Tiltdown.png‎" /></p></td>
+alt="/images/Direct.png" /> <img src="/images/Tiltdown.png"
+title="/images/Tiltdown.png" alt="/images/Tiltdown.png" /></p></td>
 <td><p>90 000</p></td>
 <td><p><img src="/images/high.png" title="/images/high.png"
 alt="/images/high.png" /><img src="/images/otg.png"
