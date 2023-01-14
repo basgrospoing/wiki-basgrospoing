@@ -71,7 +71,9 @@
         </h1>
         {{ content | safe }}
          <footer>
-        Initially last edited: {{ date }} by {{ author }}.
+         <p><a href="https://github.com/Thomasorus/wiki-basgrospoing/blob/main/markdown/{{ title | slugify }}.md" >Modifier cette page</a></p>
+          <p>L’intégralité du contenu du wiki, ainsi que son code source, sont libres de droit et peuvent être réutilisées sans autorisation préalable.</p>
+          <small>Contribution originale : {{ date }} by {{ author }}.</small>
       </footer>
       </article>
     </main>
