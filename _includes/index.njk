@@ -69,6 +69,9 @@
       <article>
         <h1>{{ title }}
         </h1>
+        <p>
+          <img src="https://basgrospoing.fr/assets/images/logo-pink.svg" alt="Logo Bas Gros Poing" style="max-width:280px;">
+          </p>
         {{ content | safe }}
         <h2>Les jeux</h2>
         <ul>
@@ -86,31 +89,6 @@
             </li>
           {%- endfor -%}
         </ul>
-        {# <pre>
-          [
-          {%- for character in collections.character -%}
-            {
-              "slug": "{{ character.data.slug }}",
-              "old": "{{ character.data.redirect }}",
-              "slugify": "{{character.data.slug | slugify }}"
-            },
-          {%- endfor -%}
-           {%- for game in collections.game -%}
-            {
-              "slug": "{{ game.data.slug }}",
-              "old": "{{ game.data.redirect }}",
-              "slugify": "{{game.data.slug | slugify }}"
-            },
-          {%- endfor -%}
-          {%- for other in collections.other -%}
-            {
-              "slug": "{{ other.data.slug }}",
-              "old": "{{ other.data.redirect }}",
-              "slugify": "{{other.data.slug | slugify }}"
-            },
-          {%- endfor -%}
-          ]
-          </pre> #}
          <footer>
           <p><a href="https://github.com/Thomasorus/wiki-basgrospoing/blob/main/markdown/index.md" >Modifier cette page</a></p>
           <p>L’intégralité du contenu du wiki, ainsi que son code source, sont libres de droit et peuvent être réutilisées sans autorisation préalable.</p>
