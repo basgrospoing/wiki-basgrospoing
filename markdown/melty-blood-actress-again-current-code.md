@@ -9,15 +9,16 @@ tags: "game"
 date: "2012-07-24"
 ---
 
-[](/images/Mbcc.jpg\|
+[](/images/Mbcc.jpg)
 
-**Le site officiel:** [Ici](http://meltyblood.info/)  **Le site
-du développeur:** [Ecole](http://www.e56.info/mbaaps2/index.html)
- **Le Chan officiel:**
-[irc.mizuumi.net](http://widget.mibbit.com/?settings=b0c80f1a2b7c9987a0cb0742240f9110&server=irc.mizuumi.net&channel=%23mbaa&noServerTab=false),
-\#MBAA  **Le Chan officiel français:**
+**Le site officiel:** [Ici](http://meltyblood.info/)  
+**Le site du développeur:** [Ecole](http://www.e56.info/mbaaps2/index.html)
+ **Le Chan officiel:** [irc.mizuumi.net](http://widget.mibbit.com/?settings=b0c80f1a2b7c9987a0cb0742240f9110&server=irc.mizuumi.net&channel=%23mbaa&noServerTab=false),
+\#MBAA  
+**Le Chan officiel français:**
 [irc.mizuumi.net](http://widget.mibbit.com/?settings=40efa8d1d131fba1f623f8f2ac86d382&server=irc.mizuumi.net&channel=%23meltyblood.fr),
-\#meltyblood.fr  **Le site de la communauté française:**
+\#meltyblood.fr  
+**Le site de la communauté française:**
 [bloodheat.fr](http://www.bloodheat.fr) 
 
 ## Melty Blood: Actress Again Current Code
