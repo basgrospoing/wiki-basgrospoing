@@ -9,7 +9,9 @@ tags: "character"
 date: "2014-01-10"
 ---
 
-![](/images/Satsuki0.png)  - **Name:** Satsuki Yumiduka (弓塚さつき)
+![](/images/Satsuki0.png)  
+
+- **Name:** Satsuki Yumiduka (弓塚さつき)
 - **Nicknames:** Sacchin  
 - **Voiced by:**   Omi Minami (南 央美)
 - **Type:**    Dead Apostle
