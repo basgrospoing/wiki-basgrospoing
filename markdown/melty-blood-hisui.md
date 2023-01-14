@@ -38,7 +38,7 @@ en jeu de combat.
 
 **Hisui**
 
-[Crescent](Melty_Blood/Hisui/Crescent_Moon)  
+[Crescent](melty-blood-hisui-crescent-moon.html)  
 [Half](Melty_Blood/Hisui/Half_Moon)  
 [Full](Melty_Blood/Hisui/Full_Moon)  
 

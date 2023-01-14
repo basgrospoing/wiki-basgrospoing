@@ -69,7 +69,7 @@ Vermillion](Melty_Blood/Akiha_Vermillion))
 
 **Akiha Tohno**
 
-[Crescent](Melty_Blood/Akiha_Tohno/Crescent_Moon)  
+[Crescent](melty-blood-akiha-tohno-crescent-moon.html)  
 Ce mode est en fait une amélioration de ce qu'était Akiha dans MBAC, et
 se joue de manière très similaire. Elle possède un command grab qui mène
 à un hard knockdown, et une très bonne oki, qui lui permet de mettre en

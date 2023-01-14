@@ -49,7 +49,7 @@ Commun a tous les styles :
 
 **White Len**
 
-[Crescent](Melty_Blood/White_Len/Crescent_Moon)  
+[Crescent](melty-blood-white-len-crescent-moon.html)  
 + Zoning très puissant, personne n'ose rushdown cette white len.  
 + Peut cancel ses coups par des dash, même en block, ce qui lui offre le
 meilleur dash\>5A en pressing du jeu.  

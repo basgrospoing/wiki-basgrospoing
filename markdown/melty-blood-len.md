@@ -39,7 +39,7 @@ joueurs appréciant un style passif-agressif.
 
 **Len**
 
-[Crescent](Melty_Blood/Len/Crescent_Moon)  
+[Crescent](melty-blood-len-crescent-moon.html)  
 Possède de nombreux mixups, et la barre de meter lui permet d'y accéder
 très facilement. Peut plier le match très vite.
 

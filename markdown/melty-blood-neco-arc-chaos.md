@@ -30,7 +30,7 @@ date: "2014-01-10"
 
 **Neco Arc Chaos**
 
-[Crescent](Melty_Blood/Neco_Arc_Chaos/Crescent_Moon)  
+[Crescent](melty-blood-neco_arc-chaos-crescent-moon.html)  
 [Half](Melty_Blood/Neco_Arc_Chaos/Half_Moon)  
 [Full](Melty_Blood/Neco_Arc_Chaos/Full_Moon)  
 

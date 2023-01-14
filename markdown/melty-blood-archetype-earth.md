@@ -30,7 +30,7 @@ Personnage longue distance
 
 **Archetype Earth**
 
-[Crescent](Melty_Blood/Archetype_Earth/Crescent_Moon)  
+[Crescent](melty-blood-archetype-earth-crescent-moon.html)  
 [Half](Melty_Blood/Archetype_Earth/Half_Moon)  
 [Full](Melty_Blood/Archetype_Earth/Full_Moon)  
 

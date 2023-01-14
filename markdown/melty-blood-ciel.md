@@ -36,7 +36,7 @@ ses coups ont toutefois peu de priorité...
 
 **Ciel**
 
-[Crescent](Melty_Blood/Ciel/Crescent_Moon)  
+[Crescent](melty-blood-ciel-crescent-moon.html)  
 Base principalement son jeu sur son 236C (7th Heaven), capable de punir
 n'importe quoi en réaction fullscreen. Ses couteaux ont pour but de
 toucher l'adversaire à distance, et apportent peu d'avantage en terme de

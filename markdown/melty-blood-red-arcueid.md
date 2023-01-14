@@ -48,7 +48,7 @@ donna lieu à la naissance des *Mystic Eyes* de Red Arcueid.
 
 **Red Arcueid**
 
-[Crescent](Melty_Blood/Red_Arcueid/Crescent_Moon)  
+[Crescent](melty-blood-red-arcueid-crescent-moon.html)  
 Bon pressing et mouvements en l'air. La seule moon avec un vrai
 reversal.
 

@@ -29,7 +29,7 @@ date: "2014-01-10"
 
 **Satsuki Yumiduka**
 
-[Crescent](Melty_Blood/Satsuki_Yumiduka/Crescent_Moon)  
+[Crescent](melty-blood-satsuki-yumiduka-crescent-moon.html)  
 - Gestion du meter permet de plus gros dégats en moyenne, et de bon
 okizeme.  
 - Overhead plutot fort  

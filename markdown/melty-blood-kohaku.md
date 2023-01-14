@@ -31,7 +31,7 @@ Synchronizer
 
 **Kohaku**
 
-[Crescent](Melty_Blood/Kohaku/Crescent_Moon)  
+[Crescent](melty-blood-kohaku-crescent-moon.html)  
 **Une des deux moons à utiliser pour la majorité des matchups. Press un
 peu moins dangereux que Half, mais a un excellent jeu à l'oki.**  
 *Avantages :*  

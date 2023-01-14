@@ -39,7 +39,7 @@ moyennement mobile/rapide.
 
 **Arcueid Brunestud**
 
-[Crescent](Melty_Blood/Arcueid_Brunestud/Crescent_Moon)  
+[Crescent](melty-blood-arcueid-brunestud-crescent-moon.html)  
 La plus versatile de toutes les moons, très solide et fait à peu près
 tout ce que l'on attend d'un personnage de meltyblood.
 

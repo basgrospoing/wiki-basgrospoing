@@ -34,7 +34,7 @@ contrepartie, elle a beaucoup de mal a se déplacer.
 
 **Mech-Hisui**
 
-[Crescent](Melty_Blood/Mech-Hisui/Crescent_Moon)  
+[Crescent](melty-blood-mech-hisui-crescent-moon.html)  
 Possède les "jetpacks" qui contrôle énormément les chemins aériens. Il
 est très difficile d'approcher cette Mech-Hisui par au dessus. Son jeu
 est relativement diversifié avec en plus quelques mixups et reversals.

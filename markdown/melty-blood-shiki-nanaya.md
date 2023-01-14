@@ -31,7 +31,7 @@ date: "2014-07-23"
 
 **Shiki Nanaya**
 
-[Crescent](Melty_Blood/Shiki_Nanaya/Crescent_Moon)  
+[Crescent](melty-blood-shiki-nanaya-crescent-moon.html)  
 *Avantages :*  
 + Très bon press.  
 + Peut avoir un excellent oki en faisant de bon dégâts au prix de 100%

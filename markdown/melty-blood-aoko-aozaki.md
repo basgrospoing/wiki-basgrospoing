@@ -43,7 +43,7 @@ plus grand cuisiner de la planète.
 
 **Aoko Aozaki**
 
-[Crescent](Melty_Blood/Aoko_Aozaki/Crescent_Moon)  
+[Crescent](melty-blood-aoko-aozaki-crescent-moon.html)  
 Controle du terrain maximum/polyvalence '''
 
 *Avantages*: excellente mobilité dans les airs, très bon jeu en keep

@@ -30,7 +30,7 @@ date: "2015-01-15"
 
 **Shiki Tohno**
 
-[Crescent](Melty_Blood/Shiki_Tohno/Crescent_Moon)  
+[Crescent](melty-blood-shiki-tohno-crescent-moon.html)  
 **Jack of all trades, master of none.**  
 *Avantages :*  
 + Bon normaux  

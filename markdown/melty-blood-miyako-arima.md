@@ -45,7 +45,7 @@ s'inscrit donc au tournoi Melty Blood sachant qu'elle n'a aucune chance.
 
 **Miyako Arima**
 
-[Crescent](Melty_Blood/Miyako_Arima/Crescent_Moon)  
+[Crescent](melty-blood-miyako-arima-crescent-moon.html)  
 [Half](Melty_Blood/Miyako_Arima/Half_Moon)  
 [Full](Melty_Blood/Miyako_Arima/Full_Moon)  
 

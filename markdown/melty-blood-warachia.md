@@ -36,7 +36,7 @@ avancant dessus.
 
 **Warachia**
 
-[Crescent](Melty_Blood/Warachia/Crescent_Moon)  
+[Crescent](melty-blood-warachia-crescent-moon.html)  
 + Command Airdash en l'air lui permettant de airdash deux fois et de
 différentes facon.
 

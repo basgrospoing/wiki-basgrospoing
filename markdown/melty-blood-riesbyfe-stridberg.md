@@ -37,7 +37,7 @@ s'approcher a mi-distance pour tuer l'adversaire très rapidement.
 
 **Riesbyfe Stridberg**
 
-[Crescent](Melty_Blood/Riesbyfe_Stridberg/Crescent_Moon)  
+[Crescent](melty-blood-riesbyfe-stridberg-crescent-moon.html)  
 [Half](Melty_Blood/Riesbyfe_Stridberg/Half_Moon)  
 [Full](Melty_Blood/Riesbyfe_Stridberg/Full_Moon)  
 

@@ -32,7 +32,7 @@ Hunter
 
 **Shiki Ryougi**
 
-[Crescent](Melty_Blood/Shiki_Ryougi/Crescent_Moon)  
+[Crescent](melty-blood-shiki-ryougi-crescent-moon.html)  
 [Half](Melty_Blood/Shiki_Ryougi/Half_Moon)  
 [Full](Melty_Blood/Shiki_Ryougi/Full_Moon)  
 

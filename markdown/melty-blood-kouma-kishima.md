@@ -46,7 +46,7 @@ Utilisable au sol et en l'air, avec de légères variations selon la moon.
 
 **Kouma**
 
-[Crescent](Melty_Blood/Kouma_Kishima/Crescent_Moon)  
+[Crescent](melty-blood-kouma-kishima-crescent-moon.html)  
 + Possibilité de faire plusieurs coups en l'air  
 + Un véritable overhead  
 + Un pressing long et qui laisse beaucoup de possibilité de choppe  

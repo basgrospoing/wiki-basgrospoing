@@ -37,7 +37,7 @@ s'agit possiblement du personnage le plus rapide du jeu en l'air, et
 
 **Akiha Vermillion**
 
-[Crescent](Melty_Blood/Akiha_Vermillion/Crescent_Moon)  
+[Crescent](melty-blood-akiha-vermillion-crescent-moon.html)  
 Base son jeu sur le lifesteal
 
 [Half](Melty_Blood/Akiha_Vermillion/Half_Moon)  
