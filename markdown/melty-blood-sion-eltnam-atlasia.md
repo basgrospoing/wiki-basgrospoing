@@ -33,7 +33,7 @@ date: "2014-01-10"
 
 **Sion Eltnam Atlasia**
 
-[Crescent](Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon)  
+[Crescent](melty-blood-sion-eltnam-atlasia-crescent-moon.html)  
 [Half](Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon)  
 [Full](Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon)  
 

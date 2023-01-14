@@ -33,7 +33,7 @@ sister"
 
 **Akiha Tohno (Seifuku)**
 
-[Crescent](Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon)  
+[Crescent](melty-blood-akiha-tohno-seifuku-crescent-moon.html)  
 Solide, inflige de gros dégâts a partir de n'importe quelle situation,
 même en l'air sans counter. Très bon pressing également.
 
