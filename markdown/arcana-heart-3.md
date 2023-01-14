@@ -9,9 +9,7 @@ tags: "game"
 date: "2012-07-24"
 ---
 
-\_\_TOC\_\_
-<img src="/images/ah3logo.jpg" title="/images/ah3logo.jpg" width="400"
-alt="/images/ah3logo.jpg" />
+![](/images/ah3logo.jpg)
 
 ## Introduction
 

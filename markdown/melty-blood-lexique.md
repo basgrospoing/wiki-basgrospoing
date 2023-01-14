@@ -11,7 +11,7 @@ redirect: "Melty_Blood/Glossary"
 old_id: 1714
 ---
 
-\_\_TOC\_\_
+
 
 ## Liste des termes usuels et des abréviations
 
