@@ -1,6 +1,7 @@
 RewriteEngine On
 CheckSpelling On
 CheckCaseOnly On
+Redirect 301 /index.php?title=Accueil /
 Redirect 301 /The_King_of_Fighters_XI /the-king-of-fighters-xi.html
 Redirect 301 /index.php/The_King_of_Fighters_XI /the-king-of-fighters-xi.html
 Redirect 301 /Kofxi /the-king-of-fighters-xi.html
