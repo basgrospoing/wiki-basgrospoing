@@ -1,12 +1,12 @@
 ---
-title: "Klaus Wessel"
-slug:  "Klaus_Wessel"
+author: Wolmar
+date: '2010-12-25'
 id: 477
-author: "Wolmar"
-permalink: "klaus-wessel.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-25"
+layout: character.njk
+permalink: klaus-wessel.html
+slug: Klaus_Wessel
+tags: character
+title: Klaus Wessel
 ---
 
 <figure>

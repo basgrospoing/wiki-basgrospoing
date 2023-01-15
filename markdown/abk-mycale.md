@@ -1,12 +1,12 @@
 ---
-title: "ABK/Mycale"
-slug:  "ABK/Mycale"
+author: Kabai
+date: '2012-07-06'
 id: 2263
-author: "Kabai"
-permalink: "abk-mycale.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-06"
+layout: character.njk
+permalink: abk-mycale.html
+slug: ABK/Mycale
+tags: character
+title: ABK/Mycale
 ---
 
 ![](/images/Mycale_ABK.jpg "/images/Mycale_ABK.jpg")

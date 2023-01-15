@@ -1,12 +1,12 @@
 ---
-title: "Lucky Glauber (98um)"
-slug:  "Lucky_Glauber_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 238
-author: "Corbeau Bleu"
-permalink: "lucky-glauber-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: lucky-glauber-98um.html
+slug: Lucky_Glauber_(98um)
+tags: character
+title: Lucky Glauber (98um)
 ---
 
 ## Introduction

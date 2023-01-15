@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Vanessa"
-slug:  "The_King_of_Fighters_XI_-_Vanessa"
+author: Olivic
+date: '2011-06-09'
 id: 947
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-vanessa.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-vanessa"
+layout: character.njk
 old_id: 948
+permalink: the-king-of-fighters-xi-vanessa.html
+redirect: Kofxi-vanessa
+slug: The_King_of_Fighters_XI_-_Vanessa
+tags: character
+title: The King of Fighters XI - Vanessa
 ---
 
 ![](/images/kofxi-vanessa.jpg "/images/kofxi-vanessa.jpg")

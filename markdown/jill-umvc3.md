@@ -1,12 +1,12 @@
 ---
-title: "Jill (UMVC3)"
-slug:  "Jill_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2993
-author: "ALX"
-permalink: "jill-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: jill-umvc3.html
+slug: Jill_(UMVC3)
+tags: character
+title: Jill (UMVC3)
 ---
 
 **EN TRAVAUX**

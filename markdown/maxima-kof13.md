@@ -1,12 +1,12 @@
 ---
-title: "Maxima (kof13)"
-slug:  "Maxima_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1109
-author: "82.238.249.39"
-permalink: "maxima-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: maxima-kof13.html
+slug: Maxima_(kof13)
+tags: character
+title: Maxima (kof13)
 ---
 
 ![maxima](/images/Maximakof13.gif "maxima") 

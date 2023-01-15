@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Circuit Meter"
-slug:  "Melty_Blood/Circuit_Meter"
+author: Naast, Ninjigen
+date: '2012-01-17'
 id: 1711
-author: "Naast"
-permalink: "melty-blood-circuit-meter.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-circuit-meter.html
+slug: Melty_Blood/Circuit_Meter
+tags: character
+title: Melty Blood/Circuit Meter
 ---
 
 Le Meter est le terme officiel pour la barre de furie à Melty Blood. Un
@@ -196,5 +196,3 @@ cancellables.
 traduction de l'anglais du
 [http://wiki.mizuumi.net/w/Melty_Blood/Circuit_Meter wiki
 mizuumi.net](http://wiki.mizuumi.net/w/Melty_Blood/Circuit_Meter_wiki_mizuumi.net)
-
-

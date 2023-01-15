@@ -1,12 +1,12 @@
 ---
-title: "Iori Yagami (KoF '98)"
-slug:  "Iori_Yagami_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 179
-author: "Corbeau Bleu"
-permalink: "iori-yagami-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: iori-yagami-kof-98.html
+slug: Iori_Yagami_(KoF_'98)
+tags: character
+title: Iori Yagami (KoF '98)
 ---
 
 ## Introduction

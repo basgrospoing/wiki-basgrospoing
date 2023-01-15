@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Nanaya/Full Moon"
-slug:  "Melty_Blood/Shiki_Nanaya/Full_Moon"
+author: Sannos, Ninjigen
+date: '2015-01-15'
 id: 1861
-author: "Sannos"
-permalink: "melty-blood-shiki-nanaya-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-01-15"
+layout: character.njk
+permalink: melty-blood-shiki-nanaya-full-moon.html
+slug: Melty_Blood/Shiki_Nanaya/Full_Moon
+tags: character
+title: Melty Blood/Shiki Nanaya/Full Moon
 ---
 
 # Combos
@@ -304,5 +304,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)"
-slug:  "Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)"
+author: Olivic
+date: '2011-05-22'
 id: 715
-author: "Olivic"
-permalink: "samurai-shodown-iv-zankuro-minazuki-minazuki-zankuro.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)"
+layout: character.njk
 old_id: 820
+permalink: samurai-shodown-iv-zankuro-minazuki-minazuki-zankuro.html
+redirect: Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)
+slug: Samurai_Shodown_IV_-_Zankuro_Minazuki_(壬無月_斬紅郎,_Minazuki_Zankurō)
+tags: character
+title: Samurai Shodown IV - Zankuro Minazuki (壬無月 斬紅郎, Minazuki Zankurō)
 ---
 
 ![](/images/ss4-Zankuro.gif "/images/ss4-Zankuro.gif")

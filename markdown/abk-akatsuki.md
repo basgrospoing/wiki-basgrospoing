@@ -1,12 +1,12 @@
 ---
-title: "ABK/Akatsuki"
-slug:  "ABK/Akatsuki"
+author: Kabai
+date: '2012-07-05'
 id: 2262
-author: "Kabai"
-permalink: "abk-akatsuki.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-05"
+layout: character.njk
+permalink: abk-akatsuki.html
+slug: ABK/Akatsuki
+tags: character
+title: ABK/Akatsuki
 ---
 
 ![](/images/Akatsuki_ABK.jpg "/images/Akatsuki_ABK.jpg")

@@ -1,12 +1,12 @@
 ---
-title: "Vice (KoF '98)"
-slug:  "Vice_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 181
-author: "Corbeau Bleu"
-permalink: "vice-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: vice-kof-98.html
+slug: Vice_(KoF_'98)
+tags: character
+title: Vice (KoF '98)
 ---
 
 ## Introduction

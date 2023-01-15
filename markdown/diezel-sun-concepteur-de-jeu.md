@@ -1,12 +1,12 @@
 ---
-title: "Diezel Sun (concepteur de jeu)"
-slug:  "Diezel_Sun_(concepteur_de_jeu)"
+author: Wemsa8
+date: '2016-11-14'
 id: 3017
-author: "Wemsa8"
-permalink: "diezel-sun-concepteur-de-jeu.html"
-layout: "character.njk"
-tags: "character"
-date: "2016-11-14"
+layout: character.njk
+permalink: diezel-sun-concepteur-de-jeu.html
+slug: Diezel_Sun_(concepteur_de_jeu)
+tags: character
+title: Diezel Sun (concepteur de jeu)
 ---
 
 DiezelSun - знаменитый 3d моделлер, игровой дизайнер.

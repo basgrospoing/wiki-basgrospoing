@@ -1,12 +1,12 @@
 ---
-title: "Rock (Garou)"
-slug:  "Rock_(Garou)"
+author: Aerendir, Sharnt, Olivic, Timmytheturtle, Corbeau Bleu
+date: '2011-05-24'
 id: 5
-author: "Aerendir"
-permalink: "rock-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: rock-garou.html
+slug: Rock_(Garou)
+tags: character
+title: Rock (Garou)
 ---
 
 ## Introduction

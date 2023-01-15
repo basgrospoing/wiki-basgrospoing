@@ -1,12 +1,12 @@
 ---
-title: "Brian Battler (98um)"
-slug:  "Brian_Battler_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 239
-author: "Corbeau Bleu"
-permalink: "brian-battler-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: brian-battler-98um.html
+slug: Brian_Battler_(98um)
+tags: character
+title: Brian Battler (98um)
 ---
 
 ## Introduction

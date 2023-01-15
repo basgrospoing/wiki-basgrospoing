@@ -1,14 +1,14 @@
 ---
-title: "May Lee (2k2um)"
-slug:  "May_Lee_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 38
-author: "Admin"
-permalink: "may-lee-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "May_Lee"
+layout: character.njk
 old_id: 86
+permalink: may-lee-2k2um.html
+redirect: May_Lee
+slug: May_Lee_(2k2um)
+tags: character
+title: May Lee (2k2um)
 ---
 
 ## Introduction

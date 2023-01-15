@@ -1,12 +1,12 @@
 ---
-title: "ABK/Wei"
-slug:  "ABK/Wei"
+author: Kabai
+date: '2012-04-27'
 id: 2268
-author: "Kabai"
-permalink: "abk-wei.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-wei.html
+slug: ABK/Wei
+tags: character
+title: ABK/Wei
 ---
 
 ![](/images/Wei_ABK.jpg "/images/Wei_ABK.jpg")

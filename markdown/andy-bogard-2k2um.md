@@ -1,14 +1,14 @@
 ---
-title: "Andy Bogard (2k2um)"
-slug:  "Andy_Bogard_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 68
-author: "Admin"
-permalink: "andy-bogard-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
-redirect: "Andy_Bogard"
+layout: character.njk
 old_id: 76
+permalink: andy-bogard-2k2um.html
+redirect: Andy_Bogard
+slug: Andy_Bogard_(2k2um)
+tags: character
+title: Andy Bogard (2k2um)
 ---
 
 ## Introduction

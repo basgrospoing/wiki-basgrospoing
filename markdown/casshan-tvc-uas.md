@@ -1,12 +1,12 @@
 ---
-title: "Casshan (TvC:UAS)"
-slug:  "Casshan_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-04-15'
 id: 522
-author: "Dan sakazaki"
-permalink: "casshan-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-15"
+layout: character.njk
+permalink: casshan-tvc-uas.html
+slug: Casshan_(TvC:UAS)
+tags: character
+title: Casshan (TvC:UAS)
 ---
 
 <img src="/images/Casshern.jpg" title="/images/Casshern.jpg" width="250"

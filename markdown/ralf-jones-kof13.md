@@ -1,14 +1,13 @@
 ---
-title: "Ralf Jones (kof13)"
-slug:  "Ralf_Jones_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1101
-author: "82.238.249.39"
-permalink: "ralf-jones-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: ralf-jones-kof13.html
+slug: Ralf_Jones_(kof13)
+tags: character
+title: Ralf Jones (kof13)
 ---
-
 
 ![Ralf Jones](/images/Ralfkof13.gif "Ralf Jones")
 

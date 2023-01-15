@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon"
-slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon"
+author: Naast, Ninjigen
+date: '2012-08-02'
 id: 1730
-author: "Naast"
-permalink: "melty-blood-akiha-tohno-seifuku-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-02"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-seifuku-crescent-moon.html
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)/Crescent_Moon
+tags: character
+title: Melty Blood/Akiha Tohno (Seifuku)/Crescent Moon
 ---
 
 # Combos
@@ -248,5 +248,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

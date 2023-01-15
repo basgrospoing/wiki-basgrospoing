@@ -1,14 +1,14 @@
 ---
-title: "Yuri (2k2um)"
-slug:  "Yuri_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 37
-author: "Admin"
-permalink: "yuri-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Yuri"
+layout: character.njk
 old_id: 85
+permalink: yuri-2k2um.html
+redirect: Yuri
+slug: Yuri_(2k2um)
+tags: character
+title: Yuri (2k2um)
 ---
 
 ## Introduction

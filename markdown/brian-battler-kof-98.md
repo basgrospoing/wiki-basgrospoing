@@ -1,12 +1,12 @@
 ---
-title: "Brian Battler (KoF '98)"
-slug:  "Brian_Battler_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 187
-author: "Corbeau Bleu"
-permalink: "brian-battler-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: brian-battler-kof-98.html
+slug: Brian_Battler_(KoF_'98)
+tags: character
+title: Brian Battler (KoF '98)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Super tir"
-slug:  "Super_tir"
+author: Wolmar
+date: '2011-06-01'
 id: 502
-author: "Wolmar"
-permalink: "super-tir.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-01"
+layout: character.njk
+permalink: super-tir.html
+slug: Super_tir
+tags: character
+title: Super tir
 ---
 
 ## Introduction

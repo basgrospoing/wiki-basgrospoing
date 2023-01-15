@@ -1,14 +1,14 @@
 ---
-title: "Angel (2k2um)"
-slug:  "Angel_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-03'
 id: 57
-author: "Aerendir"
-permalink: "angel-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "Angel"
+layout: character.njk
 old_id: 110
+permalink: angel-2k2um.html
+redirect: Angel
+slug: Angel_(2k2um)
+tags: character
+title: Angel (2k2um)
 ---
 
 ## Introduction

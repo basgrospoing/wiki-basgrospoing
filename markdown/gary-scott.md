@@ -1,12 +1,12 @@
 ---
-title: "Gary Scott"
-slug:  "Gary_Scott"
+author: Wolmar
+date: '2010-12-25'
 id: 475
-author: "Wolmar"
-permalink: "gary-scott.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-25"
+layout: character.njk
+permalink: gary-scott.html
+slug: Gary_Scott
+tags: character
+title: Gary Scott
 ---
 
 <figure>

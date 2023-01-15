@@ -1,15 +1,13 @@
 ---
-title: "Evil Ryu (SSFIV)"
-slug:  "Evil_Ryu_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2156
-author: "Atomskyu698"
-permalink: "evil-ryu-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: evil-ryu-ssfiv.html
+slug: Evil_Ryu_(SSFIV)
+tags: character
+title: Evil Ryu (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

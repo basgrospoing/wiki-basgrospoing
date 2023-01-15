@@ -1,12 +1,12 @@
 ---
-title: "Vergil (UMVC3)"
-slug:  "Vergil_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3009
-author: "ALX"
-permalink: "vergil-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: vergil-umvc3.html
+slug: Vergil_(UMVC3)
+tags: character
+title: Vergil (UMVC3)
 ---
 
 **EN TRAVAUX**

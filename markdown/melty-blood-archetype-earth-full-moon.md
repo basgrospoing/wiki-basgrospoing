@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Archetype Earth/Full Moon"
-slug:  "Melty_Blood/Archetype_Earth/Full_Moon"
+author: Ninjigen
+date: '2012-03-06'
 id: 1749
-author: "90.0.52.30"
-permalink: "melty-blood-archetype-earth-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-06"
+layout: character.njk
+permalink: melty-blood-archetype-earth-full-moon.html
+slug: Melty_Blood/Archetype_Earth/Full_Moon
+tags: character
+title: Melty Blood/Archetype Earth/Full Moon
 ---
 
 # Combos
@@ -230,5 +230,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

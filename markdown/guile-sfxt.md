@@ -1,15 +1,13 @@
 ---
-title: "Guile (SFxT)"
-slug:  "Guile_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2168
-author: "Hynkel"
-permalink: "guile-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: guile-sfxt.html
+slug: Guile_(SFxT)
+tags: character
+title: Guile (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,12 +1,12 @@
 ---
-title: "King (KoF '98)"
-slug:  "King_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 169
-author: "Corbeau Bleu"
-permalink: "king-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: king-kof-98.html
+slug: King_(KoF_'98)
+tags: character
+title: King (KoF '98)
 ---
 
 ## Introduction

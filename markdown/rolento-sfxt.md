@@ -1,15 +1,13 @@
 ---
-title: "Rolento (SFxT)"
-slug:  "Rolento_(SFxT)"
+author: Hynkel
+date: '2012-03-12'
 id: 2175
-author: "Hynkel"
-permalink: "rolento-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-12"
+layout: character.njk
+permalink: rolento-sfxt.html
+slug: Rolento_(SFxT)
+tags: character
+title: Rolento (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

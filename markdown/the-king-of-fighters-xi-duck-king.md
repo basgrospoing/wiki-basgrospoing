@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Duck King"
-slug:  "The_King_of_Fighters_XI_-_Duck_King"
+author: Olivic
+date: '2011-06-09'
 id: 901
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-duck-king.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-duck-king"
+layout: character.njk
 old_id: 902
+permalink: the-king-of-fighters-xi-duck-king.html
+redirect: Kofxi-duck-king
+slug: The_King_of_Fighters_XI_-_Duck_King
+tags: character
+title: The King of Fighters XI - Duck King
 ---
 
 ![](/images/kofxi-duck-king.jpg "/images/kofxi-duck-king.jpg")

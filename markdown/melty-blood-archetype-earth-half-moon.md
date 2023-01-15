@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Archetype Earth/Half Moon"
-slug:  "Melty_Blood/Archetype_Earth/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1748
-author: "Ninjigen"
-permalink: "melty-blood-archetype-earth-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-archetype-earth-half-moon.html
+slug: Melty_Blood/Archetype_Earth/Half_Moon
+tags: character
+title: Melty Blood/Archetype Earth/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

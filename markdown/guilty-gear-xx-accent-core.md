@@ -1,12 +1,12 @@
 ---
-title: "Guilty Gear XX Accent Core"
-slug:  "Guilty_Gear_XX_Accent_Core"
+author: Neithan
+date: '2012-06-14'
 id: 288
-author: "Admin"
-permalink: "guilty-gear-xx-accent-core.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-06-14"
+layout: game.njk
+permalink: guilty-gear-xx-accent-core.html
+slug: Guilty_Gear_XX_Accent_Core
+tags: game
+title: Guilty Gear XX Accent Core
 ---
 
 ## Introduction

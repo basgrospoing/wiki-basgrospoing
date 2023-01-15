@@ -1,12 +1,12 @@
 ---
-title: "Karas (TvC:UAS)"
-slug:  "Karas_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-04-15'
 id: 526
-author: "Dan sakazaki"
-permalink: "karas-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-15"
+layout: character.njk
+permalink: karas-tvc-uas.html
+slug: Karas_(TvC:UAS)
+tags: character
+title: Karas (TvC:UAS)
 ---
 
 <img src="/images/Karas.jpg" title="/images/Karas.jpg" width="250"

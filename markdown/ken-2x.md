@@ -1,12 +1,12 @@
 ---
-title: "Ken (2X)"
-slug:  "Ken_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 459
-author: "Wolmar"
-permalink: "ken-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: ken-2x.html
+slug: Ken_(2X)
+tags: character
+title: Ken (2X)
 ---
 
 ## Introduction

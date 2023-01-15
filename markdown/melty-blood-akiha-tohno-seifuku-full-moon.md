@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno (Seifuku)/Full Moon"
-slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon"
+author: Ninjigen
+date: '2012-03-05'
 id: 1729
-author: "88.173.34.60"
-permalink: "melty-blood-akiha-tohno-seifuku-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-05"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-seifuku-full-moon.html
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)/Full_Moon
+tags: character
+title: Melty Blood/Akiha Tohno (Seifuku)/Full Moon
 ---
 
 # Combos
@@ -185,5 +185,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

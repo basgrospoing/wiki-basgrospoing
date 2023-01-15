@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Roa/Half Moon"
-slug:  "Melty_Blood/Roa/Half_Moon"
+author: Zind, Ninjigen
+date: '2012-02-02'
 id: 1851
-author: "Zind"
-permalink: "melty-blood-roa-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-02"
+layout: character.njk
+permalink: melty-blood-roa-half-moon.html
+slug: Melty_Blood/Roa/Half_Moon
+tags: character
+title: Melty Blood/Roa/Half Moon
 ---
 
 # Combos
@@ -210,5 +210,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

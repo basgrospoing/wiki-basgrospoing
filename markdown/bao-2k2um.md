@@ -1,12 +1,12 @@
 ---
-title: "Bao (2k2um)"
-slug:  "Bao_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 127
-author: "Admin"
-permalink: "bao-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
+layout: character.njk
+permalink: bao-2k2um.html
+slug: Bao_(2k2um)
+tags: character
+title: Bao (2k2um)
 ---
 
 ## Introduction

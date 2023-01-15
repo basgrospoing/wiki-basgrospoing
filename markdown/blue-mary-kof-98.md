@@ -1,12 +1,12 @@
 ---
-title: "Blue Mary (KoF '98)"
-slug:  "Blue_Mary_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 177
-author: "Corbeau Bleu"
-permalink: "blue-mary-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: blue-mary-kof-98.html
+slug: Blue_Mary_(KoF_'98)
+tags: character
+title: Blue Mary (KoF '98)
 ---
 
 ## Introduction

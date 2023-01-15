@@ -1,12 +1,12 @@
 ---
-title: "Jean Pierre (KR)"
-slug:  "Jean_Pierre_(KR)"
+author: Zarghatt
+date: '2010-11-29'
 id: 385
-author: "Zarghatt"
-permalink: "jean-pierre-kr.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-29"
+layout: character.njk
+permalink: jean-pierre-kr.html
+slug: Jean_Pierre_(KR)
+tags: character
+title: Jean Pierre (KR)
 ---
 
 ## Généralités

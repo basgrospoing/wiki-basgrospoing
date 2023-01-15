@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Nanaya"
-slug:  "Melty_Blood/Shiki_Nanaya"
+author: Sannos, Naast, Ninjigen
+date: '2014-07-23'
 id: 1756
-author: "Sannos"
-permalink: "melty-blood-shiki-nanaya.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-shiki-nanaya.html
+slug: Melty_Blood/Shiki_Nanaya
+tags: character
+title: Melty Blood/Shiki Nanaya
 ---
 
 - **Name:** Shiki Nanaya (七夜 志貴)
@@ -80,5 +80,3 @@ oki.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

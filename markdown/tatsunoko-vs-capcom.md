@@ -1,12 +1,12 @@
 ---
-title: "Tatsunoko vs Capcom"
-slug:  "Tatsunoko_vs_Capcom"
+author: Dan Sakazaki
+date: '2014-01-10'
 id: 382
-author: "Dan Sakazaki"
-permalink: "tatsunoko-vs-capcom.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-01-10"
+layout: game.njk
+permalink: tatsunoko-vs-capcom.html
+slug: Tatsunoko_vs_Capcom
+tags: game
+title: Tatsunoko vs Capcom
 ---
 
 ![](/images/tvc-uas-logo.jpg "/images/tvc-uas-logo.jpg")

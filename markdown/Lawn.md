@@ -1,12 +1,12 @@
 ---
-title: "Lawn"
-slug:  "Lawn"
+author: Wolmar
+date: '2010-12-20'
 id: 493
-author: "Wolmar"
-permalink: "lawn.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-20"
+layout: character.njk
+permalink: lawn.html
+slug: Lawn
+tags: character
+title: Lawn
 ---
 
 <figure>

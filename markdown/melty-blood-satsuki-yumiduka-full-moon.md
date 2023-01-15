@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Satsuki Yumiduka/Full Moon"
-slug:  "Melty_Blood/Satsuki_Yumiduka/Full_Moon"
+author: Kigal, Naast, Ninjigen
+date: '2012-01-18'
 id: 1858
-author: "Kigal"
-permalink: "melty-blood-satsuki-yumiduka-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-18"
+layout: character.njk
+permalink: melty-blood-satsuki-yumiduka-full-moon.html
+slug: Melty_Blood/Satsuki_Yumiduka/Full_Moon
+tags: character
+title: Melty Blood/Satsuki Yumiduka/Full Moon
 ---
 
 # Combos
@@ -206,5 +206,3 @@ esquiver, etc...</p></td>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Warachia"
-slug:  "Melty_Blood/Warachia"
+author: Sannos, Ninjigen
+date: '2014-07-23'
 id: 1888
-author: "Sannos"
-permalink: "melty-blood-warachia.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-warachia.html
+slug: Melty_Blood/Warachia
+tags: character
+title: Melty Blood/Warachia
 ---
 
 ![ **Nom:**   Nuit de Wallachia (ワラキアの夜)
@@ -72,5 +72,3 @@ différentes facon.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

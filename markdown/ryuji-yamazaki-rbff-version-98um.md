@@ -1,12 +1,12 @@
 ---
-title: "Ryuji Yamazaki (RBFF version) (98um)"
-slug:  "Ryuji_Yamazaki_(RBFF_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 260
-author: "Corbeau Bleu"
-permalink: "ryuji-yamazaki-rbff-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: ryuji-yamazaki-rbff-version-98um.html
+slug: Ryuji_Yamazaki_(RBFF_version)_(98um)
+tags: character
+title: Ryuji Yamazaki (RBFF version) (98um)
 ---
 
 ## Introduction

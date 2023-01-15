@@ -1,12 +1,12 @@
 ---
-title: "Choi Bounge (2k2um)"
-slug:  "Choi_Bounge_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 118
-author: "Admin"
-permalink: "choi-bounge-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
+layout: character.njk
+permalink: choi-bounge-2k2um.html
+slug: Choi_Bounge_(2k2um)
+tags: character
+title: Choi Bounge (2k2um)
 ---
 
 ## Introduction

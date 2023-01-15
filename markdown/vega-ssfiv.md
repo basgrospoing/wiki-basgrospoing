@@ -1,15 +1,13 @@
 ---
-title: "Vega (SSFIV)"
-slug:  "Vega_(SSFIV)"
+author: Atomskyu, Tonio, Hynkel, Aphelion
+date: '2014-05-09'
 id: 362
-author: "Atomskyu698"
-permalink: "vega-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: vega-ssfiv.html
+slug: Vega_(SSFIV)
+tags: character
+title: Vega (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

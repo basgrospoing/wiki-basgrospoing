@@ -1,12 +1,12 @@
 ---
-title: "Clone Zero (2k2um)"
-slug:  "Clone_Zero_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 148
-author: "Corbeau Bleu"
-permalink: "clone-zero-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: clone-zero-2k2um.html
+slug: Clone_Zero_(2k2um)
+tags: character
+title: Clone Zero (2k2um)
 ---
 
 ## Introduction

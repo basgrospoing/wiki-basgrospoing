@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Magaki"
-slug:  "The_King_of_Fighters_XI_-_Magaki"
+author: Olivic
+date: '2011-05-21'
 id: 949
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-magaki.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-21"
-redirect: "Kofxi_magaki"
+layout: character.njk
 old_id: 950
+permalink: the-king-of-fighters-xi-magaki.html
+redirect: Kofxi_magaki
+slug: The_King_of_Fighters_XI_-_Magaki
+tags: character
+title: The King of Fighters XI - Magaki
 ---
 
 ![](/images/kofxi-magaki1.jpg "/images/kofxi-magaki1.jpg")

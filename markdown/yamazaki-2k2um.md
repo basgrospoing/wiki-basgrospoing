@@ -1,14 +1,14 @@
 ---
-title: "Yamazaki (2k2um)"
-slug:  "Yamazaki_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 45
-author: "Admin"
-permalink: "yamazaki-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Yamazaki"
+layout: character.njk
 old_id: 98
+permalink: yamazaki-2k2um.html
+redirect: Yamazaki
+slug: Yamazaki_(2k2um)
+tags: character
+title: Yamazaki (2k2um)
 ---
 
 ## Introduction

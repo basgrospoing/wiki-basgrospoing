@@ -1,12 +1,12 @@
 ---
-title: "Yuri Sakazaki (98um)"
-slug:  "Yuri_Sakazaki_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 212
-author: "Corbeau Bleu"
-permalink: "yuri-sakazaki-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: yuri-sakazaki-98um.html
+slug: Yuri_Sakazaki_(98um)
+tags: character
+title: Yuri Sakazaki (98um)
 ---
 
 ## Introduction

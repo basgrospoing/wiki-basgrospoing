@@ -1,12 +1,12 @@
 ---
-title: "Λ -11- (BBCS)"
-slug:  "Λ_-11-_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-11-23'
 id: 292
-author: "Achoral"
-permalink: "l-11-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-23"
+layout: character.njk
+permalink: l-11-bbcs.html
+slug: Λ_-11-_(BBCS)
+tags: character
+title: Λ -11- (BBCS)
 ---
 
 <figure>

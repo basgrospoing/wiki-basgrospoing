@@ -1,12 +1,12 @@
 ---
-title: "Blue Mary (RBFF version) (98um)"
-slug:  "Blue_Mary_(RBFF_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-09'
 id: 261
-author: "Corbeau Bleu"
-permalink: "blue-mary-rbff-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-09"
+layout: character.njk
+permalink: blue-mary-rbff-version-98um.html
+slug: Blue_Mary_(RBFF_version)_(98um)
+tags: character
+title: Blue Mary (RBFF version) (98um)
 ---
 
 ## Introduction

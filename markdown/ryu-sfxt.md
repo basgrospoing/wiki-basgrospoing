@@ -1,15 +1,13 @@
 ---
-title: "Ryu (SFxT)"
-slug:  "Ryu_(SFxT)"
+author: KizanCPC, Hynkel
+date: '2012-03-14'
 id: 2177
-author: "KizanCPC"
-permalink: "ryu-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-14"
+layout: character.njk
+permalink: ryu-sfxt.html
+slug: Ryu_(SFxT)
+tags: character
+title: Ryu (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

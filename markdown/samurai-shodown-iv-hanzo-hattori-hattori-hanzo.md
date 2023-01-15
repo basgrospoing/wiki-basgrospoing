@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)"
-slug:  "Samurai_Shodown_IV_-_Hanzo_Hattori_(服部_半蔵,_Hattori_Hanzō)"
+author: Olivic
+date: '2011-05-22'
 id: 651
-author: "Olivic"
-permalink: "samurai-shodown-iv-hanzo-hattori-hattori-hanzo.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Hanzo"
+layout: character.njk
 old_id: 668
+permalink: samurai-shodown-iv-hanzo-hattori-hattori-hanzo.html
+redirect: Ss4-Hanzo
+slug: Samurai_Shodown_IV_-_Hanzo_Hattori_(服部_半蔵,_Hattori_Hanzō)
+tags: character
+title: Samurai Shodown IV - Hanzo Hattori (服部 半蔵, Hattori Hanzō)
 ---
 
 ![](/images/ss4-Hanzo.gif "/images/ss4-Hanzo.gif")

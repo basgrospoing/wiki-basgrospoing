@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Benimaru Nikaido"
-slug:  "The_King_of_Fighters_XI_-_Benimaru_Nikaido"
+author: Olivic
+date: '2011-06-09'
 id: 919
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-benimaru-nikaido.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-benimaru-nikaido"
+layout: character.njk
 old_id: 922
+permalink: the-king-of-fighters-xi-benimaru-nikaido.html
+redirect: Kofxi-benimaru-nikaido
+slug: The_King_of_Fighters_XI_-_Benimaru_Nikaido
+tags: character
+title: The King of Fighters XI - Benimaru Nikaido
 ---
 
 ![](/images/kofxi-benimaru-nikaido.jpg "/images/kofxi-benimaru-nikaido.jpg")

@@ -1,12 +1,12 @@
 ---
-title: "Mai Shiranui (Real Bout Fatal Fury version) (98um)"
-slug:  "Mai_Shiranui_(Real_Bout_Fatal_Fury_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 258
-author: "Corbeau Bleu"
-permalink: "mai-shiranui-real-bout-fatal-fury-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: mai-shiranui-real-bout-fatal-fury-version-98um.html
+slug: Mai_Shiranui_(Real_Bout_Fatal_Fury_version)_(98um)
+tags: character
+title: Mai Shiranui (Real Bout Fatal Fury version) (98um)
 ---
 
 ## Introduction

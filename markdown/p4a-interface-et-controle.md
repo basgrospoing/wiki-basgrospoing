@@ -1,12 +1,12 @@
 ---
-title: "P4A/Interface et contrôle"
-slug:  "P4A/Interface_et_contrôle"
+author: Kabai
+date: '2012-08-06'
 id: 2570
-author: "Kabai"
-permalink: "p4a-interface-et-controle.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
+layout: character.njk
+permalink: p4a-interface-et-controle.html
+slug: P4A/Interface_et_contrôle
+tags: character
+title: P4A/Interface et contrôle
 ---
 
 # Commandes

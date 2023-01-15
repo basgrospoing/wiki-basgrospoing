@@ -1,12 +1,12 @@
 ---
-title: "Morrigan Aensland (TvC:UAS)"
-slug:  "Morrigan_Aensland_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-22'
 id: 552
-author: "Dan sakazaki"
-permalink: "morrigan-aensland-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
+layout: character.njk
+permalink: morrigan-aensland-tvc-uas.html
+slug: Morrigan_Aensland_(TvC:UAS)
+tags: character
+title: Morrigan Aensland (TvC:UAS)
 ---
 
 <img src="/images/Tvcmorrigan.jpg" title="/images/Tvcmorrigan.jpg"

@@ -1,12 +1,12 @@
 ---
-title: "Ken (Street Fighter Alpha 3)"
-slug:  "Ken_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-17'
 id: 1366
-author: "Tonio"
-permalink: "ken-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: ken-street-fighter-alpha-3.html
+slug: Ken_(Street_Fighter_Alpha_3)
+tags: character
+title: Ken (Street Fighter Alpha 3)
 ---
 
 <figure>

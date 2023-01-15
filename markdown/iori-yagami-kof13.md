@@ -1,12 +1,12 @@
 ---
-title: "Iori Yagami (kof13)"
-slug:  "Iori_Yagami_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1080
-author: "82.238.249.39"
-permalink: "iori-yagami-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: iori-yagami-kof13.html
+slug: Iori_Yagami_(kof13)
+tags: character
+title: Iori Yagami (kof13)
 ---
 
 ![Iori Yagami](/images/Iorikof13.gif "Iori Yagami") [Retour à la fiche

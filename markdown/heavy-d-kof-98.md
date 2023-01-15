@@ -1,12 +1,12 @@
 ---
-title: "Heavy D! (KoF '98)"
-slug:  "Heavy_D!_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 185
-author: "Corbeau Bleu"
-permalink: "heavy-d-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: heavy-d-kof-98.html
+slug: Heavy_D!_(KoF_'98)
+tags: character
+title: Heavy D! (KoF '98)
 ---
 
 ## Introduction

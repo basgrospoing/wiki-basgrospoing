@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Aoko Aozaki/Half Moon"
-slug:  "Melty_Blood/Aoko_Aozaki/Half_Moon"
+author: Sannos, Ninjigen
+date: '2014-12-21'
 id: 1742
-author: "Sannos"
-permalink: "melty-blood-aoko-aozaki-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-12-21"
+layout: character.njk
+permalink: melty-blood-aoko-aozaki-half-moon.html
+slug: Melty_Blood/Aoko_Aozaki/Half_Moon
+tags: character
+title: Melty Blood/Aoko Aozaki/Half Moon
 ---
 
 # Combos
@@ -216,5 +216,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

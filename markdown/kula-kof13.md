@@ -1,12 +1,12 @@
 ---
-title: "Kula (kof13)"
-slug:  "Kula_(kof13)"
+author: Maj, Sharnt, Lolo
+date: '2011-07-21'
 id: 1079
-author: "Maj"
-permalink: "kula-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-21"
+layout: character.njk
+permalink: kula-kof13.html
+slug: Kula_(kof13)
+tags: character
+title: Kula (kof13)
 ---
 
 ![Kula Diamond](/images/Kulakof13.gif "Kula Diamond")  

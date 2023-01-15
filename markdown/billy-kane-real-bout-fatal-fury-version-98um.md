@@ -1,12 +1,12 @@
 ---
-title: "Billy Kane (Real Bout Fatal Fury version) (98um)"
-slug:  "Billy_Kane_(Real_Bout_Fatal_Fury_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-09'
 id: 257
-author: "Corbeau Bleu"
-permalink: "billy-kane-real-bout-fatal-fury-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-09"
+layout: character.njk
+permalink: billy-kane-real-bout-fatal-fury-version-98um.html
+slug: Billy_Kane_(Real_Bout_Fatal_Fury_version)_(98um)
+tags: character
+title: Billy Kane (Real Bout Fatal Fury version) (98um)
 ---
 
 ## Introduction

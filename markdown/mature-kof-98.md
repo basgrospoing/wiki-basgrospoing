@@ -1,12 +1,12 @@
 ---
-title: "Mature (KoF '98)"
-slug:  "Mature_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 180
-author: "Corbeau Bleu"
-permalink: "mature-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: mature-kof-98.html
+slug: Mature_(KoF_'98)
+tags: character
+title: Mature (KoF '98)
 ---
 
 ## Introduction

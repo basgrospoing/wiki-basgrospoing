@@ -1,12 +1,12 @@
 ---
-title: "Goro Daimon (98um)"
-slug:  "Goro_Daimon_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 206
-author: "Corbeau Bleu"
-permalink: "goro-daimon-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: goro-daimon-98um.html
+slug: Goro_Daimon_(98um)
+tags: character
+title: Goro Daimon (98um)
 ---
 
 ## Introduction

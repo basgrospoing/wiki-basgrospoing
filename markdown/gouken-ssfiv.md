@@ -1,15 +1,13 @@
 ---
-title: "Gouken (SSFIV)"
-slug:  "Gouken_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 352
-author: "Atomskyu698"
-permalink: "gouken-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: gouken-ssfiv.html
+slug: Gouken_(SSFIV)
+tags: character
+title: Gouken (SSFIV)
 ---
-
-
 
 *You must defeat me to stand a chance !*
 

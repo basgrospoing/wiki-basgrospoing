@@ -1,14 +1,14 @@
 ---
-title: "P4A/Yu Narukami"
-slug:  "P4A/Yu_Narukami"
+author: Kabai
+date: '2012-08-06'
 id: 2643
-author: "Kabai"
-permalink: "p4a-yu-narukami.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Yu_Narukami"
+layout: character.njk
 old_id: 2652
+permalink: p4a-yu-narukami.html
+redirect: Yu_Narukami
+slug: P4A/Yu_Narukami
+tags: character
+title: P4A/Yu Narukami
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

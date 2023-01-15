@@ -1,12 +1,12 @@
 ---
-title: "Rachel Alucard (BBCS)"
-slug:  "Rachel_Alucard_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-11-23'
 id: 297
-author: "Achoral"
-permalink: "rachel-alucard-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-23"
+layout: character.njk
+permalink: rachel-alucard-bbcs.html
+slug: Rachel_Alucard_(BBCS)
+tags: character
+title: Rachel Alucard (BBCS)
 ---
 
 <figure>

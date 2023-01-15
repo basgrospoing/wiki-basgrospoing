@@ -1,12 +1,12 @@
 ---
-title: "Chang Koehan (KoF '98)"
-slug:  "Chang_Koehan_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 171
-author: "Corbeau Bleu"
-permalink: "chang-koehan-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: chang-koehan-kof-98.html
+slug: Chang_Koehan_(KoF_'98)
+tags: character
+title: Chang Koehan (KoF '98)
 ---
 
 ## Introduction

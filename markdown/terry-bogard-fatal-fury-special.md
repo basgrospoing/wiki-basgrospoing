@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (Fatal Fury Special)"
-slug:  "Terry_Bogard_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-24'
 id: 720
-author: "Dan sakazaki"
-permalink: "terry-bogard-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-24"
+layout: character.njk
+permalink: terry-bogard-fatal-fury-special.html
+slug: Terry_Bogard_(Fatal_Fury_Special)
+tags: character
+title: Terry Bogard (Fatal Fury Special)
 ---
 
 ![](/images/Ffspterry.PNG)  

@@ -1,12 +1,12 @@
 ---
-title: "Haggar (UMVC3)"
-slug:  "Haggar_(UMVC3)"
+author: ALX
+date: '2014-05-07'
 id: 2987
-author: "ALX"
-permalink: "haggar-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-07"
+layout: character.njk
+permalink: haggar-umvc3.html
+slug: Haggar_(UMVC3)
+tags: character
+title: Haggar (UMVC3)
 ---
 
 **EN TRAVAUX**

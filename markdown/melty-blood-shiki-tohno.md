@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Tohno"
-slug:  "Melty_Blood/Shiki_Tohno"
+author: Sannos, Ninjigen
+date: '2015-01-15'
 id: 1870
-author: "Sannos"
-permalink: "melty-blood-shiki-tohno.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-01-15"
+layout: character.njk
+permalink: melty-blood-shiki-tohno.html
+slug: Melty_Blood/Shiki_Tohno
+tags: character
+title: Melty Blood/Shiki Tohno
 ---
 
 - **Name:** Shiki Tohno (遠野 志貴)
@@ -85,5 +85,3 @@ distances ou un bon zoning
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

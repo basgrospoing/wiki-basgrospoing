@@ -1,14 +1,14 @@
 ---
-title: "Chris (2k2um)"
-slug:  "Chris_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-03'
 id: 50
-author: "Aerendir"
-permalink: "chris-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "Chris"
+layout: character.njk
 old_id: 99
+permalink: chris-2k2um.html
+redirect: Chris
+slug: Chris_(2k2um)
+tags: character
+title: Chris (2k2um)
 ---
 
 ## Introduction

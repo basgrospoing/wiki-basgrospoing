@@ -1,12 +1,12 @@
 ---
-title: "Trish (UMVC3)"
-slug:  "Trish_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3007
-author: "ALX"
-permalink: "trish-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: trish-umvc3.html
+slug: Trish_(UMVC3)
+tags: character
+title: Trish (UMVC3)
 ---
 
 **EN TRAVAUX**

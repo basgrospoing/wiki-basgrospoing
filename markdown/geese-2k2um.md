@@ -1,12 +1,12 @@
 ---
-title: "Geese (2k2um)"
-slug:  "Geese_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-03'
 id: 141
-author: "81.67.71.175"
-permalink: "geese-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
+layout: character.njk
+permalink: geese-2k2um.html
+slug: Geese_(2k2um)
+tags: character
+title: Geese (2k2um)
 ---
 
 ## Introduction

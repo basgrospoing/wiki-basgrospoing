@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Sie Kensou"
-slug:  "The_King_of_Fighters_XI_-_Sie_Kensou"
+author: Olivic
+date: '2011-06-09'
 id: 935
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-sie-kensou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-sie-kensou"
+layout: character.njk
 old_id: 936
+permalink: the-king-of-fighters-xi-sie-kensou.html
+redirect: Kofxi-sie-kensou
+slug: The_King_of_Fighters_XI_-_Sie_Kensou
+tags: character
+title: The King of Fighters XI - Sie Kensou
 ---
 
 ![](/images/kofxi-sie-kensou.jpg "/images/kofxi-sie-kensou.jpg")

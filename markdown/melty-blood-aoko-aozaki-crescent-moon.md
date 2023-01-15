@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Aoko Aozaki/Crescent Moon"
-slug:  "Melty_Blood/Aoko_Aozaki/Crescent_Moon"
+author: Toto, Ninjigen
+date: '2012-03-16'
 id: 1741
-author: "Toto"
-permalink: "melty-blood-aoko-aozaki-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-16"
+layout: character.njk
+permalink: melty-blood-aoko-aozaki-crescent-moon.html
+slug: Melty_Blood/Aoko_Aozaki/Crescent_Moon
+tags: character
+title: Melty Blood/Aoko Aozaki/Crescent Moon
 ---
 
 # Combos
@@ -255,5 +255,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

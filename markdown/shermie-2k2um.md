@@ -1,14 +1,14 @@
 ---
-title: "Shermie (2k2um)"
-slug:  "Shermie_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-09'
 id: 49
-author: "200.169.245.58"
-permalink: "shermie-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-09"
-redirect: "Shermie"
+layout: character.njk
 old_id: 100
+permalink: shermie-2k2um.html
+redirect: Shermie
+slug: Shermie_(2k2um)
+tags: character
+title: Shermie (2k2um)
 ---
 
 ## Introduction

@@ -1,14 +1,13 @@
 ---
-title: "Hwa Jai (kof13)"
-slug:  "Hwa_Jai_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1142
-author: "82.238.249.39"
-permalink: "hwa-jai-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: hwa-jai-kof13.html
+slug: Hwa_Jai_(kof13)
+tags: character
+title: Hwa Jai (kof13)
 ---
-
 
 ![Hwa Jai](/images/Hwakof13.gif "Hwa Jai")
 

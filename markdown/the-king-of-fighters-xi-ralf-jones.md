@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Ralf Jones"
-slug:  "The_King_of_Fighters_XI_-_Ralf_Jones"
+author: Olivic
+date: '2011-06-09'
 id: 941
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-ralf-jones.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-ralf-jones"
+layout: character.njk
 old_id: 942
+permalink: the-king-of-fighters-xi-ralf-jones.html
+redirect: Kofxi-ralf-jones
+slug: The_King_of_Fighters_XI_-_Ralf_Jones
+tags: character
+title: The King of Fighters XI - Ralf Jones
 ---
 
 ![](/images/kofxi-ralf-jones.jpg "/images/kofxi-ralf-jones.jpg")

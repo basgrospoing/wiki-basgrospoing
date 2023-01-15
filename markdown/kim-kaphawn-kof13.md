@@ -1,14 +1,13 @@
 ---
-title: "Kim Kaphawn (kof13)"
-slug:  "Kim_Kaphawn_(kof13)"
+author: Sharnt, Lolo
+date: '2011-07-27'
 id: 1139
-author: "Sharnt"
-permalink: "kim-kaphawn-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-27"
+layout: character.njk
+permalink: kim-kaphawn-kof13.html
+slug: Kim_Kaphawn_(kof13)
+tags: character
+title: Kim Kaphawn (kof13)
 ---
-
 
 ![Kim Kaphawn](/images/Kimkof13.gif "Kim Kaphawn")
 

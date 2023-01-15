@@ -1,14 +1,14 @@
 ---
-title: "Accueil"
-slug:  "index"
+author: Kabai, Koala77, Olivic, Jojozekil, Hynkel, Dahrcaro, Floodman, Izeniel, Dan
+  Sakazaki, Wolmar, Yolsgens
+date: '2014-01-09'
 id: 1
-author: "Admin"
-permalink: "index.html"
-layout: "index.njk"
-tags: "index"
-date: "2014-01-09"
+layout: index.njk
+permalink: index.html
+slug: index
+tags: index
+title: Accueil
 ---
-
 
 Bienvenue sur le Wiki [Bas Gros Poing](http://basgrospoing.fr/) Ce wiki
 est une encyclopédie en français regroupant le savoir technique associé

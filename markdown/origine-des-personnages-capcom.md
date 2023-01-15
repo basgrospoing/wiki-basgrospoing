@@ -1,12 +1,12 @@
 ---
-title: "Origine des Personnages (Capcom)"
-slug:  "Origine_des_Personnages_(Capcom)"
+author: Neithan
+date: '2014-01-10'
 id: 2768
-author: "Dan Sakazaki"
-permalink: "origine-des-personnages-capcom.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: origine-des-personnages-capcom.html
+slug: Origine_des_Personnages_(Capcom)
+tags: character
+title: Origine des Personnages (Capcom)
 ---
 
 Personnages Série / Jeu d' origine Nom occidental / français Année  
@@ -33,4 +33,4 @@ Kaijin no Soki 新 鬼武者 DAWN OF DREAMS (Shin Onimusha: Dawn of Dreams)
 Onimusha: Dawn of Dreams 2006  
 Yami 大神 Okami 2006  
 PTX-40A ロスト プラネット エクストリーム コンディション Lost Planet :
-Extreme Condition 2007  
+Extreme Condition 2007

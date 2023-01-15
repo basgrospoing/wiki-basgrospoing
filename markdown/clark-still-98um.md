@@ -1,12 +1,12 @@
 ---
-title: "Clark Still (98um)"
-slug:  "Clark_Still_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 215
-author: "Corbeau Bleu"
-permalink: "clark-still-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: clark-still-98um.html
+slug: Clark_Still_(98um)
+tags: character
+title: Clark Still (98um)
 ---
 
 ## Introduction

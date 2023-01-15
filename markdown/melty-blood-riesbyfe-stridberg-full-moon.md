@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Riesbyfe Stridberg/Full Moon"
-slug:  "Melty_Blood/Riesbyfe_Stridberg/Full_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1842
-author: "Ninjigen"
-permalink: "melty-blood-riesbyfe-stridberg-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-riesbyfe-stridberg-full-moon.html
+slug: Melty_Blood/Riesbyfe_Stridberg/Full_Moon
+tags: character
+title: Melty Blood/Riesbyfe Stridberg/Full Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

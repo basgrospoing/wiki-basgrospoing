@@ -1,12 +1,12 @@
 ---
-title: "Chris (UMVC3)"
-slug:  "Chris_(UMVC3)"
+author: ALX
+date: '2014-05-06'
 id: 2968
-author: "ALX"
-permalink: "chris-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-06"
+layout: character.njk
+permalink: chris-umvc3.html
+slug: Chris_(UMVC3)
+tags: character
+title: Chris (UMVC3)
 ---
 
 **EN TRAVAUX**

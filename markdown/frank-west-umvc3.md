@@ -1,12 +1,12 @@
 ---
-title: "Frank West (UMVC3)"
-slug:  "Frank_West_(UMVC3)"
+author: ALX
+date: '2014-05-07'
 id: 2986
-author: "ALX"
-permalink: "frank-west-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-07"
+layout: character.njk
+permalink: frank-west-umvc3.html
+slug: Frank_West_(UMVC3)
+tags: character
+title: Frank West (UMVC3)
 ---
 
 **EN TRAVAUX**

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood Actress Again Current Code"
-slug:  "Melty_Blood_Actress_Again_Current_Code"
+author: Zind, Ninjigen, Floodman
+date: '2012-07-24'
 id: 1708
-author: "Admin"
-permalink: "melty-blood-actress-again-current-code.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
+layout: game.njk
+permalink: melty-blood-actress-again-current-code.html
+slug: Melty_Blood_Actress_Again_Current_Code
+tags: game
+title: Melty Blood Actress Again Current Code
 ---
 
 ![](/images/Mbcc.jpg)

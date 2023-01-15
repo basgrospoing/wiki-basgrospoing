@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Nanaya/Crescent Moon"
-slug:  "Melty_Blood/Shiki_Nanaya/Crescent_Moon"
+author: Sannos, Naast, Ninjigen
+date: '2014-07-23'
 id: 1863
-author: "Sannos"
-permalink: "melty-blood-shiki-nanaya-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-shiki-nanaya-crescent-moon.html
+slug: Melty_Blood/Shiki_Nanaya/Crescent_Moon
+tags: character
+title: Melty Blood/Shiki Nanaya/Crescent Moon
 ---
 
 # Combos
@@ -451,5 +451,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

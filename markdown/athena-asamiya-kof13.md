@@ -1,14 +1,13 @@
 ---
-title: "Athena Asamiya (kof13)"
-slug:  "Athena_Asamiya_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1144
-author: "82.238.249.39"
-permalink: "athena-asamiya-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: athena-asamiya-kof13.html
+slug: Athena_Asamiya_(kof13)
+tags: character
+title: Athena Asamiya (kof13)
 ---
-
 
 ![Athena Asamiya](/images/Athenakof13.gif "Athena Asamiya")
 

@@ -1,12 +1,12 @@
 ---
-title: "Kyo Kusanagi (98um)"
-slug:  "Kyo_Kusanagi_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 205
-author: "Corbeau Bleu"
-permalink: "kyo-kusanagi-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: kyo-kusanagi-98um.html
+slug: Kyo_Kusanagi_(98um)
+tags: character
+title: Kyo Kusanagi (98um)
 ---
 
 ## Introduction

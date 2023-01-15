@@ -1,12 +1,12 @@
 ---
-title: "Ralf Jones (2k2um)"
-slug:  "Ralf_Jones_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 122
-author: "Admin"
-permalink: "ralf-jones-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
+layout: character.njk
+permalink: ralf-jones-2k2um.html
+slug: Ralf_Jones_(2k2um)
+tags: character
+title: Ralf Jones (2k2um)
 ---
 
 ## Introduction

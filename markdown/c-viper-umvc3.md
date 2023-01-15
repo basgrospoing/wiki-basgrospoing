@@ -1,12 +1,12 @@
 ---
-title: "C. Viper (UMVC3)"
-slug:  "C._Viper_(UMVC3)"
+author: ALX
+date: '2014-05-06'
 id: 2966
-author: "ALX"
-permalink: "c-viper-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-06"
+layout: character.njk
+permalink: c-viper-umvc3.html
+slug: C._Viper_(UMVC3)
+tags: character
+title: C. Viper (UMVC3)
 ---
 
 **EN TRAVAUX**

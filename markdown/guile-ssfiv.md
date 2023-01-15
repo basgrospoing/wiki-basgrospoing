@@ -1,15 +1,13 @@
 ---
-title: "Guile (SSFIV)"
-slug:  "Guile_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2151
-author: "Atomskyu698"
-permalink: "guile-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: guile-ssfiv.html
+slug: Guile_(SSFIV)
+tags: character
+title: Guile (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

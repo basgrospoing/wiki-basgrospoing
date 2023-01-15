@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshirō)"
-slug:  "Samurai_Shodown_IV_-_Kyoshiro_Senryo_(千両_狂死郎,_Senryō_Kyōshirō)"
+author: Olivic
+date: '2011-05-22'
 id: 650
-author: "Olivic"
-permalink: "samurai-shodown-iv-kyoshiro-senryo-senryo-kyoshiro.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Kyoshiro"
+layout: character.njk
 old_id: 667
+permalink: samurai-shodown-iv-kyoshiro-senryo-senryo-kyoshiro.html
+redirect: Ss4-Kyoshiro
+slug: Samurai_Shodown_IV_-_Kyoshiro_Senryo_(千両_狂死郎,_Senryō_Kyōshirō)
+tags: character
+title: Samurai Shodown IV - Kyoshiro Senryo (千両 狂死郎, Senryō Kyōshirō)
 ---
 
 ![](/images/ss4-Kyoshiro.gif "/images/ss4-Kyoshiro.gif")

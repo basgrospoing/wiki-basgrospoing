@@ -1,12 +1,12 @@
 ---
-title: "Ryo Sakazaki (98um)"
-slug:  "Ryo_Sakazaki_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 210
-author: "Corbeau Bleu"
-permalink: "ryo-sakazaki-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: ryo-sakazaki-98um.html
+slug: Ryo_Sakazaki_(98um)
+tags: character
+title: Ryo Sakazaki (98um)
 ---
 
 ## Introduction

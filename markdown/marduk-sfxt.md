@@ -1,15 +1,13 @@
 ---
-title: "Marduk (SFxT)"
-slug:  "Marduk_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2192
-author: "Hynkel"
-permalink: "marduk-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: marduk-sfxt.html
+slug: Marduk_(SFxT)
+tags: character
+title: Marduk (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

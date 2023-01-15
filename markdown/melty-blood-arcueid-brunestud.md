@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Arcueid Brunestud"
-slug:  "Melty_Blood/Arcueid_Brunestud"
+author: Oufan, Sannos, Kabai, Ninjigen
+date: '2014-04-29'
 id: 1750
-author: "Oufan"
-permalink: "melty-blood-arcueid-brunestud.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-arcueid-brunestud.html
+slug: Melty_Blood/Arcueid_Brunestud
+tags: character
+title: Melty Blood/Arcueid Brunestud
 ---
 
 - **Name:** Arcueid Brunestud (アルクェイド・ブリュ
@@ -74,5 +74,3 @@ Des coups plus lents, mais avec plus de portées.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

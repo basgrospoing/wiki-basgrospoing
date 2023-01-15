@@ -1,12 +1,12 @@
 ---
-title: "Geese Howard (Fatal Fury Special)"
-slug:  "Geese_Howard_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-11'
 id: 748
-author: "Dan sakazaki"
-permalink: "geese-howard-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-11"
+layout: character.njk
+permalink: geese-howard-fatal-fury-special.html
+slug: Geese_Howard_(Fatal_Fury_Special)
+tags: character
+title: Geese Howard (Fatal Fury Special)
 ---
 
 ![](/images/Ffspgeese.PNG)  

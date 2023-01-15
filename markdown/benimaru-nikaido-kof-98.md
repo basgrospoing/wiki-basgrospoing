@@ -1,12 +1,12 @@
 ---
-title: "Benimaru Nikaido (KoF '98)"
-slug:  "Benimaru_Nikaido_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 154
-author: "Corbeau Bleu"
-permalink: "benimaru-nikaido-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: benimaru-nikaido-kof-98.html
+slug: Benimaru_Nikaido_(KoF_'98)
+tags: character
+title: Benimaru Nikaido (KoF '98)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "EX Robert (2k2um)"
-slug:  "EX_Robert_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 145
-author: "Corbeau Bleu"
-permalink: "ex-robert-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: ex-robert-2k2um.html
+slug: EX_Robert_(2k2um)
+tags: character
+title: EX Robert (2k2um)
 ---
 
 ## Introduction

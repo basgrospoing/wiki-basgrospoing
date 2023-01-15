@@ -1,12 +1,12 @@
 ---
-title: "Ryo Sakazaki (kof13)"
-slug:  "Ryo_Sakazaki_(kof13)"
+author: Lolo
+date: '2011-07-19'
 id: 1075
-author: "Lolo"
-permalink: "ryo-sakazaki-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-19"
+layout: character.njk
+permalink: ryo-sakazaki-kof13.html
+slug: Ryo_Sakazaki_(kof13)
+tags: character
+title: Ryo Sakazaki (kof13)
 ---
 
 ![Ryo Sakazaki](/images/Ryokof13.gif "Ryo Sakazaki")

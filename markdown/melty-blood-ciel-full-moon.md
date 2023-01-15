@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Ciel/Full Moon"
-slug:  "Melty_Blood/Ciel/Full_Moon"
+author: Ninjigen
+date: '2012-01-20'
 id: 1762
-author: "Ninjigen"
-permalink: "melty-blood-ciel-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-20"
+layout: character.njk
+permalink: melty-blood-ciel-full-moon.html
+slug: Melty_Blood/Ciel/Full_Moon
+tags: character
+title: Melty Blood/Ciel/Full Moon
 ---
 
 # Combos
@@ -201,5 +201,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

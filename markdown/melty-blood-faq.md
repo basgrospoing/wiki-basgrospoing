@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/FAQ"
-slug:  "Melty_Blood/FAQ"
+author: Zind, Ninjigen, Floodman
+date: '2012-01-17'
 id: 1710
-author: "Zind"
-permalink: "melty-blood-faq.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-faq.html
+slug: Melty_Blood/FAQ
+tags: character
+title: Melty Blood/FAQ
 ---
 
 ## Généralités
@@ -80,5 +80,3 @@ d'autres avantages. Pour plus d'infos, allez sur Melty Blood/Moons.
 Traduit de l'anglais depuis le [http://wiki.mizuumi.net/w/Melty_Blood
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_wiki_mizuumi)
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Street Fighter Alpha 3"
-slug:  "Street_Fighter_Alpha_3"
+author: Tonio
+date: '2014-01-09'
 id: 1025
-author: "Tonio"
-permalink: "street-fighter-alpha-3.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-01-09"
+layout: game.njk
+permalink: street-fighter-alpha-3.html
+slug: Street_Fighter_Alpha_3
+tags: game
+title: Street Fighter Alpha 3
 ---
 
 ![](/images/Street_Fighter_Alpha_3_Logo.png "/images/Street_Fighter_Alpha_3_Logo.png")

@@ -1,15 +1,13 @@
 ---
-title: "Blanka (SSFIV)"
-slug:  "Blanka_(SSFIV)"
+author: Atomskyu, TheMeth90
+date: '2014-05-09'
 id: 2145
-author: "Atomskyu698"
-permalink: "blanka-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: blanka-ssfiv.html
+slug: Blanka_(SSFIV)
+tags: character
+title: Blanka (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

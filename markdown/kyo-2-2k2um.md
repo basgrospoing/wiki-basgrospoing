@@ -1,12 +1,12 @@
 ---
-title: "Kyo-2 (2k2um)"
-slug:  "Kyo-2_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 140
-author: "Corbeau Bleu"
-permalink: "kyo-2-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
+layout: character.njk
+permalink: kyo-2-2k2um.html
+slug: Kyo-2_(2k2um)
+tags: character
+title: Kyo-2 (2k2um)
 ---
 
 ## Introduction

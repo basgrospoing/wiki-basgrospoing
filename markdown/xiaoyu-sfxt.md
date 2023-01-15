@@ -1,15 +1,13 @@
 ---
-title: "Xiaoyu (SFxT)"
-slug:  "Xiaoyu_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2198
-author: "Hynkel"
-permalink: "xiaoyu-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: xiaoyu-sfxt.html
+slug: Xiaoyu_(SFxT)
+tags: character
+title: Xiaoyu (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

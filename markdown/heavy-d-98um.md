@@ -1,12 +1,12 @@
 ---
-title: "Heavy D! (98um)"
-slug:  "Heavy_D!_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 237
-author: "Corbeau Bleu"
-permalink: "heavy-d-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: heavy-d-98um.html
+slug: Heavy_D!_(98um)
+tags: character
+title: Heavy D! (98um)
 ---
 
 ## Introduction

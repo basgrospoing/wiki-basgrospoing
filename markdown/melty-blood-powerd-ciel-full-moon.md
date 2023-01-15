@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Powerd Ciel/Full Moon"
-slug:  "Melty_Blood/Powerd_Ciel/Full_Moon"
+author: Sannos, Ninjigen
+date: '2015-01-17'
 id: 1833
-author: "Sannos"
-permalink: "melty-blood-powerd-ciel-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-01-17"
+layout: character.njk
+permalink: melty-blood-powerd-ciel-full-moon.html
+slug: Melty_Blood/Powerd_Ciel/Full_Moon
+tags: character
+title: Melty Blood/Powerd Ciel/Full Moon
 ---
 
 # Combos
@@ -200,5 +200,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,14 +1,14 @@
 ---
-title: "Laurence Blood (Fatal Fury Special)"
-slug:  "Laurence_Blood_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-10'
 id: 745
-author: "Dan sakazaki"
-permalink: "laurence-blood-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-10"
-redirect: "Laurence_Blood(Fatal_Fury_Special)"
+layout: character.njk
 old_id: 746
+permalink: laurence-blood-fatal-fury-special.html
+redirect: Laurence_Blood(Fatal_Fury_Special)
+slug: Laurence_Blood_(Fatal_Fury_Special)
+tags: character
+title: Laurence Blood (Fatal Fury Special)
 ---
 
 ![](/images/Ffsplaurence.PNG)  

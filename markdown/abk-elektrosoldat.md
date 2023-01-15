@@ -1,12 +1,12 @@
 ---
-title: "ABK/Elektrosoldat"
-slug:  "ABK/Elektrosoldat"
+author: Kabai
+date: '2012-04-27'
 id: 2270
-author: "Kabai"
-permalink: "abk-elektrosoldat.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-elektrosoldat.html
+slug: ABK/Elektrosoldat
+tags: character
+title: ABK/Elektrosoldat
 ---
 
 ![](/images/Elektrosoldat.jpg "/images/Elektrosoldat.jpg")

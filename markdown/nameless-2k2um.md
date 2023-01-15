@@ -1,14 +1,14 @@
 ---
-title: "Nameless (2k2um)"
-slug:  "Nameless_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-03'
 id: 59
-author: "81.67.71.175"
-permalink: "nameless-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "K9999"
+layout: character.njk
 old_id: 109
+permalink: nameless-2k2um.html
+redirect: K9999
+slug: Nameless_(2k2um)
+tags: character
+title: Nameless (2k2um)
 ---
 
 ## Introduction

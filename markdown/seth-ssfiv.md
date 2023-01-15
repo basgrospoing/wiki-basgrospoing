@@ -1,15 +1,13 @@
 ---
-title: "Seth (SSFIV)"
-slug:  "Seth_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 369
-author: "Atomskyu698"
-permalink: "seth-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: seth-ssfiv.html
+slug: Seth_(SSFIV)
+tags: character
+title: Seth (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

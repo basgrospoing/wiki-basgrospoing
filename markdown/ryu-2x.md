@@ -1,12 +1,12 @@
 ---
-title: "Ryu (2X)"
-slug:  "Ryu_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 460
-author: "Wolmar"
-permalink: "ryu-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: ryu-2x.html
+slug: Ryu_(2X)
+tags: character
+title: Ryu (2X)
 ---
 
 ## Introduction

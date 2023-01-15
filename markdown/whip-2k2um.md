@@ -1,14 +1,14 @@
 ---
-title: "Whip (2k2um)"
-slug:  "Whip_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 53
-author: "Admin"
-permalink: "whip-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Whip"
+layout: character.njk
 old_id: 104
+permalink: whip-2k2um.html
+redirect: Whip
+slug: Whip_(2k2um)
+tags: character
+title: Whip (2k2um)
 ---
 
 ## Introduction

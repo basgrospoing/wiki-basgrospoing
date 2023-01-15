@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno"
-slug:  "Melty_Blood/Akiha_Tohno"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1719
-author: "Sannos"
-permalink: "melty-blood-akiha-tohno.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-akiha-tohno.html
+slug: Melty_Blood/Akiha_Tohno
+tags: character
+title: Melty Blood/Akiha Tohno
 ---
 
 - **Name:** Akiha Tohno (遠野秋葉)
@@ -118,5 +118,3 @@ adversaire en l'air sur toute la hauteur de l'écran.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

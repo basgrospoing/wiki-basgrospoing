@@ -1,14 +1,14 @@
 ---
-title: "Billy Kane (2k2um)"
-slug:  "Billy_Kane_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 47
-author: "Admin"
-permalink: "billy-kane-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Billy_Kane"
+layout: character.njk
 old_id: 96
+permalink: billy-kane-2k2um.html
+redirect: Billy_Kane
+slug: Billy_Kane_(2k2um)
+tags: character
+title: Billy Kane (2k2um)
 ---
 
 ## Introduction

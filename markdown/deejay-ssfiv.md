@@ -1,15 +1,13 @@
 ---
-title: "Deejay (SSFIV)"
-slug:  "Deejay_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 372
-author: "Atomskyu698"
-permalink: "deejay-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: deejay-ssfiv.html
+slug: Deejay_(SSFIV)
+tags: character
+title: Deejay (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

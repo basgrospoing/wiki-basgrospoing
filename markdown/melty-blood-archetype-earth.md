@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Archetype: Earth"
-slug:  "Melty_Blood/Archetype:_Earth"
+author: Oufan, Sannos, Naast, Ninjigen
+date: '2014-04-29'
 id: 1745
-author: "Oufan"
-permalink: "melty-blood-archetype-earth.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-archetype-earth.html
+slug: Melty_Blood/Archetype:_Earth
+tags: character
+title: 'Melty Blood/Archetype: Earth'
 ---
 
 - **Nom:**   Archetype:Earth (真祖アルクエイド)
@@ -60,5 +60,3 @@ Personnage longue distance
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

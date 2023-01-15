@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Len/Half Moon"
-slug:  "Melty_Blood/Len/Half_Moon"
+author: Oufan, Ninjigen
+date: '2012-08-10'
 id: 1795
-author: "Oufan"
-permalink: "melty-blood-len-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-10"
+layout: character.njk
+permalink: melty-blood-len-half-moon.html
+slug: Melty_Blood/Len/Half_Moon
+tags: character
+title: Melty Blood/Len/Half Moon
 ---
 
 # Combos
@@ -191,5 +191,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

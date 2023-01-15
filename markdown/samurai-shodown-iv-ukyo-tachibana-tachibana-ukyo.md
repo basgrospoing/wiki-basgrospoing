@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)"
-slug:  "Samurai_Shodown_IV_-_Ukyo_Tachibana_(橘_右京,_Tachibana_Ukyō)"
+author: Olivic
+date: '2011-05-22'
 id: 646
-author: "Olivic"
-permalink: "samurai-shodown-iv-ukyo-tachibana-tachibana-ukyo.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Ukyo"
+layout: character.njk
 old_id: 664
+permalink: samurai-shodown-iv-ukyo-tachibana-tachibana-ukyo.html
+redirect: Ss4-Ukyo
+slug: Samurai_Shodown_IV_-_Ukyo_Tachibana_(橘_右京,_Tachibana_Ukyō)
+tags: character
+title: Samurai Shodown IV - Ukyo Tachibana (橘 右京, Tachibana Ukyō)
 ---
 
 ![](/images/ss4-Ukyo.gif "/images/ss4-Ukyo.gif")

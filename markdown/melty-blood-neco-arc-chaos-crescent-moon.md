@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Neco Arc Chaos/Crescent Moon"
-slug:  "Melty_Blood/Neco_Arc_Chaos/Crescent_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1821
-author: "Ninjigen"
-permalink: "melty-blood-neco-arc-chaos-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-neco-arc-chaos-crescent-moon.html
+slug: Melty_Blood/Neco_Arc_Chaos/Crescent_Moon
+tags: character
+title: Melty Blood/Neco Arc Chaos/Crescent Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

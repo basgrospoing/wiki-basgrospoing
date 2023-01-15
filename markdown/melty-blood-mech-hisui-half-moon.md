@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Mech-Hisui/Half Moon"
-slug:  "Melty_Blood/Mech-Hisui/Half_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1802
-author: "Oufan"
-permalink: "melty-blood-mech-hisui-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-mech-hisui-half-moon.html
+slug: Melty_Blood/Mech-Hisui/Half_Moon
+tags: character
+title: Melty Blood/Mech-Hisui/Half Moon
 ---
 
 # Combos
@@ -201,5 +201,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

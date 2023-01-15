@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (Real Bout Fatal Fury version) (98um)"
-slug:  "Terry_Bogard_(Real_Bout_Fatal_Fury_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 251
-author: "Corbeau Bleu"
-permalink: "terry-bogard-real-bout-fatal-fury-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: terry-bogard-real-bout-fatal-fury-version-98um.html
+slug: Terry_Bogard_(Real_Bout_Fatal_Fury_version)_(98um)
+tags: character
+title: Terry Bogard (Real Bout Fatal Fury version) (98um)
 ---
 
 ## Introduction

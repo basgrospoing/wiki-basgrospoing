@@ -1,12 +1,12 @@
 ---
-title: "Joe Higashi (98um)"
-slug:  "Joe_Higashi_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 209
-author: "Corbeau Bleu"
-permalink: "joe-higashi-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: joe-higashi-98um.html
+slug: Joe_Higashi_(98um)
+tags: character
+title: Joe Higashi (98um)
 ---
 
 ## Introduction

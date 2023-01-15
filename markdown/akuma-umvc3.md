@@ -1,12 +1,12 @@
 ---
-title: "Akuma (UMVC3)"
-slug:  "Akuma_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2959
-author: "ALX"
-permalink: "akuma-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: akuma-umvc3.html
+slug: Akuma_(UMVC3)
+tags: character
+title: Akuma (UMVC3)
 ---
 
 **EN TRAVAUX**

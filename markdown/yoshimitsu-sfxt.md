@@ -1,15 +1,13 @@
 ---
-title: "Yoshimitsu (SFxT)"
-slug:  "Yoshimitsu_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2199
-author: "Hynkel"
-permalink: "yoshimitsu-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: yoshimitsu-sfxt.html
+slug: Yoshimitsu_(SFxT)
+tags: character
+title: Yoshimitsu (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

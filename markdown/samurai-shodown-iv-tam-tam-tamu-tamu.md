@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)"
-slug:  "Samurai_Shodown_IV_-_Tam_Tam_(タムタム,_Tamu_Tamu)"
+author: Olivic
+date: '2011-05-22'
 id: 636
-author: "Olivic"
-permalink: "samurai-shodown-iv-tam-tam-tamu-tamu.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-TamTam"
+layout: character.njk
 old_id: 654
+permalink: samurai-shodown-iv-tam-tam-tamu-tamu.html
+redirect: Ss4-TamTam
+slug: Samurai_Shodown_IV_-_Tam_Tam_(タムタム,_Tamu_Tamu)
+tags: character
+title: Samurai Shodown IV - Tam Tam (タムタム, Tamu Tamu)
 ---
 
 ![](/images/ss4-TamTam.gif "/images/ss4-TamTam.gif")

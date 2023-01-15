@@ -1,12 +1,12 @@
 ---
-title: "Viewtiful Joe (TvC:UAS)"
-slug:  "Viewtiful_Joe_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 551
-author: "Dan sakazaki"
-permalink: "viewtiful-joe-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: viewtiful-joe-tvc-uas.html
+slug: Viewtiful_Joe_(TvC:UAS)
+tags: character
+title: Viewtiful Joe (TvC:UAS)
 ---
 
 <img src="/images/Viewtiful-joe.jpg" title="/images/Viewtiful-joe.jpg"

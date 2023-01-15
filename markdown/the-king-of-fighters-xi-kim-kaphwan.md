@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Kim Kaphwan"
-slug:  "The_King_of_Fighters_XI_-_Kim_Kaphwan"
+author: Olivic
+date: '2011-06-09'
 id: 945
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-kim-kaphwan.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-kim-kaphwan"
+layout: character.njk
 old_id: 946
+permalink: the-king-of-fighters-xi-kim-kaphwan.html
+redirect: Kofxi-kim-kaphwan
+slug: The_King_of_Fighters_XI_-_Kim_Kaphwan
+tags: character
+title: The King of Fighters XI - Kim Kaphwan
 ---
 
 ![](/images/kofxi-kim-kaphwan.jpg "/images/kofxi-kim-kaphwan.jpg")

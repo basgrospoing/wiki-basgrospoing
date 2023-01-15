@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Bonne Jenet"
-slug:  "The_King_of_Fighters_XI_-_Bonne_Jenet"
+author: Olivic
+date: '2011-06-09'
 id: 899
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-bonne-jenet.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-bonne-jenet"
+layout: character.njk
 old_id: 900
+permalink: the-king-of-fighters-xi-bonne-jenet.html
+redirect: Kofxi-bonne-jenet
+slug: The_King_of_Fighters_XI_-_Bonne_Jenet
+tags: character
+title: The King of Fighters XI - Bonne Jenet
 ---
 
 ![](/images/kofxi-bonne-jenet.jpg "/images/kofxi-bonne-jenet.jpg")

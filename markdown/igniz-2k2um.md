@@ -1,12 +1,12 @@
 ---
-title: "Igniz (2k2um)"
-slug:  "Igniz_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 115
-author: "Corbeau Bleu"
-permalink: "igniz-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
+layout: character.njk
+permalink: igniz-2k2um.html
+slug: Igniz_(2k2um)
+tags: character
+title: Igniz (2k2um)
 ---
 
 ## Introduction

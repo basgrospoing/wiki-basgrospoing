@@ -1,12 +1,12 @@
 ---
-title: "Choi Bounge (98um)"
-slug:  "Choi_Bounge_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 224
-author: "Corbeau Bleu"
-permalink: "choi-bounge-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: choi-bounge-98um.html
+slug: Choi_Bounge_(98um)
+tags: character
+title: Choi Bounge (98um)
 ---
 
 ## Introduction

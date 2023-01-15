@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Changelist"
-slug:  "Melty_Blood/Changelist"
+author: Ninjigen
+date: '2012-01-17'
 id: 1718
-author: "Ninjigen"
-permalink: "melty-blood-changelist.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-changelist.html
+slug: Melty_Blood/Changelist
+tags: character
+title: Melty Blood/Changelist
 ---
 
 A venir \~

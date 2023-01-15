@@ -1,12 +1,12 @@
 ---
-title: "Arakune (BBCS)"
-slug:  "Arakune_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-02'
 id: 291
-author: "Achoral"
-permalink: "arakune-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-02"
+layout: character.njk
+permalink: arakune-bbcs.html
+slug: Arakune_(BBCS)
+tags: character
+title: Arakune (BBCS)
 ---
 
 <figure>

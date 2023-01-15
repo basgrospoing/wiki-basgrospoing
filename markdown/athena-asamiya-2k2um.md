@@ -1,12 +1,12 @@
 ---
-title: "Athena Asamiya (2k2um)"
-slug:  "Athena_Asamiya_(2k2um)"
+author: Hynkel, Corbeau Bleu
+date: '2010-11-24'
 id: 125
-author: "Hynkel"
-permalink: "athena-asamiya-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-24"
+layout: character.njk
+permalink: athena-asamiya-2k2um.html
+slug: Athena_Asamiya_(2k2um)
+tags: character
+title: Athena Asamiya (2k2um)
 ---
 
 ## Introduction

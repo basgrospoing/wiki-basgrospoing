@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Archetype Earth/Crescent Moon"
-slug:  "Melty_Blood/Archetype_Earth/Crescent_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1747
-author: "Ninjigen"
-permalink: "melty-blood-archetype-earth-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-archetype-earth-crescent-moon.html
+slug: Melty_Blood/Archetype_Earth/Crescent_Moon
+tags: character
+title: Melty Blood/Archetype Earth/Crescent Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

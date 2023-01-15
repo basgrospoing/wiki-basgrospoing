@@ -1,15 +1,13 @@
 ---
-title: "Akuma (SFxT)"
-slug:  "Akuma_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2163
-author: "Hynkel"
-permalink: "akuma-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: akuma-sfxt.html
+slug: Akuma_(SFxT)
+tags: character
+title: Akuma (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Links"
-slug:  "Melty_Blood/Links"
+author: Naast, Ninjigen
+date: '2012-01-17'
 id: 1717
-author: "Naast"
-permalink: "melty-blood-links.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-links.html
+slug: Melty_Blood/Links
+tags: character
+title: Melty Blood/Links
 ---
 
 ### Sites
@@ -35,5 +35,3 @@ les videos
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

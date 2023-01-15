@@ -1,12 +1,12 @@
 ---
-title: "Morrigan (UMVC3)"
-slug:  "Morrigan_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2994
-author: "ALX"
-permalink: "morrigan-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: morrigan-umvc3.html
+slug: Morrigan_(UMVC3)
+tags: character
+title: Morrigan (UMVC3)
 ---
 
 **EN TRAVAUX**

@@ -1,12 +1,12 @@
 ---
-title: "Ryu (UMVC3)"
-slug:  "Ryu_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 3000
-author: "ALX"
-permalink: "ryu-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: ryu-umvc3.html
+slug: Ryu_(UMVC3)
+tags: character
+title: Ryu (UMVC3)
 ---
 
 **EN TRAVAUX**

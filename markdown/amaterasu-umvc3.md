@@ -1,12 +1,12 @@
 ---
-title: "Amaterasu (UMVC3)"
-slug:  "Amaterasu_(UMVC3)"
+author: ALX
+date: '2014-05-06'
 id: 2962
-author: "ALX"
-permalink: "amaterasu-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-06"
+layout: character.njk
+permalink: amaterasu-umvc3.html
+slug: Amaterasu_(UMVC3)
+tags: character
+title: Amaterasu (UMVC3)
 ---
 
 **EN TRAVAUX**

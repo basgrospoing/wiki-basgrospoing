@@ -1,15 +1,13 @@
 ---
-title: "Chun-Li (SSFIV)"
-slug:  "Chun-Li_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 364
-author: "Atomskyu698"
-permalink: "chun-li-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: chun-li-ssfiv.html
+slug: Chun-Li_(SSFIV)
+tags: character
+title: Chun-Li (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

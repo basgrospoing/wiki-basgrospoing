@@ -1,12 +1,12 @@
 ---
-title: "Zero (TvC:UAS)"
-slug:  "Zero_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 531
-author: "Dan sakazaki"
-permalink: "zero-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: zero-tvc-uas.html
+slug: Zero_(TvC:UAS)
+tags: character
+title: Zero (TvC:UAS)
 ---
 
 <img src="/images/Zero.jpg" title="/images/Zero.jpg" width="250"

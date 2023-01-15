@@ -1,12 +1,12 @@
 ---
-title: "Eiji Kisaragi (98um)"
-slug:  "Eiji_Kisaragi_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 247
-author: "Corbeau Bleu"
-permalink: "eiji-kisaragi-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: eiji-kisaragi-98um.html
+slug: Eiji_Kisaragi_(98um)
+tags: character
+title: Eiji Kisaragi (98um)
 ---
 
 ## Introduction

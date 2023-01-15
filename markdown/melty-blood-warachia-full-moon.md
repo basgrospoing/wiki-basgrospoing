@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Warachia/Full Moon"
-slug:  "Melty_Blood/Warachia/Full_Moon"
+author: Aryth, Ninjigen
+date: '2012-03-07'
 id: 1891
-author: "78.241.53.170"
-permalink: "melty-blood-warachia-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-07"
+layout: character.njk
+permalink: melty-blood-warachia-full-moon.html
+slug: Melty_Blood/Warachia/Full_Moon
+tags: character
+title: Melty Blood/Warachia/Full Moon
 ---
 
 # Combos
@@ -240,5 +240,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

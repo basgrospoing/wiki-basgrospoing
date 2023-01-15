@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Ash Crimson"
-slug:  "The_King_of_Fighters_XI_-_Ash_Crimson"
+author: Olivic
+date: '2011-06-09'
 id: 897
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-ash-crimson.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-ash-crimson"
+layout: character.njk
 old_id: 898
+permalink: the-king-of-fighters-xi-ash-crimson.html
+redirect: Kofxi-ash-crimson
+slug: The_King_of_Fighters_XI_-_Ash_Crimson
+tags: character
+title: The King of Fighters XI - Ash Crimson
 ---
 
 ![](/images/kofxi-ash-crimson.jpg "/images/kofxi-ash-crimson.jpg")

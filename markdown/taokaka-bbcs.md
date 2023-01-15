@@ -1,12 +1,12 @@
 ---
-title: "Taokaka (BBCS)"
-slug:  "Taokaka_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-09'
 id: 295
-author: "Achoral"
-permalink: "taokaka-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-09"
+layout: character.njk
+permalink: taokaka-bbcs.html
+slug: Taokaka_(BBCS)
+tags: character
+title: Taokaka (BBCS)
 ---
 
 <figure>

@@ -1,15 +1,13 @@
 ---
-title: "Vega (SFxT)"
-slug:  "Vega_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2179
-author: "Hynkel"
-permalink: "vega-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: vega-sfxt.html
+slug: Vega_(SFxT)
+tags: character
+title: Vega (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

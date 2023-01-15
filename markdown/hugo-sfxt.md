@@ -1,15 +1,13 @@
 ---
-title: "Hugo (SFxT)"
-slug:  "Hugo_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2169
-author: "Hynkel"
-permalink: "hugo-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: hugo-sfxt.html
+slug: Hugo_(SFxT)
+tags: character
+title: Hugo (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

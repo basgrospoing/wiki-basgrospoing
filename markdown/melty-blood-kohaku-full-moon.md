@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kohaku/Full Moon"
-slug:  "Melty_Blood/Kohaku/Full_Moon"
+author: Sannos, Ninjigen
+date: '2014-02-25'
 id: 1779
-author: "Sannos"
-permalink: "melty-blood-kohaku-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-02-25"
+layout: character.njk
+permalink: melty-blood-kohaku-full-moon.html
+slug: Melty_Blood/Kohaku/Full_Moon
+tags: character
+title: Melty Blood/Kohaku/Full Moon
 ---
 
 # Combos
@@ -206,5 +206,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

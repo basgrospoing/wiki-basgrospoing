@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Yuri Sakazaki"
-slug:  "The_King_of_Fighters_XI_-_Yuri_Sakazaki"
+author: Olivic
+date: '2011-06-09'
 id: 931
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-yuri-sakazaki.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-yuri-sakazaki"
+layout: character.njk
 old_id: 932
+permalink: the-king-of-fighters-xi-yuri-sakazaki.html
+redirect: Kofxi-yuri-sakazaki
+slug: The_King_of_Fighters_XI_-_Yuri_Sakazaki
+tags: character
+title: The King of Fighters XI - Yuri Sakazaki
 ---
 
 ![](/images/kofxi-yuri-sakazaki.jpg "/images/kofxi-yuri-sakazaki.jpg")

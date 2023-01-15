@@ -1,12 +1,12 @@
 ---
-title: "Grant (Garou)"
-slug:  "Grant_(Garou)"
+author: Sharnt, Aerendir, Olivic, Corbeau Bleu
+date: '2011-06-12'
 id: 18
-author: "82.67.45.176"
-permalink: "grant-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-12"
+layout: character.njk
+permalink: grant-garou.html
+slug: Grant_(Garou)
+tags: character
+title: Grant (Garou)
 ---
 
 ![](/images/vignette.png "/images/vignette.png")

@@ -1,12 +1,12 @@
 ---
-title: "Orochi Shermie (98um)"
-slug:  "Orochi_Shermie_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 245
-author: "Corbeau Bleu"
-permalink: "orochi-shermie-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: orochi-shermie-98um.html
+slug: Orochi_Shermie_(98um)
+tags: character
+title: Orochi Shermie (98um)
 ---
 
 ## Introduction

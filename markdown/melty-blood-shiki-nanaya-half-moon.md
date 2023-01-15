@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Nanaya/Half Moon"
-slug:  "Melty_Blood/Shiki_Nanaya/Half_Moon"
+author: Sannos, Ninjigen
+date: '2015-01-15'
 id: 1862
-author: "Sannos"
-permalink: "melty-blood-shiki-nanaya-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-01-15"
+layout: character.njk
+permalink: melty-blood-shiki-nanaya-half-moon.html
+slug: Melty_Blood/Shiki_Nanaya/Half_Moon
+tags: character
+title: Melty Blood/Shiki Nanaya/Half Moon
 ---
 
 # Combos
@@ -261,5 +261,3 @@ actives. Est imblocable.</li>
 </tr>
 </tbody>
 </table>
-
-

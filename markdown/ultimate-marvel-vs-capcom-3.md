@@ -1,12 +1,12 @@
 ---
-title: "Ultimate Marvel vs Capcom 3"
-slug:  "Ultimate_Marvel_vs_Capcom_3"
+author: ALX
+date: '2014-05-06'
 id: 2707
-author: "ALX"
-permalink: "ultimate-marvel-vs-capcom-3.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-05-06"
+layout: game.njk
+permalink: ultimate-marvel-vs-capcom-3.html
+slug: Ultimate_Marvel_vs_Capcom_3
+tags: game
+title: Ultimate Marvel vs Capcom 3
 ---
 
 ![](/images/Umvc3logo.png "/images/Umvc3logo.png")

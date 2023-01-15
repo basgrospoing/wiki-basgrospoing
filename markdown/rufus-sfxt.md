@@ -1,15 +1,13 @@
 ---
-title: "Rufus (SFxT)"
-slug:  "Rufus_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2176
-author: "Hynkel"
-permalink: "rufus-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: rufus-sfxt.html
+slug: Rufus_(SFxT)
+tags: character
+title: Rufus (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

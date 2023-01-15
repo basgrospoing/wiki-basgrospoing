@@ -1,12 +1,12 @@
 ---
-title: "ABK/Kanae"
-slug:  "ABK/Kanae"
+author: Kabai
+date: '2012-04-27'
 id: 2265
-author: "Kabai"
-permalink: "abk-kanae.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-kanae.html
+slug: ABK/Kanae
+tags: character
+title: ABK/Kanae
 ---
 
 ![](/images/Kanae_ABK.jpg "/images/Kanae_ABK.jpg")

@@ -1,12 +1,12 @@
 ---
-title: "ABK/Blitztank"
-slug:  "ABK/Blitztank"
+author: Kabai
+date: '2012-04-27'
 id: 2271
-author: "Kabai"
-permalink: "abk-blitztank.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-blitztank.html
+slug: ABK/Blitztank
+tags: character
+title: ABK/Blitztank
 ---
 
 ![](/images/Blitztank.jpg "/images/Blitztank.jpg")

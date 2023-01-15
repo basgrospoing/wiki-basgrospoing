@@ -1,12 +1,12 @@
 ---
-title: "Kain R. Heinlein (Garou)"
-slug:  "Kain_R._Heinlein_(Garou)"
+author: Aerendir, Sharnt, Olivic, Timmytheturtle, Corbeau Bleu
+date: '2011-06-28'
 id: 17
-author: "Aerendir"
-permalink: "kain-r-heinlein-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-28"
+layout: character.njk
+permalink: kain-r-heinlein-garou.html
+slug: Kain_R._Heinlein_(Garou)
+tags: character
+title: Kain R. Heinlein (Garou)
 ---
 
 ![](/images/KainRHeinlein_win_portrait.gif "/images/KainRHeinlein_win_portrait.gif")

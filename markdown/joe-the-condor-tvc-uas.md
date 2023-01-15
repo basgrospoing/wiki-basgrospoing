@@ -1,12 +1,12 @@
 ---
-title: "Joe the Condor (TvC:UAS)"
-slug:  "Joe_the_Condor_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 515
-author: "Dan sakazaki"
-permalink: "joe-the-condor-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: joe-the-condor-tvc-uas.html
+slug: Joe_the_Condor_(TvC:UAS)
+tags: character
+title: Joe the Condor (TvC:UAS)
 ---
 
 <img src="/images/Joethecondor.jpg" title="/images/Joethecondor.jpg"

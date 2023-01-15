@@ -1,12 +1,12 @@
 ---
-title: "Robert Garcia (98um)"
-slug:  "Robert_Garcia_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 211
-author: "Corbeau Bleu"
-permalink: "robert-garcia-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: robert-garcia-98um.html
+slug: Robert_Garcia_(98um)
+tags: character
+title: Robert Garcia (98um)
 ---
 
 ## Introduction

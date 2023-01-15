@@ -1,14 +1,14 @@
 ---
-title: "Robert Garcia (2k2um)"
-slug:  "Robert_Garcia_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 65
-author: "Admin"
-permalink: "robert-garcia-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
-redirect: "Robert_Garcia"
+layout: character.njk
 old_id: 72
+permalink: robert-garcia-2k2um.html
+redirect: Robert_Garcia
+slug: Robert_Garcia_(2k2um)
+tags: character
+title: Robert Garcia (2k2um)
 ---
 
 ## Introduction

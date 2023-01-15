@@ -1,15 +1,13 @@
 ---
-title: "Ken (SFxT)"
-slug:  "Ken_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2172
-author: "Hynkel"
-permalink: "ken-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: ken-sfxt.html
+slug: Ken_(SFxT)
+tags: character
+title: Ken (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

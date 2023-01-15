@@ -1,15 +1,13 @@
 ---
-title: "Juri (SFxT)"
-slug:  "Juri_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2171
-author: "Hynkel"
-permalink: "juri-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: juri-sfxt.html
+slug: Juri_(SFxT)
+tags: character
+title: Juri (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,12 +1,12 @@
 ---
-title: "Takuma"
-slug:  "Takuma"
+author: Corbeau Bleu
+date: '2010-07-20'
 id: 29
-author: "Corbeau Bleu"
-permalink: "takuma.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-20"
+layout: character.njk
+permalink: takuma.html
+slug: Takuma
+tags: character
+title: Takuma
 ---
 
 ## Introduction

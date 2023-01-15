@@ -1,12 +1,12 @@
 ---
-title: "Akatsuki Blitzkampf"
-slug:  "Akatsuki_Blitzkampf"
+author: Kabai
+date: '2012-04-27'
 id: 2248
-author: "Kabai"
-permalink: "akatsuki-blitzkampf.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-04-27"
+layout: game.njk
+permalink: akatsuki-blitzkampf.html
+slug: Akatsuki_Blitzkampf
+tags: game
+title: Akatsuki Blitzkampf
 ---
 
 ![](/images/abk_main.png "/images/abk_main.png")

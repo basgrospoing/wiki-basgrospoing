@@ -1,12 +1,12 @@
 ---
-title: "Kano Ryoko (KR)"
-slug:  "Kano_Ryoko_(KR)"
+author: Zarghatt
+date: '2010-11-29'
 id: 386
-author: "Zarghatt"
-permalink: "kano-ryoko-kr.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-29"
+layout: character.njk
+permalink: kano-ryoko-kr.html
+slug: Kano_Ryoko_(KR)
+tags: character
+title: Kano Ryoko (KR)
 ---
 
 ## Movelist

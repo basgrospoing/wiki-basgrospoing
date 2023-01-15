@@ -1,12 +1,12 @@
 ---
-title: "Saisyu Kusanagi (98um)"
-slug:  "Saisyu_Kusanagi_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 236
-author: "Corbeau Bleu"
-permalink: "saisyu-kusanagi-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: saisyu-kusanagi-98um.html
+slug: Saisyu_Kusanagi_(98um)
+tags: character
+title: Saisyu Kusanagi (98um)
 ---
 
 ## Introduction

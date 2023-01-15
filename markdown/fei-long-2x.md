@@ -1,12 +1,12 @@
 ---
-title: "Fei Long (2X)"
-slug:  "Fei_Long_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 457
-author: "Wolmar"
-permalink: "fei-long-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: fei-long-2x.html
+slug: Fei_Long_(2X)
+tags: character
+title: Fei Long (2X)
 ---
 
 ## Introduction

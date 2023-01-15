@@ -1,12 +1,12 @@
 ---
-title: "Zangief (2X)"
-slug:  "Zangief_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 464
-author: "Wolmar"
-permalink: "zangief-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: zangief-2x.html
+slug: Zangief_(2X)
+tags: character
+title: Zangief (2X)
 ---
 
 ## Introduction

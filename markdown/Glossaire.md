@@ -1,12 +1,12 @@
 ---
-title: "Glossaire"
-slug:  "Glossaire"
+author: Atomskyu, Kabai, Hynkel, CalvinKSiu
+date: '2014-05-09'
 id: 359
-author: "Atomskyu698"
-permalink: "glossaire.html"
-layout: "other.njk"
-tags: "other"
-date: "2014-05-09"
+layout: other.njk
+permalink: glossaire.html
+slug: Glossaire
+tags: other
+title: Glossaire
 ---
 
 ## Introduction

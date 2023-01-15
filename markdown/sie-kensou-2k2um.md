@@ -1,12 +1,12 @@
 ---
-title: "Sie Kensou (2k2um)"
-slug:  "Sie_Kensou_(2k2um)"
+author: Hynkel, Corbeau Bleu
+date: '2010-11-24'
 id: 126
-author: "Hynkel"
-permalink: "sie-kensou-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-24"
+layout: character.njk
+permalink: sie-kensou-2k2um.html
+slug: Sie_Kensou_(2k2um)
+tags: character
+title: Sie Kensou (2k2um)
 ---
 
 ## Introduction

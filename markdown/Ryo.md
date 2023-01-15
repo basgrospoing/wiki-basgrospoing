@@ -1,12 +1,12 @@
 ---
-title: "Ryo"
-slug:  "Ryo"
+author: Corbeau Bleu
+date: '2010-07-20'
 id: 27
-author: "Corbeau Bleu"
-permalink: "ryo.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-20"
+layout: character.njk
+permalink: ryo.html
+slug: Ryo
+tags: character
+title: Ryo
 ---
 
 ## Introduction

@@ -1,17 +1,15 @@
 ---
-title: "Melty Blood/Lexique"
-slug:  "Melty_Blood/Lexique"
+author: Aryth, Zind, Ninjigen
+date: '2012-04-12'
 id: 1713
-author: "82.234.188.250"
-permalink: "melty-blood-lexique.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-12"
-redirect: "Melty_Blood/Glossary"
+layout: character.njk
 old_id: 1714
+permalink: melty-blood-lexique.html
+redirect: Melty_Blood/Glossary
+slug: Melty_Blood/Lexique
+tags: character
+title: Melty Blood/Lexique
 ---
-
-
 
 ## Liste des termes usuels et des abréviations
 
@@ -322,5 +320,3 @@ personnage) et met en mode HEAT.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Sie Kensou (98um)"
-slug:  "Sie_Kensou_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 217
-author: "Corbeau Bleu"
-permalink: "sie-kensou-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: sie-kensou-98um.html
+slug: Sie_Kensou_(98um)
+tags: character
+title: Sie Kensou (98um)
 ---
 
 ## Introduction

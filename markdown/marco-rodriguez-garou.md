@@ -1,14 +1,14 @@
 ---
-title: "Marco Rodriguez (Garou)"
-slug:  "Marco_Rodriguez_(Garou)"
+author: Timmytheturtle, Aerendir, Sharnt, Olivic, Corbeau Bleu
+date: '2011-06-13'
 id: 8
-author: "Timmytheturtle"
-permalink: "marco-rodriguez-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-13"
-redirect: "Khushnood_Butt_(Garou)"
+layout: character.njk
 old_id: 1070
+permalink: marco-rodriguez-garou.html
+redirect: Khushnood_Butt_(Garou)
+slug: Marco_Rodriguez_(Garou)
+tags: character
+title: Marco Rodriguez (Garou)
 ---
 
 ## Introduction

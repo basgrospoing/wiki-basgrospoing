@@ -1,15 +1,13 @@
 ---
-title: "Cammy (SSFIV)"
-slug:  "Cammy_(SSFIV)"
+author: Atomskyu, Tonio, Jojos
+date: '2014-05-09'
 id: 495
-author: "Atomskyu698"
-permalink: "cammy-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: cammy-ssfiv.html
+slug: Cammy_(SSFIV)
+tags: character
+title: Cammy (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble 
 

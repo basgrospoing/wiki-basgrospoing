@@ -1,14 +1,13 @@
 ---
-title: "Shen Woo (kof13)"
-slug:  "Shen_Woo_(kof13)"
+author: Lolo
+date: '2011-07-23'
 id: 1096
-author: "Lolo"
-permalink: "shen-woo-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-23"
+layout: character.njk
+permalink: shen-woo-kof13.html
+slug: Shen_Woo_(kof13)
+tags: character
+title: Shen Woo (kof13)
 ---
-
 
 ![shen woo](/images/Shenwookof13.gif "shen woo")
 

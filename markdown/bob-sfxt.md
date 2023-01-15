@@ -1,15 +1,13 @@
 ---
-title: "Bob (SFxT)"
-slug:  "Bob_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2182
-author: "Hynkel"
-permalink: "bob-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: bob-sfxt.html
+slug: Bob_(SFxT)
+tags: character
+title: Bob (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

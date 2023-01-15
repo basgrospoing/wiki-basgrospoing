@@ -1,12 +1,12 @@
 ---
-title: "Hakumen (BBCS)"
-slug:  "Hakumen_(BBCS)"
+author: Yolsgens, Aerendir
+date: '2010-11-17'
 id: 303
-author: "Yolsgens"
-permalink: "hakumen-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-17"
+layout: character.njk
+permalink: hakumen-bbcs.html
+slug: Hakumen_(BBCS)
+tags: character
+title: Hakumen (BBCS)
 ---
 
 <figure>

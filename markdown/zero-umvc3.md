@@ -1,12 +1,12 @@
 ---
-title: "Zero (UMVC3)"
-slug:  "Zero_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3015
-author: "ALX"
-permalink: "zero-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: zero-umvc3.html
+slug: Zero_(UMVC3)
+tags: character
+title: Zero (UMVC3)
 ---
 
 **EN TRAVAUX**

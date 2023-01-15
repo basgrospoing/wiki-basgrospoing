@@ -1,14 +1,14 @@
 ---
-title: "Persona 4 Arena"
-slug:  "Persona_4_Arena"
+author: Kabai
+date: '2012-08-08'
 id: 2568
-author: "Kabai"
-permalink: "persona-4-arena.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-08-08"
-redirect: "P4A"
+layout: game.njk
 old_id: 2569
+permalink: persona-4-arena.html
+redirect: P4A
+slug: Persona_4_Arena
+tags: game
+title: Persona 4 Arena
 ---
 
 <figure>

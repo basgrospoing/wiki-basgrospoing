@@ -1,14 +1,14 @@
 ---
-title: "BlazBlue : Continuum Shift"
-slug:  "BlazBlue_:_Continuum_Shift"
+author: Olivic, Yolsgens, Travis Bickle, Aerendir
+date: '2010-12-12'
 id: 289
-author: "Olivic"
-permalink: "blazblue-continuum-shift.html"
-layout: "game.njk"
-tags: "game"
-date: "2010-12-12"
-redirect: "Blazblue_:_Continuum_Shift"
+layout: game.njk
 old_id: 313
+permalink: blazblue-continuum-shift.html
+redirect: Blazblue_:_Continuum_Shift
+slug: BlazBlue_:_Continuum_Shift
+tags: game
+title: 'BlazBlue : Continuum Shift'
 ---
 
 ![](/images/blazblue_logo.jpg "/images/blazblue_logo.jpg")

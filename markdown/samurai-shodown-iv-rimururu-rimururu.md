@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Rimururu (リムルル, Rimururu)"
-slug:  "Samurai_Shodown_IV_-_Rimururu_(リムルル,_Rimururu)"
+author: Olivic
+date: '2011-05-22'
 id: 644
-author: "Olivic"
-permalink: "samurai-shodown-iv-rimururu-rimururu.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Rimururu"
+layout: character.njk
 old_id: 662
+permalink: samurai-shodown-iv-rimururu-rimururu.html
+redirect: Ss4-Rimururu
+slug: Samurai_Shodown_IV_-_Rimururu_(リムルル,_Rimururu)
+tags: character
+title: Samurai Shodown IV - Rimururu (リムルル, Rimururu)
 ---
 
 ![](/images/ss4-Rimururu.gif "/images/ss4-Rimururu.gif")

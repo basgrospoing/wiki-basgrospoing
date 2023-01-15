@@ -1,12 +1,12 @@
 ---
-title: "Ken the Eagle (TvC:UAS)"
-slug:  "Ken_the_Eagle_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 512
-author: "Dan sakazaki"
-permalink: "ken-the-eagle-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: ken-the-eagle-tvc-uas.html
+slug: Ken_the_Eagle_(TvC:UAS)
+tags: character
+title: Ken the Eagle (TvC:UAS)
 ---
 
 <img src="/images/Kentheeagle.jpg" title="/images/Kentheeagle.jpg"

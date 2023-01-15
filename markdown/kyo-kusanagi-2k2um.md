@@ -1,14 +1,14 @@
 ---
-title: "Kyo Kusanagi (2k2um)"
-slug:  "Kyo_Kusanagi_(2k2um)"
+author: JPX, Corbeau Bleu
+date: '2010-11-06'
 id: 70
-author: "JPX"
-permalink: "kyo-kusanagi-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-06"
-redirect: "Kyo_Kusanagi"
+layout: character.njk
 old_id: 78
+permalink: kyo-kusanagi-2k2um.html
+redirect: Kyo_Kusanagi
+slug: Kyo_Kusanagi_(2k2um)
+tags: character
+title: Kyo Kusanagi (2k2um)
 ---
 
 ## Introduction

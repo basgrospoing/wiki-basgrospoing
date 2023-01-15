@@ -1,14 +1,14 @@
 ---
-title: "Takuma Sakazaki (2k2um)"
-slug:  "Takuma_Sakazaki_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 66
-author: "Corbeau Bleu"
-permalink: "takuma-sakazaki-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
-redirect: "Takuma_Sakazaki"
+layout: character.njk
 old_id: 74
+permalink: takuma-sakazaki-2k2um.html
+redirect: Takuma_Sakazaki
+slug: Takuma_Sakazaki_(2k2um)
+tags: character
+title: Takuma Sakazaki (2k2um)
 ---
 
 ## Introduction

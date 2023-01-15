@@ -1,14 +1,13 @@
 ---
-title: "Duo Lon (kof13)"
-slug:  "Duo_Lon_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1082
-author: "82.238.249.39"
-permalink: "duo-lon-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: duo-lon-kof13.html
+slug: Duo_Lon_(kof13)
+tags: character
+title: Duo Lon (kof13)
 ---
-
 
 ![Duo Lon](/images/Duolonkof13.gif "Duo Lon")
 

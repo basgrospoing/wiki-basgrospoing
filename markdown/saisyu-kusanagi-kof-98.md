@@ -1,12 +1,12 @@
 ---
-title: "Saisyu Kusanagi (KoF '98)"
-slug:  "Saisyu_Kusanagi_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 184
-author: "Corbeau Bleu"
-permalink: "saisyu-kusanagi-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: saisyu-kusanagi-kof-98.html
+slug: Saisyu_Kusanagi_(KoF_'98)
+tags: character
+title: Saisyu Kusanagi (KoF '98)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Heidern (2k2um)"
-slug:  "Heidern_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 134
-author: "Corbeau Bleu"
-permalink: "heidern-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
+layout: character.njk
+permalink: heidern-2k2um.html
+slug: Heidern_(2k2um)
+tags: character
+title: Heidern (2k2um)
 ---
 
 ## Introduction

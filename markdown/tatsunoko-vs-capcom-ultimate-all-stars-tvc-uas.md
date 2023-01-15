@@ -1,12 +1,12 @@
 ---
-title: "Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)"
-slug:  "Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-01-04'
 id: 568
-author: "Dan Sakazaki"
-permalink: "tatsunoko-vs-capcom-ultimate-all-stars-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-01-04"
+layout: character.njk
+permalink: tatsunoko-vs-capcom-ultimate-all-stars-tvc-uas.html
+slug: Tatsunoko_vs_Capcom_Ultimate_All-Stars_(TvC:UAS)
+tags: character
+title: Tatsunoko vs Capcom Ultimate All-Stars (TvC:UAS)
 ---
 
 ![](/images/Tvc-uas.jpg "/images/Tvc-uas.jpg")

@@ -1,14 +1,14 @@
 ---
-title: "P4A/Aigis"
-slug:  "P4A/Aigis"
+author: Kabai
+date: '2012-08-06'
 id: 2635
-author: "Kabai"
-permalink: "p4a-aigis.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Aigis"
+layout: character.njk
 old_id: 2649
+permalink: p4a-aigis.html
+redirect: Aigis
+slug: P4A/Aigis
+tags: character
+title: P4A/Aigis
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

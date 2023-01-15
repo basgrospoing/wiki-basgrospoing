@@ -1,12 +1,12 @@
 ---
-title: "Μ -12- (BBCS)"
-slug:  "Μ_-12-_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-11-28'
 id: 307
-author: "83.194.242.114"
-permalink: "m-12-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-28"
+layout: character.njk
+permalink: m-12-bbcs.html
+slug: Μ_-12-_(BBCS)
+tags: character
+title: Μ -12- (BBCS)
 ---
 
 <figure>

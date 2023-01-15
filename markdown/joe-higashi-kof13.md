@@ -1,14 +1,13 @@
 ---
-title: "Joe Higashi (kof13)"
-slug:  "Joe_Higashi_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1099
-author: "82.238.249.39"
-permalink: "joe-higashi-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: joe-higashi-kof13.html
+slug: Joe_Higashi_(kof13)
+tags: character
+title: Joe Higashi (kof13)
 ---
-
 
 ![Joe Higashi](/images/Joekof13.gif "Joe Higashi")
 

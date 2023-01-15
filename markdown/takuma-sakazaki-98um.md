@@ -1,12 +1,12 @@
 ---
-title: "Takuma Sakazaki (98um)"
-slug:  "Takuma_Sakazaki_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 235
-author: "Corbeau Bleu"
-permalink: "takuma-sakazaki-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: takuma-sakazaki-98um.html
+slug: Takuma_Sakazaki_(98um)
+tags: character
+title: Takuma Sakazaki (98um)
 ---
 
 ## Introduction

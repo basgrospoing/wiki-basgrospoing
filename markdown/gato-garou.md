@@ -1,14 +1,13 @@
 ---
-title: "Gato (Garou)"
-slug:  "Gato_(Garou)"
+author: Timmytheturtle, Aerendir, Sharnt, Olivic, Corbeau Bleu
+date: '2011-07-07'
 id: 14
-author: "Timmytheturtle"
-permalink: "gato-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-07"
+layout: character.njk
+permalink: gato-garou.html
+slug: Gato_(Garou)
+tags: character
+title: Gato (Garou)
 ---
-
 
 ![](/images/Gato.png "/images/Gato.png")
 

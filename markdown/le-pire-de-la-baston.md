@@ -1,12 +1,12 @@
 ---
-title: "Le pire de la baston"
-slug:  "Le_pire_de_la_baston"
+author: Neithan
+date: '2014-01-09'
 id: 2706
-author: "Admin"
-permalink: "le-pire-de-la-baston.html"
-layout: "other.njk"
-tags: "other"
-date: "2014-01-09"
+layout: other.njk
+permalink: le-pire-de-la-baston.html
+slug: Le_pire_de_la_baston
+tags: other
+title: Le pire de la baston
 ---
 
 # La petite boutique des horreurs compilée par Haten-dan

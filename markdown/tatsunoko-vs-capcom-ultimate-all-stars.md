@@ -1,12 +1,12 @@
 ---
-title: "Tatsunoko vs Capcom Ultimate All-Stars"
-slug:  "Tatsunoko_vs_Capcom_Ultimate_All-Stars"
+author: Dan Sakazaki
+date: '2011-05-18'
 id: 569
-author: "Dan sakazaki"
-permalink: "tatsunoko-vs-capcom-ultimate-all-stars.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-18"
+layout: character.njk
+permalink: tatsunoko-vs-capcom-ultimate-all-stars.html
+slug: Tatsunoko_vs_Capcom_Ultimate_All-Stars
+tags: character
+title: Tatsunoko vs Capcom Ultimate All-Stars
 ---
 
 ![](/images/Tvc-uas.jpg "/images/Tvc-uas.jpg")
@@ -93,4 +93,4 @@ Maintenir le bouton P avant le début du combat
 - Costume 1 : bouton Y  
 - Costume 2 : bouton X  
 - Costume 3 : bouton A  
-- Costume 4 : bouton B  
+- Costume 4 : bouton B

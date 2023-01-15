@@ -1,15 +1,13 @@
 ---
-title: "Ken (SSFIV)"
-slug:  "Ken_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2148
-author: "Atomskyu698"
-permalink: "ken-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: ken-ssfiv.html
+slug: Ken_(SSFIV)
+tags: character
+title: Ken (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

@@ -1,12 +1,12 @@
 ---
-title: "Litchi Faye Ling (BBCS)"
-slug:  "Litchi_Faye_Ling_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2011-01-10'
 id: 299
-author: "83.196.107.5"
-permalink: "litchi-faye-ling-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-01-10"
+layout: character.njk
+permalink: litchi-faye-ling-bbcs.html
+slug: Litchi_Faye_Ling_(BBCS)
+tags: character
+title: Litchi Faye Ling (BBCS)
 ---
 
 <figure>

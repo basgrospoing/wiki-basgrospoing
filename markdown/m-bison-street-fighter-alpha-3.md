@@ -1,12 +1,12 @@
 ---
-title: "M. Bison (Street Fighter Alpha 3)"
-slug:  "M._Bison_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1245
-author: "Tonio"
-permalink: "m-bison-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: m-bison-street-fighter-alpha-3.html
+slug: M._Bison_(Street_Fighter_Alpha_3)
+tags: character
+title: M. Bison (Street Fighter Alpha 3)
 ---
 
 ## Introduction

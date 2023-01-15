@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Arcueid Brunestud/Crescent Moon"
-slug:  "Melty_Blood/Arcueid_Brunestud/Crescent_Moon"
+author: Rouxin, Ninjigen
+date: '2012-01-20'
 id: 1753
-author: "Rouxin"
-permalink: "melty-blood-arcueid-brunestud-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-20"
+layout: character.njk
+permalink: melty-blood-arcueid-brunestud-crescent-moon.html
+slug: Melty_Blood/Arcueid_Brunestud/Crescent_Moon
+tags: character
+title: Melty Blood/Arcueid Brunestud/Crescent Moon
 ---
 
 # Combos
@@ -529,5 +529,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

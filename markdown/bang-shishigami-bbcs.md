@@ -1,12 +1,12 @@
 ---
-title: "Bang Shishigami (BBCS)"
-slug:  "Bang_Shishigami_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-05'
 id: 305
-author: "Achoral"
-permalink: "bang-shishigami-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-05"
+layout: character.njk
+permalink: bang-shishigami-bbcs.html
+slug: Bang_Shishigami_(BBCS)
+tags: character
+title: Bang Shishigami (BBCS)
 ---
 
 <figure>

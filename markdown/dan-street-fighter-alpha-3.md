@@ -1,12 +1,12 @@
 ---
-title: "Dan (Street Fighter Alpha 3)"
-slug:  "Dan_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1249
-author: "Tonio"
-permalink: "dan-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: dan-street-fighter-alpha-3.html
+slug: Dan_(Street_Fighter_Alpha_3)
+tags: character
+title: Dan (Street Fighter Alpha 3)
 ---
 
 ## Introduction

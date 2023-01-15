@@ -1,12 +1,12 @@
 ---
-title: "Shermie (KoF '98)"
-slug:  "Shermie_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 175
-author: "Corbeau Bleu"
-permalink: "shermie-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: shermie-kof-98.html
+slug: Shermie_(KoF_'98)
+tags: character
+title: Shermie (KoF '98)
 ---
 
 ## Introduction

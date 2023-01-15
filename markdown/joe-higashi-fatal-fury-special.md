@@ -1,12 +1,12 @@
 ---
-title: "Joe Higashi (Fatal Fury Special)"
-slug:  "Joe_Higashi_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-11'
 id: 721
-author: "Dan sakazaki"
-permalink: "joe-higashi-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-11"
+layout: character.njk
+permalink: joe-higashi-fatal-fury-special.html
+slug: Joe_Higashi_(Fatal_Fury_Special)
+tags: character
+title: Joe Higashi (Fatal Fury Special)
 ---
 
 ![](/images/FfspJoe.PNG)  

@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Malin"
-slug:  "The_King_of_Fighters_XI_-_Malin"
+author: Olivic
+date: '2011-06-09'
 id: 929
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-malin.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-malin"
+layout: character.njk
 old_id: 930
+permalink: the-king-of-fighters-xi-malin.html
+redirect: Kofxi-malin
+slug: The_King_of_Fighters_XI_-_Malin
+tags: character
+title: The King of Fighters XI - Malin
 ---
 
 ![](/images/kofxi-malin.jpg "/images/kofxi-malin.jpg")

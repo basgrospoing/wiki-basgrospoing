@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Momoko"
-slug:  "The_King_of_Fighters_XI_-_Momoko"
+author: Olivic
+date: '2011-06-09'
 id: 943
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-momoko.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-momoko"
+layout: character.njk
 old_id: 944
+permalink: the-king-of-fighters-xi-momoko.html
+redirect: Kofxi-momoko
+slug: The_King_of_Fighters_XI_-_Momoko
+tags: character
+title: The King of Fighters XI - Momoko
 ---
 
 ![](/images/kofxi-momoko.jpg "/images/kofxi-momoko.jpg")

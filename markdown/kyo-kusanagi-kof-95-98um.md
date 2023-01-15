@@ -1,12 +1,12 @@
 ---
-title: "Kyo Kusanagi (KoF '95) (98um)"
-slug:  "Kyo_Kusanagi_(KoF_'95)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-09'
 id: 250
-author: "Corbeau Bleu"
-permalink: "kyo-kusanagi-kof-95-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-09"
+layout: character.njk
+permalink: kyo-kusanagi-kof-95-98um.html
+slug: Kyo_Kusanagi_(KoF_'95)_(98um)
+tags: character
+title: Kyo Kusanagi (KoF '95) (98um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Nero Chaos"
-slug:  "Melty_Blood/Nero_Chaos"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1824
-author: "Sannos"
-permalink: "melty-blood-nero-chaos.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-nero-chaos.html
+slug: Melty_Blood/Nero_Chaos
+tags: character
+title: Melty Blood/Nero Chaos
 ---
 
 - **Name:** Nrvnqsr Chaos (ネロ・カオス)
@@ -60,5 +60,3 @@ Professor Chaos
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

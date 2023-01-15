@@ -1,15 +1,13 @@
 ---
-title: "Raven (SFxT)"
-slug:  "Raven_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2196
-author: "Hynkel"
-permalink: "raven-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: raven-sfxt.html
+slug: Raven_(SFxT)
+tags: character
+title: Raven (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

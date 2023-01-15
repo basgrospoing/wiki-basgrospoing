@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Controls"
-slug:  "Melty_Blood/Controls"
+author: Zind, Ninjigen
+date: '2012-01-17'
 id: 1716
-author: "Zind"
-permalink: "melty-blood-controls.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-controls.html
+slug: Melty_Blood/Controls
+tags: character
+title: Melty Blood/Controls
 ---
 
 ## Contrôles
@@ -128,5 +128,3 @@ l'ennemi.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

@@ -1,14 +1,14 @@
 ---
-title: "P4A/Shadow Labrys"
-slug:  "P4A/Shadow_Labrys"
+author: Kabai
+date: '2012-08-06'
 id: 2646
-author: "Kabai"
-permalink: "p4a-shadow-labrys.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Shadow_Labrys"
+layout: character.njk
 old_id: 2659
+permalink: p4a-shadow-labrys.html
+redirect: Shadow_Labrys
+slug: P4A/Shadow_Labrys
+tags: character
+title: P4A/Shadow Labrys
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

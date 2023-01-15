@@ -1,15 +1,13 @@
 ---
-title: "Ryu (SSFIV)"
-slug:  "Ryu_(SSFIV)"
+author: Atomskyu, Lolo, Hynkel
+date: '2012-08-21'
 id: 353
-author: "Atomskyu690"
-permalink: "ryu-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-21"
+layout: character.njk
+permalink: ryu-ssfiv.html
+slug: Ryu_(SSFIV)
+tags: character
+title: Ryu (SSFIV)
 ---
-
-
 
 ![](/images/Ssf4-Ryu.png "/images/Ssf4-Ryu.png")
 

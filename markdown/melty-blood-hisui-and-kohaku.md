@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Hisui & Kohaku"
-slug:  "Melty_Blood/Hisui_&_Kohaku"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1763
-author: "Oufan"
-permalink: "melty-blood-hisui-and-kohaku.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-hisui-and-kohaku.html
+slug: Melty_Blood/Hisui_&_Kohaku
+tags: character
+title: Melty Blood/Hisui & Kohaku
 ---
 
 - **Name:** Hisui (翡翠)
@@ -65,5 +65,3 @@ en jeu de combat.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

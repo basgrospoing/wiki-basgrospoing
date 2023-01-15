@@ -1,12 +1,12 @@
 ---
-title: "Yatterman-2 (TvC:UAS)"
-slug:  "Yatterman-2_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 525
-author: "Dan sakazaki"
-permalink: "yatterman-2-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: yatterman-2-tvc-uas.html
+slug: Yatterman-2_(TvC:UAS)
+tags: character
+title: Yatterman-2 (TvC:UAS)
 ---
 
 <img src="/images/Yatterman-2.jpg" title="/images/Yatterman-2.jpg"

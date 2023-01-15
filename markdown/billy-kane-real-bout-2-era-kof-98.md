@@ -1,12 +1,12 @@
 ---
-title: "Billy Kane (Real Bout 2-Era) (KoF '98)"
-slug:  "Billy_Kane_(Real_Bout_2-Era)_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 200
-author: "Corbeau Bleu"
-permalink: "billy-kane-real-bout-2-era-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: billy-kane-real-bout-2-era-kof-98.html
+slug: Billy_Kane_(Real_Bout_2-Era)_(KoF_'98)
+tags: character
+title: Billy Kane (Real Bout 2-Era) (KoF '98)
 ---
 
 ## Introduction

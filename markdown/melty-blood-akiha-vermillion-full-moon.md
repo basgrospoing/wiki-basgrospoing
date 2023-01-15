@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Vermillion/Full Moon"
-slug:  "Melty_Blood/Akiha_Vermillion/Full_Moon"
+author: Sannos, Ninjigen
+date: '2014-12-21'
 id: 1734
-author: "Sannos"
-permalink: "melty-blood-akiha-vermillion-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-12-21"
+layout: character.njk
+permalink: melty-blood-akiha-vermillion-full-moon.html
+slug: Melty_Blood/Akiha_Vermillion/Full_Moon
+tags: character
+title: Melty Blood/Akiha Vermillion/Full Moon
 ---
 
 # Combos
@@ -255,5 +255,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Wesker (UMVC3)"
-slug:  "Wesker_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3014
-author: "ALX"
-permalink: "wesker-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: wesker-umvc3.html
+slug: Wesker_(UMVC3)
+tags: character
+title: Wesker (UMVC3)
 ---
 
 **EN TRAVAUX**

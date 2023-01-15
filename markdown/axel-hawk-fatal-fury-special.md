@@ -1,12 +1,12 @@
 ---
-title: "Axel Hawk (Fatal Fury Special)"
-slug:  "Axel_Hawk_(Fatal_Fury_Special)"
+author: Atomskyu, Dan Sakazaki
+date: '2012-02-28'
 id: 743
-author: "Atomskyu690"
-permalink: "axel-hawk-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-28"
+layout: character.njk
+permalink: axel-hawk-fatal-fury-special.html
+slug: Axel_Hawk_(Fatal_Fury_Special)
+tags: character
+title: Axel Hawk (Fatal Fury Special)
 ---
 
 ![](/images/Axel.PNG)  

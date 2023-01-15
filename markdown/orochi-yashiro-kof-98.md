@@ -1,12 +1,12 @@
 ---
-title: "Orochi Yashiro (KoF '98)"
-slug:  "Orochi_Yashiro_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 188
-author: "Corbeau Bleu"
-permalink: "orochi-yashiro-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: orochi-yashiro-kof-98.html
+slug: Orochi_Yashiro_(KoF_'98)
+tags: character
+title: Orochi Yashiro (KoF '98)
 ---
 
 ## Introduction

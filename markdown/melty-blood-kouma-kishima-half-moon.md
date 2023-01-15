@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kouma Kishima/Half Moon"
-slug:  "Melty_Blood/Kouma_Kishima/Half_Moon"
+author: Ninjigen
+date: '2012-03-21'
 id: 1789
-author: "88.167.173.143"
-permalink: "melty-blood-kouma-kishima-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-21"
+layout: character.njk
+permalink: melty-blood-kouma-kishima-half-moon.html
+slug: Melty_Blood/Kouma_Kishima/Half_Moon
+tags: character
+title: Melty Blood/Kouma Kishima/Half Moon
 ---
 
 # Combos
@@ -193,5 +193,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

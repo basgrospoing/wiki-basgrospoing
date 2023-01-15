@@ -1,12 +1,12 @@
 ---
-title: "Hakushon Daimao (TvC:CGOH)"
-slug:  "Hakushon_Daimao_(TvC:CGOH)"
+author: Dan Sakazaki
+date: '2011-04-15'
 id: 701
-author: "Dan sakazaki"
-permalink: "hakushon-daimao-tvc-cgoh.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-15"
+layout: character.njk
+permalink: hakushon-daimao-tvc-cgoh.html
+slug: Hakushon_Daimao_(TvC:CGOH)
+tags: character
+title: Hakushon Daimao (TvC:CGOH)
 ---
 
 <img src="/images/HakushonDaimao.jpg" title="/images/HakushonDaimao.jpg"

@@ -1,14 +1,14 @@
 ---
-title: "Kula (2k2um)"
-slug:  "Kula_(2k2um)"
+author: Hynkel, Aerendir, Corbeau Bleu
+date: '2011-08-21'
 id: 58
-author: "194.158.70.15"
-permalink: "kula-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-08-21"
-redirect: "Kula"
+layout: character.njk
 old_id: 108
+permalink: kula-2k2um.html
+redirect: Kula
+slug: Kula_(2k2um)
+tags: character
+title: Kula (2k2um)
 ---
 
 ## Introduction

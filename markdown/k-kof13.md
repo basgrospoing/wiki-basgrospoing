@@ -1,12 +1,12 @@
 ---
-title: "K' (kof13)"
-slug:  "K'_(kof13)"
+author: Maj, Shin Rickyo95, Lolo
+date: '2011-07-22'
 id: 1087
-author: "Maj"
-permalink: "k-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-22"
+layout: character.njk
+permalink: k-kof13.html
+slug: K'_(kof13)
+tags: character
+title: K' (kof13)
 ---
 
 ![K'](/images/Kdash-kof13-stance.gif "K'") 

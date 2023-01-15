@@ -1,12 +1,12 @@
 ---
-title: "Chin Gentsai (2k2um)"
-slug:  "Chin_Gentsai_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 135
-author: "Corbeau Bleu"
-permalink: "chin-gentsai-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
+layout: character.njk
+permalink: chin-gentsai-2k2um.html
+slug: Chin_Gentsai_(2k2um)
+tags: character
+title: Chin Gentsai (2k2um)
 ---
 
 ## Introduction

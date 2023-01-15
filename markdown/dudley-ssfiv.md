@@ -1,15 +1,13 @@
 ---
-title: "Dudley (SSFIV)"
-slug:  "Dudley_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 370
-author: "Atomskyu698"
-permalink: "dudley-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: dudley-ssfiv.html
+slug: Dudley_(SSFIV)
+tags: character
+title: Dudley (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

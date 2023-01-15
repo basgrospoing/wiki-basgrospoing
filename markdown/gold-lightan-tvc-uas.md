@@ -1,12 +1,12 @@
 ---
-title: "Gold Lightan (TvC:UAS)"
-slug:  "Gold_Lightan_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-18'
 id: 520
-author: "Dan sakazaki"
-permalink: "gold-lightan-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-18"
+layout: character.njk
+permalink: gold-lightan-tvc-uas.html
+slug: Gold_Lightan_(TvC:UAS)
+tags: character
+title: Gold Lightan (TvC:UAS)
 ---
 
 <img src="/images/Goldlightan.jpg" title="/images/Goldlightan.jpg"

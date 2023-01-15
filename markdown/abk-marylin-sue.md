@@ -1,12 +1,12 @@
 ---
-title: "ABK/Marylin Sue"
-slug:  "ABK/Marylin_Sue"
+author: Kabai
+date: '2012-04-27'
 id: 2267
-author: "Kabai"
-permalink: "abk-marylin-sue.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-marylin-sue.html
+slug: ABK/Marylin_Sue
+tags: character
+title: ABK/Marylin Sue
 ---
 
 ![](/images/Marylin_Sue_ABK.jpg "/images/Marylin_Sue_ABK.jpg")

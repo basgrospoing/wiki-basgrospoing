@@ -1,15 +1,13 @@
 ---
-title: "Cammy (SFxT)"
-slug:  "Cammy_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2165
-author: "Hynkel"
-permalink: "cammy-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: cammy-sfxt.html
+slug: Cammy_(SFxT)
+tags: character
+title: Cammy (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

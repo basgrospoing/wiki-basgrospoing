@@ -1,12 +1,12 @@
 ---
-title: "Foxy (2k2um)"
-slug:  "Foxy_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-03'
 id: 129
-author: "Aerendir"
-permalink: "foxy-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
+layout: character.njk
+permalink: foxy-2k2um.html
+slug: Foxy_(2k2um)
+tags: character
+title: Foxy (2k2um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/White Len/Full Moon"
-slug:  "Melty_Blood/White_Len/Full_Moon"
+author: Ninjigen
+date: '2012-03-05'
 id: 1896
-author: "88.173.34.60"
-permalink: "melty-blood-white-len-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-05"
+layout: character.njk
+permalink: melty-blood-white-len-full-moon.html
+slug: Melty_Blood/White_Len/Full_Moon
+tags: character
+title: Melty Blood/White Len/Full Moon
 ---
 
 # Combos
@@ -201,5 +201,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

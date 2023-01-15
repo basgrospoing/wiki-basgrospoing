@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Athena Asamiya"
-slug:  "The_King_of_Fighters_XI_-_Athena_Asamiya"
+author: Olivic
+date: '2011-06-09'
 id: 917
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-athena-asamiya.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-athena-asamiya"
+layout: character.njk
 old_id: 918
+permalink: the-king-of-fighters-xi-athena-asamiya.html
+redirect: Kofxi-athena-asamiya
+slug: The_King_of_Fighters_XI_-_Athena_Asamiya
+tags: character
+title: The King of Fighters XI - Athena Asamiya
 ---
 
 ![](/images/kofxi-athena-asamiya.jpg "/images/kofxi-athena-asamiya.jpg")

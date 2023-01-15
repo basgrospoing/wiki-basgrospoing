@@ -1,15 +1,13 @@
 ---
-title: "T. Hawk (SSFIV)"
-slug:  "T._Hawk_(SSFIV)"
+author: Atomskyu, Tonio, Natchooo
+date: '2014-05-09'
 id: 513
-author: "Atomskyu698"
-permalink: "t-hawk-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: t-hawk-ssfiv.html
+slug: T._Hawk_(SSFIV)
+tags: character
+title: T. Hawk (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

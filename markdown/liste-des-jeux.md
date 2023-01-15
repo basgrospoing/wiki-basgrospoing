@@ -1,12 +1,12 @@
 ---
-title: "Liste des Jeux"
-slug:  "Liste_des_Jeux"
+author: Kabai, Koala77, Olivic, Floodman, Izeniel, Wolmar, Hynkel, Yolsgens
+date: '2012-08-04'
 id: 311
-author: "Kabai"
-permalink: "liste-des-jeux.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-04"
+layout: character.njk
+permalink: liste-des-jeux.html
+slug: Liste_des_Jeux
+tags: character
+title: Liste des Jeux
 ---
 
 ## Liste des jeux présents sur le wiki
@@ -87,5 +87,3 @@ SNK
 SUBTLE STYLE
 
 - [Akatsuki Blitzkampf](Akatsuki_Blitzkampf)
-
-  

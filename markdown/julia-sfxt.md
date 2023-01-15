@@ -1,15 +1,13 @@
 ---
-title: "Julia (SFxT)"
-slug:  "Julia_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2186
-author: "Hynkel"
-permalink: "julia-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: julia-sfxt.html
+slug: Julia_(SFxT)
+tags: character
+title: Julia (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

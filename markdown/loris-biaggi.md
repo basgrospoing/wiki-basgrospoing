@@ -1,12 +1,12 @@
 ---
-title: "Loris Biaggi"
-slug:  "Loris_Biaggi"
+author: Wolmar
+date: '2010-12-25'
 id: 473
-author: "Wolmar"
-permalink: "loris-biaggi.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-25"
+layout: character.njk
+permalink: loris-biaggi.html
+slug: Loris_Biaggi
+tags: character
+title: Loris Biaggi
 ---
 
 <figure>

@@ -1,12 +1,12 @@
 ---
-title: "Windjammers"
-slug:  "Windjammers"
+author: Wolmar, Zarghatt
+date: '2014-01-10'
 id: 466
-author: "Admin"
-permalink: "windjammers.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-01-10"
+layout: game.njk
+permalink: windjammers.html
+slug: Windjammers
+tags: game
+title: Windjammers
 ---
 
 <img src="/images/jaquette_windjammers.jpg"

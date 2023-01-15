@@ -1,14 +1,14 @@
 ---
-title: "Orochi Chris (2k2um)"
-slug:  "Orochi_Chris_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-03'
 id: 62
-author: "Aerendir"
-permalink: "orochi-chris-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "Orochi_Chris"
+layout: character.njk
 old_id: 111
+permalink: orochi-chris-2k2um.html
+redirect: Orochi_Chris
+slug: Orochi_Chris_(2k2um)
+tags: character
+title: Orochi Chris (2k2um)
 ---
 
 ## Introduction

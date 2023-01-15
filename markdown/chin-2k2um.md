@@ -1,14 +1,14 @@
 ---
-title: "Chin (2k2um)"
-slug:  "Chin_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 41
-author: "Admin"
-permalink: "chin-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Chin"
+layout: character.njk
 old_id: 92
+permalink: chin-2k2um.html
+redirect: Chin
+slug: Chin_(2k2um)
+tags: character
+title: Chin (2k2um)
 ---
 
 ## Introduction

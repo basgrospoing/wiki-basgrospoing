@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Len/Full Moon"
-slug:  "Melty_Blood/Len/Full_Moon"
+author: Oufan, Ninjigen
+date: '2012-08-10'
 id: 1796
-author: "Oufan"
-permalink: "melty-blood-len-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-10"
+layout: character.njk
+permalink: melty-blood-len-full-moon.html
+slug: Melty_Blood/Len/Full_Moon
+tags: character
+title: Melty Blood/Len/Full Moon
 ---
 
 # Combos
@@ -227,5 +227,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

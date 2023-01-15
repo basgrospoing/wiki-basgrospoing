@@ -1,15 +1,13 @@
 ---
-title: "Hakan (SSFIV)"
-slug:  "Hakan_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2150
-author: "Atomskyu698"
-permalink: "hakan-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: hakan-ssfiv.html
+slug: Hakan_(SSFIV)
+tags: character
+title: Hakan (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

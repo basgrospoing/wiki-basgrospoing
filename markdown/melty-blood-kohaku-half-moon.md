@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kohaku/Half Moon"
-slug:  "Melty_Blood/Kohaku/Half_Moon"
+author: Sannos, Ninjigen
+date: '2012-08-20'
 id: 1778
-author: "Sannos"
-permalink: "melty-blood-kohaku-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-20"
+layout: character.njk
+permalink: melty-blood-kohaku-half-moon.html
+slug: Melty_Blood/Kohaku/Half_Moon
+tags: character
+title: Melty Blood/Kohaku/Half Moon
 ---
 
 # Combos
@@ -233,5 +233,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

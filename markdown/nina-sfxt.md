@@ -1,15 +1,13 @@
 ---
-title: "Nina (SFxT)"
-slug:  "Nina_(SFxT)"
+author: Hynkel, KizanCPC
+date: '2012-03-19'
 id: 2193
-author: "Hynkel"
-permalink: "nina-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-19"
+layout: character.njk
+permalink: nina-sfxt.html
+slug: Nina_(SFxT)
+tags: character
+title: Nina (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,15 +1,13 @@
 ---
-title: "Rose (SSFIV)"
-slug:  "Rose_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2140
-author: "Atomskyu698"
-permalink: "rose-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: rose-ssfiv.html
+slug: Rose_(SSFIV)
+tags: character
+title: Rose (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

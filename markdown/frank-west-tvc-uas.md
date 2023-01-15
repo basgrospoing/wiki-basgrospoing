@@ -1,12 +1,12 @@
 ---
-title: "Frank West (TvC:UAS)"
-slug:  "Frank_West_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 550
-author: "Dan sakazaki"
-permalink: "frank-west-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: frank-west-tvc-uas.html
+slug: Frank_West_(TvC:UAS)
+tags: character
+title: Frank West (TvC:UAS)
 ---
 
 <img src="/images/Frankwest.jpg" title="/images/Frankwest.jpg"

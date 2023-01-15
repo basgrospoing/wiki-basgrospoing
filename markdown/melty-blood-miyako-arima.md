@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Miyako Arima"
-slug:  "Melty_Blood/Miyako_Arima"
+author: Sannos, Ouytsu, Ninjigen
+date: '2014-07-23'
 id: 1809
-author: "Sannos"
-permalink: "melty-blood-miyako-arima.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-miyako-arima.html
+slug: Melty_Blood/Miyako_Arima
+tags: character
+title: Melty Blood/Miyako Arima
 ---
 
 - **Name:** Arima Miyako (有間 都古)
@@ -72,5 +72,3 @@ s'inscrit donc au tournoi Melty Blood sachant qu'elle n'a aucune chance.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

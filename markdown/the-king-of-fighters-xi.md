@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI"
-slug:  "The_King_of_Fighters_XI"
+author: Olivic
+date: '2012-07-24'
 id: 895
-author: "Olivic"
-permalink: "the-king-of-fighters-xi.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
-redirect: "Kofxi"
+layout: game.njk
 old_id: 896
+permalink: the-king-of-fighters-xi.html
+redirect: Kofxi
+slug: The_King_of_Fighters_XI
+tags: game
+title: The King of Fighters XI
 ---
 
 ![](images/kofxi-logo.jpg)

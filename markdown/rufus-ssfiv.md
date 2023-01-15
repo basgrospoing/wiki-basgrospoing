@@ -1,15 +1,13 @@
 ---
-title: "Rufus (SSFIV)"
-slug:  "Rufus_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2153
-author: "Atomskyu698"
-permalink: "rufus-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: rufus-ssfiv.html
+slug: Rufus_(SSFIV)
+tags: character
+title: Rufus (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

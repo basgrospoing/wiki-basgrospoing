@@ -1,12 +1,12 @@
 ---
-title: "Arthur (UMVC3)"
-slug:  "Arthur_(UMVC3)"
+author: ALX
+date: '2014-05-06'
 id: 2963
-author: "ALX"
-permalink: "arthur-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-06"
+layout: character.njk
+permalink: arthur-umvc3.html
+slug: Arthur_(UMVC3)
+tags: character
+title: Arthur (UMVC3)
 ---
 
 **EN TRAVAUX**

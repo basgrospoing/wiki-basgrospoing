@@ -1,14 +1,14 @@
 ---
-title: "Joe Higashi (2k2um)"
-slug:  "Joe_Higashi_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 69
-author: "Admin"
-permalink: "joe-higashi-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
-redirect: "Joe_Higashi"
+layout: character.njk
 old_id: 77
+permalink: joe-higashi-2k2um.html
+redirect: Joe_Higashi
+slug: Joe_Higashi_(2k2um)
+tags: character
+title: Joe Higashi (2k2um)
 ---
 
 ## Introduction

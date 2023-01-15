@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Aoko Aozaki/Full Moon"
-slug:  "Melty_Blood/Aoko_Aozaki/Full_Moon"
+author: Sannos, Ninjigen
+date: '2014-05-17'
 id: 1743
-author: "Sannos"
-permalink: "melty-blood-aoko-aozaki-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-17"
+layout: character.njk
+permalink: melty-blood-aoko-aozaki-full-moon.html
+slug: Melty_Blood/Aoko_Aozaki/Full_Moon
+tags: character
+title: Melty Blood/Aoko Aozaki/Full Moon
 ---
 
 # Combos
@@ -188,5 +188,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

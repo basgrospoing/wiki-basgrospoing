@@ -1,12 +1,12 @@
 ---
-title: "Dudley (3S)"
-slug:  "Dudley_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 271
-author: "ALX"
-permalink: "dudley-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: dudley-3s.html
+slug: Dudley_(3S)
+tags: character
+title: Dudley (3S)
 ---
 
 ![Character Select

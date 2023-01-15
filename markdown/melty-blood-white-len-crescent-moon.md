@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/White Len/Crescent Moon"
-slug:  "Melty_Blood/White_Len/Crescent_Moon"
+author: Ninjigen
+date: '2012-03-05'
 id: 1898
-author: "88.173.34.60"
-permalink: "melty-blood-white-len-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-05"
+layout: character.njk
+permalink: melty-blood-white-len-crescent-moon.html
+slug: Melty_Blood/White_Len/Crescent_Moon
+tags: character
+title: Melty Blood/White Len/Crescent Moon
 ---
 
 # Combos
@@ -201,5 +201,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

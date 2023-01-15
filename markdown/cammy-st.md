@@ -1,12 +1,12 @@
 ---
-title: "Cammy (ST)"
-slug:  "Cammy_(ST)"
+author: Rej, Wolmar
+date: '2011-05-09'
 id: 453
-author: "Rej"
-permalink: "cammy-st.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-09"
+layout: character.njk
+permalink: cammy-st.html
+slug: Cammy_(ST)
+tags: character
+title: Cammy (ST)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "ABK/FAQ"
-slug:  "ABK/FAQ"
+author: Kabai
+date: '2012-07-05'
 id: 2249
-author: "Kabai"
-permalink: "abk-faq.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-05"
+layout: character.njk
+permalink: abk-faq.html
+slug: ABK/FAQ
+tags: character
+title: ABK/FAQ
 ---
 
 ## Généralités

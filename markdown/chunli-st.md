@@ -1,12 +1,12 @@
 ---
-title: "ChunLi (ST)"
-slug:  "ChunLi_(ST)"
+author: Moun-B, Wolmar
+date: '2010-12-23'
 id: 454
-author: "Moun-B"
-permalink: "chunli-st.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-23"
+layout: character.njk
+permalink: chunli-st.html
+slug: ChunLi_(ST)
+tags: character
+title: ChunLi (ST)
 ---
 
 <figure>

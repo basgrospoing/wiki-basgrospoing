@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kohaku and Mech-Hisui/Half Moon"
-slug:  "Melty_Blood/Kohaku_and_Mech-Hisui/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1783
-author: "Ninjigen"
-permalink: "melty-blood-kohaku-and-mech-hisui-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-kohaku-and-mech-hisui-half-moon.html
+slug: Melty_Blood/Kohaku_and_Mech-Hisui/Half_Moon
+tags: character
+title: Melty Blood/Kohaku and Mech-Hisui/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

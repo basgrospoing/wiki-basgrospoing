@@ -1,12 +1,10 @@
 ---
-title: "Platinum the Trinity (BBCS)"
-slug:  "Platinum_the_Trinity_(BBCS)"
+author: Neithan
+date: '2012-07-05'
 id: 2477
-author: "Admin"
-permalink: "platinum-the-trinity-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-05"
+layout: character.njk
+permalink: platinum-the-trinity-bbcs.html
+slug: Platinum_the_Trinity_(BBCS)
+tags: character
+title: Platinum the Trinity (BBCS)
 ---
-
-

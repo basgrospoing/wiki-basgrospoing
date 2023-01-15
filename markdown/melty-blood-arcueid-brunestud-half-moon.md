@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Arcueid Brunestud/Half Moon"
-slug:  "Melty_Blood/Arcueid_Brunestud/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1754
-author: "Ninjigen"
-permalink: "melty-blood-arcueid-brunestud-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-arcueid-brunestud-half-moon.html
+slug: Melty_Blood/Arcueid_Brunestud/Half_Moon
+tags: character
+title: Melty Blood/Arcueid Brunestud/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

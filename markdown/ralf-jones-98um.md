@@ -1,12 +1,12 @@
 ---
-title: "Ralf Jones (98um)"
-slug:  "Ralf_Jones_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 214
-author: "Corbeau Bleu"
-permalink: "ralf-jones-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: ralf-jones-98um.html
+slug: Ralf_Jones_(98um)
+tags: character
+title: Ralf Jones (98um)
 ---
 
 ## Introduction

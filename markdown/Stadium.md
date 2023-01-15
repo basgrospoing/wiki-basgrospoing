@@ -1,12 +1,12 @@
 ---
-title: "Stadium"
-slug:  "Stadium"
+author: Wolmar
+date: '2010-12-20'
 id: 489
-author: "Wolmar"
-permalink: "stadium.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-20"
+layout: character.njk
+permalink: stadium.html
+slug: Stadium
+tags: character
+title: Stadium
 ---
 
 <figure>

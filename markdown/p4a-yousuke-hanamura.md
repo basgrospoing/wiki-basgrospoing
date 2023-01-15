@@ -1,12 +1,12 @@
 ---
-title: "P4A/Yousuke Hanamura"
-slug:  "P4A/Yousuke_Hanamura"
+author: Kabai
+date: '2012-08-06'
 id: 2642
-author: "Kabai"
-permalink: "p4a-yousuke-hanamura.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
+layout: character.njk
+permalink: p4a-yousuke-hanamura.html
+slug: P4A/Yousuke_Hanamura
+tags: character
+title: P4A/Yousuke Hanamura
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

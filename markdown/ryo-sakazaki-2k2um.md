@@ -1,14 +1,14 @@
 ---
-title: "Ryo Sakazaki (2k2um)"
-slug:  "Ryo_Sakazaki_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 64
-author: "Admin"
-permalink: "ryo-sakazaki-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
-redirect: "Ryo_Sakazaki"
+layout: character.njk
 old_id: 73
+permalink: ryo-sakazaki-2k2um.html
+redirect: Ryo_Sakazaki
+slug: Ryo_Sakazaki_(2k2um)
+tags: character
+title: Ryo Sakazaki (2k2um)
 ---
 
 ## Introduction

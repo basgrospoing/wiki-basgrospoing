@@ -1,12 +1,12 @@
 ---
-title: "Takuma Sakazaki (KoF '98)"
-slug:  "Takuma_Sakazaki_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 183
-author: "Corbeau Bleu"
-permalink: "takuma-sakazaki-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: takuma-sakazaki-kof-98.html
+slug: Takuma_Sakazaki_(KoF_'98)
+tags: character
+title: Takuma Sakazaki (KoF '98)
 ---
 
 ## Introduction

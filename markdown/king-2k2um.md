@@ -1,12 +1,12 @@
 ---
-title: "King (2k2um)"
-slug:  "King_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 120
-author: "Admin"
-permalink: "king-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
+layout: character.njk
+permalink: king-2k2um.html
+slug: King_(2k2um)
+tags: character
+title: King (2k2um)
 ---
 
 ## Introduction

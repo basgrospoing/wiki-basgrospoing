@@ -1,12 +1,12 @@
 ---
-title: "Benimaru Nikaido (98um)"
-slug:  "Benimaru_Nikaido_(98um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 204
-author: "Corbeau Bleu"
-permalink: "benimaru-nikaido-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: benimaru-nikaido-98um.html
+slug: Benimaru_Nikaido_(98um)
+tags: character
+title: Benimaru Nikaido (98um)
 ---
 
 ## Introduction

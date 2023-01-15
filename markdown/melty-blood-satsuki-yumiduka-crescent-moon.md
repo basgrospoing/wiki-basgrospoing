@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Satsuki Yumiduka/Crescent Moon"
-slug:  "Melty_Blood/Satsuki_Yumiduka/Crescent_Moon"
+author: Kairisu, Ninjigen
+date: '2012-04-09'
 id: 1856
-author: "Kairisu"
-permalink: "melty-blood-satsuki-yumiduka-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-09"
+layout: character.njk
+permalink: melty-blood-satsuki-yumiduka-crescent-moon.html
+slug: Melty_Blood/Satsuki_Yumiduka/Crescent_Moon
+tags: character
+title: Melty Blood/Satsuki Yumiduka/Crescent Moon
 ---
 
 # Combos
@@ -284,5 +284,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

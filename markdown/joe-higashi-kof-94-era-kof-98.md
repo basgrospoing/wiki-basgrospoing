@@ -1,12 +1,12 @@
 ---
-title: "Joe Higashi (KoF '94-Era) (KoF '98)"
-slug:  "Joe_Higashi_(KoF_'94-Era)_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 196
-author: "Corbeau Bleu"
-permalink: "joe-higashi-kof-94-era-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: joe-higashi-kof-94-era-kof-98.html
+slug: Joe_Higashi_(KoF_'94-Era)_(KoF_'98)
+tags: character
+title: Joe Higashi (KoF '94-Era) (KoF '98)
 ---
 
 ## Introduction

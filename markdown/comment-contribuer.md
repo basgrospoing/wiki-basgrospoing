@@ -1,12 +1,12 @@
 ---
-title: "Comment contribuer ?"
-slug:  "Comment_contribuer_?"
+author: Atomskyu, Hynkel
+date: '2014-01-10'
 id: 312
-author: "Admin"
-permalink: "comment-contribuer.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: comment-contribuer.html
+slug: Comment_contribuer_?
+tags: character
+title: Comment contribuer ?
 ---
 
 ## Comment contribuer au wiki ?

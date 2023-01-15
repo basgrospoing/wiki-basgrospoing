@@ -1,12 +1,12 @@
 ---
-title: "'Riot Of The Blood' Leona Heidern (98um)"
-slug:  "'Riot_Of_The_Blood'_Leona_Heidern_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 263
-author: "Corbeau Bleu"
-permalink: "riot-of-the-blood-leona-heidern-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: riot-of-the-blood-leona-heidern-98um.html
+slug: '''Riot_Of_The_Blood''_Leona_Heidern_(98um)'
+tags: character
+title: '''Riot Of The Blood'' Leona Heidern (98um)'
 ---
 
 ## Introduction

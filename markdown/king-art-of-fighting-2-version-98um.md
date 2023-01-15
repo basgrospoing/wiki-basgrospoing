@@ -1,12 +1,12 @@
 ---
-title: "King (Art Of Fighting 2 version) (98um)"
-slug:  "King_(Art_Of_Fighting_2_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 259
-author: "Corbeau Bleu"
-permalink: "king-art-of-fighting-2-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: king-art-of-fighting-2-version-98um.html
+slug: King_(Art_Of_Fighting_2_version)_(98um)
+tags: character
+title: King (Art Of Fighting 2 version) (98um)
 ---
 
 ## Introduction

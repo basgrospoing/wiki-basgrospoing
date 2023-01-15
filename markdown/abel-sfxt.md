@@ -1,15 +1,13 @@
 ---
-title: "Abel (SFxT)"
-slug:  "Abel_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2162
-author: "Hynkel"
-permalink: "abel-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: abel-sfxt.html
+slug: Abel_(SFxT)
+tags: character
+title: Abel (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

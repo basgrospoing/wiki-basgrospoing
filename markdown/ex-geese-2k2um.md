@@ -1,12 +1,12 @@
 ---
-title: "EX Geese (2k2um)"
-slug:  "EX_Geese_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 146
-author: "Corbeau Bleu"
-permalink: "ex-geese-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: ex-geese-2k2um.html
+slug: EX_Geese_(2k2um)
+tags: character
+title: EX Geese (2k2um)
 ---
 
 ## Introduction

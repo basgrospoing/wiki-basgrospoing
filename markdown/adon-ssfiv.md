@@ -1,15 +1,13 @@
 ---
-title: "Adon (SSFIV)"
-slug:  "Adon_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2144
-author: "Atomskyu698"
-permalink: "adon-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: adon-ssfiv.html
+slug: Adon_(SSFIV)
+tags: character
+title: Adon (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

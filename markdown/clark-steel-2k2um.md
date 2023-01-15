@@ -1,12 +1,12 @@
 ---
-title: "Clark Steel (2k2um)"
-slug:  "Clark_Steel_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-09'
 id: 123
-author: "200.169.245.58"
-permalink: "clark-steel-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-09"
+layout: character.njk
+permalink: clark-steel-2k2um.html
+slug: Clark_Steel_(2k2um)
+tags: character
+title: Clark Steel (2k2um)
 ---
 
 ## Introduction

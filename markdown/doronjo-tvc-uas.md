@@ -1,12 +1,12 @@
 ---
-title: "Doronjo (TvC:UAS)"
-slug:  "Doronjo_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-04-15'
 id: 527
-author: "Dan sakazaki"
-permalink: "doronjo-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-15"
+layout: character.njk
+permalink: doronjo-tvc-uas.html
+slug: Doronjo_(TvC:UAS)
+tags: character
+title: Doronjo (TvC:UAS)
 ---
 
 <img src="/images/Doronjo.jpg" title="/images/Doronjo.jpg" width="220"

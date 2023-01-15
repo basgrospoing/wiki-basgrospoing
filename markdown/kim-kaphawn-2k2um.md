@@ -1,12 +1,12 @@
 ---
-title: "Kim Kaphawn (2k2um)"
-slug:  "Kim_Kaphawn_(2k2um)"
+author: Corbeau Bleu
+date: '2011-05-21'
 id: 116
-author: "86.208.29.31"
-permalink: "kim-kaphawn-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-21"
+layout: character.njk
+permalink: kim-kaphawn-2k2um.html
+slug: Kim_Kaphawn_(2k2um)
+tags: character
+title: Kim Kaphawn (2k2um)
 ---
 
 ## Introduction

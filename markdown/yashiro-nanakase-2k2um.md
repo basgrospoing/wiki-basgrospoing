@@ -1,12 +1,12 @@
 ---
-title: "Yashiro Nanakase (2k2um)"
-slug:  "Yashiro_Nanakase_(2k2um)"
+author: JPX, Aerendir, Corbeau Bleu
+date: '2010-11-27'
 id: 130
-author: "JPX"
-permalink: "yashiro-nanakase-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-27"
+layout: character.njk
+permalink: yashiro-nanakase-2k2um.html
+slug: Yashiro_Nanakase_(2k2um)
+tags: character
+title: Yashiro Nanakase (2k2um)
 ---
 
 ## Introduction
@@ -110,4 +110,4 @@ Dès qu'il a une barre de super en stock, Yashiro peut sortir sa combo
 Jet Counter, c'est son BnB. A utiliser sans modération.  
 Son saut + D est son outil de zoning aérien le plus efficace, à utiliser
 sans modération.  
-B est un poke assez efficace.  
+B est un poke assez efficace.

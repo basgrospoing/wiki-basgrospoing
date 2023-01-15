@@ -1,12 +1,12 @@
 ---
-title: "Phoenix Wright (UMVC3)"
-slug:  "Phoenix_Wright_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2999
-author: "ALX"
-permalink: "phoenix-wright-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: phoenix-wright-umvc3.html
+slug: Phoenix_Wright_(UMVC3)
+tags: character
+title: Phoenix Wright (UMVC3)
 ---
 
 **EN TRAVAUX**

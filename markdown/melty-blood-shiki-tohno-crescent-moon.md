@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Tohno/Crescent Moon"
-slug:  "Melty_Blood/Shiki_Tohno/Crescent_Moon"
+author: Sannos, Ninjigen
+date: '2014-12-19'
 id: 1873
-author: "Sannos"
-permalink: "melty-blood-shiki-tohno-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-12-19"
+layout: character.njk
+permalink: melty-blood-shiki-tohno-crescent-moon.html
+slug: Melty_Blood/Shiki_Tohno/Crescent_Moon
+tags: character
+title: Melty Blood/Shiki Tohno/Crescent Moon
 ---
 
 # Combos
@@ -254,5 +254,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

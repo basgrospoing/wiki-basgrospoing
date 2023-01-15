@@ -1,14 +1,14 @@
 ---
-title: "Chang (2k2um)"
-slug:  "Chang_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 34
-author: "Admin"
-permalink: "chang-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Chang"
+layout: character.njk
 old_id: 82
+permalink: chang-2k2um.html
+redirect: Chang
+slug: Chang_(2k2um)
+tags: character
+title: Chang (2k2um)
 ---
 
 ## Introduction

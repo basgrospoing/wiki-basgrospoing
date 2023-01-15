@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (98um)"
-slug:  "Terry_Bogard_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 207
-author: "Corbeau Bleu"
-permalink: "terry-bogard-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: terry-bogard-98um.html
+slug: Terry_Bogard_(98um)
+tags: character
+title: Terry Bogard (98um)
 ---
 
 ## Introduction

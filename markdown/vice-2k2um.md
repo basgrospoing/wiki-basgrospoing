@@ -1,14 +1,14 @@
 ---
-title: "Vice (2k2um)"
-slug:  "Vice_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 44
-author: "Admin"
-permalink: "vice-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Vice"
+layout: character.njk
 old_id: 95
+permalink: vice-2k2um.html
+redirect: Vice
+slug: Vice_(2k2um)
+tags: character
+title: Vice (2k2um)
 ---
 
 ## Introduction

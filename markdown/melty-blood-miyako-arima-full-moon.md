@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Miyako Arima/Full Moon"
-slug:  "Melty_Blood/Miyako_Arima/Full_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1814
-author: "Ninjigen"
-permalink: "melty-blood-miyako-arima-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-miyako-arima-full-moon.html
+slug: Melty_Blood/Miyako_Arima/Full_Moon
+tags: character
+title: Melty Blood/Miyako Arima/Full Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)"
-slug:  "Samurai_Shodown_IV_-_Kazuki_Kazama_(風間_火月,_Kazama_Kazuki)"
+author: Olivic
+date: '2011-05-22'
 id: 639
-author: "Olivic"
-permalink: "samurai-shodown-iv-kazuki-kazama-kazama-kazuki.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Kazuki"
+layout: character.njk
 old_id: 657
+permalink: samurai-shodown-iv-kazuki-kazama-kazama-kazuki.html
+redirect: Ss4-Kazuki
+slug: Samurai_Shodown_IV_-_Kazuki_Kazama_(風間_火月,_Kazama_Kazuki)
+tags: character
+title: Samurai Shodown IV - Kazuki Kazama (風間 火月, Kazama Kazuki)
 ---
 
 ![](/images/ss4-Kazuki.gif "/images/ss4-Kazuki.gif")

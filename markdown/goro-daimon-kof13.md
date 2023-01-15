@@ -1,12 +1,12 @@
 ---
-title: "Goro Daimon (kof13)"
-slug:  "Goro_Daimon_(kof13)"
+author: Natchooo, Lolo
+date: '2012-03-07'
 id: 1113
-author: "Natchooo"
-permalink: "goro-daimon-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-07"
+layout: character.njk
+permalink: goro-daimon-kof13.html
+slug: Goro_Daimon_(kof13)
+tags: character
+title: Goro Daimon (kof13)
 ---
 
 ![Goro Daimon](/images/Gorokof13.gif "Goro Daimon") [Retour à la fiche

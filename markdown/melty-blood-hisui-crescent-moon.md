@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Hisui/Crescent Moon"
-slug:  "Melty_Blood/Hisui/Crescent_Moon"
+author: Ninjigen
+date: '2012-01-20'
 id: 1766
-author: "Ninjigen"
-permalink: "melty-blood-hisui-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-20"
+layout: character.njk
+permalink: melty-blood-hisui-crescent-moon.html
+slug: Melty_Blood/Hisui/Crescent_Moon
+tags: character
+title: Melty Blood/Hisui/Crescent Moon
 ---
 
 # Combos
@@ -201,5 +201,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

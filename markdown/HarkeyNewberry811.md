@@ -1,12 +1,12 @@
 ---
-title: "HarkeyNewberry811"
-slug:  "HarkeyNewberry811"
+author: HarkeyNewberry811
+date: '2012-06-15'
 id: 2295
-author: "HarkeyNewberry811"
-permalink: "harkeynewberry811.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-06-15"
+layout: character.njk
+permalink: harkeynewberry811.html
+slug: HarkeyNewberry811
+tags: character
+title: HarkeyNewberry811
 ---
 
 Learning building your own PERSONAL COMPUTER from scratch can be quite a

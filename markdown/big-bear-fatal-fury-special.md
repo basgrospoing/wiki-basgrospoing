@@ -1,12 +1,12 @@
 ---
-title: "Big Bear (Fatal Fury Special)"
-slug:  "Big_Bear_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-11'
 id: 725
-author: "Dan sakazaki"
-permalink: "big-bear-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-11"
+layout: character.njk
+permalink: big-bear-fatal-fury-special.html
+slug: Big_Bear_(Fatal_Fury_Special)
+tags: character
+title: Big Bear (Fatal Fury Special)
 ---
 
 ![](/images/Bigbear.PNG)  

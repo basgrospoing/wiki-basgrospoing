@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Red Arcueid/Half Moon"
-slug:  "Melty_Blood/Red_Arcueid/Half_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1839
-author: "Oufan"
-permalink: "melty-blood-red-arcueid-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-red-arcueid-half-moon.html
+slug: Melty_Blood/Red_Arcueid/Half_Moon
+tags: character
+title: Melty Blood/Red Arcueid/Half Moon
 ---
 
 # Combos
@@ -219,5 +219,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Len"
-slug:  "Melty_Blood/Len"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1791
-author: "Oufan"
-permalink: "melty-blood-len.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-len.html
+slug: Melty_Blood/Len
+tags: character
+title: Melty Blood/Len
 ---
 
 - **Name:** Len (レン)
@@ -77,5 +77,3 @@ permettent en bonus de renvoyer certains projectiles.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

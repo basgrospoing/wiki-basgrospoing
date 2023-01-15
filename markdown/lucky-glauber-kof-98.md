@@ -1,12 +1,12 @@
 ---
-title: "Lucky Glauber (KoF '98)"
-slug:  "Lucky_Glauber_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 186
-author: "Corbeau Bleu"
-permalink: "lucky-glauber-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: lucky-glauber-kof-98.html
+slug: Lucky_Glauber_(KoF_'98)
+tags: character
+title: Lucky Glauber (KoF '98)
 ---
 
 ## Introduction

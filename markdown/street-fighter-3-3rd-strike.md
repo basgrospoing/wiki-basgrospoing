@@ -1,12 +1,12 @@
 ---
-title: "Street Fighter 3: 3rd Strike"
-slug:  "Street_Fighter_3:_3rd_Strike"
+author: ALX, Atomskyu, Jojozekil, Travis Bickle
+date: '2014-05-04'
 id: 3
-author: "ALX"
-permalink: "street-fighter-3-3rd-strike.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-05-04"
+layout: game.njk
+permalink: street-fighter-3-3rd-strike.html
+slug: Street_Fighter_3:_3rd_Strike
+tags: game
+title: 'Street Fighter 3: 3rd Strike'
 ---
 
 ![](/images/3s_logo.gif "/images/3s_logo.gif")

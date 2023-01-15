@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion Eltnam Atlasia/Crescent Moon"
-slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1879
-author: "Ninjigen"
-permalink: "melty-blood-sion-eltnam-atlasia-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-sion-eltnam-atlasia-crescent-moon.html
+slug: Melty_Blood/Sion_Eltnam_Atlasia/Crescent_Moon
+tags: character
+title: Melty Blood/Sion Eltnam Atlasia/Crescent Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Orochi Chris (98um)"
-slug:  "Orochi_Chris_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 244
-author: "Corbeau Bleu"
-permalink: "orochi-chris-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: orochi-chris-98um.html
+slug: Orochi_Chris_(98um)
+tags: character
+title: Orochi Chris (98um)
 ---
 
 ## Introduction

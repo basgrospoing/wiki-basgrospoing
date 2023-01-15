@@ -1,15 +1,13 @@
 ---
-title: "Zangief (SSFIV)"
-slug:  "Zangief_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2141
-author: "Atomskyu698"
-permalink: "zangief-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: zangief-ssfiv.html
+slug: Zangief_(SSFIV)
+tags: character
+title: Zangief (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

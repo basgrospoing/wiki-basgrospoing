@@ -1,12 +1,12 @@
 ---
-title: "PTX-40A (TvC:UAS)"
-slug:  "PTX-40A_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-18'
 id: 530
-author: "Dan sakazaki"
-permalink: "ptx-40a-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-18"
+layout: character.njk
+permalink: ptx-40a-tvc-uas.html
+slug: PTX-40A_(TvC:UAS)
+tags: character
+title: PTX-40A (TvC:UAS)
 ---
 
 <img src="/images/PTX-40A.jpg" title="/images/PTX-40A.jpg" width="300"

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Ryougi/Crescent Moon"
-slug:  "Melty_Blood/Shiki_Ryougi/Crescent_Moon"
+author: Sannos, Ninjigen
+date: '2014-05-16'
 id: 1869
-author: "Sannos"
-permalink: "melty-blood-shiki-ryougi-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-16"
+layout: character.njk
+permalink: melty-blood-shiki-ryougi-crescent-moon.html
+slug: Melty_Blood/Shiki_Ryougi/Crescent_Moon
+tags: character
+title: Melty Blood/Shiki Ryougi/Crescent Moon
 ---
 
 # Combos
@@ -289,5 +289,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

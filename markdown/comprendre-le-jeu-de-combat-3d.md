@@ -1,12 +1,12 @@
 ---
-title: "Comprendre le jeu de combat 3D"
-slug:  "Comprendre_le_jeu_de_combat_3D"
+author: Neithan
+date: '2014-01-09'
 id: 2705
-author: "Admin"
-permalink: "comprendre-le-jeu-de-combat-3d.html"
-layout: "other.njk"
-tags: "other"
-date: "2014-01-09"
+layout: other.njk
+permalink: comprendre-le-jeu-de-combat-3d.html
+slug: Comprendre_le_jeu_de_combat_3D
+tags: other
+title: Comprendre le jeu de combat 3D
 ---
 
 # Les règles de base

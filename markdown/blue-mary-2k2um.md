@@ -1,14 +1,14 @@
 ---
-title: "Blue Mary (2k2um)"
-slug:  "Blue_Mary_(2k2um)"
+author: Hynkel, Corbeau Bleu
+date: '2010-11-24'
 id: 46
-author: "Hynkel"
-permalink: "blue-mary-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-24"
-redirect: "Blue_Mary"
+layout: character.njk
 old_id: 97
+permalink: blue-mary-2k2um.html
+redirect: Blue_Mary
+slug: Blue_Mary_(2k2um)
+tags: character
+title: Blue Mary (2k2um)
 ---
 
 ## Introduction

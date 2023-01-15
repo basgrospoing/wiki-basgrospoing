@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Gato Futaba"
-slug:  "The_King_of_Fighters_XI_-_Gato_Futaba"
+author: Olivic
+date: '2011-05-22'
 id: 907
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-gato-futaba.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "The_King_of_Fighters_XI_-_Gato"
+layout: character.njk
 old_id: 967
+permalink: the-king-of-fighters-xi-gato-futaba.html
+redirect: The_King_of_Fighters_XI_-_Gato
+slug: The_King_of_Fighters_XI_-_Gato_Futaba
+tags: character
+title: The King of Fighters XI - Gato Futaba
 ---
 
 ![](/images/kofxi-gato.jpg "/images/kofxi-gato.jpg")

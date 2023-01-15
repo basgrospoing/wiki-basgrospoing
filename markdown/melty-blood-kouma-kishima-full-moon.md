@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kouma Kishima/Full Moon"
-slug:  "Melty_Blood/Kouma_Kishima/Full_Moon"
+author: Ninjigen
+date: '2012-01-21'
 id: 1790
-author: "88.167.173.143"
-permalink: "melty-blood-kouma-kishima-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-21"
+layout: character.njk
+permalink: melty-blood-kouma-kishima-full-moon.html
+slug: Melty_Blood/Kouma_Kishima/Full_Moon
+tags: character
+title: Melty Blood/Kouma Kishima/Full Moon
 ---
 
 # Combos
@@ -239,5 +239,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

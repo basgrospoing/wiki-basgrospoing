@@ -1,12 +1,12 @@
 ---
-title: "Tung Fu Rue (Fatal Fury Special)"
-slug:  "Tung_Fu_Rue_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-12'
 id: 739
-author: "Dan sakazaki"
-permalink: "tung-fu-rue-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-12"
+layout: character.njk
+permalink: tung-fu-rue-fatal-fury-special.html
+slug: Tung_Fu_Rue_(Fatal_Fury_Special)
+tags: character
+title: Tung Fu Rue (Fatal Fury Special)
 ---
 
 ![](/images/Ffsptung.PNG)  

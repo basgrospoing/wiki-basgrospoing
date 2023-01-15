@@ -1,12 +1,12 @@
 ---
-title: "Rugal Bernstein (98um)"
-slug:  "Rugal_Bernstein_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 248
-author: "Corbeau Bleu"
-permalink: "rugal-bernstein-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: rugal-bernstein-98um.html
+slug: Rugal_Bernstein_(98um)
+tags: character
+title: Rugal Bernstein (98um)
 ---
 
 ## Introduction

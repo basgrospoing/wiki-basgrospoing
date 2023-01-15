@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)"
-slug:  "Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara)"
+author: Olivic
+date: '2011-05-22'
 id: 653
-author: "Olivic"
-permalink: "samurai-shodown-iv-basara-kubikiri-basara.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Basara"
+layout: character.njk
 old_id: 670
+permalink: samurai-shodown-iv-basara-kubikiri-basara.html
+redirect: Ss4-Basara
+slug: Samurai_Shodown_IV_-_Basara_(首切り_破沙羅,_Kubikiri_Basara)
+tags: character
+title: Samurai Shodown IV - Basara (首切り 破沙羅, Kubikiri Basara)
 ---
 
 ![](/images/ss4-Basara.gif "/images/ss4-Basara.gif")

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Warachia/Half Moon"
-slug:  "Melty_Blood/Warachia/Half_Moon"
+author: Ninjigen
+date: '2012-01-23'
 id: 1892
-author: "95.182.218.13"
-permalink: "melty-blood-warachia-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-23"
+layout: character.njk
+permalink: melty-blood-warachia-half-moon.html
+slug: Melty_Blood/Warachia/Half_Moon
+tags: character
+title: Melty Blood/Warachia/Half Moon
 ---
 
 # Combos
@@ -188,5 +188,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

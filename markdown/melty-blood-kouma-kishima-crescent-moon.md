@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kouma Kishima/Crescent Moon"
-slug:  "Melty_Blood/Kouma_Kishima/Crescent_Moon"
+author: Ninjigen
+date: '2012-03-10'
 id: 1788
-author: "88.167.173.143"
-permalink: "melty-blood-kouma-kishima-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-10"
+layout: character.njk
+permalink: melty-blood-kouma-kishima-crescent-moon.html
+slug: Melty_Blood/Kouma_Kishima/Crescent_Moon
+tags: character
+title: Melty Blood/Kouma Kishima/Crescent Moon
 ---
 
 # Combos
@@ -221,5 +221,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

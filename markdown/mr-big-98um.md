@@ -1,12 +1,12 @@
 ---
-title: "Mr. Big (98um)"
-slug:  "Mr._Big_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 242
-author: "Corbeau Bleu"
-permalink: "mr-big-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: mr-big-98um.html
+slug: Mr._Big_(98um)
+tags: character
+title: Mr. Big (98um)
 ---
 
 ## Introduction

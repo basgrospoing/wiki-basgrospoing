@@ -1,12 +1,12 @@
 ---
-title: "P4A/Mécanismes avancés"
-slug:  "P4A/Mécanismes_avancés"
+author: Kabai
+date: '2012-08-13'
 id: 2680
-author: "Kabai"
-permalink: "p4a-mecanismes-avances.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-13"
+layout: character.njk
+permalink: p4a-mecanismes-avances.html
+slug: P4A/Mécanismes_avancés
+tags: character
+title: P4A/Mécanismes avancés
 ---
 
 # Status spéciaux

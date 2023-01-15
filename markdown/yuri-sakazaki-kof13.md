@@ -1,14 +1,13 @@
 ---
-title: "Yuri Sakazaki (kof13)"
-slug:  "Yuri_Sakazaki_(kof13)"
+author: Sharnt, Lolo
+date: '2011-07-20'
 id: 1078
-author: "90.47.247.53"
-permalink: "yuri-sakazaki-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-20"
+layout: character.njk
+permalink: yuri-sakazaki-kof13.html
+slug: Yuri_Sakazaki_(kof13)
+tags: character
+title: Yuri Sakazaki (kof13)
 ---
-
 
 ![Yuri Sakazaki](/images/Yurikof13.gif "Yuri Sakazaki")  
 

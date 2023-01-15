@@ -1,14 +1,14 @@
 ---
-title: "Vanessa (2k2um)"
-slug:  "Vanessa_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 54
-author: "Admin"
-permalink: "vanessa-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Vanessa"
+layout: character.njk
 old_id: 105
+permalink: vanessa-2k2um.html
+redirect: Vanessa
+slug: Vanessa_(2k2um)
+tags: character
+title: Vanessa (2k2um)
 ---
 
 ## Introduction

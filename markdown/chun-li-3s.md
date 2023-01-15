@@ -1,12 +1,12 @@
 ---
-title: "Chun-Li (3S)"
-slug:  "Chun-Li_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-10'
 id: 270
-author: "ALX"
-permalink: "chun-li-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: chun-li-3s.html
+slug: Chun-Li_(3S)
+tags: character
+title: Chun-Li (3S)
 ---
 
 ![Character Select

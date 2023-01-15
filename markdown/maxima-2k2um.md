@@ -1,14 +1,14 @@
 ---
-title: "Maxima (2k2um)"
-slug:  "Maxima_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 52
-author: "Admin"
-permalink: "maxima-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Maxima"
+layout: character.njk
 old_id: 103
+permalink: maxima-2k2um.html
+redirect: Maxima
+slug: Maxima_(2k2um)
+tags: character
+title: Maxima (2k2um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kohaku"
-slug:  "Melty_Blood/Kohaku"
+author: Sannos, Ninjigen
+date: '2014-07-23'
 id: 1774
-author: "Sannos"
-permalink: "melty-blood-kohaku.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-kohaku.html
+slug: Melty_Blood/Kohaku
+tags: character
+title: Melty Blood/Kohaku
 ---
 
 - **Name:** Kohaku (琥珀)
@@ -88,5 +88,3 @@ plus dangereux que Crescent, mais a un jeu à l'oki moins bon.**
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

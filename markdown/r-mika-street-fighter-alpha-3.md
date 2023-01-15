@@ -1,12 +1,12 @@
 ---
-title: "R. Mika (Street Fighter Alpha 3)"
-slug:  "R._Mika_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1251
-author: "Tonio"
-permalink: "r-mika-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: r-mika-street-fighter-alpha-3.html
+slug: R._Mika_(Street_Fighter_Alpha_3)
+tags: character
+title: R. Mika (Street Fighter Alpha 3)
 ---
 
 ## Introduction

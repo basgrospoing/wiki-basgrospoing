@@ -1,15 +1,13 @@
 ---
-title: "Hwoarang (SFxT)"
-slug:  "Hwoarang_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2184
-author: "Hynkel"
-permalink: "hwoarang-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: hwoarang-sfxt.html
+slug: Hwoarang_(SFxT)
+tags: character
+title: Hwoarang (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

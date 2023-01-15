@@ -1,15 +1,13 @@
 ---
-title: "Paul (SFxT)"
-slug:  "Paul_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2195
-author: "Hynkel"
-permalink: "paul-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: paul-sfxt.html
+slug: Paul_(SFxT)
+tags: character
+title: Paul (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

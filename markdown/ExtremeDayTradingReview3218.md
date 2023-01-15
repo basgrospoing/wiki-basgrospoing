@@ -1,12 +1,12 @@
 ---
-title: "ExtremeDayTradingReview3218"
-slug:  "ExtremeDayTradingReview3218"
+author: ExtremeDayTradingReview3218
+date: '2012-08-06'
 id: 2660
-author: "ExtremeDayTradingReview3218"
-permalink: "extremedaytradingreview3218.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
+layout: character.njk
+permalink: extremedaytradingreview3218.html
+slug: ExtremeDayTradingReview3218
+tags: character
+title: ExtremeDayTradingReview3218
 ---
 
 With regards to scalp trading, Day investors attempt to make use of the

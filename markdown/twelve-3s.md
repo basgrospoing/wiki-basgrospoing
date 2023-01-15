@@ -1,12 +1,12 @@
 ---
-title: "Twelve (3S)"
-slug:  "Twelve_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 284
-author: "ALX"
-permalink: "twelve-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: twelve-3s.html
+slug: Twelve_(3S)
+tags: character
+title: Twelve (3S)
 ---
 
 ![Character Select

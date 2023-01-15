@@ -1,12 +1,12 @@
 ---
-title: "Beeho Yoo"
-slug:  "Beeho_Yoo"
+author: Wolmar
+date: '2012-03-02'
 id: 469
-author: "Wolmar"
-permalink: "beeho-yoo.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-02"
+layout: character.njk
+permalink: beeho-yoo.html
+slug: Beeho_Yoo
+tags: character
+title: Beeho Yoo
 ---
 
 <figure>

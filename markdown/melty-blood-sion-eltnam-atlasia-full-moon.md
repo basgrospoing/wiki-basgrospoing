@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion Eltnam Atlasia/Full Moon"
-slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon"
+author: Ouytsu, Ninjigen
+date: '2012-07-26'
 id: 1881
-author: "Ouytsu"
-permalink: "melty-blood-sion-eltnam-atlasia-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-26"
+layout: character.njk
+permalink: melty-blood-sion-eltnam-atlasia-full-moon.html
+slug: Melty_Blood/Sion_Eltnam_Atlasia/Full_Moon
+tags: character
+title: Melty Blood/Sion Eltnam Atlasia/Full Moon
 ---
 
 # Combos
@@ -225,5 +225,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

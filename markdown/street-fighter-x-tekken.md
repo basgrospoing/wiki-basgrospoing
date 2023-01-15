@@ -1,12 +1,12 @@
 ---
-title: "Street Fighter x Tekken"
-slug:  "Street_Fighter_x_Tekken"
+author: MaxDaStereo, Atomskyu, KizanCPC, Koala77, Hynkel
+date: '2012-08-11'
 id: 2161
-author: "MaxDaStereo"
-permalink: "street-fighter-x-tekken.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-08-11"
+layout: game.njk
+permalink: street-fighter-x-tekken.html
+slug: Street_Fighter_x_Tekken
+tags: game
+title: Street Fighter x Tekken
 ---
 
 ## LES CONTROLES / MOUVEMENTS

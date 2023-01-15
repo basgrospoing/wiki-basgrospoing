@@ -1,12 +1,12 @@
 ---
-title: "Yashiro Nanakase (98um)"
-slug:  "Yashiro_Nanakase_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 225
-author: "Corbeau Bleu"
-permalink: "yashiro-nanakase-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: yashiro-nanakase-98um.html
+slug: Yashiro_Nanakase_(98um)
+tags: character
+title: Yashiro Nanakase (98um)
 ---
 
 ## Introduction

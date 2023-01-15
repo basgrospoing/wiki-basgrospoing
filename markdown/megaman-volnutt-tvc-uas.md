@@ -1,12 +1,12 @@
 ---
-title: "Megaman Volnutt (TvC:UAS)"
-slug:  "Megaman_Volnutt_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 565
-author: "Dan sakazaki"
-permalink: "megaman-volnutt-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: megaman-volnutt-tvc-uas.html
+slug: Megaman_Volnutt_(TvC:UAS)
+tags: character
+title: Megaman Volnutt (TvC:UAS)
 ---
 
 <img src="/images/Rockvolnutt.jpg" title="/images/Rockvolnutt.jpg"

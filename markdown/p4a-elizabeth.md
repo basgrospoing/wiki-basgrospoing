@@ -1,14 +1,14 @@
 ---
-title: "P4A/Elizabeth"
-slug:  "P4A/Elizabeth"
+author: Kabai
+date: '2012-08-06'
 id: 2637
-author: "Kabai"
-permalink: "p4a-elizabeth.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Elizabeth"
+layout: character.njk
 old_id: 2647
+permalink: p4a-elizabeth.html
+redirect: Elizabeth
+slug: P4A/Elizabeth
+tags: character
+title: P4A/Elizabeth
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

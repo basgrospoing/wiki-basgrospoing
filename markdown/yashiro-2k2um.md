@@ -1,14 +1,14 @@
 ---
-title: "Yashiro (2k2um)"
-slug:  "Yashiro_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 48
-author: "Admin"
-permalink: "yashiro-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Yashiro"
+layout: character.njk
 old_id: 101
+permalink: yashiro-2k2um.html
+redirect: Yashiro
+slug: Yashiro_(2k2um)
+tags: character
+title: Yashiro (2k2um)
 ---
 
 ## Introduction

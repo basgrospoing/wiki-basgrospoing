@@ -1,12 +1,12 @@
 ---
-title: "Aveline"
-slug:  "Aveline"
+author: Aveline
+date: '2012-07-26'
 id: 2513
-author: "Aveline"
-permalink: "aveline.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-26"
+layout: character.njk
+permalink: aveline.html
+slug: Aveline
+tags: character
+title: Aveline
 ---
 
 There's a trend to acquire own autos these days because the tariff of

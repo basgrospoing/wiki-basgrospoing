@@ -1,15 +1,13 @@
 ---
-title: "M. Bison (SSFIV)"
-slug:  "M._Bison_(SSFIV)"
+author: Atomskyu, Hynkel, Pacman
+date: '2014-05-09'
 id: 316
-author: "Atomskyu698"
-permalink: "m-bison-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: m-bison-ssfiv.html
+slug: M._Bison_(SSFIV)
+tags: character
+title: M. Bison (SSFIV)
 ---
-
-
 
 *For you, the day Bison graced your village was the most important day
 of your life. But for me... it was Tuesday* - Raul Julia

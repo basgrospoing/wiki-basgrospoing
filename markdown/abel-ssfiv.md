@@ -1,15 +1,13 @@
 ---
-title: "Abel (SSFIV)"
-slug:  "Abel_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 367
-author: "Atomskyu698"
-permalink: "abel-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: abel-ssfiv.html
+slug: Abel_(SSFIV)
+tags: character
+title: Abel (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

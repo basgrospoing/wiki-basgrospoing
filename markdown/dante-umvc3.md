@@ -1,12 +1,12 @@
 ---
-title: "Dante (UMVC3)"
-slug:  "Dante_(UMVC3)"
+author: ALX
+date: '2014-05-07'
 id: 2980
-author: "ALX"
-permalink: "dante-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-07"
+layout: character.njk
+permalink: dante-umvc3.html
+slug: Dante_(UMVC3)
+tags: character
+title: Dante (UMVC3)
 ---
 
 **EN TRAVAUX**

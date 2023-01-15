@@ -1,14 +1,14 @@
 ---
-title: "Kensou (2k2um)"
-slug:  "Kensou_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 40
-author: "Admin"
-permalink: "kensou-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Kensou"
+layout: character.njk
 old_id: 91
+permalink: kensou-2k2um.html
+redirect: Kensou
+slug: Kensou_(2k2um)
+tags: character
+title: Kensou (2k2um)
 ---
 
 ## Introduction

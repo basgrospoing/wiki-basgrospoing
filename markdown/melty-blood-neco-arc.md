@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Neco Arc"
-slug:  "Melty_Blood/Neco_Arc"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1815
-author: "Sannos"
-permalink: "melty-blood-neco-arc.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-neco-arc.html
+slug: Melty_Blood/Neco_Arc
+tags: character
+title: Melty Blood/Neco Arc
 ---
 
 - **Name:** Neco Arc (ネコ　アルク)
@@ -56,5 +56,3 @@ date: "2014-01-10"
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

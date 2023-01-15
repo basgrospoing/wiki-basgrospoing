@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Ramon"
-slug:  "The_King_of_Fighters_XI_-_Ramon"
+author: Olivic
+date: '2011-06-09'
 id: 939
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-ramon.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-ramon"
+layout: character.njk
 old_id: 940
+permalink: the-king-of-fighters-xi-ramon.html
+redirect: Kofxi-ramon
+slug: The_King_of_Fighters_XI_-_Ramon
+tags: character
+title: The King of Fighters XI - Ramon
 ---
 
 ![](/images/kofxi-ramon.jpg "/images/kofxi-ramon.jpg")

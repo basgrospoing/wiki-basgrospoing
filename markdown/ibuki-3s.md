@@ -1,12 +1,12 @@
 ---
-title: "Ibuki (3S)"
-slug:  "Ibuki_(3S)"
+author: ALX, Rej, Corbeau Bleu
+date: '2014-05-04'
 id: 275
-author: "ALX"
-permalink: "ibuki-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: ibuki-3s.html
+slug: Ibuki_(3S)
+tags: character
+title: Ibuki (3S)
 ---
 
 ![Character Select

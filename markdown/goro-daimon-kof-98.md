@@ -1,12 +1,12 @@
 ---
-title: "Goro Daimon (KoF '98)"
-slug:  "Goro_Daimon_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 153
-author: "Corbeau Bleu"
-permalink: "goro-daimon-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: goro-daimon-kof-98.html
+slug: Goro_Daimon_(KoF_'98)
+tags: character
+title: Goro Daimon (KoF '98)
 ---
 
 ## Introduction

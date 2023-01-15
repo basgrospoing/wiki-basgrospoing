@@ -1,12 +1,12 @@
 ---
-title: "ABK/Fritz"
-slug:  "ABK/Fritz"
+author: Kabai, Aryth
+date: '2012-07-06'
 id: 2266
-author: "Kabai"
-permalink: "abk-fritz.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-06"
+layout: character.njk
+permalink: abk-fritz.html
+slug: ABK/Fritz
+tags: character
+title: ABK/Fritz
 ---
 
 ![](/images/Fritz_ABK.jpg "/images/Fritz_ABK.jpg")

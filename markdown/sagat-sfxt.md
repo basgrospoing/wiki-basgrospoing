@@ -1,15 +1,13 @@
 ---
-title: "Sagat (SFxT)"
-slug:  "Sagat_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2178
-author: "Hynkel"
-permalink: "sagat-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: sagat-sfxt.html
+slug: Sagat_(SFxT)
+tags: character
+title: Sagat (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

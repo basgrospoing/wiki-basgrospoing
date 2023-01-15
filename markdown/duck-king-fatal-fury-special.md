@@ -1,12 +1,12 @@
 ---
-title: "Duck King (Fatal Fury Special)"
-slug:  "Duck_King_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-10'
 id: 737
-author: "Dan sakazaki"
-permalink: "duck-king-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-10"
+layout: character.njk
+permalink: duck-king-fatal-fury-special.html
+slug: Duck_King_(Fatal_Fury_Special)
+tags: character
+title: Duck King (Fatal Fury Special)
 ---
 
 ![](/images/Ffspduck.PNG)  

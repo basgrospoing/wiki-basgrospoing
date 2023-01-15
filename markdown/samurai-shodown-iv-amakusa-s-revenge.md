@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV: Amakusa's Revenge"
-slug:  "Samurai_Shodown_IV:_Amakusa's_Revenge"
+author: Atomskyu, Olivic, Shambelle, Dan Sakazaki
+date: '2012-08-30'
 id: 635
-author: "Atomskyu690"
-permalink: "samurai-shodown-iv-amakusa-s-revenge.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-08-30"
-redirect: "Ss4"
+layout: game.njk
 old_id: 671
+permalink: samurai-shodown-iv-amakusa-s-revenge.html
+redirect: Ss4
+slug: Samurai_Shodown_IV:_Amakusa's_Revenge
+tags: game
+title: 'Samurai Shodown IV: Amakusa''s Revenge'
 ---
 
 ![](/images/Ss4-flyer.jpg)

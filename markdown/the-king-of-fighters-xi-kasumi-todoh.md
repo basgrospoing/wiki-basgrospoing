@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Kasumi Todoh"
-slug:  "The_King_of_Fighters_XI_-_Kasumi_Todoh"
+author: Olivic
+date: '2011-06-09'
 id: 927
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-kasumi-todoh.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-kasumi-todoh"
+layout: character.njk
 old_id: 928
+permalink: the-king-of-fighters-xi-kasumi-todoh.html
+redirect: Kofxi-kasumi-todoh
+slug: The_King_of_Fighters_XI_-_Kasumi_Todoh
+tags: character
+title: The King of Fighters XI - Kasumi Todoh
 ---
 
 ![](/images/kofxi-kasumi-todoh.jpg "/images/kofxi-kasumi-todoh.jpg")

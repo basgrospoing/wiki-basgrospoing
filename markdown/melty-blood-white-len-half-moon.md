@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/White Len/Half Moon"
-slug:  "Melty_Blood/White_Len/Half_Moon"
+author: Ninjigen
+date: '2012-03-05'
 id: 1897
-author: "88.173.34.60"
-permalink: "melty-blood-white-len-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-05"
+layout: character.njk
+permalink: melty-blood-white-len-half-moon.html
+slug: Melty_Blood/White_Len/Half_Moon
+tags: character
+title: Melty Blood/White Len/Half Moon
 ---
 
 # Combos
@@ -177,5 +177,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

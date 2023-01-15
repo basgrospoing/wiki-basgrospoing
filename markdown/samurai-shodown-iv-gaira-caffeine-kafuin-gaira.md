@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)"
-slug:  "Samurai_Shodown_IV_-_Gaira_Caffeine_(花諷院_骸羅,_Kafūin_Gaira)"
+author: Olivic, Anna3gQd7
+date: '2012-03-10'
 id: 645
-author: "Olivic"
-permalink: "samurai-shodown-iv-gaira-caffeine-kafuin-gaira.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-10"
-redirect: "Ss4-Gaira"
+layout: character.njk
 old_id: 663
+permalink: samurai-shodown-iv-gaira-caffeine-kafuin-gaira.html
+redirect: Ss4-Gaira
+slug: Samurai_Shodown_IV_-_Gaira_Caffeine_(花諷院_骸羅,_Kafūin_Gaira)
+tags: character
+title: Samurai Shodown IV - Gaira Caffeine (花諷院 骸羅, Kafūin Gaira)
 ---
 
 ![](/images/ss4-Gaira.gif "/images/ss4-Gaira.gif")

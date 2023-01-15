@@ -1,12 +1,12 @@
 ---
-title: "Iron Tager (BBCS)"
-slug:  "Iron_Tager_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-05'
 id: 301
-author: "Achoral"
-permalink: "iron-tager-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-05"
+layout: character.njk
+permalink: iron-tager-bbcs.html
+slug: Iron_Tager_(BBCS)
+tags: character
+title: Iron Tager (BBCS)
 ---
 
 <figure>

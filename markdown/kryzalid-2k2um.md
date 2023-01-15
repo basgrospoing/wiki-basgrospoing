@@ -1,12 +1,12 @@
 ---
-title: "Kryzalid (2k2um)"
-slug:  "Kryzalid_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 147
-author: "Corbeau Bleu"
-permalink: "kryzalid-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: kryzalid-2k2um.html
+slug: Kryzalid_(2k2um)
+tags: character
+title: Kryzalid (2k2um)
 ---
 
 ## Introduction

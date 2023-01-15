@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Iori Yagami"
-slug:  "The_King_of_Fighters_XI_-_Iori_Yagami"
+author: Olivic
+date: '2011-05-22'
 id: 963
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-iori-yagami.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Kofxi-iori-yagami"
+layout: character.njk
 old_id: 964
+permalink: the-king-of-fighters-xi-iori-yagami.html
+redirect: Kofxi-iori-yagami
+slug: The_King_of_Fighters_XI_-_Iori_Yagami
+tags: character
+title: The King of Fighters XI - Iori Yagami
 ---
 
 ![](/images/kofxi-iori-yagami.jpg "/images/kofxi-iori-yagami.jpg")

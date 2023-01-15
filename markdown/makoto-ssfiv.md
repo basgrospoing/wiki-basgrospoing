@@ -1,15 +1,13 @@
 ---
-title: "Makoto (SSFIV)"
-slug:  "Makoto_(SSFIV)"
+author: Atomskyu, Jojozekil
+date: '2014-05-09'
 id: 813
-author: "Atomskyu698"
-permalink: "makoto-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: makoto-ssfiv.html
+slug: Makoto_(SSFIV)
+tags: character
+title: Makoto (SSFIV)
 ---
-
-
 
 Ceci n'est qu'une ébauche et je n'ai pas la prétention d'être le
 meilleur joueur de Makoto, loin de là !

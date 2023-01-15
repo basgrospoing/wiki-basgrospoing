@@ -1,12 +1,12 @@
 ---
-title: "Vice (98um)"
-slug:  "Vice_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 233
-author: "Corbeau Bleu"
-permalink: "vice-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: vice-98um.html
+slug: Vice_(98um)
+tags: character
+title: Vice (98um)
 ---
 
 ## Introduction

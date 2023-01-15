@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Ryo Sakazaki"
-slug:  "The_King_of_Fighters_XI_-_Ryo_Sakazaki"
+author: Olivic
+date: '2011-05-22'
 id: 937
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-ryo-sakazaki.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Kofxi-ryo-sakazaki"
+layout: character.njk
 old_id: 938
+permalink: the-king-of-fighters-xi-ryo-sakazaki.html
+redirect: Kofxi-ryo-sakazaki
+slug: The_King_of_Fighters_XI_-_Ryo_Sakazaki
+tags: character
+title: The King of Fighters XI - Ryo Sakazaki
 ---
 
 ![](/images/kofxi-ryo-sakazaki.jpg "/images/kofxi-ryo-sakazaki.jpg")

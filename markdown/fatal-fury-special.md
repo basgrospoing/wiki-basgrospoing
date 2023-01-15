@@ -1,12 +1,12 @@
 ---
-title: "Fatal Fury Special"
-slug:  "Fatal_Fury_Special"
+author: Dan Sakazaki
+date: '2012-07-24'
 id: 718
-author: "Admin"
-permalink: "fatal-fury-special.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
+layout: game.njk
+permalink: fatal-fury-special.html
+slug: Fatal_Fury_Special
+tags: game
+title: Fatal Fury Special
 ---
 
 <img src="/images/ffsp.jpg" title="/images/ffsp.jpg" width="200"

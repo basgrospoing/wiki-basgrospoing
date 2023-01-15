@@ -1,12 +1,12 @@
 ---
-title: "Tsubaki Yayoi (BBCS)"
-slug:  "Tsubaki_Yayoi_(BBCS)"
+author: Yolsgens, Aerendir
+date: '2010-11-20'
 id: 294
-author: "Yolsgens"
-permalink: "tsubaki-yayoi-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-20"
+layout: character.njk
+permalink: tsubaki-yayoi-bbcs.html
+slug: Tsubaki_Yayoi_(BBCS)
+tags: character
+title: Tsubaki Yayoi (BBCS)
 ---
 
 <figure>

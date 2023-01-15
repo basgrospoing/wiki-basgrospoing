@@ -1,12 +1,12 @@
 ---
-title: "Alex (TvC:UAS)"
-slug:  "Alex_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-22'
 id: 528
-author: "Dan sakazaki"
-permalink: "alex-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
+layout: character.njk
+permalink: alex-tvc-uas.html
+slug: Alex_(TvC:UAS)
+tags: character
+title: Alex (TvC:UAS)
 ---
 
 <img src="/images/Tvc-alex.jpg" title="/images/Tvc-alex.jpg" width="220"

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Hisui/Half Moon"
-slug:  "Melty_Blood/Hisui/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1767
-author: "Ninjigen"
-permalink: "melty-blood-hisui-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-hisui-half-moon.html
+slug: Melty_Blood/Hisui/Half_Moon
+tags: character
+title: Melty Blood/Hisui/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

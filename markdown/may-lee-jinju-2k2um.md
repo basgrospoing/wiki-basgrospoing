@@ -1,12 +1,12 @@
 ---
-title: "May Lee Jinju (2k2um)"
-slug:  "May_Lee_Jinju_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 138
-author: "Corbeau Bleu"
-permalink: "may-lee-jinju-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
+layout: character.njk
+permalink: may-lee-jinju-2k2um.html
+slug: May_Lee_Jinju_(2k2um)
+tags: character
+title: May Lee Jinju (2k2um)
 ---
 
 ## Introduction

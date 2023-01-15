@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Moons"
-slug:  "Melty_Blood/Moons"
+author: Ninjigen, Naast
+date: '2012-06-14'
 id: 1712
-author: "109.209.196.225"
-permalink: "melty-blood-moons.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-06-14"
+layout: character.njk
+permalink: melty-blood-moons.html
+slug: Melty_Blood/Moons
+tags: character
+title: Melty Blood/Moons
 ---
 
 Melty Blood Actress Again introduit les moons, qui sont des sortes de
@@ -210,5 +210,3 @@ Fait à partir d'informations venant de [ce thread
 meltybread](http://www.meltybread.com/meltywiki/melty-blood-actress-again/mbaa-moon-style-differences/)  
 Traduction du [wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood/Moons)
-
-

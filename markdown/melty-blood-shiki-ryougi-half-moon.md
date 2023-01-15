@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Ryougi/Half Moon"
-slug:  "Melty_Blood/Shiki_Ryougi/Half_Moon"
+author: Skenn, Ninjigen
+date: '2014-08-27'
 id: 1868
-author: "Skenn"
-permalink: "melty-blood-shiki-ryougi-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-08-27"
+layout: character.njk
+permalink: melty-blood-shiki-ryougi-half-moon.html
+slug: Melty_Blood/Shiki_Ryougi/Half_Moon
+tags: character
+title: Melty Blood/Shiki Ryougi/Half Moon
 ---
 
 # Combos
@@ -343,5 +343,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

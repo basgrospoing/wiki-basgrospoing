@@ -1,15 +1,13 @@
 ---
-title: "Chun Li (SFxT)"
-slug:  "Chun_Li_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2166
-author: "Hynkel"
-permalink: "chun-li-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: chun-li-sfxt.html
+slug: Chun_Li_(SFxT)
+tags: character
+title: Chun Li (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

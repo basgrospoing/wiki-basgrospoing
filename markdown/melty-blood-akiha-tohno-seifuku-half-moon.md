@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno (Seifuku)/Half Moon"
-slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon"
+author: Sannos, Ninjigen
+date: '2014-05-09'
 id: 1728
-author: "Sannos"
-permalink: "melty-blood-akiha-tohno-seifuku-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-seifuku-half-moon.html
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)/Half_Moon
+tags: character
+title: Melty Blood/Akiha Tohno (Seifuku)/Half Moon
 ---
 
 # Combos
@@ -206,5 +206,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

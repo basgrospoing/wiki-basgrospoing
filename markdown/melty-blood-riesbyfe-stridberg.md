@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Riesbyfe Stridberg"
-slug:  "Melty_Blood/Riesbyfe_Stridberg"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1841
-author: "Oufan"
-permalink: "melty-blood-riesbyfe-stridberg.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-riesbyfe-stridberg.html
+slug: Melty_Blood/Riesbyfe_Stridberg
+tags: character
+title: Melty Blood/Riesbyfe Stridberg
 ---
 
 - **Name:** Riesbyfe Stridberg
@@ -64,5 +64,3 @@ s'approcher a mi-distance pour tuer l'adversaire très rapidement.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

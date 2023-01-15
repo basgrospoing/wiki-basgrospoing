@@ -1,12 +1,12 @@
 ---
-title: "Tekkaman Blade (TvC:UAS)"
-slug:  "Tekkaman_Blade_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-18'
 id: 519
-author: "Dan sakazaki"
-permalink: "tekkaman-blade-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-18"
+layout: character.njk
+permalink: tekkaman-blade-tvc-uas.html
+slug: Tekkaman_Blade_(TvC:UAS)
+tags: character
+title: Tekkaman Blade (TvC:UAS)
 ---
 
 <img src="/images/Tekkamanblade.jpg" title="/images/Tekkamanblade.jpg"

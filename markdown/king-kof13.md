@@ -1,12 +1,12 @@
 ---
-title: "King (kof13)"
-slug:  "King_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1118
-author: "82.238.249.39"
-permalink: "king-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: king-kof13.html
+slug: King_(kof13)
+tags: character
+title: King (kof13)
 ---
 
 ![King](/images/Kingkof13.gif "King") 

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Riesbyfe Stridberg/Half Moon"
-slug:  "Melty_Blood/Riesbyfe_Stridberg/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1843
-author: "Ninjigen"
-permalink: "melty-blood-riesbyfe-stridberg-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-riesbyfe-stridberg-half-moon.html
+slug: Melty_Blood/Riesbyfe_Stridberg/Half_Moon
+tags: character
+title: Melty Blood/Riesbyfe Stridberg/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

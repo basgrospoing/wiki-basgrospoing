@@ -1,15 +1,13 @@
 ---
-title: "Dan (SSFIV)"
-slug:  "Dan_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2146
-author: "Atomskyu698"
-permalink: "dan-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: dan-ssfiv.html
+slug: Dan_(SSFIV)
+tags: character
+title: Dan (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

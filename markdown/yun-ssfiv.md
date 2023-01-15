@@ -1,15 +1,13 @@
 ---
-title: "Yun (SSFIV)"
-slug:  "Yun_(SSFIV)"
+author: Atomskyu
+date: '2014-05-15'
 id: 2157
-author: "Atomskyu698"
-permalink: "yun-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-15"
+layout: character.njk
+permalink: yun-ssfiv.html
+slug: Yun_(SSFIV)
+tags: character
+title: Yun (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

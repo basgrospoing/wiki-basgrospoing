@@ -1,12 +1,12 @@
 ---
-title: "Makoto (3S)"
-slug:  "Makoto_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 277
-author: "ALX"
-permalink: "makoto-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: makoto-3s.html
+slug: Makoto_(3S)
+tags: character
+title: Makoto (3S)
 ---
 
 ![Character Select

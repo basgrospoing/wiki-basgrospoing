@@ -1,12 +1,12 @@
 ---
-title: "Kim Kaphwan (Fatal Fury Special)"
-slug:  "Kim_Kaphwan_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-05-02'
 id: 733
-author: "Dan sakazaki"
-permalink: "kim-kaphwan-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-02"
+layout: character.njk
+permalink: kim-kaphwan-fatal-fury-special.html
+slug: Kim_Kaphwan_(Fatal_Fury_Special)
+tags: character
+title: Kim Kaphwan (Fatal Fury Special)
 ---
 
 ![](/images/Ffspkim.PNG)  

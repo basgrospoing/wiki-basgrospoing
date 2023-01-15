@@ -1,12 +1,12 @@
 ---
-title: "Kim Kaphwan (98um)"
-slug:  "Kim_Kaphwan_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 222
-author: "Corbeau Bleu"
-permalink: "kim-kaphwan-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: kim-kaphwan-98um.html
+slug: Kim_Kaphwan_(98um)
+tags: character
+title: Kim Kaphwan (98um)
 ---
 
 ## Introduction

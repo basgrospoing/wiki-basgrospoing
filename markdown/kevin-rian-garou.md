@@ -1,12 +1,12 @@
 ---
-title: "Kevin Rian (Garou)"
-slug:  "Kevin_Rian_(Garou)"
+author: Sp1p3, Timmytheturtle, Aerendir, Sharnt, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 10
-author: "Sp1p3"
-permalink: "kevin-rian-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: kevin-rian-garou.html
+slug: Kevin_Rian_(Garou)
+tags: character
+title: Kevin Rian (Garou)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Killer Instinct"
-slug:  "Killer_Instinct"
+author: Dan Sakazaki
+date: '2011-05-03'
 id: 572
-author: "Dan sakazaki"
-permalink: "killer-instinct.html"
-layout: "game.njk"
-tags: "game"
-date: "2011-05-03"
+layout: game.njk
+permalink: killer-instinct.html
+slug: Killer_Instinct
+tags: game
+title: Killer Instinct
 ---
 
 <img src="/images/Kiflyer.jpg" title="/images/Kiflyer.jpg" width="250"

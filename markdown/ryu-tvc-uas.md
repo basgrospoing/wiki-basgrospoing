@@ -1,12 +1,12 @@
 ---
-title: "Ryu (TvC:UAS)"
-slug:  "Ryu_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2012-07-05'
 id: 566
-author: "Admin"
-permalink: "ryu-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-05"
+layout: character.njk
+permalink: ryu-tvc-uas.html
+slug: Ryu_(TvC:UAS)
+tags: character
+title: Ryu (TvC:UAS)
 ---
 
 <img src="/images/Tvcryu.jpg" title="/images/Tvcryu.jpg" width="250"

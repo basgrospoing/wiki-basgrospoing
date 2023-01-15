@@ -1,14 +1,14 @@
 ---
-title: "Ramon (2k2um)"
-slug:  "Ramon_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-03'
 id: 56
-author: "Admin"
-permalink: "ramon-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "Ramon"
+layout: character.njk
 old_id: 107
+permalink: ramon-2k2um.html
+redirect: Ramon
+slug: Ramon_(2k2um)
+tags: character
+title: Ramon (2k2um)
 ---
 
 ## Introduction

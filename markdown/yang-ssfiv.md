@@ -1,15 +1,13 @@
 ---
-title: "Yang (SSFIV)"
-slug:  "Yang_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2158
-author: "Atomskyu698"
-permalink: "yang-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: yang-ssfiv.html
+slug: Yang_(SSFIV)
+tags: character
+title: Yang (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

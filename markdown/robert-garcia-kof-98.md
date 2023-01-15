@@ -1,12 +1,12 @@
 ---
-title: "Robert Garcia (KoF '98)"
-slug:  "Robert_Garcia_(KoF_'98)"
+author: Yunn1, Corbeau Bleu
+date: '2011-07-13'
 id: 159
-author: "85.171.23.44"
-permalink: "robert-garcia-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-13"
+layout: character.njk
+permalink: robert-garcia-kof-98.html
+slug: Robert_Garcia_(KoF_'98)
+tags: character
+title: Robert Garcia (KoF '98)
 ---
 
 ## Introduction

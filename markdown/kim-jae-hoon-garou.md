@@ -1,12 +1,12 @@
 ---
-title: "Kim Jae Hoon (Garou)"
-slug:  "Kim_Jae_Hoon_(Garou)"
+author: Aerendir, Sharnt, Olivic, Timmytheturtle, Corbeau Bleu
+date: '2011-05-24'
 id: 15
-author: "Aerendir"
-permalink: "kim-jae-hoon-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: kim-jae-hoon-garou.html
+slug: Kim_Jae_Hoon_(Garou)
+tags: character
+title: Kim Jae Hoon (Garou)
 ---
 
 ## Introduction

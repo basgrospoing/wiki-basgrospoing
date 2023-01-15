@@ -1,12 +1,12 @@
 ---
-title: "Marvel vs Capcom 3"
-slug:  "Marvel_vs_Capcom_3"
+author: Neithan
+date: '2011-03-17'
 id: 579
-author: "Admin"
-permalink: "marvel-vs-capcom-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-03-17"
+layout: character.njk
+permalink: marvel-vs-capcom-3.html
+slug: Marvel_vs_Capcom_3
+tags: character
+title: Marvel vs Capcom 3
 ---
 
 ## Personnages

@@ -1,12 +1,12 @@
 ---
-title: "Jordi Costa"
-slug:  "Jordi_Costa"
+author: Wolmar
+date: '2012-06-14'
 id: 471
-author: "Wolmar"
-permalink: "jordi-costa.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-06-14"
+layout: character.njk
+permalink: jordi-costa.html
+slug: Jordi_Costa
+tags: character
+title: Jordi Costa
 ---
 
 <figure>

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Satsuki Yumiduka/Half Moon"
-slug:  "Melty_Blood/Satsuki_Yumiduka/Half_Moon"
+author: Oufan, Ninjigen
+date: '2012-08-02'
 id: 1857
-author: "Oufan"
-permalink: "melty-blood-satsuki-yumiduka-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-02"
+layout: character.njk
+permalink: melty-blood-satsuki-yumiduka-half-moon.html
+slug: Melty_Blood/Satsuki_Yumiduka/Half_Moon
+tags: character
+title: Melty Blood/Satsuki Yumiduka/Half Moon
 ---
 
 # Combos
@@ -164,5 +164,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

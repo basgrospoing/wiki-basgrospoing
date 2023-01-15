@@ -1,12 +1,12 @@
 ---
-title: "Wolfgang Krauser (98um)"
-slug:  "Wolfgang_Krauser_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 241
-author: "Corbeau Bleu"
-permalink: "wolfgang-krauser-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: wolfgang-krauser-98um.html
+slug: Wolfgang_Krauser_(98um)
+tags: character
+title: Wolfgang Krauser (98um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Hazama (BBCS)"
-slug:  "Hazama_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-01'
 id: 302
-author: "Achoral"
-permalink: "hazama-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-01"
+layout: character.njk
+permalink: hazama-bbcs.html
+slug: Hazama_(BBCS)
+tags: character
+title: Hazama (BBCS)
 ---
 
 <figure>

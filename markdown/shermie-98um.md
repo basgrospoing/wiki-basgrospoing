@@ -1,12 +1,12 @@
 ---
-title: "Shermie (98um)"
-slug:  "Shermie_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 226
-author: "Corbeau Bleu"
-permalink: "shermie-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: shermie-98um.html
+slug: Shermie_(98um)
+tags: character
+title: Shermie (98um)
 ---
 
 ## Introduction

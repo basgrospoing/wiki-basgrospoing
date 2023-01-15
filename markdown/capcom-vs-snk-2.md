@@ -1,12 +1,12 @@
 ---
-title: "Capcom vs SNK 2"
-slug:  "Capcom_vs_SNK_2"
+author: ALX
+date: '2011-10-29'
 id: 1608
-author: "Alx"
-permalink: "capcom-vs-snk-2.html"
-layout: "game.njk"
-tags: "game"
-date: "2011-10-29"
+layout: game.njk
+permalink: capcom-vs-snk-2.html
+slug: Capcom_vs_SNK_2
+tags: game
+title: Capcom vs SNK 2
 ---
 
 ![](/images/Cvs2.jpg "/images/Cvs2.jpg")

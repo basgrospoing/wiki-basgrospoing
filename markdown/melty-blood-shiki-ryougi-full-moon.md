@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Ryougi/Full Moon"
-slug:  "Melty_Blood/Shiki_Ryougi/Full_Moon"
+author: Skenn, Sannos, Ninjigen
+date: '2014-06-01'
 id: 1867
-author: "Skenn"
-permalink: "melty-blood-shiki-ryougi-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-06-01"
+layout: character.njk
+permalink: melty-blood-shiki-ryougi-full-moon.html
+slug: Melty_Blood/Shiki_Ryougi/Full_Moon
+tags: character
+title: Melty Blood/Shiki Ryougi/Full Moon
 ---
 
 # Combos
@@ -254,5 +254,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

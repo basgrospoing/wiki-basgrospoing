@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (Garou)"
-slug:  "Terry_Bogard_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 16
-author: "Aerendir"
-permalink: "terry-bogard-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: terry-bogard-garou.html
+slug: Terry_Bogard_(Garou)
+tags: character
+title: Terry Bogard (Garou)
 ---
 
 ## Introduction

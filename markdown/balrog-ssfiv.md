@@ -1,15 +1,13 @@
 ---
-title: "Balrog (SSFIV)"
-slug:  "Balrog_(SSFIV)"
+author: Atomskyu, Negus Salomon
+date: '2014-05-09'
 id: 341
-author: "Atomskyu698"
-permalink: "balrog-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: balrog-ssfiv.html
+slug: Balrog_(SSFIV)
+tags: character
+title: Balrog (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

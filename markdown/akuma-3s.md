@@ -1,12 +1,12 @@
 ---
-title: "Akuma (3S)"
-slug:  "Akuma_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-10'
 id: 268
-author: "ALX"
-permalink: "akuma-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: akuma-3s.html
+slug: Akuma_(3S)
+tags: character
+title: Akuma (3S)
 ---
 
 ![Character Select

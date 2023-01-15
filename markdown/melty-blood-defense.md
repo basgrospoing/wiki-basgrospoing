@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Defense"
-slug:  "Melty_Blood/Defense"
+author: Naast, Ninjigen
+date: '2012-01-17'
 id: 1709
-author: "Naast"
-permalink: "melty-blood-defense.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-defense.html
+slug: Melty_Blood/Defense
+tags: character
+title: Melty Blood/Defense
 ---
 
 Dans Melty Blood Actress Again Current Code, tous les personnages

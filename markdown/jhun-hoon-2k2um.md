@@ -1,12 +1,12 @@
 ---
-title: "Jhun Hoon (2k2um)"
-slug:  "Jhun_Hoon_(2k2um)"
+author: Kaldanm, Corbeau Bleu
+date: '2010-11-26'
 id: 131
-author: "Kaldanm"
-permalink: "jhun-hoon-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-26"
+layout: character.njk
+permalink: jhun-hoon-2k2um.html
+slug: Jhun_Hoon_(2k2um)
+tags: character
+title: Jhun Hoon (2k2um)
 ---
 
 ## Introduction
@@ -91,4 +91,4 @@ date: "2010-11-26"
 ## Stratégies
 
 Soshuu stance :  
-HK est un garde Crush automatique. Le combo HK, HK est imblocable.  
+HK est un garde Crush automatique. Le combo HK, HK est imblocable.

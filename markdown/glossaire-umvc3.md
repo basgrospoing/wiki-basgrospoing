@@ -1,12 +1,12 @@
 ---
-title: "Glossaire UMVC3"
-slug:  "Glossaire_UMVC3"
+author: ALX
+date: '2014-05-10'
 id: 2924
-author: "ALX"
-permalink: "glossaire-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: glossaire-umvc3.html
+slug: Glossaire_UMVC3
+tags: character
+title: Glossaire UMVC3
 ---
 
 ![](/images/Umvc3logo.png "/images/Umvc3logo.png")

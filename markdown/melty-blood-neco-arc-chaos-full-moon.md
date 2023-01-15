@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Neco Arc Chaos/Full Moon"
-slug:  "Melty_Blood/Neco_Arc_Chaos/Full_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1823
-author: "Ninjigen"
-permalink: "melty-blood-neco-arc-chaos-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-neco-arc-chaos-full-moon.html
+slug: Melty_Blood/Neco_Arc_Chaos/Full_Moon
+tags: character
+title: Melty Blood/Neco Arc Chaos/Full Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Nash (Street Fighter Alpha 3)"
-slug:  "Nash_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-08-12'
 id: 1246
-author: "Tonio"
-permalink: "nash-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-08-12"
+layout: character.njk
+permalink: nash-street-fighter-alpha-3.html
+slug: Nash_(Street_Fighter_Alpha_3)
+tags: character
+title: Nash (Street Fighter Alpha 3)
 ---
 
 <figure>

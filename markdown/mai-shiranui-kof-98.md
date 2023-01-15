@@ -1,12 +1,12 @@
 ---
-title: "Mai Shiranui (KoF '98)"
-slug:  "Mai_Shiranui_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 168
-author: "Corbeau Bleu"
-permalink: "mai-shiranui-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: mai-shiranui-kof-98.html
+slug: Mai_Shiranui_(KoF_'98)
+tags: character
+title: Mai Shiranui (KoF '98)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Heidern (98um)"
-slug:  "Heidern_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 234
-author: "Corbeau Bleu"
-permalink: "heidern-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: heidern-98um.html
+slug: Heidern_(98um)
+tags: character
+title: Heidern (98um)
 ---
 
 ## Introduction

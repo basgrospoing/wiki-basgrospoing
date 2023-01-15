@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Red Arcueid/Full Moon"
-slug:  "Melty_Blood/Red_Arcueid/Full_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1840
-author: "Oufan"
-permalink: "melty-blood-red-arcueid-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-red-arcueid-full-moon.html
+slug: Melty_Blood/Red_Arcueid/Full_Moon
+tags: character
+title: Melty Blood/Red Arcueid/Full Moon
 ---
 
 # Combos
@@ -241,5 +241,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Roa/Crescent Moon"
-slug:  "Melty_Blood/Roa/Crescent_Moon"
+author: Ninjigen
+date: '2012-02-02'
 id: 1852
-author: "82.234.188.250"
-permalink: "melty-blood-roa-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-02"
+layout: character.njk
+permalink: melty-blood-roa-crescent-moon.html
+slug: Melty_Blood/Roa/Crescent_Moon
+tags: character
+title: Melty Blood/Roa/Crescent Moon
 ---
 
 # Combos
@@ -362,5 +362,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,14 +1,14 @@
 ---
-title: "P4A/Mitsuru Kirijo"
-slug:  "P4A/Mitsuru_Kirijo"
+author: Kabai
+date: '2012-08-06'
 id: 2638
-author: "Kabai"
-permalink: "p4a-mitsuru-kirijo.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Mitsuru_Kirijo"
+layout: character.njk
 old_id: 2648
+permalink: p4a-mitsuru-kirijo.html
+redirect: Mitsuru_Kirijo
+slug: P4A/Mitsuru_Kirijo
+tags: character
+title: P4A/Mitsuru Kirijo
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

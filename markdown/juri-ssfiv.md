@@ -1,15 +1,13 @@
 ---
-title: "Juri (SSFIV)"
-slug:  "Juri_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 354
-author: "Atomskyu698"
-permalink: "juri-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: juri-ssfiv.html
+slug: Juri_(SSFIV)
+tags: character
+title: Juri (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

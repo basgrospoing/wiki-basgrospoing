@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Roa/Full Moon"
-slug:  "Melty_Blood/Roa/Full_Moon"
+author: Zind, Ninjigen
+date: '2012-01-19'
 id: 1850
-author: "Zind"
-permalink: "melty-blood-roa-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-19"
+layout: character.njk
+permalink: melty-blood-roa-full-moon.html
+slug: Melty_Blood/Roa/Full_Moon
+tags: character
+title: Melty Blood/Roa/Full Moon
 ---
 
 # Introduction
@@ -387,5 +387,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

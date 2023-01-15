@@ -1,14 +1,14 @@
 ---
-title: "P4A/Teddie"
-slug:  "P4A/Teddie"
+author: Kabai
+date: '2012-08-06'
 id: 2641
-author: "Kabai"
-permalink: "p4a-teddie.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Teddie"
+layout: character.njk
 old_id: 2657
+permalink: p4a-teddie.html
+redirect: Teddie
+slug: P4A/Teddie
+tags: character
+title: P4A/Teddie
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

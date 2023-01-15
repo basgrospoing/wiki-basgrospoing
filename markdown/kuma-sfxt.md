@@ -1,15 +1,13 @@
 ---
-title: "Kuma (SFxT)"
-slug:  "Kuma_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2189
-author: "Hynkel"
-permalink: "kuma-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: kuma-sfxt.html
+slug: Kuma_(SFxT)
+tags: character
+title: Kuma (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

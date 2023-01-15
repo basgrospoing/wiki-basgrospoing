@@ -1,12 +1,12 @@
 ---
-title: "Hinako Shijou (2k2um)"
-slug:  "Hinako_Shijou_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-01'
 id: 137
-author: "Corbeau Bleu"
-permalink: "hinako-shijou-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-01"
+layout: character.njk
+permalink: hinako-shijou-2k2um.html
+slug: Hinako_Shijou_(2k2um)
+tags: character
+title: Hinako Shijou (2k2um)
 ---
 
 ## Introduction

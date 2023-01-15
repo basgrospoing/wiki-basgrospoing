@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Kyo Kusanagi"
-slug:  "The_King_of_Fighters_XI_-_Kyo_Kusanagi"
+author: Olivic
+date: '2011-06-09'
 id: 961
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-kyo-kusanagi.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-kyo-kusanagi"
+layout: character.njk
 old_id: 962
+permalink: the-king-of-fighters-xi-kyo-kusanagi.html
+redirect: Kofxi-kyo-kusanagi
+slug: The_King_of_Fighters_XI_-_Kyo_Kusanagi
+tags: character
+title: The King of Fighters XI - Kyo Kusanagi
 ---
 
 ![](/images/kofxi-kyo-kusanagi.jpg "/images/kofxi-kyo-kusanagi.jpg")

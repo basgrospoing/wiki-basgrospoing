@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (kof13)"
-slug:  "Terry_Bogard_(kof13)"
+author: Maj, Lolo
+date: '2011-08-08'
 id: 1077
-author: "Maj"
-permalink: "terry-bogard-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-08-08"
+layout: character.njk
+permalink: terry-bogard-kof13.html
+slug: Terry_Bogard_(kof13)
+tags: character
+title: Terry Bogard (kof13)
 ---
 
 ![Terry Bogard](/images/terrykof13.gif "Terry Bogard") [Retour à la

@@ -1,14 +1,14 @@
 ---
-title: "Mature (2k2um)"
-slug:  "Mature_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 43
-author: "Admin"
-permalink: "mature-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Mature"
+layout: character.njk
 old_id: 94
+permalink: mature-2k2um.html
+redirect: Mature
+slug: Mature_(2k2um)
+tags: character
+title: Mature (2k2um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Nero Chaos/Half Moon"
-slug:  "Melty_Blood/Nero_Chaos/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1828
-author: "Ninjigen"
-permalink: "melty-blood-nero-chaos-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-nero-chaos-half-moon.html
+slug: Melty_Blood/Nero_Chaos/Half_Moon
+tags: character
+title: Melty Blood/Nero Chaos/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

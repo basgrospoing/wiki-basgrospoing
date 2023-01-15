@@ -1,15 +1,13 @@
 ---
-title: "C. Viper (SSFIV)"
-slug:  "C._Viper_(SSFIV)"
+author: Atomskyu, Tonio
+date: '2014-05-09'
 id: 438
-author: "Atomskyu698"
-permalink: "c-viper-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: c-viper-ssfiv.html
+slug: C._Viper_(SSFIV)
+tags: character
+title: C. Viper (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

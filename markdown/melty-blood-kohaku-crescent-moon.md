@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kohaku/Crescent Moon"
-slug:  "Melty_Blood/Kohaku/Crescent_Moon"
+author: Sannos, Ninjigen
+date: '2015-01-15'
 id: 1777
-author: "Sannos"
-permalink: "melty-blood-kohaku-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-01-15"
+layout: character.njk
+permalink: melty-blood-kohaku-crescent-moon.html
+slug: Melty_Blood/Kohaku/Crescent_Moon
+tags: character
+title: Melty Blood/Kohaku/Crescent Moon
 ---
 
 # Combos
@@ -310,5 +310,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Birdie (Street Fighter Alpha 3)"
-slug:  "Birdie_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1252
-author: "Tonio"
-permalink: "birdie-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: birdie-street-fighter-alpha-3.html
+slug: Birdie_(Street_Fighter_Alpha_3)
+tags: character
+title: Birdie (Street Fighter Alpha 3)
 ---
 
 ## Introduction

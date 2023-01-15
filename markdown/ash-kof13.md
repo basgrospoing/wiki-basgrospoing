@@ -1,14 +1,14 @@
 ---
-title: "Ash (kof13)"
-slug:  "Ash_(kof13)"
+author: Mr Kzimir, Lolo
+date: '2011-07-18'
 id: 1115
-author: "206.122.158.4"
-permalink: "ash-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-18"
-redirect: "Ash_(KOF_XIII)"
+layout: character.njk
 old_id: 1570
+permalink: ash-kof13.html
+redirect: Ash_(KOF_XIII)
+slug: Ash_(kof13)
+tags: character
+title: Ash (kof13)
 ---
 
 ![Ash](/images/Ashkof13.gif "Ash") 

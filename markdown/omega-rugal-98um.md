@@ -1,12 +1,12 @@
 ---
-title: "Omega Rugal (98um)"
-slug:  "Omega_Rugal_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 265
-author: "Corbeau Bleu"
-permalink: "omega-rugal-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: omega-rugal-98um.html
+slug: Omega_Rugal_(98um)
+tags: character
+title: Omega Rugal (98um)
 ---
 
 ## Introduction

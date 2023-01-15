@@ -1,12 +1,12 @@
 ---
-title: "The King of Fighters '98: Unlimited Match"
-slug:  "The_King_of_Fighters_'98:_Unlimited_Match"
+author: Corbeau Bleu
+date: '2010-11-25'
 id: 19
-author: "Corbeau Bleu"
-permalink: "the-king-of-fighters-98-unlimited-match.html"
-layout: "game.njk"
-tags: "game"
-date: "2010-11-25"
+layout: game.njk
+permalink: the-king-of-fighters-98-unlimited-match.html
+slug: The_King_of_Fighters_'98:_Unlimited_Match
+tags: game
+title: 'The King of Fighters ''98: Unlimited Match'
 ---
 
 ## Personnages

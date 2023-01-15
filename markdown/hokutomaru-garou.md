@@ -1,12 +1,12 @@
 ---
-title: "Hokutomaru (Garou)"
-slug:  "Hokutomaru_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 9
-author: "Aerendir"
-permalink: "hokutomaru-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: hokutomaru-garou.html
+slug: Hokutomaru_(Garou)
+tags: character
+title: Hokutomaru (Garou)
 ---
 
 ## Introduction

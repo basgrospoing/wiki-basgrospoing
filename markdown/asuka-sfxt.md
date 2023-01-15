@@ -1,15 +1,13 @@
 ---
-title: "Asuka (SFxT)"
-slug:  "Asuka_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2181
-author: "Hynkel"
-permalink: "asuka-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: asuka-sfxt.html
+slug: Asuka_(SFxT)
+tags: character
+title: Asuka (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

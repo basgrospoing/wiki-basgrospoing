@@ -1,14 +1,13 @@
 ---
-title: "Robert Garcia (kof13)"
-slug:  "Robert_Garcia_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1091
-author: "82.238.249.39"
-permalink: "robert-garcia-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: robert-garcia-kof13.html
+slug: Robert_Garcia_(kof13)
+tags: character
+title: Robert Garcia (kof13)
 ---
-
 
 ![Robert Garcia](/images/Robertkof13.gif "Robert Garcia")
 

@@ -1,12 +1,12 @@
 ---
-title: "Kyo Kusanagi (kof13)"
-slug:  "Kyo_Kusanagi_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1107
-author: "82.238.249.39"
-permalink: "kyo-kusanagi-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: kyo-kusanagi-kof13.html
+slug: Kyo_Kusanagi_(kof13)
+tags: character
+title: Kyo Kusanagi (kof13)
 ---
 
 ![Kyo Kusanagi](/images/Kyokof13.gif "Kyo Kusanagi")  

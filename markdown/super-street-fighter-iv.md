@@ -1,12 +1,12 @@
 ---
-title: "Super Street Fighter IV"
-slug:  "Super_Street_Fighter_IV"
+author: Atomskyu, Sharnt, Aphelion, Hynkel
+date: '2014-01-10'
 id: 314
-author: "Admin"
-permalink: "super-street-fighter-iv.html"
-layout: "game.njk"
-tags: "game"
-date: "2014-01-10"
+layout: game.njk
+permalink: super-street-fighter-iv.html
+slug: Super_Street_Fighter_IV
+tags: game
+title: Super Street Fighter IV
 ---
 
 <figure>

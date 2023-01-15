@@ -1,15 +1,13 @@
 ---
-title: "Oni (SSFIV)"
-slug:  "Oni_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2159
-author: "Atomskyu698"
-permalink: "oni-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: oni-ssfiv.html
+slug: Oni_(SSFIV)
+tags: character
+title: Oni (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

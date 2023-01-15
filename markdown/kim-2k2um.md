@@ -1,14 +1,14 @@
 ---
-title: "Kim (2k2um)"
-slug:  "Kim_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 33
-author: "Admin"
-permalink: "kim-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Kim"
+layout: character.njk
 old_id: 81
+permalink: kim-2k2um.html
+redirect: Kim
+slug: Kim_(2k2um)
+tags: character
+title: Kim (2k2um)
 ---
 
 ## Introduction

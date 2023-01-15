@@ -1,12 +1,12 @@
 ---
-title: "Strider (UMVC3)"
-slug:  "Strider_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3002
-author: "ALX"
-permalink: "strider-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: strider-umvc3.html
+slug: Strider_(UMVC3)
+tags: character
+title: Strider (UMVC3)
 ---
 
 **EN TRAVAUX**

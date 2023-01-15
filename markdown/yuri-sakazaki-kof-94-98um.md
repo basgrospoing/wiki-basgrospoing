@@ -1,12 +1,12 @@
 ---
-title: "Yuri Sakazaki (KoF '94) (98um)"
-slug:  "Yuri_Sakazaki_(KoF_'94)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 256
-author: "Corbeau Bleu"
-permalink: "yuri-sakazaki-kof-94-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: yuri-sakazaki-kof-94-98um.html
+slug: Yuri_Sakazaki_(KoF_'94)_(98um)
+tags: character
+title: Yuri Sakazaki (KoF '94) (98um)
 ---
 
 ## Introduction

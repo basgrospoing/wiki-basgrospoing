@@ -1,12 +1,12 @@
 ---
-title: "Polimar (TvC:UAS)"
-slug:  "Polimar_(TvC:UAS)"
+author: MatildaNickle, Dan Sakazaki
+date: '2012-02-01'
 id: 523
-author: "Admin"
-permalink: "polimar-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-01"
+layout: character.njk
+permalink: polimar-tvc-uas.html
+slug: Polimar_(TvC:UAS)
+tags: character
+title: Polimar (TvC:UAS)
 ---
 
 <img src="/images/Polimar.jpg" title="/images/Polimar.jpg" width="250"

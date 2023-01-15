@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Maxima"
-slug:  "The_King_of_Fighters_XI_-_Maxima"
+author: Olivic
+date: '2011-06-09'
 id: 959
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-maxima.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-maxima"
+layout: character.njk
 old_id: 960
+permalink: the-king-of-fighters-xi-maxima.html
+redirect: Kofxi-maxima
+slug: The_King_of_Fighters_XI_-_Maxima
+tags: character
+title: The King of Fighters XI - Maxima
 ---
 
 ![](/images/kofxi-maxima.jpg "/images/kofxi-maxima.jpg")

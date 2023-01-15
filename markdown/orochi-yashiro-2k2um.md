@@ -1,14 +1,14 @@
 ---
-title: "Orochi Yashiro (2k2um)"
-slug:  "Orochi_Yashiro_(2k2um)"
+author: Aerendir, Corbeau Bleu
+date: '2010-11-03'
 id: 60
-author: "Aerendir"
-permalink: "orochi-yashiro-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
-redirect: "Orochi_Yashiro"
+layout: character.njk
 old_id: 113
+permalink: orochi-yashiro-2k2um.html
+redirect: Orochi_Yashiro
+slug: Orochi_Yashiro_(2k2um)
+tags: character
+title: Orochi Yashiro (2k2um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Geese Howard (98um)"
-slug:  "Geese_Howard_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 240
-author: "Corbeau Bleu"
-permalink: "geese-howard-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: geese-howard-98um.html
+slug: Geese_Howard_(98um)
+tags: character
+title: Geese Howard (98um)
 ---
 
 ## Introduction

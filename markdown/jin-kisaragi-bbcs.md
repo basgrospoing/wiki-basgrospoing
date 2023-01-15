@@ -1,12 +1,12 @@
 ---
-title: "Jin Kisaragi (BBCS)"
-slug:  "Jin_Kisaragi_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2011-07-06'
 id: 300
-author: "83.194.122.230"
-permalink: "jin-kisaragi-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-06"
+layout: character.njk
+permalink: jin-kisaragi-bbcs.html
+slug: Jin_Kisaragi_(BBCS)
+tags: character
+title: Jin Kisaragi (BBCS)
 ---
 
 <figure>

@@ -1,12 +1,12 @@
 ---
-title: "E. Honda (2X)"
-slug:  "E._Honda_(2X)"
+author: Wolmar
+date: '2010-12-27'
 id: 449
-author: "93.1.10.245"
-permalink: "e-honda-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-27"
+layout: character.njk
+permalink: e-honda-2x.html
+slug: E._Honda_(2X)
+tags: character
+title: E. Honda (2X)
 ---
 
 ## Introduction

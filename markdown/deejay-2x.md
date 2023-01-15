@@ -1,12 +1,12 @@
 ---
-title: "DeeJay (2X)"
-slug:  "DeeJay_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 455
-author: "Wolmar"
-permalink: "deejay-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: deejay-2x.html
+slug: DeeJay_(2X)
+tags: character
+title: DeeJay (2X)
 ---
 
 ## Introduction

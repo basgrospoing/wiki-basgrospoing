@@ -1,12 +1,12 @@
 ---
-title: "Guy (Street Fighter Alpha 3)"
-slug:  "Guy_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1250
-author: "Tonio"
-permalink: "guy-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: guy-street-fighter-alpha-3.html
+slug: Guy_(Street_Fighter_Alpha_3)
+tags: character
+title: Guy (Street Fighter Alpha 3)
 ---
 
 ## Introduction

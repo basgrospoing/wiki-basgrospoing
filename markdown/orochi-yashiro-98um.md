@@ -1,12 +1,12 @@
 ---
-title: "Orochi Yashiro (98um)"
-slug:  "Orochi_Yashiro_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 243
-author: "Corbeau Bleu"
-permalink: "orochi-yashiro-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: orochi-yashiro-98um.html
+slug: Orochi_Yashiro_(98um)
+tags: character
+title: Orochi Yashiro (98um)
 ---
 
 ## Introduction

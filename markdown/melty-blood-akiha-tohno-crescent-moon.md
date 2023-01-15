@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno/Crescent Moon"
-slug:  "Melty_Blood/Akiha_Tohno/Crescent_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1721
-author: "Oufan"
-permalink: "melty-blood-akiha-tohno-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-crescent-moon.html
+slug: Melty_Blood/Akiha_Tohno/Crescent_Moon
+tags: character
+title: Melty Blood/Akiha Tohno/Crescent Moon
 ---
 
 # Combos
@@ -274,5 +274,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

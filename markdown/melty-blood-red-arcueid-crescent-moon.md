@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Red Arcueid/Crescent Moon"
-slug:  "Melty_Blood/Red_Arcueid/Crescent_Moon"
+author: Oufan, Kabai, Ninjigen
+date: '2014-04-29'
 id: 1838
-author: "Oufan"
-permalink: "melty-blood-red-arcueid-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-red-arcueid-crescent-moon.html
+slug: Melty_Blood/Red_Arcueid/Crescent_Moon
+tags: character
+title: Melty Blood/Red Arcueid/Crescent Moon
 ---
 
 # Combos
@@ -227,5 +227,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

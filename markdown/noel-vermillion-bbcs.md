@@ -1,12 +1,12 @@
 ---
-title: "Noel Vermillion (BBCS)"
-slug:  "Noel_Vermillion_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-16'
 id: 298
-author: "78.237.64.48"
-permalink: "noel-vermillion-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-16"
+layout: character.njk
+permalink: noel-vermillion-bbcs.html
+slug: Noel_Vermillion_(BBCS)
+tags: character
+title: Noel Vermillion (BBCS)
 ---
 
 <figure>

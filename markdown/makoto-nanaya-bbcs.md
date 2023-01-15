@@ -1,12 +1,12 @@
 ---
-title: "Makoto Nanaya (BBCS)"
-slug:  "Makoto_Nanaya_(BBCS)"
+author: Sabbata, Achoral, KoF-Kyo, Yolsgens, Aerendir
+date: '2011-06-13'
 id: 290
-author: "84.103.225.237"
-permalink: "makoto-nanaya-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-13"
+layout: character.njk
+permalink: makoto-nanaya-bbcs.html
+slug: Makoto_Nanaya_(BBCS)
+tags: character
+title: Makoto Nanaya (BBCS)
 ---
 
 <figure>

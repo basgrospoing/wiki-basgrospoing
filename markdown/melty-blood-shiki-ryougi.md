@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Ryougi"
-slug:  "Melty_Blood/Shiki_Ryougi"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1864
-author: "Sannos"
-permalink: "melty-blood-shiki-ryougi.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-shiki-ryougi.html
+slug: Melty_Blood/Shiki_Ryougi
+tags: character
+title: Melty Blood/Shiki Ryougi
 ---
 
 - **Name:** Shiki Ryougi (両儀式 Female), Shiki Ryougi (両儀織
@@ -59,5 +59,3 @@ Hunter
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

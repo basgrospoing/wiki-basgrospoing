@@ -1,12 +1,12 @@
 ---
-title: "Necro (3S)"
-slug:  "Necro_(3S)"
+author: ALX, TheMeth90, Corbeau Bleu
+date: '2014-05-04'
 id: 278
-author: "ALX"
-permalink: "necro-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: necro-3s.html
+slug: Necro_(3S)
+tags: character
+title: Necro (3S)
 ---
 
 ![Character Select

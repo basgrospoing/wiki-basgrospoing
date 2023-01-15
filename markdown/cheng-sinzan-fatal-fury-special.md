@@ -1,12 +1,12 @@
 ---
-title: "Cheng Sinzan (Fatal Fury Special)"
-slug:  "Cheng_Sinzan_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-05-02'
 id: 731
-author: "Dan sakazaki"
-permalink: "cheng-sinzan-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-02"
+layout: character.njk
+permalink: cheng-sinzan-fatal-fury-special.html
+slug: Cheng_Sinzan_(Fatal_Fury_Special)
+tags: character
+title: Cheng Sinzan (Fatal Fury Special)
 ---
 
 ![](/images/Ffspcheng.PNG)  

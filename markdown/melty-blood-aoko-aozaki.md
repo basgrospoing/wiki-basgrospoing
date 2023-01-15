@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Aoko Aozaki"
-slug:  "Melty_Blood/Aoko_Aozaki"
+author: Oufan, Sannos, Ouytsu, Toto, Ninjigen
+date: '2014-04-29'
 id: 1739
-author: "Oufan"
-permalink: "melty-blood-aoko-aozaki.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-aoko-aozaki.html
+slug: Melty_Blood/Aoko_Aozaki
+tags: character
+title: Melty Blood/Aoko Aozaki
 ---
 
 - **Name:** Aozaki Aoko (蒼崎青子)
@@ -96,5 +96,3 @@ de polyvalence, manque d'allonge et de priorité en jeu neutral
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

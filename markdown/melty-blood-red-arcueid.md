@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Red Arcueid"
-slug:  "Melty_Blood/Red_Arcueid"
+author: Sannos, Oufan, Kabai, Ninjigen
+date: '2014-07-23'
 id: 1835
-author: "Sannos"
-permalink: "melty-blood-red-arcueid.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-07-23"
+layout: character.njk
+permalink: melty-blood-red-arcueid.html
+slug: Melty_Blood/Red_Arcueid
+tags: character
+title: Melty Blood/Red Arcueid
 ---
 
 ![ **Nom :**    Red Arcueid (ワルク)
@@ -83,5 +83,3 @@ air\>sol et sol\>air. Facile a prendre en main.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

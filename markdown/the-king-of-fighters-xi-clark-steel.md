@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Clark Steel"
-slug:  "The_King_of_Fighters_XI_-_Clark_Steel"
+author: Olivic
+date: '2011-06-09'
 id: 923
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-clark-steel.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-clark-steel"
+layout: character.njk
 old_id: 924
+permalink: the-king-of-fighters-xi-clark-steel.html
+redirect: Kofxi-clark-steel
+slug: The_King_of_Fighters_XI_-_Clark_Steel
+tags: character
+title: The King of Fighters XI - Clark Steel
 ---
 
 ![](/images/kofxi-clark-steel.jpg "/images/kofxi-clark-steel.jpg")

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Nero Chaos/Crescent Moon"
-slug:  "Melty_Blood/Nero_Chaos/Crescent_Moon"
+author: Rapeur, Ninjigen
+date: '2012-01-30'
 id: 1827
-author: "Rapeur"
-permalink: "melty-blood-nero-chaos-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-30"
+layout: character.njk
+permalink: melty-blood-nero-chaos-crescent-moon.html
+slug: Melty_Blood/Nero_Chaos/Crescent_Moon
+tags: character
+title: Melty Blood/Nero Chaos/Crescent Moon
 ---
 
 # Combos
@@ -229,5 +229,3 @@ background:#E8E8E8; J6C
 
 `style=`  
 `cellspacing=`
-
-

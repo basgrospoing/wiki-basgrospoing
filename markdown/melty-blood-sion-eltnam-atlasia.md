@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion Eltnam Atlasia"
-slug:  "Melty_Blood/Sion_Eltnam_Atlasia"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1876
-author: "Sannos"
-permalink: "melty-blood-sion-eltnam-atlasia.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-sion-eltnam-atlasia.html
+slug: Melty_Blood/Sion_Eltnam_Atlasia
+tags: character
+title: Melty Blood/Sion Eltnam Atlasia
 ---
 
 - **Name:** Sion Eltnam Atlasia
@@ -60,5 +60,3 @@ date: "2014-01-10"
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

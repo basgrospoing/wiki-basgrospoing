@@ -1,15 +1,13 @@
 ---
-title: "Fei Long (SSFIV)"
-slug:  "Fei_Long_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2143
-author: "Atomskyu698"
-permalink: "fei-long-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: fei-long-ssfiv.html
+slug: Fei_Long_(SSFIV)
+tags: character
+title: Fei Long (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

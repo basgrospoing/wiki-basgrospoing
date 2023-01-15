@@ -1,14 +1,14 @@
 ---
-title: "P4A/Akihiko Sanada"
-slug:  "P4A/Akihiko_Sanada"
+author: Kabai
+date: '2012-08-06'
 id: 2636
-author: "Kabai"
-permalink: "p4a-akihiko-sanada.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Akihiko_Sanada"
+layout: character.njk
 old_id: 2651
+permalink: p4a-akihiko-sanada.html
+redirect: Akihiko_Sanada
+slug: P4A/Akihiko_Sanada
+tags: character
+title: P4A/Akihiko Sanada
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

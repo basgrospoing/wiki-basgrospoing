@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Tohno/Half Moon"
-slug:  "Melty_Blood/Shiki_Tohno/Half_Moon"
+author: Sannos, Ninjigen
+date: '2014-12-19'
 id: 1874
-author: "Sannos"
-permalink: "melty-blood-shiki-tohno-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-12-19"
+layout: character.njk
+permalink: melty-blood-shiki-tohno-half-moon.html
+slug: Melty_Blood/Shiki_Tohno/Half_Moon
+tags: character
+title: Melty Blood/Shiki Tohno/Half Moon
 ---
 
 # Combos
@@ -239,5 +239,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

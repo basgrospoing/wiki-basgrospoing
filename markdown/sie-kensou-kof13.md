@@ -1,14 +1,13 @@
 ---
-title: "Sie Kensou (kof13)"
-slug:  "Sie_Kensou_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1147
-author: "82.238.249.39"
-permalink: "sie-kensou-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: sie-kensou-kof13.html
+slug: Sie_Kensou_(kof13)
+tags: character
+title: Sie Kensou (kof13)
 ---
-
 
 ![Sie Kensou](/images/Kensoukof13.gif "Sie Kensou")
 

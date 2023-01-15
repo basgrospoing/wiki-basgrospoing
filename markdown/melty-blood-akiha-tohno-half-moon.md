@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno/Half Moon"
-slug:  "Melty_Blood/Akiha_Tohno/Half_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1724
-author: "Oufan"
-permalink: "melty-blood-akiha-tohno-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-half-moon.html
+slug: Melty_Blood/Akiha_Tohno/Half_Moon
+tags: character
+title: Melty Blood/Akiha Tohno/Half Moon
 ---
 
 # Combos
@@ -187,5 +187,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

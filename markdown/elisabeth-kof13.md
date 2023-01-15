@@ -1,14 +1,13 @@
 ---
-title: "Elisabeth (kof13)"
-slug:  "Elisabeth_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1094
-author: "82.238.249.39"
-permalink: "elisabeth-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: elisabeth-kof13.html
+slug: Elisabeth_(kof13)
+tags: character
+title: Elisabeth (kof13)
 ---
-
 
 ![Elisabeth Branctorche
 ](/images/Elisabethkof13.gif "Elisabeth Branctorche ")

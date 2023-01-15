@@ -1,12 +1,12 @@
 ---
-title: "Yuri Sakazaki (2k2um)"
-slug:  "Yuri_Sakazaki_(2k2um)"
+author: Hynkel, Corbeau Bleu
+date: '2010-11-24'
 id: 151
-author: "Hynkel"
-permalink: "yuri-sakazaki-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-24"
+layout: character.njk
+permalink: yuri-sakazaki-2k2um.html
+slug: Yuri_Sakazaki_(2k2um)
+tags: character
+title: Yuri Sakazaki (2k2um)
 ---
 
 ## Introduction

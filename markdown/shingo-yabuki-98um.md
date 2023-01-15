@@ -1,12 +1,12 @@
 ---
-title: "Shingo Yabuki (98um)"
-slug:  "Shingo_Yabuki_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 249
-author: "Corbeau Bleu"
-permalink: "shingo-yabuki-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: shingo-yabuki-98um.html
+slug: Shingo_Yabuki_(98um)
+tags: character
+title: Shingo Yabuki (98um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Andy Bogard (KoF '95) (98um)"
-slug:  "Andy_Bogard_(KoF_'95)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 252
-author: "Corbeau Bleu"
-permalink: "andy-bogard-kof-95-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: andy-bogard-kof-95-98um.html
+slug: Andy_Bogard_(KoF_'95)_(98um)
+tags: character
+title: Andy Bogard (KoF '95) (98um)
 ---
 
 ## Introduction

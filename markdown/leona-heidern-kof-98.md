@@ -1,12 +1,12 @@
 ---
-title: "Leona Heidern (KoF '98)"
-slug:  "Leona_Heidern_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 161
-author: "Corbeau Bleu"
-permalink: "leona-heidern-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: leona-heidern-kof-98.html
+slug: Leona_Heidern_(KoF_'98)
+tags: character
+title: Leona Heidern (KoF '98)
 ---
 
 ## Introduction

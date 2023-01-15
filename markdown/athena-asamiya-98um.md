@@ -1,12 +1,12 @@
 ---
-title: "Athena Asamiya (98um)"
-slug:  "Athena_Asamiya_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 216
-author: "Corbeau Bleu"
-permalink: "athena-asamiya-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: athena-asamiya-98um.html
+slug: Athena_Asamiya_(98um)
+tags: character
+title: Athena Asamiya (98um)
 ---
 
 ## Introduction

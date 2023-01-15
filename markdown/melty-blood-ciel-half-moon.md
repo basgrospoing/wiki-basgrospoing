@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Ciel/Half Moon"
-slug:  "Melty_Blood/Ciel/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1761
-author: "Ninjigen"
-permalink: "melty-blood-ciel-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-ciel-half-moon.html
+slug: Melty_Blood/Ciel/Half_Moon
+tags: character
+title: Melty Blood/Ciel/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

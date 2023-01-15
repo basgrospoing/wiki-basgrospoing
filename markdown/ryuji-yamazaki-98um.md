@@ -1,12 +1,12 @@
 ---
-title: "Ryuji Yamazaki (98um)"
-slug:  "Ryuji_Yamazaki_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 228
-author: "Corbeau Bleu"
-permalink: "ryuji-yamazaki-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: ryuji-yamazaki-98um.html
+slug: Ryuji_Yamazaki_(98um)
+tags: character
+title: Ryuji Yamazaki (98um)
 ---
 
 ## Introduction

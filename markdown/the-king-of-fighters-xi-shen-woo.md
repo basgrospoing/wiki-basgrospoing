@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Shen Woo"
-slug:  "The_King_of_Fighters_XI_-_Shen_Woo"
+author: Olivic
+date: '2011-06-09'
 id: 913
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-shen-woo.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-shen-woo"
+layout: character.njk
 old_id: 914
+permalink: the-king-of-fighters-xi-shen-woo.html
+redirect: Kofxi-shen-woo
+slug: The_King_of_Fighters_XI_-_Shen_Woo
+tags: character
+title: The King of Fighters XI - Shen Woo
 ---
 
 ![](/images/kofxi-shen-woo.jpg "/images/kofxi-shen-woo.jpg")

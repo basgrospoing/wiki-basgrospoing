@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Terry Bogard"
-slug:  "The_King_of_Fighters_XI_-_Terry_Bogard"
+author: Olivic
+date: '2011-06-09'
 id: 915
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-terry-bogard.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-terry-bogard"
+layout: character.njk
 old_id: 916
+permalink: the-king-of-fighters-xi-terry-bogard.html
+redirect: Kofxi-terry-bogard
+slug: The_King_of_Fighters_XI_-_Terry_Bogard
+tags: character
+title: The King of Fighters XI - Terry Bogard
 ---
 
 ![](/images/kofxi-terry-bogard.jpg "/images/kofxi-terry-bogard.jpg")

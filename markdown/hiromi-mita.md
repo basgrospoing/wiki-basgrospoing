@@ -1,12 +1,12 @@
 ---
-title: "Hiromi Mita"
-slug:  "Hiromi_Mita"
+author: Wolmar
+date: '2011-01-07'
 id: 467
-author: "Wolmar"
-permalink: "hiromi-mita.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-01-07"
+layout: character.njk
+permalink: hiromi-mita.html
+slug: Hiromi_Mita
+tags: character
+title: Hiromi Mita
 ---
 
 <figure>

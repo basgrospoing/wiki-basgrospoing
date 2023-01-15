@@ -1,12 +1,12 @@
 ---
-title: "Garou : Mark of the Wolves"
-slug:  "Garou_:_Mark_of_the_Wolves"
+author: Timmytheturtle, Aerendir, Sp1p3, Sharnt, Olivic, Travis Bickle
+date: '2011-06-14'
 id: 4
-author: "Timmytheturtle, Aerendir"
-permalink: "garou-mark-of-the-wolves.html"
-layout: "game.njk"
-tags: "game"
-date: "2011-06-14"
+layout: game.njk
+permalink: garou-mark-of-the-wolves.html
+slug: Garou_:_Mark_of_the_Wolves
+tags: game
+title: 'Garou : Mark of the Wolves'
 ---
 
 ![](/images/Garou-jaquette.jpg "/images/Garou-jaquette.jpg")

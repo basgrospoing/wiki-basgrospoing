@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - King"
-slug:  "The_King_of_Fighters_XI_-_King"
+author: Olivic
+date: '2011-05-22'
 id: 909
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-king.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Kofxi-king"
+layout: character.njk
 old_id: 910
+permalink: the-king-of-fighters-xi-king.html
+redirect: Kofxi-king
+slug: The_King_of_Fighters_XI_-_King
+tags: character
+title: The King of Fighters XI - King
 ---
 
 ![](/images/kofxi-king.jpg "/images/kofxi-king.jpg")

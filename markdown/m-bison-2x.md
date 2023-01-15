@@ -1,12 +1,12 @@
 ---
-title: "M. Bison (2X)"
-slug:  "M._Bison_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 465
-author: "Wolmar"
-permalink: "m-bison-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: m-bison-2x.html
+slug: M._Bison_(2X)
+tags: character
+title: M. Bison (2X)
 ---
 
 ## Introduction

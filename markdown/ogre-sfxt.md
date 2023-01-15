@@ -1,15 +1,13 @@
 ---
-title: "Ogre (SFxT)"
-slug:  "Ogre_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2194
-author: "Hynkel"
-permalink: "ogre-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: ogre-sfxt.html
+slug: Ogre_(SFxT)
+tags: character
+title: Ogre (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

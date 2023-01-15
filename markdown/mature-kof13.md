@@ -1,14 +1,13 @@
 ---
-title: "Mature (kof13)"
-slug:  "Mature_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1131
-author: "82.238.249.39"
-permalink: "mature-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: mature-kof13.html
+slug: Mature_(kof13)
+tags: character
+title: Mature (kof13)
 ---
-
 
 ![Mature](/images/Maturekof13.gif "Mature")
 

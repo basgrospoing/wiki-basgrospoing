@@ -1,12 +1,12 @@
 ---
-title: "Iori Yagami (98um)"
-slug:  "Iori_Yagami_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 231
-author: "Corbeau Bleu"
-permalink: "iori-yagami-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: iori-yagami-98um.html
+slug: Iori_Yagami_(98um)
+tags: character
+title: Iori Yagami (98um)
 ---
 
 ## Introduction

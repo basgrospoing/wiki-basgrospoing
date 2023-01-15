@@ -1,14 +1,14 @@
 ---
-title: "Iori Yagami (2k2um)"
-slug:  "Iori_Yagami_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 42
-author: "Admin"
-permalink: "iori-yagami-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Iori_Yagami"
+layout: character.njk
 old_id: 93
+permalink: iori-yagami-2k2um.html
+redirect: Iori_Yagami
+slug: Iori_Yagami_(2k2um)
+tags: character
+title: Iori Yagami (2k2um)
 ---
 
 ## Introduction

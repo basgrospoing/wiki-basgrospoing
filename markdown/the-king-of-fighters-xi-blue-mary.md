@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Blue Mary"
-slug:  "The_King_of_Fighters_XI_-_Blue_Mary"
+author: Olivic
+date: '2011-06-09'
 id: 920
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-blue-mary.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-blue-mary"
+layout: character.njk
 old_id: 921
+permalink: the-king-of-fighters-xi-blue-mary.html
+redirect: Kofxi-blue-mary
+slug: The_King_of_Fighters_XI_-_Blue_Mary
+tags: character
+title: The King of Fighters XI - Blue Mary
 ---
 
 ![](/images/kofxi-blue-mary.jpg "/images/kofxi-blue-mary.jpg")

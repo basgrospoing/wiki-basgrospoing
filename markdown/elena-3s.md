@@ -1,12 +1,12 @@
 ---
-title: "Elena (3S)"
-slug:  "Elena_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 272
-author: "ALX"
-permalink: "elena-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: elena-3s.html
+slug: Elena_(3S)
+tags: character
+title: Elena (3S)
 ---
 
 ![Character Select

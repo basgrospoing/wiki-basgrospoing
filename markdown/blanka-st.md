@@ -1,12 +1,12 @@
 ---
-title: "Blanka (ST)"
-slug:  "Blanka_(ST)"
+author: Wolmar
+date: '2010-12-13'
 id: 452
-author: "Wolmar"
-permalink: "blanka-st.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: blanka-st.html
+slug: Blanka_(ST)
+tags: character
+title: Blanka (ST)
 ---
 
 ## Introduction

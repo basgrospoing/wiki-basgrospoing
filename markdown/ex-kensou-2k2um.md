@@ -1,12 +1,12 @@
 ---
-title: "EX Kensou (2k2um)"
-slug:  "EX_Kensou_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-03'
 id: 143
-author: "81.67.71.175"
-permalink: "ex-kensou-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
+layout: character.njk
+permalink: ex-kensou-2k2um.html
+slug: EX_Kensou_(2k2um)
+tags: character
+title: EX Kensou (2k2um)
 ---
 
 ## Introduction

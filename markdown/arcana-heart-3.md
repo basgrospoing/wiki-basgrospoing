@@ -1,12 +1,12 @@
 ---
-title: "Arcana Heart 3"
-slug:  "Arcana_Heart_3"
+author: Izeniel
+date: '2012-07-24'
 id: 1612
-author: "Admin"
-permalink: "arcana-heart-3.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
+layout: game.njk
+permalink: arcana-heart-3.html
+slug: Arcana_Heart_3
+tags: game
+title: Arcana Heart 3
 ---
 
 ![](/images/ah3logo.jpg)

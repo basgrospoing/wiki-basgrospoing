@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion TATARI/Full Moon"
-slug:  "Melty_Blood/Sion_TATARI/Full_Moon"
+author: Oufan, Ninjigen
+date: '2012-08-10'
 id: 1885
-author: "Oufan"
-permalink: "melty-blood-sion-tatari-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-10"
+layout: character.njk
+permalink: melty-blood-sion-tatari-full-moon.html
+slug: Melty_Blood/Sion_TATARI/Full_Moon
+tags: character
+title: Melty Blood/Sion TATARI/Full Moon
 ---
 
 # Combos
@@ -207,5 +207,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

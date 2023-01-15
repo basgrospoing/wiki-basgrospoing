@@ -1,12 +1,12 @@
 ---
-title: "Super Street Fighter II X"
-slug:  "Super_Street_Fighter_II_X"
+author: Olivic, TSF, Wolmar, Zarghatt, Drizor
+date: '2012-07-12'
 id: 435
-author: "Admin"
-permalink: "super-street-fighter-ii-x.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-12"
+layout: game.njk
+permalink: super-street-fighter-ii-x.html
+slug: Super_Street_Fighter_II_X
+tags: game
+title: Super Street Fighter II X
 ---
 
 ![](/images/Ssf2x-logo.png "/images/Ssf2x-logo.png")

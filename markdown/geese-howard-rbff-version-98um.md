@@ -1,12 +1,12 @@
 ---
-title: "Geese Howard (RBFF version) (98um)"
-slug:  "Geese_Howard_(RBFF_version)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-09'
 id: 262
-author: "Corbeau Bleu"
-permalink: "geese-howard-rbff-version-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-09"
+layout: character.njk
+permalink: geese-howard-rbff-version-98um.html
+slug: Geese_Howard_(RBFF_version)_(98um)
+tags: character
+title: Geese Howard (RBFF version) (98um)
 ---
 
 ## Introduction

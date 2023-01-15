@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Vermillion"
-slug:  "Melty_Blood/Akiha_Vermillion"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1731
-author: "Oufan"
-permalink: "melty-blood-akiha-vermillion.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-akiha-vermillion.html
+slug: Melty_Blood/Akiha_Vermillion
+tags: character
+title: Melty Blood/Akiha Vermillion
 ---
 
 - **Name:** Akiha Vermillion (紅赤朱 秋葉)
@@ -70,5 +70,3 @@ bonne priorité et bouge encore mieux que les autres.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

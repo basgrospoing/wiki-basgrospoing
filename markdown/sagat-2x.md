@@ -1,12 +1,12 @@
 ---
-title: "Sagat (2X)"
-slug:  "Sagat_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 461
-author: "Wolmar"
-permalink: "sagat-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: sagat-2x.html
+slug: Sagat_(2X)
+tags: character
+title: Sagat (2X)
 ---
 
 ## Introduction

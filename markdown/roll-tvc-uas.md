@@ -1,12 +1,12 @@
 ---
-title: "Roll (TvC:UAS)"
-slug:  "Roll_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-18'
 id: 529
-author: "Dan sakazaki"
-permalink: "roll-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-18"
+layout: character.njk
+permalink: roll-tvc-uas.html
+slug: Roll_(TvC:UAS)
+tags: character
+title: Roll (TvC:UAS)
 ---
 
 <img src="/images/Roll.jpg" title="/images/Roll.jpg" width="250"

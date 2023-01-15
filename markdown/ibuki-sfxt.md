@@ -1,15 +1,13 @@
 ---
-title: "Ibuki (SFxT)"
-slug:  "Ibuki_(SFxT)"
+author: Hynkel
+date: '2012-03-12'
 id: 2170
-author: "Hynkel"
-permalink: "ibuki-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-12"
+layout: character.njk
+permalink: ibuki-sfxt.html
+slug: Ibuki_(SFxT)
+tags: character
+title: Ibuki (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

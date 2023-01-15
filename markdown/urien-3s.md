@@ -1,12 +1,12 @@
 ---
-title: "Urien (3S)"
-slug:  "Urien_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 285
-author: "ALX"
-permalink: "urien-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: urien-3s.html
+slug: Urien_(3S)
+tags: character
+title: Urien (3S)
 ---
 
 ![Character Select

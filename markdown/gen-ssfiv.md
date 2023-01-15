@@ -1,15 +1,13 @@
 ---
-title: "Gen (SSFIV)"
-slug:  "Gen_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2149
-author: "Atomskyu698"
-permalink: "gen-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: gen-ssfiv.html
+slug: Gen_(SSFIV)
+tags: character
+title: Gen (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

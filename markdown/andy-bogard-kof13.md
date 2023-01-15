@@ -1,12 +1,12 @@
 ---
-title: "Andy Bogard (kof13)"
-slug:  "Andy_Bogard_(kof13)"
+author: Lolo
+date: '2011-07-19'
 id: 1081
-author: "Lolo"
-permalink: "andy-bogard-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-19"
+layout: character.njk
+permalink: andy-bogard-kof13.html
+slug: Andy_Bogard_(kof13)
+tags: character
+title: Andy Bogard (kof13)
 ---
 
 ![Andy Bogard](/images/andykof13.gif "Andy Bogard") [Retour à la fiche

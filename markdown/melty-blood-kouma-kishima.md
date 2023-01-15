@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Kouma Kishima"
-slug:  "Melty_Blood/Kouma_Kishima"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1785
-author: "Sannos"
-permalink: "melty-blood-kouma-kishima.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-kouma-kishima.html
+slug: Melty_Blood/Kouma_Kishima
+tags: character
+title: Melty Blood/Kouma Kishima
 ---
 
 - **Name:** Kouma Kishima (軋間 紅摩)
@@ -110,5 +110,3 @@ matchups, quand les styles Crescent et Half ne s'appliquent pas.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

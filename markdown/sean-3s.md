@@ -1,12 +1,12 @@
 ---
-title: "Sean (3S)"
-slug:  "Sean_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 283
-author: "ALX"
-permalink: "sean-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: sean-3s.html
+slug: Sean_(3S)
+tags: character
+title: Sean (3S)
 ---
 
 ![Character Select

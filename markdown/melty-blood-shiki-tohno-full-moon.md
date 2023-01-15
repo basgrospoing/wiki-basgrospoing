@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Shiki Tohno/Full Moon"
-slug:  "Melty_Blood/Shiki_Tohno/Full_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1875
-author: "Ninjigen"
-permalink: "melty-blood-shiki-tohno-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-shiki-tohno-full-moon.html
+slug: Melty_Blood/Shiki_Tohno/Full_Moon
+tags: character
+title: Melty Blood/Shiki Tohno/Full Moon
 ---
 
 # Combos
@@ -192,5 +192,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

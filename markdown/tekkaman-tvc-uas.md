@@ -1,12 +1,12 @@
 ---
-title: "Tekkaman (TvC:UAS)"
-slug:  "Tekkaman_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 516
-author: "Dan sakazaki"
-permalink: "tekkaman-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: tekkaman-tvc-uas.html
+slug: Tekkaman_(TvC:UAS)
+tags: character
+title: Tekkaman (TvC:UAS)
 ---
 
 <img src="/images/Tekkaman.jpg" title="/images/Tekkaman.jpg" width="200"

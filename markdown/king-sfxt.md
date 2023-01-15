@@ -1,15 +1,13 @@
 ---
-title: "King (SFxT)"
-slug:  "King_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2188
-author: "Hynkel"
-permalink: "king-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: king-sfxt.html
+slug: King_(SFxT)
+tags: character
+title: King (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

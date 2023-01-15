@@ -1,12 +1,12 @@
 ---
-title: "Mai Shiranui (2k2um)"
-slug:  "Mai_Shiranui_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 119
-author: "Admin"
-permalink: "mai-shiranui-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
+layout: character.njk
+permalink: mai-shiranui-2k2um.html
+slug: Mai_Shiranui_(2k2um)
+tags: character
+title: Mai Shiranui (2k2um)
 ---
 
 ## Introduction

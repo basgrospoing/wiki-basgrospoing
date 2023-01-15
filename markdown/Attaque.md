@@ -1,12 +1,12 @@
 ---
-title: "Attaque"
-slug:  "Attaque"
+author: Wolmar
+date: '2011-04-08'
 id: 501
-author: "Wolmar"
-permalink: "attaque.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-08"
+layout: character.njk
+permalink: attaque.html
+slug: Attaque
+tags: character
+title: Attaque
 ---
 
 ## Introduction

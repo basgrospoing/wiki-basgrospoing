@@ -1,12 +1,12 @@
 ---
-title: "Heidern (KoF '98)"
-slug:  "Heidern_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 182
-author: "Corbeau Bleu"
-permalink: "heidern-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: heidern-kof-98.html
+slug: Heidern_(KoF_'98)
+tags: character
+title: Heidern (KoF '98)
 ---
 
 ## Introduction

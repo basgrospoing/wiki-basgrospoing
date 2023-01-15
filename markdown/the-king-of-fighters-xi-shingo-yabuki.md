@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Shingo Yabuki"
-slug:  "The_King_of_Fighters_XI_-_Shingo_Yabuki"
+author: Olivic
+date: '2011-05-22'
 id: 965
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-shingo-yabuki.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Kofxi-shingo-yabuki"
+layout: character.njk
 old_id: 966
+permalink: the-king-of-fighters-xi-shingo-yabuki.html
+redirect: Kofxi-shingo-yabuki
+slug: The_King_of_Fighters_XI_-_Shingo_Yabuki
+tags: character
+title: The King of Fighters XI - Shingo Yabuki
 ---
 
 ![](/images/kofxi-shingo-yabuki.jpg "/images/kofxi-shingo-yabuki.jpg")

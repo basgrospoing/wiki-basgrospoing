@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Len/Crescent Moon"
-slug:  "Melty_Blood/Len/Crescent_Moon"
+author: Oufan, Ninjigen
+date: '2012-08-10'
 id: 1794
-author: "Oufan"
-permalink: "melty-blood-len-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-10"
+layout: character.njk
+permalink: melty-blood-len-crescent-moon.html
+slug: Melty_Blood/Len/Crescent_Moon
+tags: character
+title: Melty Blood/Len/Crescent Moon
 ---
 
 # Combos
@@ -221,5 +221,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Robert Garcia (KoF '94) (98um)"
-slug:  "Robert_Garcia_(KoF_'94)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 255
-author: "Corbeau Bleu"
-permalink: "robert-garcia-kof-94-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: robert-garcia-kof-94-98um.html
+slug: Robert_Garcia_(KoF_'94)_(98um)
+tags: character
+title: Robert Garcia (KoF '94) (98um)
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
-title: "Firebrand (UMVC3)"
-slug:  "Firebrand_(UMVC3)"
+author: ALX
+date: '2014-05-07'
 id: 2985
-author: "ALX"
-permalink: "firebrand-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-07"
+layout: character.njk
+permalink: firebrand-umvc3.html
+slug: Firebrand_(UMVC3)
+tags: character
+title: Firebrand (UMVC3)
 ---
 
 **EN TRAVAUX**

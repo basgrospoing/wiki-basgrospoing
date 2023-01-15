@@ -1,12 +1,12 @@
 ---
-title: "Original Zero (2k2um)"
-slug:  "Original_Zero_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 150
-author: "Corbeau Bleu"
-permalink: "original-zero-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: original-zero-2k2um.html
+slug: Original_Zero_(2k2um)
+tags: character
+title: Original Zero (2k2um)
 ---
 
 ## Introduction

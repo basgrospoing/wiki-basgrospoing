@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)"
-slug:  "Samurai_Shodown_IV_-_Sogetsu_Kazama_(風間_蒼月,_Kazama_Sogetsu)"
+author: Olivic
+date: '2011-05-22'
 id: 637
-author: "Olivic"
-permalink: "samurai-shodown-iv-sogetsu-kazama-kazama-sogetsu.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Sogetsu"
+layout: character.njk
 old_id: 655
+permalink: samurai-shodown-iv-sogetsu-kazama-kazama-sogetsu.html
+redirect: Ss4-Sogetsu
+slug: Samurai_Shodown_IV_-_Sogetsu_Kazama_(風間_蒼月,_Kazama_Sogetsu)
+tags: character
+title: Samurai Shodown IV - Sogetsu Kazama (風間 蒼月, Kazama Sogetsu)
 ---
 
 ![](/images/ss4-Sogetsu.gif "/images/ss4-Sogetsu.gif")

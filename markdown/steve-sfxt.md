@@ -1,15 +1,13 @@
 ---
-title: "Steve (SFxT)"
-slug:  "Steve_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2197
-author: "Hynkel"
-permalink: "steve-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: steve-sfxt.html
+slug: Steve_(SFxT)
+tags: character
+title: Steve (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

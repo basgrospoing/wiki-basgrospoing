@@ -1,12 +1,12 @@
 ---
-title: "Yun (AE) (SSFIV)"
-slug:  "Yun_(AE)_(SSFIV)"
+author: Atomskyu
+date: '2012-02-27'
 id: 2147
-author: "Atomskyu690"
-permalink: "yun-ae-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-27"
+layout: character.njk
+permalink: yun-ae-ssfiv.html
+slug: Yun_(AE)_(SSFIV)
+tags: character
+title: Yun (AE) (SSFIV)
 ---
 
 ## 1 Vue d'ensemble

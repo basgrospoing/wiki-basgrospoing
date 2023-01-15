@@ -1,12 +1,12 @@
 ---
-title: "ABK/Anonym"
-slug:  "ABK/Anonym"
+author: Kabai
+date: '2012-04-27'
 id: 2269
-author: "Kabai"
-permalink: "abk-anonym.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-04-27"
+layout: character.njk
+permalink: abk-anonym.html
+slug: ABK/Anonym
+tags: character
+title: ABK/Anonym
 ---
 
 ![](/images/Anonym_ABK.jpg "/images/Anonym_ABK.jpg")

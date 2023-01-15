@@ -1,14 +1,14 @@
 ---
-title: "Seth (2k2um)"
-slug:  "Seth_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 55
-author: "Admin"
-permalink: "seth-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "Seth"
+layout: character.njk
 old_id: 106
+permalink: seth-2k2um.html
+redirect: Seth
+slug: Seth_(2k2um)
+tags: character
+title: Seth (2k2um)
 ---
 
 ## Introduction

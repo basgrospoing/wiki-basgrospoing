@@ -1,12 +1,12 @@
 ---
-title: "Oro (3S)"
-slug:  "Oro_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 279
-author: "ALX"
-permalink: "oro-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: oro-3s.html
+slug: Oro_(3S)
+tags: character
+title: Oro (3S)
 ---
 
 ![Character Select

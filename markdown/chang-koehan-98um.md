@@ -1,12 +1,12 @@
 ---
-title: "Chang Koehan (98um)"
-slug:  "Chang_Koehan_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 223
-author: "Corbeau Bleu"
-permalink: "chang-koehan-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: chang-koehan-98um.html
+slug: Chang_Koehan_(98um)
+tags: character
+title: Chang Koehan (98um)
 ---
 
 ## Introduction

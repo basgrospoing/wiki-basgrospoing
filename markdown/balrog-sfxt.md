@@ -1,15 +1,13 @@
 ---
-title: "Balrog (SFxT)"
-slug:  "Balrog_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2164
-author: "Hynkel"
-permalink: "balrog-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: balrog-sfxt.html
+slug: Balrog_(SFxT)
+tags: character
+title: Balrog (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

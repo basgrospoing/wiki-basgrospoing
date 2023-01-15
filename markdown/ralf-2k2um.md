@@ -1,14 +1,14 @@
 ---
-title: "Ralf (2k2um)"
-slug:  "Ralf_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 31
-author: "Admin"
-permalink: "ralf-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Ralf"
+layout: character.njk
 old_id: 87
+permalink: ralf-2k2um.html
+redirect: Ralf
+slug: Ralf_(2k2um)
+tags: character
+title: Ralf (2k2um)
 ---
 
 ## Introduction

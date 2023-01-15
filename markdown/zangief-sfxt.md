@@ -1,15 +1,13 @@
 ---
-title: "Zangief (SFxT)"
-slug:  "Zangief_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2180
-author: "Hynkel"
-permalink: "zangief-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: zangief-sfxt.html
+slug: Zangief_(SFxT)
+tags: character
+title: Zangief (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

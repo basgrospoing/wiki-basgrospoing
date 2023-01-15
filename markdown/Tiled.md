@@ -1,12 +1,12 @@
 ---
-title: "Tiled"
-slug:  "Tiled"
+author: Wolmar
+date: '2010-12-20'
 id: 492
-author: "Wolmar"
-permalink: "tiled.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-20"
+layout: character.njk
+permalink: tiled.html
+slug: Tiled
+tags: character
+title: Tiled
 ---
 
 <figure>

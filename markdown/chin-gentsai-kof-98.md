@@ -1,12 +1,12 @@
 ---
-title: "Chin Gentsai (KoF '98)"
-slug:  "Chin_Gentsai_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 166
-author: "Corbeau Bleu"
-permalink: "chin-gentsai-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: chin-gentsai-kof-98.html
+slug: Chin_Gentsai_(KoF_'98)
+tags: character
+title: Chin Gentsai (KoF '98)
 ---
 
 ## Introduction

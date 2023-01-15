@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)"
-slug:  "Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)"
+author: Olivic
+date: '2011-05-22'
 id: 649
-author: "Olivic"
-permalink: "samurai-shodown-iv-shizumaru-hisame-hisame-shizumaru.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Shizumaru"
+layout: character.njk
 old_id: 666
+permalink: samurai-shodown-iv-shizumaru-hisame-hisame-shizumaru.html
+redirect: Ss4-Shizumaru
+slug: Samurai_Shodown_IV_-_Shizumaru_Hisame_(緋雨_閑丸,_Hisame_Shizumaru)
+tags: character
+title: Samurai Shodown IV - Shizumaru Hisame (緋雨 閑丸, Hisame Shizumaru)
 ---
 
 ![](/images/ss4-Shizumaru.gif "/images/ss4-Shizumaru.gif")

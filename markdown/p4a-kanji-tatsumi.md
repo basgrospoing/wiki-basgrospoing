@@ -1,14 +1,14 @@
 ---
-title: "P4A/Kanji Tatsumi"
-slug:  "P4A/Kanji_Tatsumi"
+author: Kabai
+date: '2012-08-06'
 id: 2639
-author: "Kabai"
-permalink: "p4a-kanji-tatsumi.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-06"
-redirect: "Kanji_Tatsumi"
+layout: character.njk
 old_id: 2655
+permalink: p4a-kanji-tatsumi.html
+redirect: Kanji_Tatsumi
+slug: P4A/Kanji_Tatsumi
+tags: character
+title: P4A/Kanji Tatsumi
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

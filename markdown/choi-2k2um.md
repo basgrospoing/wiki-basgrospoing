@@ -1,14 +1,14 @@
 ---
-title: "Choi (2k2um)"
-slug:  "Choi_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 35
-author: "Admin"
-permalink: "choi-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Choi"
+layout: character.njk
 old_id: 83
+permalink: choi-2k2um.html
+redirect: Choi
+slug: Choi_(2k2um)
+tags: character
+title: Choi (2k2um)
 ---
 
 ## Introduction

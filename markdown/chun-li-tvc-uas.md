@@ -1,12 +1,12 @@
 ---
-title: "Chun-Li (TvC:UAS)"
-slug:  "Chun-Li_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2014-01-10'
 id: 564
-author: "Admin"
-permalink: "chun-li-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: chun-li-tvc-uas.html
+slug: Chun-Li_(TvC:UAS)
+tags: character
+title: Chun-Li (TvC:UAS)
 ---
 
 <img src="/images/Tvc-chunli.jpg" title="/images/Tvc-chunli.jpg"

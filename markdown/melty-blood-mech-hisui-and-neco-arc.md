@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Mech-Hisui & Neco Arc"
-slug:  "Melty_Blood/Mech-Hisui_&_Neco_Arc"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1798
-author: "Oufan"
-permalink: "melty-blood-mech-hisui-and-neco-arc.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-mech-hisui-and-neco-arc.html
+slug: Melty_Blood/Mech-Hisui_&_Neco_Arc
+tags: character
+title: Melty Blood/Mech-Hisui & Neco Arc
 ---
 
 - **Name:** Mech-Hisui (メカヒスイ)
@@ -78,5 +78,3 @@ l'autre bout de l'écran. Elle possède toutefois très peu de mixups.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

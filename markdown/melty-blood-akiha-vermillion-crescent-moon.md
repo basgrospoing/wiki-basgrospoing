@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Vermillion/Crescent Moon"
-slug:  "Melty_Blood/Akiha_Vermillion/Crescent_Moon"
+author: Sannos, Ninjigen
+date: '2014-06-01'
 id: 1735
-author: "Sannos"
-permalink: "melty-blood-akiha-vermillion-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-06-01"
+layout: character.njk
+permalink: melty-blood-akiha-vermillion-crescent-moon.html
+slug: Melty_Blood/Akiha_Vermillion/Crescent_Moon
+tags: character
+title: Melty Blood/Akiha Vermillion/Crescent Moon
 ---
 
 # Combos
@@ -217,5 +217,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

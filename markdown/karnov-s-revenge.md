@@ -1,12 +1,12 @@
 ---
-title: "Karnov's Revenge"
-slug:  "Karnov's_Revenge"
+author: Neithan
+date: '2010-11-29'
 id: 383
-author: "Admin"
-permalink: "karnov-s-revenge.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-29"
+layout: character.njk
+permalink: karnov-s-revenge.html
+slug: Karnov's_Revenge
+tags: character
+title: Karnov's Revenge
 ---
 
 ## Personnages

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Powerd Ciel"
-slug:  "Melty_Blood/Powerd_Ciel"
+author: Sannos, Toto, Ninjigen
+date: '2014-01-10'
 id: 1830
-author: "Sannos"
-permalink: "melty-blood-powerd-ciel.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-powerd-ciel.html
+slug: Melty_Blood/Powerd_Ciel
+tags: character
+title: Melty Blood/Powerd Ciel
 ---
 
 - **Name:** Powerd Ciel (完全武装シエル)
@@ -60,5 +60,3 @@ Curry"
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

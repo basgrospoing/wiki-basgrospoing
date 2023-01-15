@@ -1,15 +1,13 @@
 ---
-title: "Lili (SFxT)"
-slug:  "Lili_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2191
-author: "Hynkel"
-permalink: "lili-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: lili-sfxt.html
+slug: Lili_(SFxT)
+tags: character
+title: Lili (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

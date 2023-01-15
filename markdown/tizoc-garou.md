@@ -1,12 +1,12 @@
 ---
-title: "Tizoc (Garou)"
-slug:  "Tizoc_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 12
-author: "Aerendir"
-permalink: "tizoc-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: tizoc-garou.html
+slug: Tizoc_(Garou)
+tags: character
+title: Tizoc (Garou)
 ---
 
 ## Introduction

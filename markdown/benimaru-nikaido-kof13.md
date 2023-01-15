@@ -1,12 +1,12 @@
 ---
-title: "Benimaru Nikaido (kof13)"
-slug:  "Benimaru_Nikaido_(kof13)"
+author: Lolo, Shin Rickyo95
+date: '2011-07-17'
 id: 1111
-author: "82.238.249.39"
-permalink: "benimaru-nikaido-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: benimaru-nikaido-kof13.html
+slug: Benimaru_Nikaido_(kof13)
+tags: character
+title: Benimaru Nikaido (kof13)
 ---
 
 ![Benimaru Nikaido](/images/Benimarukof13.gif "Benimaru Nikaido")

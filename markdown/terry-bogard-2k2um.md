@@ -1,14 +1,14 @@
 ---
-title: "Terry Bogard (2k2um)"
-slug:  "Terry_Bogard_(2k2um)"
+author: Hynkel, JPX, Corbeau Bleu
+date: '2010-12-31'
 id: 67
-author: "82.247.229.243"
-permalink: "terry-bogard-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-31"
-redirect: "Terry_Bogard"
+layout: character.njk
 old_id: 75
+permalink: terry-bogard-2k2um.html
+redirect: Terry_Bogard
+slug: Terry_Bogard_(2k2um)
+tags: character
+title: Terry Bogard (2k2um)
 ---
 
 ## Introduction
@@ -153,4 +153,4 @@ premier hit pour que l'entièreté de la combo connecte.
 Jump + D est la meilleure option pour effectuer un cross-up.  
 La furie Power Geyser (hcb f + A/C) peut être remplacée par la furie max
 Triple Geyser (hcb f + AC). Après un hcf + B, le troisième hit ne
-touchera pas.  
+touchera pas.

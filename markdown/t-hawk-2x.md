@@ -1,12 +1,12 @@
 ---
-title: "T. Hawk (2X)"
-slug:  "T._Hawk_(2X)"
+author: Wolmar
+date: '2010-12-24'
 id: 462
-author: "77.201.57.249"
-permalink: "t-hawk-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-24"
+layout: character.njk
+permalink: t-hawk-2x.html
+slug: T._Hawk_(2X)
+tags: character
+title: T. Hawk (2X)
 ---
 
 ## Introduction

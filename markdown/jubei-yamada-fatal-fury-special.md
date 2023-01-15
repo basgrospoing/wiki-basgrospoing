@@ -1,12 +1,12 @@
 ---
-title: "Jubei Yamada (Fatal Fury Special)"
-slug:  "Jubei_Yamada_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-11'
 id: 727
-author: "Dan sakazaki"
-permalink: "jubei-yamada-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-11"
+layout: character.njk
+permalink: jubei-yamada-fatal-fury-special.html
+slug: Jubei_Yamada_(Fatal_Fury_Special)
+tags: character
+title: Jubei Yamada (Fatal Fury Special)
 ---
 
 ![](/images/Jubei.PNG)  

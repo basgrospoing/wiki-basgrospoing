@@ -1,12 +1,12 @@
 ---
-title: "Chris (98um)"
-slug:  "Chris_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 227
-author: "Corbeau Bleu"
-permalink: "chris-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: chris-98um.html
+slug: Chris_(98um)
+tags: character
+title: Chris (98um)
 ---
 
 ## Introduction

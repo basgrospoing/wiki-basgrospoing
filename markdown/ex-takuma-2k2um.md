@@ -1,12 +1,12 @@
 ---
-title: "EX Takuma (2k2um)"
-slug:  "EX_Takuma_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-03'
 id: 144
-author: "81.67.71.175"
-permalink: "ex-takuma-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-03"
+layout: character.njk
+permalink: ex-takuma-2k2um.html
+slug: EX_Takuma_(2k2um)
+tags: character
+title: EX Takuma (2k2um)
 ---
 
 ## Introduction

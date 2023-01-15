@@ -1,12 +1,12 @@
 ---
-title: "Nemesis (UMVC3)"
-slug:  "Nemesis_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2995
-author: "ALX"
-permalink: "nemesis-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: nemesis-umvc3.html
+slug: Nemesis_(UMVC3)
+tags: character
+title: Nemesis (UMVC3)
 ---
 
 **EN TRAVAUX**

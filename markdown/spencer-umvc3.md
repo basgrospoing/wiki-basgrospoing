@@ -1,12 +1,12 @@
 ---
-title: "Spencer (UMVC3)"
-slug:  "Spencer_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 3001
-author: "ALX"
-permalink: "spencer-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: spencer-umvc3.html
+slug: Spencer_(UMVC3)
+tags: character
+title: Spencer (UMVC3)
 ---
 
 **EN TRAVAUX**

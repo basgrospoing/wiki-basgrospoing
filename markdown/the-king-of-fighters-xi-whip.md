@@ -1,14 +1,14 @@
 ---
-title: "The King of Fighters XI - Whip"
-slug:  "The_King_of_Fighters_XI_-_Whip"
+author: Olivic
+date: '2011-06-09'
 id: 933
-author: "Olivic"
-permalink: "the-king-of-fighters-xi-whip.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-06-09"
-redirect: "Kofxi-whip"
+layout: character.njk
 old_id: 934
+permalink: the-king-of-fighters-xi-whip.html
+redirect: Kofxi-whip
+slug: The_King_of_Fighters_XI_-_Whip
+tags: character
+title: The King of Fighters XI - Whip
 ---
 
 ![](/images/kofxi-whip.jpg "/images/kofxi-whip.jpg")

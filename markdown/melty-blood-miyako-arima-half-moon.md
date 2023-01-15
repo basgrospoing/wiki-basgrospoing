@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Miyako Arima/Half Moon"
-slug:  "Melty_Blood/Miyako_Arima/Half_Moon"
+author: Ninjigen
+date: '2012-01-17'
 id: 1813
-author: "Ninjigen"
-permalink: "melty-blood-miyako-arima-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-17"
+layout: character.njk
+permalink: melty-blood-miyako-arima-half-moon.html
+slug: Melty_Blood/Miyako_Arima/Half_Moon
+tags: character
+title: Melty Blood/Miyako Arima/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

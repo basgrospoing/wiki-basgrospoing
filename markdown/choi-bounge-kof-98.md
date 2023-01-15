@@ -1,12 +1,12 @@
 ---
-title: "Choi Bounge (KoF '98)"
-slug:  "Choi_Bounge_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 172
-author: "Corbeau Bleu"
-permalink: "choi-bounge-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: choi-bounge-kof-98.html
+slug: Choi_Bounge_(KoF_'98)
+tags: character
+title: Choi Bounge (KoF '98)
 ---
 
 ## Introduction

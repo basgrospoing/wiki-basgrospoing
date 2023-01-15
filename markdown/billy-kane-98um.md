@@ -1,12 +1,12 @@
 ---
-title: "Billy Kane (98um)"
-slug:  "Billy_Kane_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 230
-author: "Corbeau Bleu"
-permalink: "billy-kane-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: billy-kane-98um.html
+slug: Billy_Kane_(98um)
+tags: character
+title: Billy Kane (98um)
 ---
 
 ## Introduction

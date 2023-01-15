@@ -1,14 +1,13 @@
 ---
-title: "Leona Heidern (kof13)"
-slug:  "Leona_Heidern_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1105
-author: "82.238.249.39"
-permalink: "leona-heidern-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: leona-heidern-kof13.html
+slug: Leona_Heidern_(kof13)
+tags: character
+title: Leona Heidern (kof13)
 ---
-
 
 ![Leona Heidern](/images/Leonakof13.gif "Leona Heidern")
 

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno/Full Moon"
-slug:  "Melty_Blood/Akiha_Tohno/Full_Moon"
+author: Oufan, Ninjigen
+date: '2014-04-29'
 id: 1723
-author: "Oufan"
-permalink: "melty-blood-akiha-tohno-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-full-moon.html
+slug: Melty_Blood/Akiha_Tohno/Full_Moon
+tags: character
+title: Melty Blood/Akiha Tohno/Full Moon
 ---
 
 # Combos
@@ -216,5 +216,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

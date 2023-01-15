@@ -1,12 +1,12 @@
 ---
-title: "Ragna the Bloodedge (BBCS)"
-slug:  "Ragna_the_Bloodedge_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2011-03-02'
 id: 296
-author: "78.240.92.62"
-permalink: "ragna-the-bloodedge-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-03-02"
+layout: character.njk
+permalink: ragna-the-bloodedge-bbcs.html
+slug: Ragna_the_Bloodedge_(BBCS)
+tags: character
+title: Ragna the Bloodedge (BBCS)
 ---
 
 <figure>

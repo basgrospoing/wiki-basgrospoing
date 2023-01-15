@@ -1,14 +1,13 @@
 ---
-title: "Clark Steel (kof13)"
-slug:  "Clark_Steel_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1103
-author: "82.238.249.39"
-permalink: "clark-steel-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: clark-steel-kof13.html
+slug: Clark_Steel_(kof13)
+tags: character
+title: Clark Steel (kof13)
 ---
-
 
 ![Clark Steel](/images/Clarkkof13.gif "Clark Steel")
 

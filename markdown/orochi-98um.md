@@ -1,12 +1,12 @@
 ---
-title: "Orochi (98um)"
-slug:  "Orochi_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 267
-author: "Corbeau Bleu"
-permalink: "orochi-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: orochi-98um.html
+slug: Orochi_(98um)
+tags: character
+title: Orochi (98um)
 ---
 
 ## Introduction

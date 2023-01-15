@@ -1,15 +1,13 @@
 ---
-title: "Dhalsim (SSFIV)"
-slug:  "Dhalsim_(SSFIV)"
+author: Atomskyu, Natchooo, Tonio
+date: '2014-05-09'
 id: 381
-author: "Atomskyu698"
-permalink: "dhalsim-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: dhalsim-ssfiv.html
+slug: Dhalsim_(SSFIV)
+tags: character
+title: Dhalsim (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

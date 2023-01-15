@@ -1,15 +1,13 @@
 ---
-title: "Poison (SFxT)"
-slug:  "Poison_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2174
-author: "Hynkel"
-permalink: "poison-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: poison-sfxt.html
+slug: Poison_(SFxT)
+tags: character
+title: Poison (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

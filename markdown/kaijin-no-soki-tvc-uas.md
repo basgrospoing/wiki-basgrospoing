@@ -1,12 +1,12 @@
 ---
-title: "Kaijin No Soki (TvC:UAS)"
-slug:  "Kaijin_No_Soki_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 562
-author: "Dan sakazaki"
-permalink: "kaijin-no-soki-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: kaijin-no-soki-tvc-uas.html
+slug: Kaijin_No_Soki_(TvC:UAS)
+tags: character
+title: Kaijin No Soki (TvC:UAS)
 ---
 
 <img src="/images/Kaijinnosoki.jpg" title="/images/Kaijinnosoki.jpg"

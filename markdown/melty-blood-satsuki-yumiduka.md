@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Satsuki Yumiduka"
-slug:  "Melty_Blood/Satsuki_Yumiduka"
+author: Sannos, Oufan, Ninjigen
+date: '2014-01-10'
 id: 1853
-author: "Sannos"
-permalink: "melty-blood-satsuki-yumiduka.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-satsuki-yumiduka.html
+slug: Melty_Blood/Satsuki_Yumiduka
+tags: character
+title: Melty Blood/Satsuki Yumiduka
 ---
 
 ![](/images/Satsuki0.png)  
@@ -72,5 +72,3 @@ adverse
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

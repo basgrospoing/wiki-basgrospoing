@@ -1,12 +1,12 @@
 ---
-title: "Batsu Ichimonji (TvC:UAS)"
-slug:  "Batsu_Ichimonji_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-22'
 id: 561
-author: "Dan sakazaki"
-permalink: "batsu-ichimonji-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
+layout: character.njk
+permalink: batsu-ichimonji-tvc-uas.html
+slug: Batsu_Ichimonji_(TvC:UAS)
+tags: character
+title: Batsu Ichimonji (TvC:UAS)
 ---
 
 <img src="/images/Tvc-batsu.jpg" title="/images/Tvc-batsu.jpg"

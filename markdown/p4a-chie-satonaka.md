@@ -1,14 +1,14 @@
 ---
-title: "P4A/Chie Satonaka"
-slug:  "P4A/Chie_Satonaka"
+author: Kabai
+date: '2012-08-14'
 id: 2634
-author: "Kabai"
-permalink: "p4a-chie-satonaka.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-08-14"
-redirect: "Chie_Satonaka"
+layout: character.njk
 old_id: 2650
+permalink: p4a-chie-satonaka.html
+redirect: Chie_Satonaka
+slug: P4A/Chie_Satonaka
+tags: character
+title: P4A/Chie Satonaka
 ---
 
 <div style="float:right; border: 1px black solid; background-color: #FEE727; width: 40%; margin:15px; padding:10px">

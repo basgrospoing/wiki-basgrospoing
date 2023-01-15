@@ -1,12 +1,12 @@
 ---
-title: "Blue Mary (98um)"
-slug:  "Blue_Mary_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 229
-author: "Corbeau Bleu"
-permalink: "blue-mary-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: blue-mary-98um.html
+slug: Blue_Mary_(98um)
+tags: character
+title: Blue Mary (98um)
 ---
 
 ## Introduction

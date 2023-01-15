@@ -1,12 +1,12 @@
 ---
-title: "Andy Bogard (98um)"
-slug:  "Andy_Bogard_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 208
-author: "Corbeau Bleu"
-permalink: "andy-bogard-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: andy-bogard-98um.html
+slug: Andy_Bogard_(98um)
+tags: character
+title: Andy Bogard (98um)
 ---
 
 ## Introduction

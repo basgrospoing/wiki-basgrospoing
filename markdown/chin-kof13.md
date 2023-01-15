@@ -1,14 +1,13 @@
 ---
-title: "Chin(kof13)"
-slug:  "Chin(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1150
-author: "82.238.249.39"
-permalink: "chin-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: chin-kof13.html
+slug: Chin(kof13)
+tags: character
+title: Chin(kof13)
 ---
-
 
 ![Chin](/images/Chinkof13.gif "Chin")
 

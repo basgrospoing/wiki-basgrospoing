@@ -1,12 +1,12 @@
 ---
-title: "Viewtiful Joe (UMVC3)"
-slug:  "Viewtiful_Joe_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3013
-author: "ALX"
-permalink: "viewtiful-joe-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: viewtiful-joe-umvc3.html
+slug: Viewtiful_Joe_(UMVC3)
+tags: character
+title: Viewtiful Joe (UMVC3)
 ---
 
 **EN TRAVAUX**

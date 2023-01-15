@@ -1,14 +1,13 @@
 ---
-title: "Mai Shiranui (kof13)"
-slug:  "Mai_Shiranui_(kof13)"
+author: Lolo
+date: '2011-07-17'
 id: 1120
-author: "82.238.249.39"
-permalink: "mai-shiranui-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-17"
+layout: character.njk
+permalink: mai-shiranui-kof13.html
+slug: Mai_Shiranui_(kof13)
+tags: character
+title: Mai Shiranui (kof13)
 ---
-
 
 ![Mai Shiranui](/images/maikof13.gif "Mai Shiranui")
 

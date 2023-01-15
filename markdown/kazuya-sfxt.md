@@ -1,15 +1,13 @@
 ---
-title: "Kazuya (SFxT)"
-slug:  "Kazuya_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2187
-author: "Hynkel"
-permalink: "kazuya-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: kazuya-sfxt.html
+slug: Kazuya_(SFxT)
+tags: character
+title: Kazuya (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

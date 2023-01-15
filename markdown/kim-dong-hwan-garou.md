@@ -1,12 +1,12 @@
 ---
-title: "Kim Dong Hwan (Garou)"
-slug:  "Kim_Dong_Hwan_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic
+date: '2011-05-24'
 id: 6
-author: "Aerendir"
-permalink: "kim-dong-hwan-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: kim-dong-hwan-garou.html
+slug: Kim_Dong_Hwan_(Garou)
+tags: character
+title: Kim Dong Hwan (Garou)
 ---
 
 ## Introduction

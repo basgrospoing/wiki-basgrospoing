@@ -1,14 +1,14 @@
 ---
-title: "K' (2k2um)"
-slug:  "K'_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 51
-author: "Admin"
-permalink: "k-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
-redirect: "K'"
+layout: character.njk
 old_id: 102
+permalink: k-2k2um.html
+redirect: K'
+slug: K'_(2k2um)
+tags: character
+title: K' (2k2um)
 ---
 
 ## Introduction

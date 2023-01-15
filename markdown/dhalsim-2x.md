@@ -1,12 +1,12 @@
 ---
-title: "Dhalsim (2X)"
-slug:  "Dhalsim_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 456
-author: "Wolmar"
-permalink: "dhalsim-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: dhalsim-2x.html
+slug: Dhalsim_(2X)
+tags: character
+title: Dhalsim (2X)
 ---
 
 ## Introduction

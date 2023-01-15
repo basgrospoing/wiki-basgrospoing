@@ -1,15 +1,13 @@
 ---
-title: "Akuma (SSFIV)"
-slug:  "Akuma_(SSFIV)"
+author: Atomskyu, Tonio
+date: '2014-05-09'
 id: 434
-author: "Atomskyu698"
-permalink: "akuma-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: akuma-ssfiv.html
+slug: Akuma_(SSFIV)
+tags: character
+title: Akuma (SSFIV)
 ---
-
-
 
 ## Vue d'ensemble
 

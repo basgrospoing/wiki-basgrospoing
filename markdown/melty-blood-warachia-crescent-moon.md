@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Warachia/Crescent Moon"
-slug:  "Melty_Blood/Warachia/Crescent_Moon"
+author: Ninjigen
+date: '2012-01-22'
 id: 1893
-author: "82.234.188.250"
-permalink: "melty-blood-warachia-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-22"
+layout: character.njk
+permalink: melty-blood-warachia-crescent-moon.html
+slug: Melty_Blood/Warachia/Crescent_Moon
+tags: character
+title: Melty Blood/Warachia/Crescent Moon
 ---
 
 # Combos
@@ -203,5 +203,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

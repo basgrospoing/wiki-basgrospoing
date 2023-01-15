@@ -1,12 +1,12 @@
 ---
-title: "Joe Higashi (KoF '94) (98um)"
-slug:  "Joe_Higashi_(KoF_'94)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 253
-author: "Corbeau Bleu"
-permalink: "joe-higashi-kof-94-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: joe-higashi-kof-94-98um.html
+slug: Joe_Higashi_(KoF_'94)_(98um)
+tags: character
+title: Joe Higashi (KoF '94) (98um)
 ---
 
 ## Introduction

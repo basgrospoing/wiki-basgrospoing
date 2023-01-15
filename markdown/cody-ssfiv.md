@@ -1,15 +1,13 @@
 ---
-title: "Cody (SSFIV)"
-slug:  "Cody_(SSFIV)"
+author: Atomskyu, Aphelion
+date: '2014-05-09'
 id: 361
-author: "Atomskyu698"
-permalink: "cody-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: cody-ssfiv.html
+slug: Cody_(SSFIV)
+tags: character
+title: Cody (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

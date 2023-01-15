@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Miyako Arima/Crescent Moon"
-slug:  "Melty_Blood/Miyako_Arima/Crescent_Moon"
+author: Ouytsu, Sannos, Ninjigen
+date: '2015-06-27'
 id: 1812
-author: "Ouytsu"
-permalink: "melty-blood-miyako-arima-crescent-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2015-06-27"
+layout: character.njk
+permalink: melty-blood-miyako-arima-crescent-moon.html
+slug: Melty_Blood/Miyako_Arima/Crescent_Moon
+tags: character
+title: Melty Blood/Miyako Arima/Crescent Moon
 ---
 
 # Style du perso
@@ -470,5 +470,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

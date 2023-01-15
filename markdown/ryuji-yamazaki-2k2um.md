@@ -1,12 +1,12 @@
 ---
-title: "Ryuji Yamazaki (2k2um)"
-slug:  "Ryuji_Yamazaki_(2k2um)"
+author: Corbeau Bleu
+date: '2010-11-02'
 id: 128
-author: "Admin"
-permalink: "ryuji-yamazaki-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-02"
+layout: character.njk
+permalink: ryuji-yamazaki-2k2um.html
+slug: Ryuji_Yamazaki_(2k2um)
+tags: character
+title: Ryuji Yamazaki (2k2um)
 ---
 
 ## Introduction

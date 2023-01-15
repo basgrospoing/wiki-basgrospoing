@@ -1,12 +1,12 @@
 ---
-title: "'Riot Of The Blood' Iori Yagami (98um)"
-slug:  "'Riot_Of_The_Blood'_Iori_Yagami_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 264
-author: "Corbeau Bleu"
-permalink: "riot-of-the-blood-iori-yagami-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: riot-of-the-blood-iori-yagami-98um.html
+slug: '''Riot_Of_The_Blood''_Iori_Yagami_(98um)'
+tags: character
+title: '''Riot Of The Blood'' Iori Yagami (98um)'
 ---
 
 ## Introduction

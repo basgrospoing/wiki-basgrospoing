@@ -1,15 +1,13 @@
 ---
-title: "Dhalsim (SFxT)"
-slug:  "Dhalsim_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2167
-author: "Hynkel"
-permalink: "dhalsim-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: dhalsim-sfxt.html
+slug: Dhalsim_(SFxT)
+tags: character
+title: Dhalsim (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,15 +1,13 @@
 ---
-title: "Sakura (SSFIV)"
-slug:  "Sakura_(SSFIV)"
+author: Atomskyu, Lolo
+date: '2014-05-09'
 id: 497
-author: "Atomskyu698"
-permalink: "sakura-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: sakura-ssfiv.html
+slug: Sakura_(SSFIV)
+tags: character
+title: Sakura (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

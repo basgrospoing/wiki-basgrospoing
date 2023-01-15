@@ -1,12 +1,12 @@
 ---
-title: "Freeman (Garou)"
-slug:  "Freeman_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 11
-author: "Aerendir"
-permalink: "freeman-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: freeman-garou.html
+slug: Freeman_(Garou)
+tags: character
+title: Freeman (Garou)
 ---
 
 ## Introduction

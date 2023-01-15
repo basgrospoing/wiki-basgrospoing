@@ -1,12 +1,12 @@
 ---
-title: "Carl Clover (BBCS)"
-slug:  "Carl_Clover_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-02'
 id: 304
-author: "Achoral"
-permalink: "carl-clover-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-02"
+layout: character.njk
+permalink: carl-clover-bbcs.html
+slug: Carl_Clover_(BBCS)
+tags: character
+title: Carl Clover (BBCS)
 ---
 
 <figure>

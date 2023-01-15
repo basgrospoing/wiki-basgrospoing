@@ -1,12 +1,12 @@
 ---
-title: "Q (3S)"
-slug:  "Q_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 280
-author: "ALX"
-permalink: "q-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: q-3s.html
+slug: Q_(3S)
+tags: character
+title: Q (3S)
 ---
 
 ![Character Select

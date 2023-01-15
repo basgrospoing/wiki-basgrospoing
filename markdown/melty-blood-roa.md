@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Roa"
-slug:  "Melty_Blood/Roa"
+author: Sannos, Ouytsu, Ninjigen
+date: '2014-01-10'
 id: 1847
-author: "Sannos"
-permalink: "melty-blood-roa.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-roa.html
+slug: Melty_Blood/Roa
+tags: character
+title: Melty Blood/Roa
 ---
 
 - **Name:** Michael Roa Valdamjong (ミハイル・ロア・バルダムヨォン)
@@ -64,5 +64,3 @@ concurrence.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

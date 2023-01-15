@@ -1,12 +1,12 @@
 ---
-title: "The King of Fighters XIII"
-slug: "The_King_of_Fighters_XIII"
+author: Olivic, Lolo, Maj, Sharnt, Shin Rickyo95
+date: '2012-07-24'
 id: 1074
-author: "Admin"
-permalink: "the-king-of-fighters-xiii.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
+layout: game.njk
+permalink: the-king-of-fighters-xiii.html
+slug: The_King_of_Fighters_XIII
+tags: game
+title: The King of Fighters XIII
 ---
 
 ![](/images/KoFXIII.png)

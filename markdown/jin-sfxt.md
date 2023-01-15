@@ -1,15 +1,13 @@
 ---
-title: "Jin (SFxT)"
-slug:  "Jin_(SFxT)"
+author: KizanCPC, Hynkel
+date: '2012-03-15'
 id: 2185
-author: "KizanCPC"
-permalink: "jin-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-15"
+layout: character.njk
+permalink: jin-sfxt.html
+slug: Jin_(SFxT)
+tags: character
+title: Jin (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

@@ -1,15 +1,13 @@
 ---
-title: "Sagat (SSFIV)"
-slug:  "Sagat_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 1622
-author: "Atomskyu698"
-permalink: "sagat-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: sagat-ssfiv.html
+slug: Sagat_(SSFIV)
+tags: character
+title: Sagat (SSFIV)
 ---
-
-
 
 sagat africa attention les secousses !!!
 

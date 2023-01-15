@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Powerd Ciel/Half Moon"
-slug:  "Melty_Blood/Powerd_Ciel/Half_Moon"
+author: Zind, Ninjigen
+date: '2012-01-30'
 id: 1832
-author: "Zind"
-permalink: "melty-blood-powerd-ciel-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-30"
+layout: character.njk
+permalink: melty-blood-powerd-ciel-half-moon.html
+slug: Melty_Blood/Powerd_Ciel/Half_Moon
+tags: character
+title: Melty Blood/Powerd Ciel/Half Moon
 ---
 
 # Combos
@@ -216,5 +216,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

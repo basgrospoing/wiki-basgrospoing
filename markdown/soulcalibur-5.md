@@ -1,12 +1,12 @@
 ---
-title: "Soulcalibur 5"
-slug:  "Soulcalibur_5"
+author: Jojozekil
+date: '2012-07-24'
 id: 2139
-author: "Admin"
-permalink: "soulcalibur-5.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-24"
+layout: character.njk
+permalink: soulcalibur-5.html
+slug: Soulcalibur_5
+tags: character
+title: Soulcalibur 5
 ---
 
 <figure>

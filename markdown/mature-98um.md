@@ -1,12 +1,12 @@
 ---
-title: "Mature (98um)"
-slug:  "Mature_(98um)"
+author: Corbeau Bleu
+date: '2010-08-06'
 id: 232
-author: "Corbeau Bleu"
-permalink: "mature-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-06"
+layout: character.njk
+permalink: mature-98um.html
+slug: Mature_(98um)
+tags: character
+title: Mature (98um)
 ---
 
 ## Introduction

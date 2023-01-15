@@ -1,12 +1,12 @@
 ---
-title: "Origine des Personnages (Tatsunoko)"
-slug:  "Origine_des_Personnages_(Tatsunoko)"
+author: Neithan
+date: '2014-01-10'
 id: 2767
-author: "Dan Sakazaki"
-permalink: "origine-des-personnages-tatsunoko.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: origine-des-personnages-tatsunoko.html
+slug: Origine_des_Personnages_(Tatsunoko)
+tags: character
+title: Origine des Personnages (Tatsunoko)
 ---
 
 Personnages Série / Jeu d' origine Nom occidental / français Année
@@ -31,4 +31,4 @@ Ippatsuman 逆転!イッパツマン (Gyakuten ! Ippatsuman) Gyakuten !
 Ippatsuman 1982  
 Tekkaman Blade 宇宙の騎士テッカマンブレード (Uchū no Kishi Tekkaman
 Burēdo) Space Knight Tekkaman Blade / Teknoman 1992  
-Karas 鴉 (Karasu) Karas (OAV) 2005  
+Karas 鴉 (Karasu) Karas (OAV) 2005

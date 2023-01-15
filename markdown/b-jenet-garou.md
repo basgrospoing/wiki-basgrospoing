@@ -1,12 +1,12 @@
 ---
-title: "B. Jenet (Garou)"
-slug:  "B._Jenet_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 13
-author: "Aerendir"
-permalink: "b-jenet-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: b-jenet-garou.html
+slug: B._Jenet_(Garou)
+tags: character
+title: B. Jenet (Garou)
 ---
 
 ## Introduction

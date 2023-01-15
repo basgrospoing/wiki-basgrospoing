@@ -1,12 +1,12 @@
 ---
-title: "Terry Bogard (KoF '98)"
-slug:  "Terry_Bogard_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 155
-author: "Corbeau Bleu"
-permalink: "terry-bogard-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: terry-bogard-kof-98.html
+slug: Terry_Bogard_(KoF_'98)
+tags: character
+title: Terry Bogard (KoF '98)
 ---
 
 ## Introduction

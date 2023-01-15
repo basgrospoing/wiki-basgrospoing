@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Ciel"
-slug:  "Melty_Blood/Ciel"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1757
-author: "Oufan"
-permalink: "melty-blood-ciel.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-ciel.html
+slug: Melty_Blood/Ciel
+tags: character
+title: Melty Blood/Ciel
 ---
 
 - **Name:** Ciel (シエル)
@@ -75,5 +75,3 @@ extension de hitbox assez spéciale qui donnent l'impression de
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Clown (KR)"
-slug:  "Clown_(KR)"
+author: Zarghatt
+date: '2010-11-29'
 id: 384
-author: "Zarghatt"
-permalink: "clown-kr.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-11-29"
+layout: character.njk
+permalink: clown-kr.html
+slug: Clown_(KR)
+tags: character
+title: Clown (KR)
 ---
 
 ## Généralités

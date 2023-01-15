@@ -1,12 +1,12 @@
 ---
-title: "Ryuji Yamazaki (KoF '98)"
-slug:  "Ryuji_Yamazaki_(KoF_'98)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 176
-author: "Corbeau Bleu"
-permalink: "ryuji-yamazaki-kof-98.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: ryuji-yamazaki-kof-98.html
+slug: Ryuji_Yamazaki_(KoF_'98)
+tags: character
+title: Ryuji Yamazaki (KoF '98)
 ---
 
 ## Introduction

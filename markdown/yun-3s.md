@@ -1,12 +1,12 @@
 ---
-title: "Yun (3S)"
-slug:  "Yun_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 287
-author: "ALX"
-permalink: "yun-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: yun-3s.html
+slug: Yun_(3S)
+tags: character
+title: Yun (3S)
 ---
 
 ![Character Select

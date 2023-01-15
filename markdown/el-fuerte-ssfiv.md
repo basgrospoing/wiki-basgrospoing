@@ -1,15 +1,13 @@
 ---
-title: "El Fuerte (SSFIV)"
-slug:  "El_Fuerte_(SSFIV)"
+author: Atomskyu, Nuno
+date: '2014-05-09'
 id: 376
-author: "Atomskyu698"
-permalink: "el-fuerte-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: el-fuerte-ssfiv.html
+slug: El_Fuerte_(SSFIV)
+tags: character
+title: El Fuerte (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

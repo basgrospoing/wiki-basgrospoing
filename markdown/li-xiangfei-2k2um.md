@@ -1,12 +1,12 @@
 ---
-title: "Li Xiangfei (2k2um)"
-slug:  "Li_Xiangfei_(2k2um)"
+author: Hynkel, Corbeau Bleu
+date: '2011-04-21'
 id: 136
-author: "89.3.166.69"
-permalink: "li-xiangfei-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-21"
+layout: character.njk
+permalink: li-xiangfei-2k2um.html
+slug: Li_Xiangfei_(2k2um)
+tags: character
+title: Li Xiangfei (2k2um)
 ---
 
 ## Introduction

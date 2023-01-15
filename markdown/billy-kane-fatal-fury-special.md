@@ -1,12 +1,12 @@
 ---
-title: "Billy Kane (Fatal Fury Special)"
-slug:  "Billy_Kane_(Fatal_Fury_Special)"
+author: Atomskyu, Dan Sakazaki
+date: '2012-02-29'
 id: 741
-author: "Atomskyu690"
-permalink: "billy-kane-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-02-29"
+layout: character.njk
+permalink: billy-kane-fatal-fury-special.html
+slug: Billy_Kane_(Fatal_Fury_Special)
+tags: character
+title: Billy Kane (Fatal Fury Special)
 ---
 
 ![](/images/Ffspbilly.PNG)  

@@ -1,14 +1,13 @@
 ---
-title: "Raiden (kof13)"
-slug:  "Raiden_(kof13)"
+author: Kula', Lolo
+date: '2011-07-25'
 id: 1137
-author: "Kula'"
-permalink: "raiden-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-25"
+layout: character.njk
+permalink: raiden-kof13.html
+slug: Raiden_(kof13)
+tags: character
+title: Raiden (kof13)
 ---
-
 
 ![Raiden ](/images/Raidenkof13.gif "Raiden ")
 

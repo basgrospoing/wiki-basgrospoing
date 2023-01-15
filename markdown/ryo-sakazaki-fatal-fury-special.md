@@ -1,12 +1,12 @@
 ---
-title: "Ryo Sakazaki (Fatal Fury Special)"
-slug:  "Ryo_Sakazaki_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-10'
 id: 729
-author: "Dan sakazaki"
-permalink: "ryo-sakazaki-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-10"
+layout: character.njk
+permalink: ryo-sakazaki-fatal-fury-special.html
+slug: Ryo_Sakazaki_(Fatal_Fury_Special)
+tags: character
+title: Ryo Sakazaki (Fatal Fury Special)
 ---
 
 ![](/images/Ffspryo.PNG)  

@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Tohno (Seifuku)"
-slug:  "Melty_Blood/Akiha_Tohno_(Seifuku)"
+author: Oufan, Sannos, Ninjigen
+date: '2014-04-29'
 id: 1725
-author: "Oufan"
-permalink: "melty-blood-akiha-tohno-seifuku.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-04-29"
+layout: character.njk
+permalink: melty-blood-akiha-tohno-seifuku.html
+slug: Melty_Blood/Akiha_Tohno_(Seifuku)
+tags: character
+title: Melty Blood/Akiha Tohno (Seifuku)
 ---
 
 - **Name:** Akiha Tohno (遠野秋葉)
@@ -67,5 +67,3 @@ Très bon contrôle de terrain et okizeme/mixups très safe.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Défense"
-slug:  "Défense"
+author: Wolmar
+date: '2011-01-07'
 id: 500
-author: "Wolmar"
-permalink: "defense.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-01-07"
+layout: character.njk
+permalink: defense.html
+slug: Défense
+tags: character
+title: Défense
 ---
 
 ## Introduction

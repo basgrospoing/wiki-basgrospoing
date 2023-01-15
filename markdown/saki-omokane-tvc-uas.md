@@ -1,12 +1,12 @@
 ---
-title: "Saki Omokane (TvC:UAS)"
-slug:  "Saki_Omokane_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 553
-author: "Dan sakazaki"
-permalink: "saki-omokane-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: saki-omokane-tvc-uas.html
+slug: Saki_Omokane_(TvC:UAS)
+tags: character
+title: Saki Omokane (TvC:UAS)
 ---
 
 <img src="/images/Saki-omokane.jpg" title="/images/Saki-omokane.jpg"

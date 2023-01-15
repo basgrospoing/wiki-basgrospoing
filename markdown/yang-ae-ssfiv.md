@@ -1,12 +1,12 @@
 ---
-title: "Yang (AE) (SSFIV)"
-slug:  "Yang_(AE)_(SSFIV)"
+author: Sharnt
+date: '2011-04-28'
 id: 806
-author: "Sharnt"
-permalink: "yang-ae-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-28"
+layout: character.njk
+permalink: yang-ae-ssfiv.html
+slug: Yang_(AE)_(SSFIV)
+tags: character
+title: Yang (AE) (SSFIV)
 ---
 
 Frame data : ![](/images/Yangdata.png "/images/Yangdata.png")

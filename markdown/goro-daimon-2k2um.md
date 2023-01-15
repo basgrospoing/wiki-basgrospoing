@@ -1,14 +1,14 @@
 ---
-title: "Goro Daimon (2k2um)"
-slug:  "Goro_Daimon_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 23
-author: "Admin"
-permalink: "goro-daimon-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
-redirect: "Goro_Daimon"
+layout: character.njk
 old_id: 80
+permalink: goro-daimon-2k2um.html
+redirect: Goro_Daimon
+slug: Goro_Daimon_(2k2um)
+tags: character
+title: Goro Daimon (2k2um)
 ---
 
 ## Introduction

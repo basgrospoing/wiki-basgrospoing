@@ -1,12 +1,12 @@
 ---
-title: "The King of Fighters 2k2: Unlimited Match"
-slug:  "The_King_of_Fighters_2k2:_Unlimited_Match"
+author: Shin Rickyo95, Corbeau Bleu
+date: '2012-07-24'
 id: 20
-author: "Corbeau Bleu, Shin Rickyo95"
-permalink: "the-king-of-fighters-2k2-unlimited-match.html"
-layout: "game.njk"
-tags: "game"
-date: "2012-07-24"
+layout: game.njk
+permalink: the-king-of-fighters-2k2-unlimited-match.html
+slug: The_King_of_Fighters_2k2:_Unlimited_Match
+tags: game
+title: 'The King of Fighters 2k2: Unlimited Match'
 ---
 
 ![caption](/images/2002um.jpg "caption")

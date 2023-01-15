@@ -1,12 +1,12 @@
 ---
-title: "Kasumi Todoh (2k2um)"
-slug:  "Kasumi_Todoh_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-03'
 id: 121
-author: "Admin"
-permalink: "kasumi-todoh-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-03"
+layout: character.njk
+permalink: kasumi-todoh-2k2um.html
+slug: Kasumi_Todoh_(2k2um)
+tags: character
+title: Kasumi Todoh (2k2um)
 ---
 
 ## Introduction

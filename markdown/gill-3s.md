@@ -1,12 +1,12 @@
 ---
-title: "Gill (3S)"
-slug:  "Gill_(3S)"
+author: ALX, Corbeau Bleu
+date: '2014-05-04'
 id: 273
-author: "ALX"
-permalink: "gill-3s.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-04"
+layout: character.njk
+permalink: gill-3s.html
+slug: Gill_(3S)
+tags: character
+title: Gill (3S)
 ---
 
 ![Character Select

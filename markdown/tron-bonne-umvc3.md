@@ -1,12 +1,12 @@
 ---
-title: "Tron Bonne (UMVC3)"
-slug:  "Tron_Bonne_(UMVC3)"
+author: ALX
+date: '2014-05-10'
 id: 3008
-author: "ALX"
-permalink: "tron-bonne-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-10"
+layout: character.njk
+permalink: tron-bonne-umvc3.html
+slug: Tron_Bonne_(UMVC3)
+tags: character
+title: Tron Bonne (UMVC3)
 ---
 
 **EN TRAVAUX**

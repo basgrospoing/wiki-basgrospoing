@@ -1,12 +1,12 @@
 ---
-title: "Akuma (ST)"
-slug:  "Akuma_(ST)"
+author: Wolmar
+date: '2010-12-13'
 id: 450
-author: "Wolmar"
-permalink: "akuma-st.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: akuma-st.html
+slug: Akuma_(ST)
+tags: character
+title: Akuma (ST)
 ---
 
 ## Introduction

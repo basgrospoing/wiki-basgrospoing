@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion TATARI"
-slug:  "Melty_Blood/Sion_TATARI"
+author: Sannos, Oufan, Ninjigen
+date: '2014-01-10'
 id: 1882
-author: "Sannos"
-permalink: "melty-blood-sion-tatari.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-sion-tatari.html
+slug: Melty_Blood/Sion_TATARI
+tags: character
+title: Melty Blood/Sion TATARI
 ---
 
 - **Name:** Sion TATARI (シオン タタリ)
@@ -60,5 +60,3 @@ Imma vampire
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

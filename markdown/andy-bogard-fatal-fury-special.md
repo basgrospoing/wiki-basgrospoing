@@ -1,12 +1,12 @@
 ---
-title: "Andy Bogard (Fatal Fury Special)"
-slug:  "Andy_Bogard_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-10'
 id: 723
-author: "Dan sakazaki"
-permalink: "andy-bogard-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-10"
+layout: character.njk
+permalink: andy-bogard-fatal-fury-special.html
+slug: Andy_Bogard_(Fatal_Fury_Special)
+tags: character
+title: Andy Bogard (Fatal Fury Special)
 ---
 
 ![](/images/Ffspandy.PNG)  

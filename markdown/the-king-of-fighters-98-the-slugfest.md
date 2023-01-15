@@ -1,12 +1,12 @@
 ---
-title: "The King of Fighters '98: The Slugfest"
-slug:  "The_King_of_Fighters_'98:_The_Slugfest"
+author: Neithan
+date: '2010-08-02'
 id: 203
-author: "Admin"
-permalink: "the-king-of-fighters-98-the-slugfest.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: the-king-of-fighters-98-the-slugfest.html
+slug: The_King_of_Fighters_'98:_The_Slugfest
+tags: character
+title: 'The King of Fighters ''98: The Slugfest'
 ---
 
 ATTENTION : CE WIKI EST UNE ÉBAUCHE A CORRIGER FAITE A PARTIR DE 98UM

@@ -1,12 +1,12 @@
 ---
-title: "Benimaru"
-slug:  "Benimaru"
+author: Bberita, Corbeau Bleu
+date: '2011-10-26'
 id: 22
-author: "Bberita"
-permalink: "benimaru.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-10-26"
+layout: character.njk
+permalink: benimaru.html
+slug: Benimaru
+tags: character
+title: Benimaru
 ---
 
 ## Introduction

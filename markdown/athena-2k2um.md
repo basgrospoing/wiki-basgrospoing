@@ -1,14 +1,14 @@
 ---
-title: "Athena (2k2um)"
-slug:  "Athena_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 39
-author: "Admin"
-permalink: "athena-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Athena"
+layout: character.njk
 old_id: 90
+permalink: athena-2k2um.html
+redirect: Athena
+slug: Athena_(2k2um)
+tags: character
+title: Athena (2k2um)
 ---
 
 ## Introduction

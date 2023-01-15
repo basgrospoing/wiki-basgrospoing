@@ -1,12 +1,12 @@
 ---
-title: "Ippatsuman (TvC:UAS)"
-slug:  "Ippatsuman_(TvC:UAS)"
+author: Dan Sakazaki
+date: '2011-05-19'
 id: 521
-author: "Dan sakazaki"
-permalink: "ippatsuman-tvc-uas.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-19"
+layout: character.njk
+permalink: ippatsuman-tvc-uas.html
+slug: Ippatsuman_(TvC:UAS)
+tags: character
+title: Ippatsuman (TvC:UAS)
 ---
 
 <img src="/images/Ippatsuman.jpg" title="/images/Ippatsuman.jpg"

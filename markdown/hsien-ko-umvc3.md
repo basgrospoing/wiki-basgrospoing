@@ -1,12 +1,12 @@
 ---
-title: "Hsien Ko (UMVC3)"
-slug:  "Hsien_Ko_(UMVC3)"
+author: ALX
+date: '2014-05-09'
 id: 2992
-author: "ALX"
-permalink: "hsien-ko-umvc3.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: hsien-ko-umvc3.html
+slug: Hsien_Ko_(UMVC3)
+tags: character
+title: Hsien Ko (UMVC3)
 ---
 
 **EN TRAVAUX**

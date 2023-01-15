@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Akiha Vermillion/Half Moon"
-slug:  "Melty_Blood/Akiha_Vermillion/Half_Moon"
+author: Sannos, Zind, Ninjigen
+date: '2014-06-01'
 id: 1733
-author: "Sannos"
-permalink: "melty-blood-akiha-vermillion-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-06-01"
+layout: character.njk
+permalink: melty-blood-akiha-vermillion-half-moon.html
+slug: Melty_Blood/Akiha_Vermillion/Half_Moon
+tags: character
+title: Melty Blood/Akiha Vermillion/Half Moon
 ---
 
 # Combos
@@ -165,5 +165,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

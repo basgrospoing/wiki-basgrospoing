@@ -1,12 +1,12 @@
 ---
-title: "Valkenhayn=R=Hellsing (BBCS)"
-slug:  "Valkenhayn=R=Hellsing_(BBCS)"
+author: Achoral, Yolsgens, Aerendir
+date: '2010-12-05'
 id: 293
-author: "Achoral"
-permalink: "valkenhayn-r-hellsing-bbcs.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-05"
+layout: character.njk
+permalink: valkenhayn-r-hellsing-bbcs.html
+slug: Valkenhayn=R=Hellsing_(BBCS)
+tags: character
+title: Valkenhayn=R=Hellsing (BBCS)
 ---
 
 <figure>

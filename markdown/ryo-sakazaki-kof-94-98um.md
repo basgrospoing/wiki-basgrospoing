@@ -1,12 +1,12 @@
 ---
-title: "Ryo Sakazaki (KoF '94) (98um)"
-slug:  "Ryo_Sakazaki_(KoF_'94)_(98um)"
+author: Corbeau Bleu
+date: '2010-08-07'
 id: 254
-author: "Corbeau Bleu"
-permalink: "ryo-sakazaki-kof-94-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-07"
+layout: character.njk
+permalink: ryo-sakazaki-kof-94-98um.html
+slug: Ryo_Sakazaki_(KoF_'94)_(98um)
+tags: character
+title: Ryo Sakazaki (KoF '94) (98um)
 ---
 
 ## Introduction

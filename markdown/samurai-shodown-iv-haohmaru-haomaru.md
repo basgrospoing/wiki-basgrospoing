@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)"
-slug:  "Samurai_Shodown_IV_-_Haohmaru_(覇王丸,_Haōmaru)"
+author: Olivic
+date: '2011-05-22'
 id: 643
-author: "Olivic"
-permalink: "samurai-shodown-iv-haohmaru-haomaru.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Haohmaru"
+layout: character.njk
 old_id: 661
+permalink: samurai-shodown-iv-haohmaru-haomaru.html
+redirect: Ss4-Haohmaru
+slug: Samurai_Shodown_IV_-_Haohmaru_(覇王丸,_Haōmaru)
+tags: character
+title: Samurai Shodown IV - Haohmaru (覇王丸, Haōmaru)
 ---
 
 ![](/images/ss4-Haohmaru.gif "/images/ss4-Haohmaru.gif")

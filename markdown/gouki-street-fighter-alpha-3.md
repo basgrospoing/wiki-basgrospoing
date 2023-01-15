@@ -1,12 +1,12 @@
 ---
-title: "Gouki (Street Fighter Alpha 3)"
-slug:  "Gouki_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-15'
 id: 1253
-author: "Tonio"
-permalink: "gouki-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-15"
+layout: character.njk
+permalink: gouki-street-fighter-alpha-3.html
+slug: Gouki_(Street_Fighter_Alpha_3)
+tags: character
+title: Gouki (Street Fighter Alpha 3)
 ---
 
 ## Introduction

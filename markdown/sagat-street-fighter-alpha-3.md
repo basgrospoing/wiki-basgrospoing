@@ -1,12 +1,12 @@
 ---
-title: "Sagat (Street Fighter Alpha 3)"
-slug:  "Sagat_(Street_Fighter_Alpha_3)"
+author: Tonio
+date: '2011-07-16'
 id: 1248
-author: "Tonio"
-permalink: "sagat-street-fighter-alpha-3.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-16"
+layout: character.njk
+permalink: sagat-street-fighter-alpha-3.html
+slug: Sagat_(Street_Fighter_Alpha_3)
+tags: character
+title: Sagat (Street Fighter Alpha 3)
 ---
 
 <figure>

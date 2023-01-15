@@ -1,12 +1,12 @@
 ---
-title: "Vega (2X)"
-slug:  "Vega_(2X)"
+author: Wolmar
+date: '2010-12-13'
 id: 463
-author: "Wolmar"
-permalink: "vega-2x.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-12-13"
+layout: character.njk
+permalink: vega-2x.html
+slug: Vega_(2X)
+tags: character
+title: Vega (2X)
 ---
 
 ## Introduction

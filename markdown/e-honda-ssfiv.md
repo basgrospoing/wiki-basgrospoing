@@ -1,15 +1,13 @@
 ---
-title: "E. Honda (SSFIV)"
-slug:  "E._Honda_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2142
-author: "Atomskyu698"
-permalink: "e-honda-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: e-honda-ssfiv.html
+slug: E._Honda_(SSFIV)
+tags: character
+title: E. Honda (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

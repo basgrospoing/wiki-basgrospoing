@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/White Len"
-slug:  "Melty_Blood/White_Len"
+author: Sannos, Ninjigen
+date: '2014-01-10'
 id: 1894
-author: "Sannos"
-permalink: "melty-blood-white-len.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-01-10"
+layout: character.njk
+permalink: melty-blood-white-len.html
+slug: Melty_Blood/White_Len
+tags: character
+title: Melty Blood/White Len
 ---
 
 - **Name:** WHite Ren (白レン)
@@ -108,5 +108,3 @@ beaucoup d'execution.
 Traduit de l'anglais depuis [http://wiki.mizuumi.net/w/Melty_Blood le
 wiki
 mizuumi](http://wiki.mizuumi.net/w/Melty_Blood_le_wiki_mizuumi)
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Leona Heidern (98um)"
-slug:  "Leona_Heidern_(98um)"
+author: Corbeau Bleu
+date: '2010-08-04'
 id: 213
-author: "Corbeau Bleu"
-permalink: "leona-heidern-98um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-04"
+layout: character.njk
+permalink: leona-heidern-98um.html
+slug: Leona_Heidern_(98um)
+tags: character
+title: Leona Heidern (98um)
 ---
 
 ## Introduction

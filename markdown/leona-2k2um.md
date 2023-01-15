@@ -1,14 +1,14 @@
 ---
-title: "Leona (2k2um)"
-slug:  "Leona_(2k2um)"
+author: Corbeau Bleu
+date: '2010-07-23'
 id: 30
-author: "Admin"
-permalink: "leona-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-07-23"
-redirect: "Leona"
+layout: character.njk
 old_id: 89
+permalink: leona-2k2um.html
+redirect: Leona
+slug: Leona_(2k2um)
+tags: character
+title: Leona (2k2um)
 ---
 
 ## Introduction

@@ -1,15 +1,13 @@
 ---
-title: "Ibuki (SSFIV)"
-slug:  "Ibuki_(SSFIV)"
+author: Atomskyu
+date: '2014-05-09'
 id: 2152
-author: "Atomskyu698"
-permalink: "ibuki-ssfiv.html"
-layout: "character.njk"
-tags: "character"
-date: "2014-05-09"
+layout: character.njk
+permalink: ibuki-ssfiv.html
+slug: Ibuki_(SSFIV)
+tags: character
+title: Ibuki (SSFIV)
 ---
-
-
 
 ## 1 Vue d'ensemble
 

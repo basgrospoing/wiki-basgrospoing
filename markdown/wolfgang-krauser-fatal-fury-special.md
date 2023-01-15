@@ -1,12 +1,12 @@
 ---
-title: "Wolfgang Krauser (Fatal Fury Special)"
-slug:  "Wolfgang_Krauser_(Fatal_Fury_Special)"
+author: Dan Sakazaki
+date: '2011-04-11'
 id: 750
-author: "Dan sakazaki"
-permalink: "wolfgang-krauser-fatal-fury-special.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-04-11"
+layout: character.njk
+permalink: wolfgang-krauser-fatal-fury-special.html
+slug: Wolfgang_Krauser_(Fatal_Fury_Special)
+tags: character
+title: Wolfgang Krauser (Fatal Fury Special)
 ---
 
 ![](/images/Ffspkrauser.PNG)  

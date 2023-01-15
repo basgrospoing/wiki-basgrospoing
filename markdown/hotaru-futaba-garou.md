@@ -1,12 +1,12 @@
 ---
-title: "Hotaru Futaba (Garou)"
-slug:  "Hotaru_Futaba_(Garou)"
+author: Aerendir, Sharnt, Timmytheturtle, Olivic, Corbeau Bleu
+date: '2011-05-24'
 id: 7
-author: "Aerendir"
-permalink: "hotaru-futaba-garou.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-24"
+layout: character.njk
+permalink: hotaru-futaba-garou.html
+slug: Hotaru_Futaba_(Garou)
+tags: character
+title: Hotaru Futaba (Garou)
 ---
 
 ## Introduction

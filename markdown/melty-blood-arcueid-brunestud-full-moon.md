@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Arcueid Brunestud/Full Moon"
-slug:  "Melty_Blood/Arcueid_Brunestud/Full_Moon"
+author: Kabai, Ninjigen
+date: '2012-06-14'
 id: 1755
-author: "Kabai"
-permalink: "melty-blood-arcueid-brunestud-full-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-06-14"
+layout: character.njk
+permalink: melty-blood-arcueid-brunestud-full-moon.html
+slug: Melty_Blood/Arcueid_Brunestud/Full_Moon
+tags: character
+title: Melty Blood/Arcueid Brunestud/Full Moon
 ---
 
 # Combos
@@ -561,5 +561,3 @@ position il est activé.</li>
 </tr>
 </tbody>
 </table>
-
-

@@ -1,12 +1,12 @@
 ---
-title: "Balrog (ST)"
-slug:  "Balrog_(ST)"
+author: Hynkel, Marinstech, Wolmar
+date: '2012-03-04'
 id: 451
-author: "Hynkel"
-permalink: "balrog-st.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-04"
+layout: character.njk
+permalink: balrog-st.html
+slug: Balrog_(ST)
+tags: character
+title: Balrog (ST)
 ---
 
 ![](/images/ST_Boxer_portrait.png "/images/ST_Boxer_portrait.png")

@@ -1,12 +1,12 @@
 ---
-title: "ABK/Murakumo"
-slug:  "ABK/Murakumo"
+author: Kabai
+date: '2012-07-05'
 id: 2273
-author: "Kabai"
-permalink: "abk-murakumo.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-07-05"
+layout: character.njk
+permalink: abk-murakumo.html
+slug: ABK/Murakumo
+tags: character
+title: ABK/Murakumo
 ---
 
 ![](/images/Murakumo_ABK.jpg "/images/Murakumo_ABK.jpg")

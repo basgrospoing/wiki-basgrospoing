@@ -1,12 +1,12 @@
 ---
-title: "Takuma Sakazaki (kof13)"
-slug:  "Takuma_Sakazaki_(kof13)"
+author: Kula', Lolo
+date: '2011-07-25'
 id: 1076
-author: "Kula'"
-permalink: "takuma-sakazaki-kof13.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-07-25"
+layout: character.njk
+permalink: takuma-sakazaki-kof13.html
+slug: Takuma_Sakazaki_(kof13)
+tags: character
+title: Takuma Sakazaki (kof13)
 ---
 
 ![Takuma Sakazaki](/images/Takumakof13.gif "Takuma Sakazaki")  

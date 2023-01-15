@@ -1,12 +1,12 @@
 ---
-title: "Melty Blood/Sion Eltnam Atlasia/Half Moon"
-slug:  "Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon"
+author: Ninjigen
+date: '2012-01-26'
 id: 1880
-author: "82.234.188.250"
-permalink: "melty-blood-sion-eltnam-atlasia-half-moon.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-01-26"
+layout: character.njk
+permalink: melty-blood-sion-eltnam-atlasia-half-moon.html
+slug: Melty_Blood/Sion_Eltnam_Atlasia/Half_Moon
+tags: character
+title: Melty Blood/Sion Eltnam Atlasia/Half Moon
 ---
 
 # Combos
@@ -205,5 +205,3 @@ coup</li>
 </tr>
 </tbody>
 </table>
-
-

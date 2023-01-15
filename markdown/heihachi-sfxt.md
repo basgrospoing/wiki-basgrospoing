@@ -1,15 +1,13 @@
 ---
-title: "Heihachi (SFxT)"
-slug:  "Heihachi_(SFxT)"
+author: Hynkel
+date: '2012-03-08'
 id: 2183
-author: "Hynkel"
-permalink: "heihachi-sfxt.html"
-layout: "character.njk"
-tags: "character"
-date: "2012-03-08"
+layout: character.njk
+permalink: heihachi-sfxt.html
+slug: Heihachi_(SFxT)
+tags: character
+title: Heihachi (SFxT)
 ---
-
-
 
 ## Vue d'ensemble
 

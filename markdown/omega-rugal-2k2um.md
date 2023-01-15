@@ -1,12 +1,12 @@
 ---
-title: "Omega Rugal (2k2um)"
-slug:  "Omega_Rugal_(2k2um)"
+author: Corbeau Bleu
+date: '2010-08-02'
 id: 149
-author: "Corbeau Bleu"
-permalink: "omega-rugal-2k2um.html"
-layout: "character.njk"
-tags: "character"
-date: "2010-08-02"
+layout: character.njk
+permalink: omega-rugal-2k2um.html
+slug: Omega_Rugal_(2k2um)
+tags: character
+title: Omega Rugal (2k2um)
 ---
 
 ## Introduction

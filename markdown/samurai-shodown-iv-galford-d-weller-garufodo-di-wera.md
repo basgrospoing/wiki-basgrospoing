@@ -1,14 +1,14 @@
 ---
-title: "Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)"
-slug:  "Samurai_Shodown_IV_-_Galford_D._Weller_(ガルフォード＝Ｄ＝ウェラー,_Garufōdo_Dī_Werā)"
+author: Olivic
+date: '2011-05-22'
 id: 647
-author: "Olivic"
-permalink: "samurai-shodown-iv-galford-d-weller-garufodo-di-wera.html"
-layout: "character.njk"
-tags: "character"
-date: "2011-05-22"
-redirect: "Ss4-Galford"
+layout: character.njk
 old_id: 665
+permalink: samurai-shodown-iv-galford-d-weller-garufodo-di-wera.html
+redirect: Ss4-Galford
+slug: Samurai_Shodown_IV_-_Galford_D._Weller_(ガルフォード＝Ｄ＝ウェラー,_Garufōdo_Dī_Werā)
+tags: character
+title: Samurai Shodown IV - Galford D. Weller (ガルフォード＝Ｄ＝ウェラー, Garufōdo Dī Werā)
 ---
 
 ![](/images/ss4-Galford.gif "/images/ss4-Galford.gif")
